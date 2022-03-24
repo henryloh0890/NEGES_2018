@@ -1,0 +1,95 @@
+A continuación os voy a contar un truco para mejorar el hardware de el ordenador que me mandó un amigo mío que es informático por internet , yo todavía no lo he hecho asi que allá con las consecuencias yo no se como puede salir , mi amigo me ha prometido que va bien ....
+Refrigerar un microprocesador de una forma eficiente nos asegurará la longevidad de el mismo .
+Es recomendable adquirir un disipador de gran formato y un ventilador de alta calidad .
+Además , no está de más untar una capa de silicona para semiconductores , de color blanco y vendida por tubitos pequeños en cualquier tienda de ferretería , y así mejorar la transmisión de el calor de el micro a_través_de el disipador .
+l orden de las tarjetas .
+Hay quien dice que sí y quien no , pero nosotros por_si_acaso nos lo creemos .
+Todas las ranuras para poner tarjetas de la placa base suelen estar numeradas , normalmente la primera PCI es la opuesta a los slots ISA y el último PCI está a el lado de los ISA ( a el igual pasa con los ISA , el primer ISA está a el lado de el PCI y el último lejos_de éste ) .
+Pues_bien , según dicen la primera ranura de cada tipo va mejor que la última , algo no explicable porque están en_paralelo , pero por_si_acaso sigamos el orden , es decir , si sólo tenemos una tarjeta PCI la pondremos en el slot 1 .
+Además , situar la aquí puede corregir algunas incompatibilidades .
+Conexión de disco duro IDE y de unidad CD / DVD-ROM .
+Para poder usar este truco se necesita una controladora ide con dos canales ( primario y secundario ) y un segundo cable de 50 pins .
+Como bien se sabe , las unidades IDE pueden configurar se como maestro o esclavo .
+Pues_bien , lo más normal es que tengamos en el primer canal una disco duro como maestro y un CD / DVD-ROM como esclavo .
+El problema de esta configuración es que el disco duro entorpece el acceso a la unidad de CD / DVD-ROM .
+Para evitar lo , pondremos la unidad CD / DVD-ROM en el segundo canal como maestra .
+El disco duro lo dejaremos como maestro , o , si es el caso , habrá que poner lo en el llamado modo " Stand_Alone " , o lo que es lo mismo " una sola unidad " .
+Con esto aumentaremos el flujo de datos a el CD / DVD-ROM
+Un pequeño consejo : poned ocho tornillos de las unidades lectoras de CD , especialmente en altas velocidades .
+Vibrará menos y lo más probable es que funcione un poco mejor .
+( sí , el aumento de rendimiento era gratis , pero para cuatro mini-tornillos creo que no pasaremos muchos problemas económicos ) .
+En_caso_de poseer varias unidades lectoras de CD-ROM y una caja tipo torre , se recomienda dejar alguna bahía vacía entre ellas para favorecer la ventilación .
+el anuncio esta un poco enrevesado , es un ordenador con gran capacidad tanto de ram como de HD , pero con una falta de unidades grabadoras ,
+yo no compraria el equipo ya_que en mercado existen ordenadores completos a muy buen precio , y de la misma marca , el que compre tuvo problemas con el ventilador de la placa de video , solventado con la dualidad de tarjeta ,
+el equipo de servicio tecnico , fabuloso , un gran equipo para el trabajo en oficina , util de gran capacidad de trabajo , pero un tanto delicado en sus carcasa exterior , bastante plastico en_lugar_de solido metal
+Este ordenador en mi opinion , no esta mal respecto_a el apartado tecnico , un procesador normalillo ( aunque ahora los hay mucho mas potentes ) , memoria RAM algo escasa , y ademas tambien un disco duro de 40 Gb que no es para_nada algo extraordinario .
+En general , el ordenador , a_no_ser_que lo uses para retoque fotografico , o edición de video ... , no es un mal ordenador , el problema yo creo que esta en que alomejor en un poco caro , por ese precio , puedes encontrar ordenadores mucho mejores en cualquier tienda que encuentres por la calle .
+Hace ya casi tres años que tenemos este ordenador en casa y la verdad es que estamos todos encantados con el , solo hemos tenido un pequeño problema con sus altavoces cuya conexion estaba mal desde un primer principio , si bien el servicio tecnico de hp , funciono bastante bien y en cuestion de cinco dias teniamos unos nuevos en casa y funcionado .
+Para mi este ordenador para tener casi tres añitos esta bastante bien y aun no se ha quedado anticuado aunque para mi peca de que no traia grabadora de dvd , hoy por hoy seria de grandisima utilidad , pero si que trae lector de dvd disquetera y por_otro_lado grabador de cd , el cual , he de decir que funciona perfectamente permitiendo te grabar hasta un maximo de 48x y sin tener nunca ningun fallo en la grabacion .
+Una de las cosas que mas me gusta de este pc es que te trae una tarjeta sintonizadora de tv con mando a distancia y con su propio programa y que te hace_ver la television de una manera muy sencilla y con una calidad buena .
+Su disco duro la verdad es que esta bastante bien , trae 160gb aunque he de decir que una parte de este disco duro , para ser exactos unos 4 gigas y medio no los puedes usar ya_que estan destiandos para poder recuperar el disco duro por si pasara cualquier cosa y en el que se alojan los programas que trae el ordenador , tales como el windows xp home edition , un paquete de works , adobe reader y microsoft word 2002 entre otros , asi como actualizaciones continuas gratuitas que son de bastante utilidad .
+De este equipo tambien me gusta el que lleva lector de tarjetas 7 en uno , que hoy por hoy son de grandisima utlidad sobre todo si se suele usar camaras digitales , pdas o moviles con tarjetas .
+El lector de tarjetas , junto_con tres entradas de usb y la disquetera estan protegidos por una tapa deslizante de mucha utilidad sobre todo para_que no entre polvo en los mismos .
+La tarjeta grafica es una ati radeon 9200 con 128 mb , que sobre todo si usas el ordenador para jugar se queda un pelin corta , pero para lo demas va bastante bien , las pelis por_ejemplo se ven bien .
+La torre , la verdad y para ser sinceros pesa un poquito , aunque su diseño en gris y su boton en iluminacion azul esta bastante bien .
+No trae bluetooth , si bien hoy en dia se puede poner por muy poquito precio ya_que dispone de 6 entradas para usb y por tanto supone mayora problema .
+La memoria ram yo creo que es su peor virtud , en su dia hace tres años 512mb estaba bastante bien , pero hoy esa memoria ya se ha quedado un pelin desfasada , esta seria su unica pega , porque por lo demas el equipo es una pasada , viene bastante completo y no me ha dado hasta el dia de hoy ningun fallo , siendo una compra muy recomendable tanto por su calidad como por su precio .
+10/06/2002
+Y me ratifico .
+Hoy he empezado a mirar diferentes ordenadores por eso de que el mio va poco menos que a pedales , y se me han quedado los pelos como escarpias .
+Por un Compaq con 128 MB de RAM,30 GB_de_HD , sin grabadora de CD's y sin software , me querían clavar más de 200.000 pelas ;
+mientras_que por un clónico P4 con 256 de RAM , 40 de HD , grabadora , DVD , el Windows_XP , se quedaba en 180.000 pesetas .
+Que les maten ya .
+------------------------------------------------------
+Esta opinión no debería ir encuadrada aquí , pero no he encontrado el lugar o no existe .
+Aunque tampoco viene del_todo mal este apartado .
+Los PC ´ s de marca ( IBM , Compaq , HP ... ) son como otros productos de renombre por la casa que los fabrica :
+generalmente sólo se paga la marca , porque a la hora de delimitar las prestaciones , con un clónico puedes igualar e incluso superar lo que los primeros ofrecen , y encima por menos de la mitad de precio .
+Me explico :
+Un PC de primeras marcas tiene un cierto prestigio que se paga ( salen por televisión , ¿ no ? .
+Eso se paga ) .
+¿ Alguien ha visto anunciantes televisivos que promulguen los beneficios de algún ordenador clónico ? .
+Pues mayormente no .
+Luego está el tema de las ampliaciones .
+En un PC de primeras marcas no vale cualquier clase de hardware , sino_que tienen que ser específicos no_sólo de la marca , sino de el modelo , con lo cual el coste final se encarece de sobremanera .
+¿ Por qué ? .
+Pues porque sigues pagando la marca , pero eso sí ... a la hora de estropear se se estropea igual uno clónico que uno de marca , solo que si encima no está en garantía te cobran un ojo de la caa porque claro , lo arregla la casa HP , o Compaq o quien sea , y esa marca hay que mantener la claro está .
+El otro día un amigo mío quería ampliar se la memoria de su Compaq unos tristes 32 Mb más , y casi le salía a 6,01 Euros ( que hay que ir se acostumbrandooo ) el Mb , cuando 128 Mb de una memoria standard te cuesta no más de 9000 .
+Mirad la diferencia .
+Es que es para sabotear les a todos .
+Pues lo mismo pasa con los discos duros , tarjetas gráficas , controladores ... que asco .
+En cambio , los PC ´ s clónicos puedes hacer los a tu medida , configurártelos tú mismo de manera muy sencilla y sin comer se la cabeza con problemas de incompatibilidades , por un precio más o menos asequible ( según lo que pidas , claro está ) .
+Por_ejemplo , hoy me he comprado una aceleradora TNT2 NVidia de 32 Mb por 7000 pesetas ( paso de hacer la cuenta en euros . Retiro lo anteriormente dicho ) , mientras_que habría que imaginar se lo que podría costar una igual o parecida para un PC de marca .
+Y ya por último , desear os un feliz 2002 .
+La peseta ha muerto , viva la peseta .
+Besos y abrazos .
+No compreis nada en Deima , son unos estafadores .
+Puede que Deima sea una de las tiendas más baratas con_lo_que_respecta_a el mundo de la informatica , pero el trato que te dan puede que sea lo mas malo que se pueda ver .
+Os cuento mi caso , Yo compre hace unos años un Pentium 166 en esta tienda .
+Cuando lo encarge les pedí un 150 , pero el día que fui a recoger lo me dijeron que no les había llegado ese micro pero que por unas pesetillas más me montaban un 166 .
+La oferta era inrezachable y les dije que si , por las pelas y porque hasta que me lo dieron pasaron 5 semanas .
+Cuando me dieron el ordenador no tenía ni pajolera idea de nada , pero poco_a_poco me fui haciendo con el .
+El Pc me dio prblemas con el cdrom , fui hasta la tienda como unas 6 veces para que me cambiaran el dichoso cd .
+No es muy normal que te cambien un cd 3 veces .
+Pero la traca final venía cuando ya se había pasado la garantía .
+me di_cuenta que no era un micro 166 sino un 486 que le habían instalado un overdrive para aumentar le la velocidad .
+eso creo que se llama estafa .
+Bueno en resumen no compreis en
+En junio me compré un ordenador de sobremesa de esta marca por una oferta en Hipercor / El_Corte_Inglés ( 799 euros - luego vi que se vendía por menos que eso en otros sitios ) .
+Venía con una pantalla de 19 " apaisada muy buena .
+Quería sustituir mi Dell que tantos disgustos me había dado , y parecía que había encontrado un buen ordenador , pues la velocidad es alta y hace poco ruido por ahora .
+Pero la alegría no duró mucho tiempo , pues tras instalar varios programas empezaron a aparecer los primeros fallos por la incompatibilidad de Windows_Vista con dichos programas , y no_sólo eso : especialmente ¡ no parecía ser compatible con Explorer , que es parte de Windows !
+A las dos semanas los fallos aumentaron , de nada servía desinstalar algún que otro programa o de reinstalar los , pues contínuamente aparecieron pantallas azules de fallo de sistema , reinicios automáticos , avisos de que de_repente la copia de Windows no era original , solicitando código de licencia , al cual no reconocía , pidiendo códigos de validación de Microsoft , que tampoco reconocía , y a el final y tras intentar lo con restauración de sistema y reinstalar el sistema , se quedó colgado en el reinicio sin poder entrar ya en ningún programa .
+Hay que decir también que el ordenador no viene con el CD de el sistema operativo , sino éste está preinstalado .
+Tras la reparación , que tardó unas semanas , indicaron que hubo que cambiar la placa base y el módulo de memoria .
+No me suministraron el CD de el sistema operativo .
+Ahora parece que funciona , espero que siga así .
+Una desilusión grande , porque confiaba en la marca Acer de la que no he oído nada malo hasta ahora .
+Evidentgemente no era sólo por culpa del Windows_Vista , que pienso sustituir por XP , ya_que gente más experta me ha dicho que Vista plantea muchísimos problemas de incompatibilidades , y así no se puede trabajar con el ordenador .
+A el final , las ofertas se pagan caras , me parece , más me valdría haber comprado un Hewlett-Packard por 1000 euros , seguramente no daría esos problemas .
+Cierto es también que este ordenador no viene con altavoces , los tuve que comprar aparte .
+Windows_Vista no es compatible con mi router de Telefónica , problema que solucioné con el Apple_Airport_Base_Station a_través_de el cual puedo conectar todos mis ordenadores Mac y PC sin que importe el sistema operativo .
+Lo que sí me consuela uin poco es la pantalla apaisada de Acer , mucho mejor que la que tengo de Dell .
+Y por_si_acaso compré también un disco duro externo , pues visto lo visto , uno no se puede fiar y hay que salvar todo en una copia externa .
+Actualizaré mi opinión cuando sepa más sobre el comportamiento de este ordenador .
+Mientras tanto no lo recomendaré .

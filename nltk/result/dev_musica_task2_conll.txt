@@ -1,0 +1,2380 @@
+musica_yes_4_9	1	1	Veamos	ver	vmm01p0	main	***
+musica_yes_4_9	1	2	,	,	fc	-	***
+musica_yes_4_9	1	3	soy	ser	vsip1s0	semiauxiliary	***
+musica_yes_4_9	1	4	el	el	da0ms0	article	***
+musica_yes_4_9	1	5	segundo	segundo	ncms000	common	***
+musica_yes_4_9	1	6	en	en	sps00	preposition	***
+musica_yes_4_9	1	7	opinar	opinar	vmn0000	main	***
+musica_yes_4_9	1	8	sobre	sobre	sps00	preposition	***
+musica_yes_4_9	1	9	este	este	dd0ms0	demonstrative	***
+musica_yes_4_9	1	10	disco	disco	ncms000	common	***
+musica_yes_4_9	1	11	y	y	cc	coordinating	***
+musica_yes_4_9	1	12	voy	ir	vmip1s0	main	***
+musica_yes_4_9	1	13	a	a	sps00	preposition	***
+musica_yes_4_9	1	14	dar	dar	vmn0000	main	***
+musica_yes_4_9	1	15	una	uno	di0fs0	indefinite	***
+musica_yes_4_9	1	16	opinión	opinión	ncfs000	common	***
+musica_yes_4_9	1	17	totalmente	totalmente	rg	-	***
+musica_yes_4_9	1	18	contraria	contrario	aq0fs0	qualificative	***
+musica_yes_4_9	1	19	a	a	sps00	preposition	***
+musica_yes_4_9	1	20	la	el	da0fs0	article	***
+musica_yes_4_9	1	21	de	de	sps00	preposition	***
+musica_yes_4_9	1	22	el	el	da0ms0	article	***
+musica_yes_4_9	1	23	compañero	compañero	ncms000	common	***
+musica_yes_4_9	1	24	que	que	pr0cn000	relative	***
+musica_yes_4_9	1	25	me	me	pp1cs000	personal	***
+musica_yes_4_9	1	26	precede	preceder	vmip3s0	main	***
+musica_yes_4_9	1	27	.	.	fp	-	***
+
+musica_yes_4_9	2	1	Este	este	dd0ms0	demonstrative	***
+musica_yes_4_9	2	2	trabajo	trabajo	ncms000	common	***
+musica_yes_4_9	2	3	de	de	sps00	preposition	***
+musica_yes_4_9	2	4	Manson	manson	np00000	proper	***
+musica_yes_4_9	2	5	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_9	2	6	más	más	rg	-	***
+musica_yes_4_9	2	7	electrónico	electrónico	aq0ms0	qualificative	***
+musica_yes_4_9	2	8	que	que	cs	subordinating	***
+musica_yes_4_9	2	9	su	su	dp3cs0	possessive	***
+musica_yes_4_9	2	10	antecesor	antecesor	ncms000	common	***
+musica_yes_4_9	2	11	,	,	fc	-	***
+musica_yes_4_9	2	12	el	el	da0ms0	article	***
+musica_yes_4_9	2	13	Holy_wood	holy_wood	np00000	proper	***
+musica_yes_4_9	2	14	.	.	fp	-	***
+
+musica_yes_4_9	3	1	Tiene	tener	vmip3s0	main	***
+musica_yes_4_9	3	2	un	uno	di0ms0	indefinite	***
+musica_yes_4_9	3	3	sonido	sonido	ncms000	common	***
+musica_yes_4_9	3	4	más	más	rg	-	***
+musica_yes_4_9	3	5	“	“	fz	-	***
+musica_yes_4_9	3	6	insano	insano	aq0ms0	qualificative	***
+musica_yes_4_9	3	7	”	”	fz	-	***
+musica_yes_4_9	3	8	y	y	cc	coordinating	***
+musica_yes_4_9	3	9	lleno	lleno	aq0ms0	qualificative	***
+musica_yes_4_9	3	10	de	de	sps00	preposition	***
+musica_yes_4_9	3	11	voces	voz	ncfp000	common	***
+musica_yes_4_9	3	12	y	y	cc	coordinating	***
+musica_yes_4_9	3	13	guitarras	guitarra	ncfp000	common	***
+musica_yes_4_9	3	14	distorsionadas	distorsionar	vmp00pf	main	***
+musica_yes_4_9	3	15	,	,	fc	-	***
+musica_yes_4_9	3	16	pero	pero	cc	coordinating	***
+musica_yes_4_9	3	17	lejos_de	lejos_de	sps00	preposition	***
+musica_yes_4_9	3	18	ser	ser	vsn0000	semiauxiliary	***
+musica_yes_4_9	3	19	algo	algo	rg	-	***
+musica_yes_4_9	3	20	malo	malo	aq0ms0	qualificative	***
+musica_yes_4_9	3	21	a	a	sps00	preposition	***
+musica_yes_4_9	3	22	mí	mí	pp1cso00	personal	***
+musica_yes_4_9	3	23	me	me	pp1cs000	personal	***
+musica_yes_4_9	3	24	parece	parecer	vmip3s0	main	***
+musica_yes_4_9	3	25	que	que	cs	subordinating	***
+musica_yes_4_9	3	26	queda	quedar	vmip3s0	main	***
+musica_yes_4_9	3	27	bastante	bastante	rg	-	***
+musica_yes_4_9	3	28	bien	bien	rg	-	***
+musica_yes_4_9	3	29	y	y	cc	coordinating	***
+musica_yes_4_9	3	30	abre	abrir	vmip3s0	main	***
+musica_yes_4_9	3	31	nuevos	nuevo	aq0mp0	qualificative	***
+musica_yes_4_9	3	32	caminos	camino	ncmp000	common	***
+musica_yes_4_9	3	33	.	.	fp	-	***
+
+musica_yes_4_9	4	1	Para	para	sps00	preposition	***
+musica_yes_4_9	4	2	los	el	da0mp0	article	***
+musica_yes_4_9	4	3	que	que	pr0cn000	relative	***
+musica_yes_4_9	4	4	hayáis	haber	vasp2p0	auxiliary	***
+musica_yes_4_9	4	5	escuchado	escuchar	vmp00sm	main	***
+musica_yes_4_9	4	6	la	el	da0fs0	article	***
+musica_yes_4_9	4	7	banda	banda	ncfs000	common	***
+musica_yes_4_9	4	8	sonora	sonoro	aq0fs0	qualificative	***
+musica_yes_4_9	4	9	de	de	sps00	preposition	***
+musica_yes_4_9	4	10	Resident_Evil	resident_evil	np00000	proper	***
+musica_yes_4_9	4	11	os	os	pp2cp000	personal	***
+musica_yes_4_9	4	12	puedo	poder	vmip1s0	main	***
+musica_yes_4_9	4	13	decir	decir	vmn0000	main	***
+musica_yes_4_9	4	14	que	que	cs	subordinating	***
+musica_yes_4_9	4	15	los	el	da0mp0	article	***
+musica_yes_4_9	4	16	sonidos	sonido	ncmp000	common	***
+musica_yes_4_9	4	17	electrónicos	electrónico	aq0mp0	qualificative	***
+musica_yes_4_9	4	18	son	ser	vsip3p0	semiauxiliary	***
+musica_yes_4_9	4	19	de	de	sps00	preposition	***
+musica_yes_4_9	4	20	ese	ese	dd0ms0	demonstrative	***
+musica_yes_4_9	4	21	mismo	mismo	aq0ms0	qualificative	***
+musica_yes_4_9	4	22	estilo	estilo	ncms000	common	***
+musica_yes_4_9	4	23	aun	aun	rg	-	***
+musica_yes_4_9	4	24	que	que	cs	subordinating	***
+musica_yes_4_9	4	25	mucho	mucho	rg	-	***
+musica_yes_4_9	4	26	más	más	rg	-	***
+musica_yes_4_9	4	27	recargados	recargar	vmp00pm	main	***
+musica_yes_4_9	4	28	.	.	fp	-	***
+
+musica_yes_4_9	5	1	Atmósferas	atmósfera	ncfp000	common	***
+musica_yes_4_9	5	2	terroríficas	terrorífico	aq0fp0	qualificative	***
+musica_yes_4_9	5	3	y	y	cc	coordinating	***
+musica_yes_4_9	5	4	penetrantes	penetrante	aq0cp0	qualificative	***
+musica_yes_4_9	5	5	dignas	digno	aq0fp0	qualificative	***
+musica_yes_4_9	5	6	de	de	sps00	preposition	***
+musica_yes_4_9	5	7	la	el	da0fs0	article	***
+musica_yes_4_9	5	8	mejor	mejor	aq0cs0	qualificative	***
+musica_yes_4_9	5	9	película	película	ncfs000	common	***
+musica_yes_4_9	5	10	de	de	sps00	preposition	***
+musica_yes_4_9	5	11	terror	terror	ncms000	common	***
+musica_yes_4_9	5	12	,	,	fc	-	***
+musica_yes_4_9	5	13	sonidos	sonido	ncmp000	common	***
+musica_yes_4_9	5	14	brutales	brutal	aq0cp0	qualificative	***
+musica_yes_4_9	5	15	que	que	pr0cn000	relative	***
+musica_yes_4_9	5	16	pueden	poder	vmip3p0	main	***
+musica_yes_4_9	5	17	sorprender	sorprender	vmn0000	main	***
+musica_yes_4_9	5	18	a	a	sps00	preposition	***
+musica_yes_4_9	5	19	el	el	da0ms0	article	***
+musica_yes_4_9	5	20	mas	mas	ncms000	common	***
+musica_yes_4_9	5	21	pintado	pintar	vmp00sm	main	***
+musica_yes_4_9	5	22	y	y	cc	coordinating	***
+musica_yes_4_9	5	23	furiosas	furioso	aq0fp0	qualificative	***
+musica_yes_4_9	5	24	guitarras	guitarra	ncfp000	common	***
+musica_yes_4_9	5	25	que	que	pr0cn000	relative	***
+musica_yes_4_9	5	26	parecen	parecer	vmip3p0	main	***
+musica_yes_4_9	5	27	ahogar	ahogar	vmn0000	main	***
+musica_yes_4_9	5	28	se	se	pp3cn000	personal	***
+musica_yes_4_9	5	29	.	.	fp	-	***
+
+musica_yes_4_9	6	1	Se	se	p00cn000	-	***
+musica_yes_4_9	6	2	ha	haber	vaip3s0	auxiliary	***
+musica_yes_4_9	6	3	alejado	alejar	vmp00sm	main	***
+musica_yes_4_9	6	4	un	uno	di0ms0	indefinite	***
+musica_yes_4_9	6	5	poco	poco	pi0ms000	indefinite	***
+musica_yes_4_9	6	6	de	de	sps00	preposition	***
+musica_yes_4_9	6	7	el	el	da0ms0	article	***
+musica_yes_4_9	6	8	rock	rock	ncms000	common	***
+musica_yes_4_9	6	9	,	,	fc	-	***
+musica_yes_4_9	6	10	digamos	decir	vmm01p0	main	***
+musica_yes_4_9	6	11	sencillo	sencillo	aq0ms0	qualificative	***
+musica_yes_4_9	6	12	,	,	fc	-	***
+musica_yes_4_9	6	13	que	que	pr0cn000	relative	***
+musica_yes_4_9	6	14	tocaba	tocar	vmii3s0	main	***
+musica_yes_4_9	6	15	en	en	sps00	preposition	***
+musica_yes_4_9	6	16	el	el	da0ms0	article	***
+musica_yes_4_9	6	17	Antichrist	antichrist	np00000	proper	***
+musica_yes_4_9	6	18	y	y	cc	coordinating	***
+musica_yes_4_9	6	19	se	se	p00cn000	-	***
+musica_yes_4_9	6	20	ha	haber	vaip3s0	auxiliary	***
+musica_yes_4_9	6	21	decidido	decidir	vmp00sm	main	***
+musica_yes_4_9	6	22	a	a	sps00	preposition	***
+musica_yes_4_9	6	23	experimentar	experimentar	vmn0000	main	***
+musica_yes_4_9	6	24	con	con	sps00	preposition	***
+musica_yes_4_9	6	25	nuevos	nuevo	aq0mp0	qualificative	***
+musica_yes_4_9	6	26	sonidos	sonido	ncmp000	common	***
+musica_yes_4_9	6	27	y	y	cc	coordinating	***
+musica_yes_4_9	6	28	ritmos	ritmo	ncmp000	common	***
+musica_yes_4_9	6	29	.	.	fp	-	***
+
+musica_yes_4_9	7	1	Yo	yo	pp1csn00	personal	-	-	-
+musica_yes_4_9	7	2	me	me	pp1cs000	personal	-	-	-
+musica_yes_4_9	7	3	he	haber	vaip1s0	auxiliary	-	-	-
+musica_yes_4_9	7	4	tomado	tomar	vmp00sm	main	-	-	-
+musica_yes_4_9	7	5	este	este	dd0ms0	demonstrative	-	-	-
+musica_yes_4_9	7	6	disco	disco	ncms000	common	-	-	-
+musica_yes_4_9	7	7	como	como	cs	subordinating	-	-	-
+musica_yes_4_9	7	8	la	el	da0fs0	article	-	-	-
+musica_yes_4_9	7	9	evolución	evolución	ncfs000	common	-	-	-
+musica_yes_4_9	7	10	normal	normal	aq0cs0	qualificative	-	-	-
+musica_yes_4_9	7	11	de	de	sps00	preposition	-	-	-
+musica_yes_4_9	7	12	Marilyn_Manson	marilyn_manson	np00000	proper	-	-	-
+musica_yes_4_9	7	13	,	,	fc	-	-	-	-
+musica_yes_4_9	7	14	no	no	rn	negative	no	-	-
+musica_yes_4_9	7	15	como	como	cs	subordinating	-	-	-
+musica_yes_4_9	7	16	falta	falta	ncfs000	common	-	-	-
+musica_yes_4_9	7	17	de	de	sps00	preposition	-	-	-
+musica_yes_4_9	7	18	imaginación	imaginación	ncfs000	common	-	-	-
+musica_yes_4_9	7	19	ni_mucho_menos	ni_mucho_menos	rg	-	ni_mucho_menos	-	-
+musica_yes_4_9	7	20	.	.	fp	-	-	-	-
+
+musica_yes_4_9	8	1	Os	os	np00000	proper	***
+musica_yes_4_9	8	2	puedo	poder	vmip1s0	main	***
+musica_yes_4_9	8	3	recomendar	recomendar	vmn0000	main	***
+musica_yes_4_9	8	4	las	el	da0fp0	article	***
+musica_yes_4_9	8	5	tres	3	z	-	***
+musica_yes_4_9	8	6	canciones	canción	ncfp000	common	***
+musica_yes_4_9	8	7	que	que	pr0cn000	relative	***
+musica_yes_4_9	8	8	más	más	rg	-	***
+musica_yes_4_9	8	9	me	me	pp1cs000	personal	***
+musica_yes_4_9	8	10	gustan	gustar	vmip3p0	main	***
+musica_yes_4_9	8	11	,	,	fc	-	***
+musica_yes_4_9	8	12	estas	este	pd0fp000	demonstrative	***
+musica_yes_4_9	8	13	son	ser	vsip3p0	semiauxiliary	***
+musica_yes_4_9	8	14	:	:	fd	-	***
+musica_yes_4_9	8	15	This_is_the_new_shit	this_i_the_new_shit	np00000	proper	***
+musica_yes_4_9	8	16	,	,	fc	-	***
+musica_yes_4_9	8	17	The_Golden_age_of_grotesque	the_golden_age_of_grotesque	np00000	proper	***
+musica_yes_4_9	8	18	y	y	cc	coordinating	***
+musica_yes_4_9	8	19	Spade	spade	np00000	proper	***
+musica_yes_4_9	8	20	.	.	fp	-	***
+
+musica_yes_4_9	9	1	Van	ir	vmip3p0	main	***
+musica_yes_4_9	9	2	mucho	mucho	rg	-	***
+musica_yes_4_9	9	3	con	con	sps00	preposition	***
+musica_yes_4_9	9	4	la	el	da0fs0	article	***
+musica_yes_4_9	9	5	estética	estética	ncfs000	common	***
+musica_yes_4_9	9	6	de	de	sps00	preposition	***
+musica_yes_4_9	9	7	Manson	manson	np00000	proper	***
+musica_yes_4_9	9	8	y	y	cc	coordinating	***
+musica_yes_4_9	9	9	me	me	pp1cs000	personal	***
+musica_yes_4_9	9	10	parecen	parecer	vmip3p0	main	***
+musica_yes_4_9	9	11	realmente	realmente	rg	-	***
+musica_yes_4_9	9	12	innovadoras	innovador	aq0fp0	qualificative	***
+musica_yes_4_9	9	13	y	y	cc	coordinating	***
+musica_yes_4_9	9	14	muy	muy	rg	-	***
+musica_yes_4_9	9	15	buenas	bueno	aq0fp0	qualificative	***
+musica_yes_4_9	9	16	.	.	fp	-	***
+
+musica_yes_4_9	10	1	No	no	rn	negative	No	-	-
+musica_yes_4_9	10	2	os	os	pp2cp000	personal	-	-	-
+musica_yes_4_9	10	3	puedo	poder	vmip1s0	main	-	-	-
+musica_yes_4_9	10	4	decir	decir	vmn0000	main	-	-	-
+musica_yes_4_9	10	5	la	el	da0fs0	article	-	-	-
+musica_yes_4_9	10	6	canción	canción	ncfs000	common	-	-	-
+musica_yes_4_9	10	7	que	que	pr0cn000	relative	-	-	-
+musica_yes_4_9	10	8	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_yes_4_9	10	9	mejor	mejor	aq0cs0	qualificative	-	-	-
+musica_yes_4_9	10	10	o	o	cc	coordinating	-	-	-
+musica_yes_4_9	10	11	peor	peor	aq0cs0	qualificative	-	-	-
+musica_yes_4_9	10	12	,	,	fc	-	-	-	-
+musica_yes_4_9	10	13	ya_que	ya_que	cs	subordinating	-	-	-
+musica_yes_4_9	10	14	cada	cada	di0cs0	indefinite	-	-	-
+musica_yes_4_9	10	15	uno	uno	pi0ms000	indefinite	-	-	-
+musica_yes_4_9	10	16	puede	poder	vmip3s0	main	-	-	-
+musica_yes_4_9	10	17	tener	tener	vmn0000	main	-	-	-
+musica_yes_4_9	10	18	unos	uno	di0mp0	indefinite	-	-	-
+musica_yes_4_9	10	19	gustos	gusto	ncmp000	common	-	-	-
+musica_yes_4_9	10	20	distintos	distinto	aq0mp0	qualificative	-	-	-
+musica_yes_4_9	10	21	aun	aun	rg	-	-	-	-
+musica_yes_4_9	10	22	que	que	cs	subordinating	-	-	-
+musica_yes_4_9	10	23	a	a	sps00	preposition	-	-	-
+musica_yes_4_9	10	24	todos	todo	pi0mp000	indefinite	-	-	-
+musica_yes_4_9	10	25	nos	nos	pp1cp000	personal	-	-	-
+musica_yes_4_9	10	26	guste	gustar	vmsp3s0	main	-	-	-
+musica_yes_4_9	10	27	este	este	dd0ms0	demonstrative	-	-	-
+musica_yes_4_9	10	28	cantante	cantante	nccs000	common	-	-	-
+musica_yes_4_9	10	29	.	.	fp	-	-	-	-
+
+musica_yes_4_9	11	1	Algunos	algunos	np00000	proper	***
+musica_yes_4_9	11	2	de	de	sps00	preposition	***
+musica_yes_4_9	11	3	vosotros	vosotros	pp2mp000	personal	***
+musica_yes_4_9	11	4	podéis	poder	vmip2p0	main	***
+musica_yes_4_9	11	5	estar	estar	van0000	auxiliary	***
+musica_yes_4_9	11	6	familiarizados	familiarizar	vmp00pm	main	***
+musica_yes_4_9	11	7	con	con	sps00	preposition	***
+musica_yes_4_9	11	8	la	el	da0fs0	article	***
+musica_yes_4_9	11	9	música	música	ncfs000	common	***
+musica_yes_4_9	11	10	electrónica	electrónico	aq0fs0	qualificative	***
+musica_yes_4_9	11	11	más	más	rg	-	***
+musica_yes_4_9	11	12	experimental	experimental	aq0cs0	qualificative	***
+musica_yes_4_9	11	13	,	,	fc	-	***
+musica_yes_4_9	11	14	otros	otro	pi0mp000	indefinite	***
+musica_yes_4_9	11	15	con	con	sps00	preposition	***
+musica_yes_4_9	11	16	el	el	da0ms0	article	***
+musica_yes_4_9	11	17	heavy	heavy	nccn000	common	***
+musica_yes_4_9	11	18	metal	metal	ncms000	common	***
+musica_yes_4_9	11	19	más	más	rg	-	***
+musica_yes_4_9	11	20	genuino	genuino	aq0ms0	qualificative	***
+musica_yes_4_9	11	21	,	,	fc	-	***
+musica_yes_4_9	11	22	y	y	cc	coordinating	***
+musica_yes_4_9	11	23	otros	otro	pi0mp000	indefinite	***
+musica_yes_4_9	11	24	con	con	sps00	preposition	***
+musica_yes_4_9	11	25	el	el	da0ms0	article	***
+musica_yes_4_9	11	26	rock	rock	ncms000	common	***
+musica_yes_4_9	11	27	industrial	industrial	aq0cs0	qualificative	***
+musica_yes_4_9	11	28	más	más	rg	-	***
+musica_yes_4_9	11	29	duro	duro	aq0ms0	qualificative	***
+musica_yes_4_9	11	30	.	.	fp	-	***
+
+musica_yes_4_9	12	1	Cada	cada	di0cs0	indefinite	-	-	-	-	-	-
+musica_yes_4_9	12	2	uno	uno	pi0ms000	indefinite	-	-	-	-	-	-
+musica_yes_4_9	12	3	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	4	vosotros	vosotros	pp2mp000	personal	-	-	-	-	-	-
+musica_yes_4_9	12	5	sabe	saber	vmip3s0	main	-	-	-	-	-	-
+musica_yes_4_9	12	6	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+musica_yes_4_9	12	7	que	que	cs	subordinating	-	-	-	-	-	-
+musica_yes_4_9	12	8	busca	busca	ncfs000	common	-	-	-	-	-	-
+musica_yes_4_9	12	9	o	o	cc	coordinating	-	-	-	-	-	-
+musica_yes_4_9	12	10	espera	esperar	vmip3s0	main	-	-	-	-	-	-
+musica_yes_4_9	12	11	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	12	Manson	manson	np00000	proper	-	-	-	-	-	-
+musica_yes_4_9	12	13	así	así	rg	-	-	-	-	-	-	-
+musica_yes_4_9	12	14	que	que	cs	subordinating	-	-	-	-	-	-
+musica_yes_4_9	12	15	lo	el	da0ns0	article	-	-	-	-	-	-
+musica_yes_4_9	12	16	mejor	mejor	aq0cs0	qualificative	-	-	-	-	-	-
+musica_yes_4_9	12	17	será	ser	vsif3s0	semiauxiliary	-	-	-	-	-	-
+musica_yes_4_9	12	18	que	que	cs	subordinating	-	-	-	-	-	-
+musica_yes_4_9	12	19	escuchéis	escuchar	vmsp2p0	main	-	-	-	-	-	-
+musica_yes_4_9	12	20	vosotros	vosotros	pp2mp000	personal	-	-	-	-	-	-
+musica_yes_4_9	12	21	mismos	mismo	aq0mp0	qualificative	-	-	-	-	-	-
+musica_yes_4_9	12	22	el	el	da0ms0	article	-	-	-	-	-	-
+musica_yes_4_9	12	23	disco	disco	ncms000	common	-	-	-	-	-	-
+musica_yes_4_9	12	24	y	y	cc	coordinating	-	-	-	-	-	-
+musica_yes_4_9	12	25	luego	luego	rg	-	-	-	-	-	-	-
+musica_yes_4_9	12	26	opinéis	opinar	vmsp2p0	main	-	-	-	-	-	-
+musica_yes_4_9	12	27	en	en	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	28	comparación	comparación	ncfs000	common	-	-	-	-	-	-
+musica_yes_4_9	12	29	con	con	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	30	lo	el	da0ns0	article	-	-	-	-	-	-
+musica_yes_4_9	12	31	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_yes_4_9	12	32	buscabais	buscar	vmii2p0	main	-	-	-	-	-	-
+musica_yes_4_9	12	33	,	,	fc	-	-	-	-	-	-	-
+musica_yes_4_9	12	34	pero	pero	cc	coordinating	-	-	-	-	-	-
+musica_yes_4_9	12	35	sobre	sobre	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	36	todo	todo	pi0ms000	indefinite	-	-	-	-	-	-
+musica_yes_4_9	12	37	no	no	rn	negative	no	-	-	-	-	-
+musica_yes_4_9	12	38	os	os	pp2cp000	personal	-	-	-	-	-	-
+musica_yes_4_9	12	39	cerréis	cerrar	vmsp2p0	main	-	-	-	-	-	-
+musica_yes_4_9	12	40	a	a	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	41	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+musica_yes_4_9	12	42	solo	solo	aq0ms0	qualificative	-	-	-	-	-	-
+musica_yes_4_9	12	43	estilo	estilo	ncms000	common	-	-	-	-	-	-
+musica_yes_4_9	12	44	,	,	fc	-	-	-	-	-	-	-
+musica_yes_4_9	12	45	ya_que	ya_que	cs	subordinating	-	-	-	-	-	-
+musica_yes_4_9	12	46	Marilyn_Manson	marilyn_manson	np00000	proper	-	-	-	-	-	-
+musica_yes_4_9	12	47	tampoco	tampoco	rg	-	-	-	-	tampoco	-	-
+musica_yes_4_9	12	48	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+musica_yes_4_9	12	49	hace	hacer	vmip3s0	main	-	-	-	-	-	-
+musica_yes_4_9	12	50	y	y	cc	coordinating	-	-	-	-	-	-
+musica_yes_4_9	12	51	en	en	sps00	preposition	-	-	-	-	-	-
+musica_yes_4_9	12	52	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+musica_yes_4_9	12	53	trabajo	trabajo	ncms000	common	-	-	-	-	-	-
+musica_yes_4_9	12	54	ha	haber	vaip3s0	auxiliary	-	-	-	-	-	-
+musica_yes_4_9	12	55	quedado	quedar	vmp00sm	main	-	-	-	-	-	-
+musica_yes_4_9	12	56	demostrado	demostrar	vmp00sm	main	-	-	-	-	-	-
+musica_yes_4_9	12	57	.	.	fp	-	-	-	-	-	-	-
+
+musica_yes_4_9	13	1	No	no	rn	negative	No	-	-
+musica_yes_4_9	13	2	lo	lo	pp3cna00	personal	-	-	-
+musica_yes_4_9	13	3	rechacéis	rechazar	vmsp2p0	main	-	-	-
+musica_yes_4_9	13	4	de	de	sps00	preposition	-	-	-
+musica_yes_4_9	13	5	entrada	entrada	ncfs000	common	-	-	-
+musica_yes_4_9	13	6	por	por	sps00	preposition	-	-	-
+musica_yes_4_9	13	7	ser	ser	vsn0000	semiauxiliary	-	-	-
+musica_yes_4_9	13	8	algo	algo	rg	-	-	-	-
+musica_yes_4_9	13	9	diferente	diferente	aq0cs0	qualificative	-	-	-
+musica_yes_4_9	13	10	,	,	fc	-	-	-	-
+musica_yes_4_9	13	11	tan	tan	rg	-	-	-	-
+musica_yes_4_9	13	12	solo	solo	aq0ms0	qualificative	-	-	-
+musica_yes_4_9	13	13	intentad	intentar	vmm02p0	main	-	-	-
+musica_yes_4_9	13	14	admitir	admitir	vmn0000	main	-	-	-
+musica_yes_4_9	13	15	lo	lo	pp3cna00	personal	-	-	-
+musica_yes_4_9	13	16	tal_como	tal_y_como	cs	subordinating	-	-	-
+musica_yes_4_9	13	17	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_yes_4_9	13	18	y	y	cc	coordinating	-	-	-
+musica_yes_4_9	13	19	disfrutad	disfrutar	vmm02p0	main	-	-	-
+musica_yes_4_9	13	20	de	de	sps00	preposition	-	-	-
+musica_yes_4_9	13	21	su	su	dp3cs0	possessive	-	-	-
+musica_yes_4_9	13	22	nuevo	nuevo	aq0ms0	qualificative	-	-	-
+musica_yes_4_9	13	23	trabajo	trabajo	ncms000	common	-	-	-
+musica_yes_4_9	13	24	que	que	pr0cn000	relative	-	-	-
+musica_yes_4_9	13	25	vale	valer	vmip3s0	main	-	-	-
+musica_yes_4_9	13	26	mucho	mucho	rg	-	-	-	-
+musica_yes_4_9	13	27	la	el	da0fs0	article	-	-	-
+musica_yes_4_9	13	28	pena	pena	ncfs000	common	-	-	-
+musica_yes_4_9	13	29	.	.	fp	-	-	-	-
+
+musica_yes_4_9	14	1	Saludos	saludos	np00000	proper	***
+
+musica_yes_4_17	1	1	ami	ami	ncms000	common	-	-	-
+musica_yes_4_17	1	2	el	el	da0ms0	article	-	-	-
+musica_yes_4_17	1	3	disco	disco	ncms000	common	-	-	-
+musica_yes_4_17	1	4	este	este	dd0ms0	demonstrative	-	-	-
+musica_yes_4_17	1	5	no	no	rn	negative	no	-	-
+musica_yes_4_17	1	6	me	me	pp1cs000	personal	-	-	-
+musica_yes_4_17	1	7	parece	parecer	vmip3s0	main	-	-	-
+musica_yes_4_17	1	8	malo	malo	aq0ms0	qualificative	-	-	-
+musica_yes_4_17	1	9	.	.	fp	-	-	-	-
+
+musica_yes_4_17	2	1	lo	el	da0ns0	article	***
+musica_yes_4_17	2	2	escuchado	escuchar	vmp00sm	main	***
+musica_yes_4_17	2	3	unicamente	unicamente	rg	-	***
+musica_yes_4_17	2	4	dos	2	z	-	***
+musica_yes_4_17	2	5	veces	vez	ncfp000	common	***
+musica_yes_4_17	2	6	y	y	cc	coordinating	***
+musica_yes_4_17	2	7	en	en	sps00	preposition	***
+musica_yes_4_17	2	8	fin	fin	ncms000	common	***
+musica_yes_4_17	2	9	yo	yo	pp1csn00	personal	***
+musica_yes_4_17	2	10	creo	crear	vmip1s0	main	***
+musica_yes_4_17	2	11	que	que	cs	subordinating	***
+musica_yes_4_17	2	12	tiene	tener	vmip3s0	main	***
+musica_yes_4_17	2	13	un	uno	di0ms0	indefinite	***
+musica_yes_4_17	2	14	pase	pase	ncms000	common	***
+musica_yes_4_17	2	15	.	.	fp	-	***
+
+musica_yes_4_17	3	1	fue	ser	vsis3s0	semiauxiliary	***
+musica_yes_4_17	3	2	la	el	da0fs0	article	***
+musica_yes_4_17	3	3	primera	1	ao0fs0	ordinal	***
+musica_yes_4_17	3	4	incursion	incursion	vmis3p0	main	***
+musica_yes_4_17	3	5	de	de	sps00	preposition	***
+musica_yes_4_17	3	6	queen	queen	vmip3p0	main	***
+musica_yes_4_17	3	7	en	en	sps00	preposition	***
+musica_yes_4_17	3	8	el	el	da0ms0	article	***
+musica_yes_4_17	3	9	mundo	mundo	ncms000	common	***
+musica_yes_4_17	3	10	de	de	sps00	preposition	***
+musica_yes_4_17	3	11	la	el	da0fs0	article	***
+musica_yes_4_17	3	12	musica	musicar	vmip3s0	main	***
+musica_yes_4_17	3	13	de	de	sps00	preposition	***
+musica_yes_4_17	3	14	cine	cine	ncms000	common	***
+musica_yes_4_17	3	15	y	y	cc	coordinating	***
+musica_yes_4_17	3	16	,	,	fc	-	***
+musica_yes_4_17	3	17	objetivamente	objetivamente	rg	-	***
+musica_yes_4_17	3	18	se	se	p00cn000	-	***
+musica_yes_4_17	3	19	saldo	saldar	vmip1s0	main	***
+musica_yes_4_17	3	20	con	con	sps00	preposition	***
+musica_yes_4_17	3	21	una	uno	di0fs0	indefinite	***
+musica_yes_4_17	3	22	buena	bueno	aq0fs0	qualificative	***
+musica_yes_4_17	3	23	nota	nota	ncfs000	common	***
+musica_yes_4_17	3	24	.	.	fp	-	***
+
+musica_yes_4_17	4	1	obviamente	obviamente	rg	-	-	-	-
+musica_yes_4_17	4	2	no	no	rn	negative	no	-	-
+musica_yes_4_17	4	3	son	ser	vsip3p0	semiauxiliary	-	-	-
+musica_yes_4_17	4	4	james_horner	jamar_horner	np00000	proper	-	-	-
+musica_yes_4_17	4	5	haciendo	hacer	vmg0000	main	-	-	-
+musica_yes_4_17	4	6	musica	musicar	vmip3s0	main	-	-	-
+musica_yes_4_17	4	7	para	para	sps00	preposition	-	-	-
+musica_yes_4_17	4	8	cine	cine	ncms000	common	-	-	-
+musica_yes_4_17	4	9	pero	pero	cc	coordinating	-	-	-
+musica_yes_4_17	4	10	...	...	fs	-	-	-	-
+
+musica_yes_4_17	5	1	el	el	da0ms0	article	***
+musica_yes_4_17	5	2	tema	tema	ncms000	common	***
+musica_yes_4_17	5	3	central	central	aq0cs0	qualificative	***
+musica_yes_4_17	5	4	de	de	sps00	preposition	***
+musica_yes_4_17	5	5	la	el	da0fs0	article	***
+musica_yes_4_17	5	6	pelicula	pelicula	ncfs000	common	***
+musica_yes_4_17	5	7	y	y	cc	coordinating	***
+musica_yes_4_17	5	8	de	de	sps00	preposition	***
+musica_yes_4_17	5	9	el	el	da0ms0	article	***
+musica_yes_4_17	5	10	disco	disco	ncms000	common	***
+musica_yes_4_17	5	11	,	,	fc	-	***
+musica_yes_4_17	5	12	Flash_theme	flash_theme	np00000	proper	***
+musica_yes_4_17	5	13	,	,	fc	-	***
+musica_yes_4_17	5	14	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_17	5	15	una	uno	di0fs0	indefinite	***
+musica_yes_4_17	5	16	cancion	cancion	ncms000	common	***
+musica_yes_4_17	5	17	bastante	bastante	rg	-	***
+musica_yes_4_17	5	18	rapida	rapida	aq0fs0	qualificative	***
+musica_yes_4_17	5	19	y	y	cc	coordinating	***
+musica_yes_4_17	5	20	trepidante	trepidante	aq0cs0	qualificative	***
+musica_yes_4_17	5	21	,	,	fc	-	***
+musica_yes_4_17	5	22	bastante	bastante	rg	-	***
+musica_yes_4_17	5	23	ajustada	ajustar	vmp00sf	main	***
+musica_yes_4_17	5	24	a	a	sps00	preposition	***
+musica_yes_4_17	5	25	la	el	da0fs0	article	***
+musica_yes_4_17	5	26	idea	idea	ncfs000	common	***
+musica_yes_4_17	5	27	de	de	sps00	preposition	***
+musica_yes_4_17	5	28	la	el	da0fs0	article	***
+musica_yes_4_17	5	29	pelicula	pelicula	ncfs000	common	***
+musica_yes_4_17	5	30	.	.	fp	-	***
+
+musica_yes_4_17	6	1	y	y	cc	coordinating	***
+musica_yes_4_17	6	2	la	el	da0fs0	article	***
+musica_yes_4_17	6	3	otra	otro	di0fs0	indefinite	***
+musica_yes_4_17	6	4	"	"	fe	-	***
+musica_yes_4_17	6	5	cancion	cancion	ncms000	common	***
+musica_yes_4_17	6	6	"	"	fe	-	***
+musica_yes_4_17	6	7	(	(	fpa	-	***
+musica_yes_4_17	6	8	hay	haber	vmip3s0	main	***
+musica_yes_4_17	6	9	mas	mas	ncms000	common	***
+musica_yes_4_17	6	10	de	de	sps00	preposition	***
+musica_yes_4_17	6	11	dos	2	z	-	***
+musica_yes_4_17	6	12	obviamente	obviamente	rg	-	***
+musica_yes_4_17	6	13	pero	pero	cc	coordinating	***
+musica_yes_4_17	6	14	unicamente	unicamente	rg	-	***
+musica_yes_4_17	6	15	estas	este	dd0fp0	demonstrative	***
+musica_yes_4_17	6	16	dos	2	z	-	***
+musica_yes_4_17	6	17	tienen	tener	vmip3p0	main	***
+musica_yes_4_17	6	18	letra	letra	ncfs000	common	***
+musica_yes_4_17	6	19	)	)	fpt	-	***
+musica_yes_4_17	6	20	,	,	fc	-	***
+musica_yes_4_17	6	21	the_hero	the_hero	np00000	proper	***
+musica_yes_4_17	6	22	,	,	fc	-	***
+musica_yes_4_17	6	23	pues	pues	cs	subordinating	***
+musica_yes_4_17	6	24	tb	tb	ncms000	common	***
+musica_yes_4_17	6	25	esta	este	dd0fs0	demonstrative	***
+musica_yes_4_17	6	26	muy	muy	rg	-	***
+musica_yes_4_17	6	27	bien	bien	rg	-	***
+musica_yes_4_17	6	28	.	.	fp	-	***
+
+musica_yes_4_17	7	1	una	uno	di0fs0	indefinite	***
+musica_yes_4_17	7	2	cosa	cosa	ncfs000	common	***
+musica_yes_4_17	7	3	si	si	cs	subordinating	***
+musica_yes_4_17	7	4	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_17	7	5	cierta	cierto	aq0fs0	qualificative	***
+musica_yes_4_17	7	6	,	,	fc	-	***
+musica_yes_4_17	7	7	me	me	pp1cs000	personal	***
+musica_yes_4_17	7	8	parece	parecer	vmip3s0	main	***
+musica_yes_4_17	7	9	un	uno	di0ms0	indefinite	***
+musica_yes_4_17	7	10	poco	poco	rg	-	***
+musica_yes_4_17	7	11	exagerado	exagerar	vmp00sm	main	***
+musica_yes_4_17	7	12	meter	meter	vmn0000	main	***
+musica_yes_4_17	7	13	la	lo	pp3fsa00	personal	***
+musica_yes_4_17	7	14	en	en	sps00	preposition	***
+musica_yes_4_17	7	15	el	el	da0ms0	article	***
+musica_yes_4_17	7	16	greatest_hits	greatest_hit	np00000	proper	***
+musica_yes_4_17	7	17	.	.	fp	-	***
+musica_yes_4_17	7	18	.	.	fp	-	***
+
+musica_yes_4_17	8	1	y	y	cc	coordinating	***
+musica_yes_4_17	8	2	en	en	sps00	preposition	***
+musica_yes_4_17	8	3	fin	fin	ncms000	common	***
+musica_yes_4_17	8	4	,	,	fc	-	***
+musica_yes_4_17	8	5	yo	yo	pp1csn00	personal	***
+musica_yes_4_17	8	6	creo	crear	vmip1s0	main	***
+musica_yes_4_17	8	7	que	que	cs	subordinating	***
+musica_yes_4_17	8	8	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_17	8	9	un	uno	di0ms0	indefinite	***
+musica_yes_4_17	8	10	buen	bueno	aq0ms0	qualificative	***
+musica_yes_4_17	8	11	disco	disco	ncms000	common	***
+musica_yes_4_17	8	12	,	,	fc	-	***
+musica_yes_4_17	8	13	a_pesar_de	a_pesar_de	sps00	preposition	***
+musica_yes_4_17	8	14	la	el	da0fs0	article	***
+musica_yes_4_17	8	15	extendida	extender	vmp00sf	main	***
+musica_yes_4_17	8	16	opinion	opinion	vmis3p0	main	***
+musica_yes_4_17	8	17	de	de	sps00	preposition	***
+musica_yes_4_17	8	18	que	que	cs	subordinating	***
+musica_yes_4_17	8	19	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_17	8	20	el	el	da0ms0	article	***
+musica_yes_4_17	8	21	peor	peor	aq0cs0	qualificative	***
+musica_yes_4_17	8	22	de	de	sps00	preposition	***
+musica_yes_4_17	8	23	queen	queen	vmip3p0	main	***
+musica_yes_4_17	8	24	.	.	fp	-	***
+musica_yes_4_17	8	25	.	.	fp	-	***
+musica_yes_4_17	8	26	simplemente	simplemente	rg	-	***
+musica_yes_4_17	8	27	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_4_17	8	28	un	uno	di0ms0	indefinite	***
+musica_yes_4_17	8	29	estilo	estilo	ncms000	common	***
+musica_yes_4_17	8	30	de	de	sps00	preposition	***
+musica_yes_4_17	8	31	musica	musicar	vmip3s0	main	***
+musica_yes_4_17	8	32	distinto	distinto	aq0ms0	qualificative	***
+musica_yes_4_17	8	33	a	a	sps00	preposition	***
+musica_yes_4_17	8	34	lo	el	da0ns0	article	***
+musica_yes_4_17	8	35	que	que	pr0cn000	relative	***
+musica_yes_4_17	8	36	nos	nos	pp1cp000	personal	***
+musica_yes_4_17	8	37	tenian	tenian	vmip3p0	main	***
+musica_yes_4_17	8	38	acostumbrados	acostumbrar	vmp00pm	main	***
+musica_yes_4_17	8	39	hasta	hasta	sps00	preposition	***
+musica_yes_4_17	8	40	entonces	entonces	rg	-	***
+
+musica_yes_4_17	9	1	yo	yo	pp1csn00	personal	***
+musica_yes_4_17	9	2	le	le	pp3csd00	personal	***
+musica_yes_4_17	9	3	doy	dar	vmip1s0	main	***
+musica_yes_4_17	9	4	un	uno	di0ms0	indefinite	***
+musica_yes_4_17	9	5	6	6	z	-	***
+musica_yes_4_17	9	6	de	de	sps00	preposition	***
+musica_yes_4_17	9	7	nota	nota	ncfs000	common	***
+
+musica_no_2_25	1	1	Desde_luego	desde_luego	rg	-	***
+musica_no_2_25	1	2	,	,	fc	-	***
+musica_no_2_25	1	3	el	el	da0ms0	article	***
+musica_no_2_25	1	4	peor	peor	aq0cs0	qualificative	***
+musica_no_2_25	1	5	trabajo	trabajo	ncms000	common	***
+musica_no_2_25	1	6	de	de	sps00	preposition	***
+musica_no_2_25	1	7	los	el	da0mp0	article	***
+musica_no_2_25	1	8	afamados	afamar	vmp00pm	main	***
+musica_no_2_25	1	9	The_Beatles	the_beatles	np00000	proper	***
+musica_no_2_25	1	10	.	.	fp	-	***
+
+musica_no_2_25	2	1	Esta	este	dd0fs0	demonstrative	-	-	-
+musica_no_2_25	2	2	banda	banda	ncfs000	common	-	-	-
+musica_no_2_25	2	3	de	de	sps00	preposition	-	-	-
+musica_no_2_25	2	4	rock'n'roll	rock'n'roll	ncms000	common	-	-	-
+musica_no_2_25	2	5	que	que	pr0cn000	relative	-	-	-
+musica_no_2_25	2	6	revolucionó	revolucionar	vmis3s0	main	-	-	-
+musica_no_2_25	2	7	la	el	da0fs0	article	-	-	-
+musica_no_2_25	2	8	música	música	ncfs000	common	-	-	-
+musica_no_2_25	2	9	a_mediados_de	a_mediados_de	sps00	preposition	-	-	-
+musica_no_2_25	2	10	la	el	da0fs0	article	-	-	-
+musica_no_2_25	2	11	década	década	ncfs000	common	-	-	-
+musica_no_2_25	2	12	de	de	sps00	preposition	-	-	-
+musica_no_2_25	2	13	los	el	da0mp0	article	-	-	-
+musica_no_2_25	2	14	sesenta	60	z	-	-	-	-
+musica_no_2_25	2	15	,	,	fc	-	-	-	-
+musica_no_2_25	2	16	ha	haber	vaip3s0	auxiliary	-	-	-
+musica_no_2_25	2	17	creado	crear	vmp00sm	main	-	-	-
+musica_no_2_25	2	18	culto	culto	aq0ms0	qualificative	-	-	-
+musica_no_2_25	2	19	y	y	cc	coordinating	-	-	-
+musica_no_2_25	2	20	ha	haber	vaip3s0	auxiliary	-	-	-
+musica_no_2_25	2	21	sabido	saber	vmp00sm	main	-	-	-
+musica_no_2_25	2	22	dejar	dejar	vmn0000	main	-	-	-
+musica_no_2_25	2	23	una	uno	di0fs0	indefinite	-	-	-
+musica_no_2_25	2	24	huella	huella	ncfs000	common	-	-	-
+musica_no_2_25	2	25	que	que	pr0cn000	relative	-	-	-
+musica_no_2_25	2	26	tal_vez	tal_vez	rg	-	-	-	-
+musica_no_2_25	2	27	ya	ya	rg	-	-	-	-
+musica_no_2_25	2	28	nunca	nunca	rg	-	nunca	-	-
+musica_no_2_25	2	29	se	se	p00cn000	-	-	-	-
+musica_no_2_25	2	30	borre	borrar	vmsp3s0	main	-	-	-
+musica_no_2_25	2	31	.	.	fp	-	-	-	-
+
+musica_no_2_25	3	1	Su	su	np00000	proper	***
+musica_no_2_25	3	2	repertorio	repertorio	ncms000	common	***
+musica_no_2_25	3	3	es	ser	vsip3s0	semiauxiliary	***
+musica_no_2_25	3	4	muy	muy	rg	-	***
+musica_no_2_25	3	5	variado	variar	vmp00sm	main	***
+musica_no_2_25	3	6	y	y	cc	coordinating	***
+musica_no_2_25	3	7	son	ser	vsip3p0	semiauxiliary	***
+musica_no_2_25	3	8	claramente	claramente	rg	-	***
+musica_no_2_25	3	9	unos	uno	di0mp0	indefinite	***
+musica_no_2_25	3	10	talentos	talento	ncmp000	common	***
+musica_no_2_25	3	11	imaginativos	imaginativo	aq0mp0	qualificative	***
+musica_no_2_25	3	12	de	de	sps00	preposition	***
+musica_no_2_25	3	13	el	el	da0ms0	article	***
+musica_no_2_25	3	14	pop	pop	ncms000	common	***
+musica_no_2_25	3	15	.	.	fp	-	***
+
+musica_no_2_25	4	1	Sin	sin	sps00	preposition	Sin	-	-
+musica_no_2_25	4	2	embargo	embargo	ncms000	common	-	-	-
+musica_no_2_25	4	3	,	,	fc	-	-	-	-
+musica_no_2_25	4	4	Yellow_Submarine	yellow_submarine	np00000	proper	-	-	-
+musica_no_2_25	4	5	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_2_25	4	6	una	uno	di0fs0	indefinite	-	-	-
+musica_no_2_25	4	7	mala	malo	aq0fs0	qualificative	-	-	-
+musica_no_2_25	4	8	prueba	prueba	ncfs000	common	-	-	-
+musica_no_2_25	4	9	de	de	sps00	preposition	-	-	-
+musica_no_2_25	4	10	su	su	dp3cs0	possessive	-	-	-
+musica_no_2_25	4	11	gran	gran	aq0cs0	qualificative	-	-	-
+musica_no_2_25	4	12	trabajo	trabajo	ncms000	common	-	-	-
+musica_no_2_25	4	13	.	.	fp	-	-	-	-
+
+musica_no_2_25	5	1	La	el	da0fs0	article	-	-	-
+musica_no_2_25	5	2	mitad	mitad	ncfs000	common	-	-	-
+musica_no_2_25	5	3	de	de	sps00	preposition	-	-	-
+musica_no_2_25	5	4	el	el	da0ms0	article	-	-	-
+musica_no_2_25	5	5	disco	disco	ncms000	common	-	-	-
+musica_no_2_25	5	6	no	no	rn	negative	no	-	-
+musica_no_2_25	5	7	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_2_25	5	8	propiamente	propiamente	rg	-	-	-	-
+musica_no_2_25	5	9	de	de	sps00	preposition	-	-	-
+musica_no_2_25	5	10	ellos	ellos	pp3mp000	personal	-	-	-
+musica_no_2_25	5	11	,	,	fc	-	-	-	-
+musica_no_2_25	5	12	sino_que	sino_que	cc	coordinating	-	-	-
+musica_no_2_25	5	13	son	ser	vsip3p0	semiauxiliary	-	-	-
+musica_no_2_25	5	14	arreglos	arreglo	ncmp000	common	-	-	-
+musica_no_2_25	5	15	orquestales	orquestal	aq0cp0	qualificative	-	-	-
+musica_no_2_25	5	16	para	para	sps00	preposition	-	-	-
+musica_no_2_25	5	17	la	el	da0fs0	article	-	-	-
+musica_no_2_25	5	18	película	película	ncfs000	common	-	-	-
+musica_no_2_25	5	19	,	,	fc	-	-	-	-
+musica_no_2_25	5	20	creados	crear	vmp00pm	main	-	-	-
+musica_no_2_25	5	21	por	por	sps00	preposition	-	-	-
+musica_no_2_25	5	22	su	su	dp3cs0	possessive	-	-	-
+musica_no_2_25	5	23	productor	productor	ncms000	common	-	-	-
+musica_no_2_25	5	24	George_Martin	george_martin	np00000	proper	-	-	-
+musica_no_2_25	5	25	.	.	fp	-	-	-	-
+
+musica_no_2_25	6	1	La	el	da0fs0	article	***
+musica_no_2_25	6	2	otra	otro	di0fs0	indefinite	***
+musica_no_2_25	6	3	mitad	mitad	ncfs000	common	***
+musica_no_2_25	6	4	son	ser	vsip3p0	semiauxiliary	***
+musica_no_2_25	6	5	temas	tema	ncmp000	common	***
+musica_no_2_25	6	6	de	de	sps00	preposition	***
+musica_no_2_25	6	7	la	el	da0fs0	article	***
+musica_no_2_25	6	8	banda	banda	ncfs000	common	***
+musica_no_2_25	6	9	británica	británico	aq0fs0	qualificative	***
+musica_no_2_25	6	10	,	,	fc	-	***
+musica_no_2_25	6	11	muy	muy	rg	-	***
+musica_no_2_25	6	12	propios	propio	aq0mp0	qualificative	***
+musica_no_2_25	6	13	de	de	sps00	preposition	***
+musica_no_2_25	6	14	los	el	da0mp0	article	***
+musica_no_2_25	6	15	años	año	ncmp000	common	***
+musica_no_2_25	6	16	en	en	sps00	preposition	***
+musica_no_2_25	6	17	los	el	da0mp0	article	***
+musica_no_2_25	6	18	que	que	pr0cn000	relative	***
+musica_no_2_25	6	19	fueron	ser	vsis3p0	semiauxiliary	***
+musica_no_2_25	6	20	compuestos	compuesto	ncmp000	common	***
+musica_no_2_25	6	21	.	.	fp	-	***
+
+musica_no_2_25	7	1	Mucha	mucho	di0fs0	indefinite	***
+musica_no_2_25	7	2	psicodélia	psicodélia	ncfs000	common	***
+musica_no_2_25	7	3	hay	haber	vmip3s0	main	***
+musica_no_2_25	7	4	en	en	sps00	preposition	***
+musica_no_2_25	7	5	dichos	decir	vmp00pm	main	***
+musica_no_2_25	7	6	temas	tema	ncmp000	common	***
+musica_no_2_25	7	7	.	.	fp	-	***
+
+musica_no_2_25	8	1	En	en	sps00	preposition	-	-	-
+musica_no_2_25	8	2	definitiva	definitivo	aq0fs0	qualificative	-	-	-
+musica_no_2_25	8	3	,	,	fc	-	-	-	-
+musica_no_2_25	8	4	los	el	da0mp0	article	-	-	-
+musica_no_2_25	8	5	Beatles	beatles	np00000	proper	-	-	-
+musica_no_2_25	8	6	fueron	ser	vsis3p0	semiauxiliary	-	-	-
+musica_no_2_25	8	7	muy	muy	rg	-	-	-	-
+musica_no_2_25	8	8	buenos	bueno	aq0mp0	qualificative	-	-	-
+musica_no_2_25	8	9	en	en	sps00	preposition	-	-	-
+musica_no_2_25	8	10	su	su	dp3cs0	possessive	-	-	-
+musica_no_2_25	8	11	campo	campo	ncms000	common	-	-	-
+musica_no_2_25	8	12	,	,	fc	-	-	-	-
+musica_no_2_25	8	13	pero	pero	cc	coordinating	-	-	-
+musica_no_2_25	8	14	no	no	rn	negative	no	-	-
+musica_no_2_25	8	15	en	en	sps00	preposition	-	-	-
+musica_no_2_25	8	16	el	el	da0ms0	article	-	-	-
+musica_no_2_25	8	17	de	de	sps00	preposition	-	-	-
+musica_no_2_25	8	18	las	el	da0fp0	article	-	-	-
+musica_no_2_25	8	19	bandas	banda	ncfp000	common	-	-	-
+musica_no_2_25	8	20	sonoras	sonoro	aq0fp0	qualificative	-	-	-
+musica_no_2_25	8	21	,	,	fc	-	-	-	-
+musica_no_2_25	8	22	a	a	sps00	preposition	-	-	-
+musica_no_2_25	8	23	el	el	da0ms0	article	-	-	-
+musica_no_2_25	8	24	menos	menos	rg	-	-	-	-
+musica_no_2_25	8	25	,	,	fc	-	-	-	-
+musica_no_2_25	8	26	en	en	sps00	preposition	-	-	-
+musica_no_2_25	8	27	mi	mi	dp1css	possessive	-	-	-
+musica_no_2_25	8	28	humilde	humilde	aq0cs0	qualificative	-	-	-
+musica_no_2_25	8	29	opinión	opinión	ncfs000	common	-	-	-
+musica_no_2_25	8	30	.	.	fp	-	-	-	-
+
+musica_no_1_6	1	1	Me	me	pp1cs000	personal	-	-	-	-	-	-
+musica_no_1_6	1	2	acabo	acabar	vmip1s0	main	-	-	-	-	-	-
+musica_no_1_6	1	3	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_1_6	1	4	comprar	comprar	vmn0000	main	-	-	-	-	-	-
+musica_no_1_6	1	5	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+musica_no_1_6	1	6	doble	doble	aq0cs0	qualificative	-	-	-	-	-	-
+musica_no_1_6	1	7	CD	cd	np00000	proper	-	-	-	-	-	-
+musica_no_1_6	1	8	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_1_6	1	9	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+musica_no_1_6	1	10	he	haber	vaip1s0	auxiliary	-	-	-	-	-	-
+musica_no_1_6	1	11	escuchado	escuchar	vmp00sm	main	-	-	-	-	-	-
+musica_no_1_6	1	12	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+musica_no_1_6	1	13	par	par	ncms000	common	-	-	-	-	-	-
+musica_no_1_6	1	14	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_1_6	1	15	veces	vez	ncfp000	common	-	-	-	-	-	-
+musica_no_1_6	1	16	ya	ya	rg	-	-	-	-	-	-	-
+musica_no_1_6	1	17	...	...	fs	-	-	-	-	-	-	-
+musica_no_1_6	1	18	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_1_6	1	19	como	como	cs	subordinating	-	-	-	-	-	-
+musica_no_1_6	1	20	se	se	p00cn000	-	-	-	-	-	-	-
+musica_no_1_6	1	21	suele	soler	vmip3s0	main	-	-	-	-	-	-
+musica_no_1_6	1	22	decir	decir	vmn0000	main	-	-	-	-	-	-
+musica_no_1_6	1	23	,	,	fc	-	-	-	-	-	-	-
+musica_no_1_6	1	24	"	"	fe	-	-	-	-	-	-	-
+musica_no_1_6	1	25	no	no	rn	negative	no	-	-	-	-	-
+musica_no_1_6	1	26	le	le	pp3csd00	personal	-	-	-	-	-	-
+musica_no_1_6	1	27	encuentro	encontrar	vmip1s0	main	-	-	-	-	-	-
+musica_no_1_6	1	28	ni	ni	cc	coordinating	ni	-	-	-	-	-
+musica_no_1_6	1	29	chichá	chicha	ncms000	common	-	-	-	-	-	-
+musica_no_1_6	1	30	ni	ni	cc	coordinating	-	-	-	ni	-	-
+musica_no_1_6	1	31	limoná	limonada	ncfs000	common	-	-	-	-	-	-
+musica_no_1_6	1	32	"	"	fe	-	-	-	-	-	-	-
+musica_no_1_6	1	33	.	.	fp	-	-	-	-	-	-	-
+
+musica_no_1_6	2	1	Muy	muy	rg	-	***
+musica_no_1_6	2	2	en	en	sps00	preposition	***
+musica_no_1_6	2	3	el	el	da0ms0	article	***
+musica_no_1_6	2	4	estilo	estilo	ncms000	common	***
+musica_no_1_6	2	5	habitual	habitual	aq0cs0	qualificative	***
+musica_no_1_6	2	6	de	de	sps00	preposition	***
+musica_no_1_6	2	7	Rihanna	rihanna	np00000	proper	***
+musica_no_1_6	2	8	,	,	fc	-	***
+musica_no_1_6	2	9	mezcla	mezcla	ncfs000	common	***
+musica_no_1_6	2	10	de	de	sps00	preposition	***
+musica_no_1_6	2	11	pop	pop	ncms000	common	***
+musica_no_1_6	2	12	,	,	fc	-	***
+musica_no_1_6	2	13	r_&_b	r_&_b	np00000	proper	***
+musica_no_1_6	2	14	,	,	fc	-	***
+musica_no_1_6	2	15	y	y	cc	coordinating	***
+musica_no_1_6	2	16	música	música	ncfs000	common	***
+musica_no_1_6	2	17	discotequera	discotequero	aq0fs0	qualificative	***
+musica_no_1_6	2	18	.	.	fp	-	***
+
+musica_no_1_6	3	1	Si	si	cs	subordinating	***
+musica_no_1_6	3	2	me	me	pp1cs000	personal	***
+musica_no_1_6	3	3	dijeran	decir	vmsi3p0	main	***
+musica_no_1_6	3	4	se	se	pp3cn000	personal	***
+musica_no_1_6	3	5	que	que	cs	subordinating	***
+musica_no_1_6	3	6	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_6	3	7	una	uno	di0fs0	indefinite	***
+musica_no_1_6	3	8	edición	edición	ncfs000	common	***
+musica_no_1_6	3	9	especial	especial	aq0cs0	qualificative	***
+musica_no_1_6	3	10	de	de	sps00	preposition	***
+musica_no_1_6	3	11	su	su	dp3cs0	possessive	***
+musica_no_1_6	3	12	anterior	anterior	aq0cs0	qualificative	***
+musica_no_1_6	3	13	disco	disco	ncms000	common	***
+musica_no_1_6	3	14	lo	lo	pp3cna00	personal	***
+musica_no_1_6	3	15	creería	creer	vmic3s0	main	***
+musica_no_1_6	3	16	a	a	sps00	preposition	***
+musica_no_1_6	3	17	el	el	da0ms0	article	***
+musica_no_1_6	3	18	100_%	100/100	zp	percentage	***
+musica_no_1_6	3	19	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_6	3	20	más	más	rg	-	***
+musica_no_1_6	3	21	y	y	cc	coordinating	***
+musica_no_1_6	3	22	más	más	rg	-	***
+musica_no_1_6	3	23	de	de	sps00	preposition	***
+musica_no_1_6	3	24	lo	el	da0ns0	article	***
+musica_no_1_6	3	25	que	que	pr0cn000	relative	***
+musica_no_1_6	3	26	ya	ya	rg	-	***
+musica_no_1_6	3	27	estamos	estar	vaip1p0	auxiliary	***
+musica_no_1_6	3	28	cansados	cansar	vmp00pm	main	***
+musica_no_1_6	3	29	de	de	sps00	preposition	***
+musica_no_1_6	3	30	escuchar	escuchar	vmn0000	main	***
+musica_no_1_6	3	31	,	,	fc	-	***
+musica_no_1_6	3	32	en	en	sps00	preposition	***
+musica_no_1_6	3	33	sus	su	dp3cp0	possessive	***
+musica_no_1_6	3	34	propias	propio	aq0fp0	qualificative	***
+musica_no_1_6	3	35	canciones	canción	ncfp000	common	***
+musica_no_1_6	3	36	,	,	fc	-	***
+musica_no_1_6	3	37	las	el	da0fp0	article	***
+musica_no_1_6	3	38	de	de	sps00	preposition	***
+musica_no_1_6	3	39	Beyoncé	beyoncé	np00000	proper	***
+musica_no_1_6	3	40	y	y	cc	coordinating	***
+musica_no_1_6	3	41	últimamente	últimamente	rg	-	***
+musica_no_1_6	3	42	se	se	p00cn000	-	***
+musica_no_1_6	3	43	ha	haber	vaip3s0	auxiliary	***
+musica_no_1_6	3	44	subido	subir	vmp00sm	main	***
+musica_no_1_6	3	45	a	a	sps00	preposition	***
+musica_no_1_6	3	46	el	el	da0ms0	article	***
+musica_no_1_6	3	47	carro	carro	ncms000	common	***
+musica_no_1_6	3	48	también	también	rg	-	***
+musica_no_1_6	3	49	Nelly_Furtado	nelly_furtado	np00000	proper	***
+musica_no_1_6	3	50	.	.	fp	-	***
+
+musica_no_1_6	4	1	Bueno	bueno	i	-	***
+musica_no_1_6	4	2	,	,	fc	-	***
+musica_no_1_6	4	3	voy	ir	vmip1s0	main	***
+musica_no_1_6	4	4	a	a	sps00	preposition	***
+musica_no_1_6	4	5	comentar	comentar	vmn0000	main	***
+musica_no_1_6	4	6	os	os	pp2cp000	personal	***
+musica_no_1_6	4	7	un	uno	di0ms0	indefinite	***
+musica_no_1_6	4	8	poco	poco	pi0ms000	indefinite	***
+musica_no_1_6	4	9	el	el	da0ms0	article	***
+musica_no_1_6	4	10	primer	1	ao0ms0	ordinal	***
+musica_no_1_6	4	11	CD	cd	np00000	proper	***
+musica_no_1_6	4	12	porque	porque	cs	subordinating	***
+musica_no_1_6	4	13	el	el	da0ms0	article	***
+musica_no_1_6	4	14	segundo	2	ao0ms0	ordinal	***
+musica_no_1_6	4	15	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_6	4	16	de	de	sps00	preposition	***
+musica_no_1_6	4	17	remezclas	remezcla	ncfp000	common	***
+musica_no_1_6	4	18	,	,	fc	-	***
+musica_no_1_6	4	19	bastante	bastante	rg	-	***
+musica_no_1_6	4	20	desafortunadas	desafortunado	aq0fp0	qualificative	***
+musica_no_1_6	4	21	para	para	sps00	preposition	***
+musica_no_1_6	4	22	mi	mi	dp1css	possessive	***
+musica_no_1_6	4	23	gusto	gusto	ncms000	common	***
+musica_no_1_6	4	24	.	.	fp	-	***
+
+musica_no_1_6	5	1	El	el	da0ms0	article	-	-	-
+musica_no_1_6	5	2	CD	cd	np00000	proper	-	-	-
+musica_no_1_6	5	3	tiene	tener	vmip3s0	main	-	-	-
+musica_no_1_6	5	4	un	uno	di0ms0	indefinite	-	-	-
+musica_no_1_6	5	5	par	par	ncms000	common	-	-	-
+musica_no_1_6	5	6	de	de	sps00	preposition	-	-	-
+musica_no_1_6	5	7	duetos	dueto	ncmp000	common	-	-	-
+musica_no_1_6	5	8	,	,	fc	-	-	-	-
+musica_no_1_6	5	9	con	con	sps00	preposition	-	-	-
+musica_no_1_6	5	10	Jay-Z	jay-z	np00000	proper	-	-	-
+musica_no_1_6	5	11	y	y	cc	coordinating	-	-	-
+musica_no_1_6	5	12	Ne-Yo	ne-yo	np00000	proper	-	-	-
+musica_no_1_6	5	13	,	,	fc	-	-	-	-
+musica_no_1_6	5	14	que	que	cs	subordinating	-	-	-
+musica_no_1_6	5	15	la	el	da0fs0	article	-	-	-
+musica_no_1_6	5	16	verdad	verdad	ncfs000	common	-	-	-
+musica_no_1_6	5	17	la	el	da0fs0	article	-	-	-
+musica_no_1_6	5	18	canción	canción	ncfs000	common	-	-	-
+musica_no_1_6	5	19	con	con	sps00	preposition	-	-	-
+musica_no_1_6	5	20	Ne-Yo	ne-yo	np00000	proper	-	-	-
+musica_no_1_6	5	21	no	no	rn	negative	no	-	-
+musica_no_1_6	5	22	está	estar	vaip3s0	auxiliary	-	-	-
+musica_no_1_6	5	23	mal	mal	rg	-	-	-	-
+musica_no_1_6	5	24	,	,	fc	-	-	-	-
+musica_no_1_6	5	25	me	me	pp1cs000	personal	-	-	-
+musica_no_1_6	5	26	recuerda	recordar	vmip3s0	main	-	-	-
+musica_no_1_6	5	27	a	a	sps00	preposition	-	-	-
+musica_no_1_6	5	28	Dilemma_de_Nelly	dilemma_de_nelly	np00000	proper	-	-	-
+musica_no_1_6	5	29	y	y	cc	coordinating	-	-	-
+musica_no_1_6	5	30	Kelly_Rowland	kelly_rowland	np00000	proper	-	-	-
+musica_no_1_6	5	31	.	.	fp	-	-	-	-
+
+musica_no_1_6	6	1	Las	el	da0fp0	article	***
+musica_no_1_6	6	2	únicas	único	aq0fp0	qualificative	***
+musica_no_1_6	6	3	que	que	pr0cn000	relative	***
+musica_no_1_6	6	4	se	se	p00cn000	-	***
+musica_no_1_6	6	5	salvan	salvar	vmip3p0	main	***
+musica_no_1_6	6	6	de	de	sps00	preposition	***
+musica_no_1_6	6	7	la	el	da0fs0	article	***
+musica_no_1_6	6	8	quema	quema	ncfs000	common	***
+musica_no_1_6	6	9	son	ser	vsip3p0	semiauxiliary	***
+musica_no_1_6	6	10	"	"	fe	-	***
+musica_no_1_6	6	11	Push_Up_On_Me	push_up_on_me	np00000	proper	***
+musica_no_1_6	6	12	"	"	fe	-	***
+musica_no_1_6	6	13	y	y	cc	coordinating	***
+musica_no_1_6	6	14	"	"	fe	-	***
+musica_no_1_6	6	15	Don't_Stop_The_Music	don't_stop_the_music	np00000	proper	***
+musica_no_1_6	6	16	"	"	fe	-	***
+musica_no_1_6	6	17	,	,	fc	-	***
+musica_no_1_6	6	18	suenan	sonar	vmip3p0	main	***
+musica_no_1_6	6	19	,	,	fc	-	***
+musica_no_1_6	6	20	a	a	sps00	preposition	***
+musica_no_1_6	6	21	el	el	da0ms0	article	***
+musica_no_1_6	6	22	menos	menos	rg	-	***
+musica_no_1_6	6	23	,	,	fc	-	***
+musica_no_1_6	6	24	diferente	diferente	aq0cs0	qualificative	***
+musica_no_1_6	6	25	,	,	fc	-	***
+musica_no_1_6	6	26	y	y	cc	coordinating	***
+musica_no_1_6	6	27	bastante	bastante	rg	-	***
+musica_no_1_6	6	28	bailable	bailable	aq0cs0	qualificative	***
+musica_no_1_6	6	29	...	...	fs	-	***
+musica_no_1_6	6	30	el	el	da0ms0	article	***
+musica_no_1_6	6	31	resto	resto	ncms000	common	***
+musica_no_1_6	6	32	de	de	sps00	preposition	***
+musica_no_1_6	6	33	las	el	da0fp0	article	***
+musica_no_1_6	6	34	canciones	canción	ncfp000	common	***
+musica_no_1_6	6	35	a	a	sps00	preposition	***
+musica_no_1_6	6	36	la	el	da0fs0	article	***
+musica_no_1_6	6	37	hoguera	hoguera	ncfs000	common	***
+musica_no_1_6	6	38	de	de	sps00	preposition	***
+musica_no_1_6	6	39	cabeza	cabeza	ncfs000	common	***
+musica_no_1_6	6	40	.	.	fp	-	***
+
+musica_no_1_6	7	1	Lo	lo	pp3cna00	personal	***
+musica_no_1_6	7	2	siento	sentar	vmip1s0	main	***
+musica_no_1_6	7	3	mucho	mucho	rg	-	***
+musica_no_1_6	7	4	Rihanna	rihanna	np00000	proper	***
+musica_no_1_6	7	5	,	,	fc	-	***
+musica_no_1_6	7	6	pero	pero	cc	coordinating	***
+musica_no_1_6	7	7	renovar	renovar	vmn0000	main	***
+musica_no_1_6	7	8	se	se	pp3cn000	personal	***
+musica_no_1_6	7	9	o	o	cc	coordinating	***
+musica_no_1_6	7	10	morir	morir	vmn0000	main	***
+musica_no_1_6	7	11	;	;	fx	-	***
+musica_no_1_6	7	12	)	)	fpt	-	***
+
+musica_no_1_6	8	1	Lista	lista	np00000	proper	***
+musica_no_1_6	8	2	de	de	sps00	preposition	***
+musica_no_1_6	8	3	canciones	canción	ncfp000	common	***
+musica_no_1_6	8	4	:	:	fd	-	***
+
+musica_no_1_6	9	1	Disco	disco	np00000	proper	***
+musica_no_1_6	9	2	1	1	z	-	***
+
+musica_no_1_6	10	1	1	1	z	-	***
+musica_no_1_6	10	2	.	.	fp	-	***
+musica_no_1_6	10	3	:	:	fd	-	***
+musica_no_1_6	10	4	Umbrella	umbrella	np00000	proper	***
+musica_no_1_6	10	5	-	-	fg	-	***
+musica_no_1_6	10	6	Rihanna_&_Jay-Z	rihanna_&_jay-z	np00000	proper	***
+
+musica_no_1_6	11	1	2	2	z	-	***
+musica_no_1_6	11	2	.	.	fp	-	***
+musica_no_1_6	11	3	:	:	fd	-	***
+musica_no_1_6	11	4	Push_Up_On_Me	push_up_on_me	np00000	proper	***
+
+musica_no_1_6	12	1	3	3	z	-	***
+musica_no_1_6	12	2	.	.	fp	-	***
+musica_no_1_6	12	3	:	:	fd	-	***
+musica_no_1_6	12	4	Don't_Stop_The_Music	don't_stop_the_music	np00000	proper	***
+
+musica_no_1_6	13	1	4	4	z	-	***
+musica_no_1_6	13	2	.	.	fp	-	***
+musica_no_1_6	13	3	:	:	fd	-	***
+musica_no_1_6	13	4	Breakin_'_Dishes	breakin'_dishes	np00000	proper	***
+
+musica_no_1_6	14	1	5	5	z	-	***
+musica_no_1_6	14	2	.	.	fp	-	***
+musica_no_1_6	14	3	:	:	fd	-	***
+musica_no_1_6	14	4	Shut_Up_And_Drive	shut_up_and_drive	np00000	proper	***
+
+musica_no_1_6	15	1	6	6	z	-	***
+musica_no_1_6	15	2	.	.	fp	-	***
+musica_no_1_6	15	3	:	:	fd	-	***
+musica_no_1_6	15	4	Hate_That_I_Love_You	hate_that_i_love_you	np00000	proper	***
+musica_no_1_6	15	5	-	-	fg	-	***
+musica_no_1_6	15	6	Rihanna_&_Ne-Yo	rihanna_&_ne-yo	np00000	proper	***
+
+musica_no_1_6	16	1	7	7	z	-	***
+musica_no_1_6	16	2	.	.	fp	-	***
+musica_no_1_6	16	3	:	:	fd	-	***
+musica_no_1_6	16	4	Say_It	say_it	np00000	proper	***
+
+musica_no_1_6	17	1	8	8	z	-	***
+musica_no_1_6	17	2	.	.	fp	-	***
+musica_no_1_6	17	3	:	:	fd	-	***
+musica_no_1_6	17	4	Sell_Me_Candy	sell_me_candy	np00000	proper	***
+
+musica_no_1_6	18	1	9	9	z	-	***
+musica_no_1_6	18	2	.	.	fp	-	***
+musica_no_1_6	18	3	:	:	fd	-	***
+musica_no_1_6	18	4	Lemme_Get_That	lemme_get_that	np00000	proper	***
+
+musica_no_1_6	19	1	10	10	z	-	***
+musica_no_1_6	19	2	.	.	fp	-	***
+musica_no_1_6	19	3	:	:	fd	-	***
+musica_no_1_6	19	4	Rehab	rehab	np00000	proper	***
+
+musica_no_1_6	20	1	11	11	z	-	***
+musica_no_1_6	20	2	.	.	fp	-	***
+musica_no_1_6	20	3	:	:	fd	-	***
+musica_no_1_6	20	4	Question_Existing	question_existing	np00000	proper	***
+
+musica_no_1_6	21	1	12	12	z	-	***
+musica_no_1_6	21	2	.	.	fp	-	***
+musica_no_1_6	21	3	:	:	fd	-	***
+musica_no_1_6	21	4	Good_Girl_Gone_Bad	good_girl_gone_bad	np00000	proper	***
+
+musica_no_1_6	22	1	13	13	z	-	***
+musica_no_1_6	22	2	.	.	fp	-	***
+musica_no_1_6	22	3	:	:	fd	-	***
+musica_no_1_6	22	4	Cry	cry	np00000	proper	***
+
+musica_no_1_6	23	1	Disco	disco	npms000	common	***
+musica_no_1_6	23	2	2	2	z	-	***
+
+musica_no_1_6	24	1	1	1	z	-	***
+musica_no_1_6	24	2	.	.	fp	-	***
+musica_no_1_6	24	3	:	:	fd	-	***
+musica_no_1_6	24	4	Umbrella	umbrella	np00000	proper	***
+musica_no_1_6	24	5	(	(	fpa	-	***
+musica_no_1_6	24	6	Seamus_Haji	seamus_haji	np00000	proper	***
+musica_no_1_6	24	7	and	and	ncfs000	common	***
+musica_no_1_6	24	8	Paul_Emanual	paul_emanual	np00000	proper	***
+musica_no_1_6	24	9	club	club	ncms000	common	***
+musica_no_1_6	24	10	remix	remix	ncmn000	common	***
+musica_no_1_6	24	11	)	)	fpt	-	***
+
+musica_no_1_6	25	1	2	2	z	-	***
+musica_no_1_6	25	2	.	.	fp	-	***
+musica_no_1_6	25	3	:	:	fd	-	***
+musica_no_1_6	25	4	Breakin_'_Dishes	breakin'_dishes	np00000	proper	***
+musica_no_1_6	25	5	(	(	fpa	-	***
+musica_no_1_6	25	6	Soul_Seekerz	soul_seekerz	np00000	proper	***
+musica_no_1_6	25	7	remix	remix	ncmn000	common	***
+musica_no_1_6	25	8	)	)	fpt	-	***
+
+musica_no_1_6	26	1	3	3	z	-	***
+musica_no_1_6	26	2	.	.	fp	-	***
+musica_no_1_6	26	3	:	:	fd	-	***
+musica_no_1_6	26	4	Don't_Stop_The_Music	don't_stop_the_music	np00000	proper	***
+musica_no_1_6	26	5	(	(	fpa	-	***
+musica_no_1_6	26	6	Wideboys	wideboys	np00000	proper	***
+musica_no_1_6	26	7	club	club	ncms000	common	***
+musica_no_1_6	26	8	mix	mix	ncmn000	common	***
+musica_no_1_6	26	9	)	)	fpt	-	***
+
+musica_no_1_6	27	1	4	4	z	-	***
+musica_no_1_6	27	2	.	.	fp	-	***
+musica_no_1_6	27	3	:	:	fd	-	***
+musica_no_1_6	27	4	Question_Existing	question_existing	np00000	proper	***
+musica_no_1_6	27	5	(	(	fpa	-	***
+musica_no_1_6	27	6	Wideboys	wideboys	np00000	proper	***
+musica_no_1_6	27	7	club	club	ncms000	common	***
+musica_no_1_6	27	8	mix	mix	ncmn000	common	***
+musica_no_1_6	27	9	)	)	fpt	-	***
+
+musica_no_1_6	28	1	5	5	z	-	***
+musica_no_1_6	28	2	.	.	fp	-	***
+musica_no_1_6	28	3	:	:	fd	-	***
+musica_no_1_6	28	4	Hate_That_I_Love_You	hate_that_i_love_you	np00000	proper	***
+musica_no_1_6	28	5	(	(	fpa	-	***
+musica_no_1_6	28	6	K-Klassic	k-klassic	np00000	proper	***
+musica_no_1_6	28	7	remix	remix	ncmn000	common	***
+musica_no_1_6	28	8	)	)	fpt	-	***
+
+musica_no_1_6	29	1	6	6	z	-	***
+musica_no_1_6	29	2	.	.	fp	-	***
+musica_no_1_6	29	3	:	:	fd	-	***
+musica_no_1_6	29	4	Push_Up_On_Me	push_up_on_me	np00000	proper	***
+musica_no_1_6	29	5	(	(	fpa	-	***
+musica_no_1_6	29	6	Moto_Blanco	moto_blanco	np00000	proper	***
+musica_no_1_6	29	7	club	club	ncms000	common	***
+musica_no_1_6	29	8	mix	mix	ncmn000	common	***
+musica_no_1_6	29	9	)	)	fpt	-	***
+
+musica_no_1_6	30	1	7	7	z	-	***
+musica_no_1_6	30	2	.	.	fp	-	***
+musica_no_1_6	30	3	:	:	fd	-	***
+musica_no_1_6	30	4	Good_Girl_Gone_Bad	good_girl_gone_bad	np00000	proper	***
+musica_no_1_6	30	5	(	(	fpa	-	***
+musica_no_1_6	30	6	Soul_Seekerz	soul_seekerz	np00000	proper	***
+musica_no_1_6	30	7	remix	remix	ncmn000	common	***
+musica_no_1_6	30	8	)	)	fpt	-	***
+
+musica_no_1_6	31	1	8	8	z	-	***
+musica_no_1_6	31	2	.	.	fp	-	***
+musica_no_1_6	31	3	:	:	fd	-	***
+musica_no_1_6	31	4	Haunted	haunted	np00000	proper	***
+musica_no_1_6	31	5	(	(	fpa	-	***
+musica_no_1_6	31	6	Steve_Mac	steve_mac	np00000	proper	***
+musica_no_1_6	31	7	classic	classic	rg	-	***
+musica_no_1_6	31	8	mix	mix	aq0cn0	qualificative	***
+musica_no_1_6	31	9	)	)	fpt	-	***
+
+musica_no_1_6	32	1	9	9	z	-	***
+musica_no_1_6	32	2	.	.	fp	-	***
+musica_no_1_6	32	3	:	:	fd	-	***
+musica_no_1_6	32	4	Say_It	say_it	np00000	proper	***
+musica_no_1_6	32	5	(	(	fpa	-	***
+musica_no_1_6	32	6	Soul_Seekerz	soul_seekerz	np00000	proper	***
+musica_no_1_6	32	7	remix	remix	ncmn000	common	***
+musica_no_1_6	32	8	)	)	fpt	-	***
+
+musica_no_1_6	33	1	10	10	z	-	***
+musica_no_1_6	33	2	.	.	fp	-	***
+musica_no_1_6	33	3	:	:	fd	-	***
+musica_no_1_6	33	4	Cry	cry	np00000	proper	***
+musica_no_1_6	33	5	(	(	fpa	-	***
+musica_no_1_6	33	6	Steve_Mac	steve_mac	np00000	proper	***
+musica_no_1_6	33	7	classic	classic	rg	-	***
+musica_no_1_6	33	8	mix	mix	aq0cn0	qualificative	***
+musica_no_1_6	33	9	)	)	fpt	-	***
+
+musica_no_1_6	34	1	11	11	z	-	***
+musica_no_1_6	34	2	.	.	fp	-	***
+musica_no_1_6	34	3	:	:	fd	-	***
+musica_no_1_6	34	4	SOS	sos	np00000	proper	***
+musica_no_1_6	34	5	(	(	fpa	-	***
+musica_no_1_6	34	6	Digital_Dog	digital_dog	np00000	proper	***
+musica_no_1_6	34	7	remix	remix	ncmn000	common	***
+musica_no_1_6	34	8	)	)	fpt	-	***
+
+musica_no_2_11	1	1	Soy	ser	vsip1s0	semiauxiliary	***
+musica_no_2_11	1	2	fan	fan	nccs000	common	***
+musica_no_2_11	1	3	,	,	fc	-	***
+musica_no_2_11	1	4	super	super	aq0cn0	qualificative	***
+musica_no_2_11	1	5	fan	fan	nccs000	common	***
+musica_no_2_11	1	6	de	de	sps00	preposition	***
+musica_no_2_11	1	7	estos	este	dd0mp0	demonstrative	***
+musica_no_2_11	1	8	chicos	chico	ncmp000	common	***
+musica_no_2_11	1	9	,	,	fc	-	***
+musica_no_2_11	1	10	pero	pero	cc	coordinating	***
+musica_no_2_11	1	11	hasta	hasta	sps00	preposition	***
+musica_no_2_11	1	12	yo	yo	pp1csn00	personal	***
+musica_no_2_11	1	13	que	que	pr0cn000	relative	***
+musica_no_2_11	1	14	los	lo	pp3mpa00	personal	***
+musica_no_2_11	1	15	adoro	adorar	vmip1s0	main	***
+musica_no_2_11	1	16	,	,	fc	-	***
+musica_no_2_11	1	17	reconozco	reconocer	vmip1s0	main	***
+musica_no_2_11	1	18	que	que	cs	subordinating	***
+musica_no_2_11	1	19	salvo	salvo	sps00	preposition	***
+musica_no_2_11	1	20	alguna	alguno	di0fs0	indefinite	***
+musica_no_2_11	1	21	cancion	cancion	ncms000	common	***
+musica_no_2_11	1	22	,	,	fc	-	***
+musica_no_2_11	1	23	este	este	dd0ms0	demonstrative	***
+musica_no_2_11	1	24	disco	disco	ncms000	common	***
+musica_no_2_11	1	25	se	se	p00cn000	-	***
+musica_no_2_11	1	26	lo	lo	pp3cna00	personal	***
+musica_no_2_11	1	27	podian	podian	vmip3p0	main	***
+musica_no_2_11	1	28	haber	haber	van0000	auxiliary	***
+musica_no_2_11	1	29	ahorrado	ahorrar	vmp00sm	main	***
+musica_no_2_11	1	30	.	.	fp	-	***
+
+musica_no_2_11	2	1	Puede	poder	vmip3s0	main	-	-	-
+musica_no_2_11	2	2	que	que	cs	subordinating	-	-	-
+musica_no_2_11	2	3	algun	algun	rg	-	-	-	-
+musica_no_2_11	2	4	fan	fan	nccs000	common	-	-	-
+musica_no_2_11	2	5	que	que	cs	subordinating	-	-	-
+musica_no_2_11	2	6	lea	leer	vmsp3s0	main	-	-	-
+musica_no_2_11	2	7	esto	este	pd0ns000	demonstrative	-	-	-
+musica_no_2_11	2	8	no	no	rn	negative	no	-	-
+musica_no_2_11	2	9	este	estar	vasp3s0	semiauxiliary	-	-	-
+musica_no_2_11	2	10	de	de	sps00	preposition	-	-	-
+musica_no_2_11	2	11	acuerdo	acuerdo	ncms000	common	-	-	-
+musica_no_2_11	2	12	,	,	fc	-	-	-	-
+musica_no_2_11	2	13	lo	el	da0ns0	article	-	-	-
+musica_no_2_11	2	14	respeto	respeto	ncms000	common	-	-	-
+musica_no_2_11	2	15	,	,	fc	-	-	-	-
+musica_no_2_11	2	16	claro	claro	rg	-	-	-	-
+musica_no_2_11	2	17	que	que	cs	subordinating	-	-	-
+musica_no_2_11	2	18	si	si	cs	subordinating	-	-	-
+musica_no_2_11	2	19	,	,	fc	-	-	-	-
+musica_no_2_11	2	20	pero	pero	cc	coordinating	-	-	-
+musica_no_2_11	2	21	a	a	sps00	preposition	-	-	-
+musica_no_2_11	2	22	mi	mi	dp1css	possessive	-	-	-
+musica_no_2_11	2	23	me	me	pp1cs000	personal	-	-	-
+musica_no_2_11	2	24	dejo	dejo	ncms000	common	-	-	-
+musica_no_2_11	2	25	fria	fria	aq0fs0	qualificative	-	-	-
+musica_no_2_11	2	26	.	.	fp	-	-	-	-
+
+musica_no_2_11	3	1	My	my	np00000	proper	***
+musica_no_2_11	3	2	friends	friends	vmip1p0	main	***
+musica_no_2_11	3	3	o	o	cc	coordinating	***
+musica_no_2_11	3	4	aeroplane	aeroplane	vmip3s0	main	***
+musica_no_2_11	3	5	,	,	fc	-	***
+musica_no_2_11	3	6	son	ser	vsip3p0	semiauxiliary	***
+musica_no_2_11	3	7	temas	tema	ncmp000	common	***
+musica_no_2_11	3	8	que	que	pr0cn000	relative	***
+musica_no_2_11	3	9	me	me	pp1cs000	personal	***
+musica_no_2_11	3	10	gustan	gustar	vmip3p0	main	***
+musica_no_2_11	3	11	mucho	mucho	rg	-	***
+musica_no_2_11	3	12	lo	lo	pp3cna00	personal	***
+musica_no_2_11	3	13	reconozco	reconocer	vmip1s0	main	***
+musica_no_2_11	3	14	,	,	fc	-	***
+musica_no_2_11	3	15	pero	pero	cc	coordinating	***
+musica_no_2_11	3	16	de	de	sps00	preposition	***
+musica_no_2_11	3	17	ahi	ahi	ncms000	common	***
+musica_no_2_11	3	18	a	a	sps00	preposition	***
+musica_no_2_11	3	19	decir	decir	vmn0000	main	***
+musica_no_2_11	3	20	algo	algo	pi0cs000	indefinite	***
+musica_no_2_11	3	21	bueno	bueno	aq0ms0	qualificative	***
+musica_no_2_11	3	22	de	de	sps00	preposition	***
+musica_no_2_11	3	23	este	este	dd0ms0	demonstrative	***
+musica_no_2_11	3	24	disco	disco	ncms000	common	***
+musica_no_2_11	3	25	,	,	fc	-	***
+musica_no_2_11	3	26	me	me	pp1cs000	personal	***
+musica_no_2_11	3	27	lo	lo	pp3cna00	personal	***
+musica_no_2_11	3	28	pone	poner	vmip3s0	main	***
+musica_no_2_11	3	29	dificil	dificil	aq0cs0	qualificative	***
+musica_no_2_11	3	30	.	.	fp	-	***
+
+musica_no_2_11	4	1	La	el	da0fs0	article	-	-	-	-	-	-
+musica_no_2_11	4	2	ausencia	ausencia	ncfs000	common	-	-	-	-	-	-
+musica_no_2_11	4	3	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	4	John_Frusciante	john_frusciante	np00000	proper	-	-	-	-	-	-
+musica_no_2_11	4	5	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	6	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_2_11	4	7	guitarrista	guitarrista	nccs000	common	-	-	-	-	-	-
+musica_no_2_11	4	8	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	9	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+musica_no_2_11	4	10	convierte	convertir	vmip3s0	main	-	-	-	-	-	-
+musica_no_2_11	4	11	en	en	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	12	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+musica_no_2_11	4	13	disco	disco	ncms000	common	-	-	-	-	-	-
+musica_no_2_11	4	14	olvidable	olvidable	aq0cs0	qualificative	-	-	-	-	-	-
+musica_no_2_11	4	15	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	16	ya_que	ya_que	cs	subordinating	-	-	-	-	-	-
+musica_no_2_11	4	17	Dave_Navarro	dave_navarro	np00000	proper	-	-	-	-	-	-
+musica_no_2_11	4	18	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	19	con	con	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	20	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_2_11	4	21	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_no_2_11	4	22	no	no	rn	negative	no	-	-	-	-	-
+musica_no_2_11	4	23	acabaron	acabar	vmis3p0	main	-	-	-	-	-	-
+musica_no_2_11	4	24	muy	muy	rg	-	-	-	-	-	-	-
+musica_no_2_11	4	25	bien	bien	rg	-	-	-	-	-	-	-
+musica_no_2_11	4	26	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	27	no	no	rn	negative	-	-	-	no	-	-
+musica_no_2_11	4	28	consiguio	consiguio	vmis3s0	main	-	-	-	-	-	-
+musica_no_2_11	4	29	intagra	integrar	vmn0000	main	-	-	-	-	-	-
+musica_no_2_11	4	30	se	se	pp3cs000	personal	-	-	-	-	-	-
+musica_no_2_11	4	31	en	en	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	32	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_2_11	4	33	grupo	grupo	ncms000	common	-	-	-	-	-	-
+musica_no_2_11	4	34	,	,	fc	-	-	-	-	-	-	-
+musica_no_2_11	4	35	su	su	dp3cs0	possessive	-	-	-	-	-	-
+musica_no_2_11	4	36	estilo	estilo	ncms000	common	-	-	-	-	-	-
+musica_no_2_11	4	37	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	38	musica	musicar	vmip3s0	main	-	-	-	-	-	-
+musica_no_2_11	4	39	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-
+musica_no_2_11	4	40	diferente	diferente	aq0cs0	qualificative	-	-	-	-	-	-
+musica_no_2_11	4	41	a	a	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	42	esta	este	dd0fs0	demonstrative	-	-	-	-	-	-
+musica_no_2_11	4	43	mezcla	mezcla	ncfs000	common	-	-	-	-	-	-
+musica_no_2_11	4	44	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	45	punk	punk	ncmn000	common	-	-	-	-	-	-
+musica_no_2_11	4	46	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_2_11	4	47	rock	rock	ncms000	common	-	-	-	-	-	-
+musica_no_2_11	4	48	que	que	cs	subordinating	-	-	-	-	-	-
+musica_no_2_11	4	49	los	el	da0mp0	article	-	-	-	-	-	-
+musica_no_2_11	4	50	hacia	hacia	sps00	preposition	-	-	-	-	-	-
+musica_no_2_11	4	51	unicos	unicos	aq0mp0	qualificative	-	-	-	-	-	-
+musica_no_2_11	4	52	.	.	fp	-	-	-	-	-	-	-
+
+musica_no_2_11	5	1	Por	por	sps00	preposition	-	-	-
+musica_no_2_11	5	2	suerte	suerte	ncfs000	common	-	-	-
+musica_no_2_11	5	3	solo	solo	aq0ms0	qualificative	-	-	-
+musica_no_2_11	5	4	hubo	haber	vmis3s0	main	-	-	-
+musica_no_2_11	5	5	uno	uno	pi0ms000	indefinite	-	-	-
+musica_no_2_11	5	6	con	con	sps00	preposition	-	-	-
+musica_no_2_11	5	7	el	el	da0ms0	article	-	-	-
+musica_no_2_11	5	8	,	,	fc	-	-	-	-
+musica_no_2_11	5	9	que	que	cs	subordinating	-	-	-
+musica_no_2_11	5	10	no	no	rn	negative	no	-	-
+musica_no_2_11	5	11	digo	decir	vmip1s0	main	-	-	-
+musica_no_2_11	5	12	que	que	cs	subordinating	-	-	-
+musica_no_2_11	5	13	sea	ser	vssp1s0	semiauxiliary	-	-	-
+musica_no_2_11	5	14	mal	mal	rg	-	-	-	-
+musica_no_2_11	5	15	guitarra	guitarra	ncfs000	common	-	-	-
+musica_no_2_11	5	16	,	,	fc	-	-	-	-
+musica_no_2_11	5	17	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_2_11	5	18	que	que	cs	subordinating	-	-	-
+musica_no_2_11	5	19	a	a	sps00	preposition	-	-	-
+musica_no_2_11	5	20	mi	mi	dp1css	possessive	-	-	-
+musica_no_2_11	5	21	me	me	pp1cs000	personal	-	-	-
+musica_no_2_11	5	22	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_2_11	5	23	indiferente	indiferente	aq0cs0	qualificative	-	-	-
+musica_no_2_11	5	24	.	.	fp	-	-	-	-
+
+musica_no_2_11	6	1	Mi	mi	np00000	proper	***
+musica_no_2_11	6	2	recomendacion	recomendacion	vmis3p0	main	***
+musica_no_2_11	6	3	es	ser	vsip3s0	semiauxiliary	***
+musica_no_2_11	6	4	que	que	cs	subordinating	***
+musica_no_2_11	6	5	busqueis	busqueis	vmsi2p0	main	***
+musica_no_2_11	6	6	cualquiera	cualquiera	pi0cs000	indefinite	***
+musica_no_2_11	6	7	de	de	sps00	preposition	***
+musica_no_2_11	6	8	sus	su	dp3cp0	possessive	***
+musica_no_2_11	6	9	discos	disco	ncmp000	common	***
+musica_no_2_11	6	10	antes	antes	rg	-	***
+musica_no_2_11	6	11	que	que	cs	subordinating	***
+musica_no_2_11	6	12	este	este	dd0ms0	demonstrative	***
+musica_no_2_11	6	13	y	y	cc	coordinating	***
+musica_no_2_11	6	14	luego	luego	rg	-	***
+musica_no_2_11	6	15	comparais	comparais	ncfn000	common	***
+musica_no_2_11	6	16	.	.	fp	-	***
+
+musica_no_2_11	7	1	Un	uno	di0ms0	indefinite	***
+musica_no_2_11	7	2	saludo	saludo	ncms000	common	***
+
+musica_no_1_8	1	1	¡	¡	faa	-	***
+musica_no_1_8	1	2	¡	¡	faa	-	***
+musica_no_1_8	1	3	¡	¡	faa	-	***
+musica_no_1_8	1	4	Hola	hola	i	-	***
+musica_no_1_8	1	5	amigüitos	amigüitos	ncmp000	common	***
+musica_no_1_8	1	6	!	!	fat	-	***
+musica_no_1_8	1	7	!	!	fat	-	***
+musica_no_1_8	1	8	!	!	fat	-	***
+
+musica_no_1_8	2	1	Como	como	cs	subordinating	***
+musica_no_1_8	2	2	este	este	dd0ms0	demonstrative	***
+musica_no_1_8	2	3	finde	finde	ncms000	common	***
+musica_no_1_8	2	4	he	haber	vaip1s0	auxiliary	***
+musica_no_1_8	2	5	estado	estar	vap00sm	auxiliary	***
+musica_no_1_8	2	6	en	en	sps00	preposition	***
+musica_no_1_8	2	7	casita	casita	ncfs000	common	***
+musica_no_1_8	2	8	a_causa_de	a_causa_de	sps00	preposition	***
+musica_no_1_8	2	9	un	uno	di0ms0	indefinite	***
+musica_no_1_8	2	10	mini-catarro	mini-catarro	ncms000	common	***
+musica_no_1_8	2	11	,	,	fc	-	***
+musica_no_1_8	2	12	el	el	da0ms0	article	***
+musica_no_1_8	2	13	sábado	sábado	ncms000	common	***
+musica_no_1_8	2	14	estuve	estar	vais1s0	auxiliary	***
+musica_no_1_8	2	15	viendo	ver	vmg0000	main	***
+musica_no_1_8	2	16	la	el	da0fs0	article	***
+musica_no_1_8	2	17	gala	gala	ncfs000	common	***
+musica_no_1_8	2	18	de	de	sps00	preposition	***
+musica_no_1_8	2	19	los	el	da0mp0	article	***
+musica_no_1_8	2	20	40	40	z	-	***
+musica_no_1_8	2	21	principales	principal	ncmp000	common	***
+musica_no_1_8	2	22	(	(	fpa	-	***
+musica_no_1_8	2	23	o	o	cc	coordinating	***
+musica_no_1_8	2	24	40	40	z	-	***
+musica_no_1_8	2	25	apedreables	apedreables	aq0cp0	qualificative	***
+musica_no_1_8	2	26	,	,	fc	-	***
+musica_no_1_8	2	27	como	como	cs	subordinating	***
+musica_no_1_8	2	28	lo	lo	pp3cna00	personal	***
+musica_no_1_8	2	29	queráis	querer	vmsp2p0	main	***
+musica_no_1_8	2	30	llamar	llamar	vmn0000	main	***
+musica_no_1_8	2	31	jeje	jeje	ncms000	common	***
+musica_no_1_8	2	32	)	)	fpt	-	***
+musica_no_1_8	2	33	.	.	fp	-	***
+
+musica_no_1_8	3	1	Asi	asi	np00000	proper	***
+musica_no_1_8	3	2	que	que	pr0cn000	relative	***
+musica_no_1_8	3	3	pude	poder	vmis1s0	main	***
+musica_no_1_8	3	4	comprobar	comprobar	vmn0000	main	***
+musica_no_1_8	3	5	que	que	cs	subordinating	***
+musica_no_1_8	3	6	las	el	da0fp0	article	***
+musica_no_1_8	3	7	niñas	niño	ncfp000	common	***
+musica_no_1_8	3	8	españolas	español	aq0fp0	qualificative	***
+musica_no_1_8	3	9	y	y	cc	coordinating	***
+musica_no_1_8	3	10	adolescentes	adolescente	aq0cp0	qualificative	***
+musica_no_1_8	3	11	en	en	sps00	preposition	***
+musica_no_1_8	3	12	plena	pleno	aq0fs0	qualificative	***
+musica_no_1_8	3	13	edad	edad	ncfs000	common	***
+musica_no_1_8	3	14	de	de	sps00	preposition	***
+musica_no_1_8	3	15	el	el	da0ms0	article	***
+musica_no_1_8	3	16	pavo	pavo	ncms000	common	***
+musica_no_1_8	3	17	están	estar	vaip3p0	auxiliary	***
+musica_no_1_8	3	18	locas	loco	aq0fp0	qualificative	***
+musica_no_1_8	3	19	por	por	sps00	preposition	***
+musica_no_1_8	3	20	Tokio_Hotel	tokio_hotel	np00000	proper	***
+musica_no_1_8	3	21	y	y	cc	coordinating	***
+musica_no_1_8	3	22	lo	lo	pp3cna00	personal	***
+musica_no_1_8	3	23	¿	¿	fia	-	***
+musica_no_1_8	3	24	buenos	bueno	aq0mp0	qualificative	***
+musica_no_1_8	3	25	?	?	fit	-	***
+musica_no_1_8	3	26	que	que	cs	subordinating	***
+musica_no_1_8	3	27	están	estar	vaip3p0	auxiliary	***
+musica_no_1_8	3	28	los	el	da0mp0	article	***
+musica_no_1_8	3	29	hermanos	hermano	ncmp000	common	***
+musica_no_1_8	3	30	gemelos	gemelo	aq0mp0	qualificative	***
+musica_no_1_8	3	31	Tom	tom	np00000	proper	***
+musica_no_1_8	3	32	y	y	cc	coordinating	***
+musica_no_1_8	3	33	Bill_Kaulitz	bill_kaulitz	np00000	proper	***
+musica_no_1_8	3	34	a	a	sps00	preposition	***
+musica_no_1_8	3	35	la	el	da0fs0	article	***
+musica_no_1_8	3	36	guitarra	guitarra	ncfs000	common	***
+musica_no_1_8	3	37	y	y	cc	coordinating	***
+musica_no_1_8	3	38	a	a	sps00	preposition	***
+musica_no_1_8	3	39	la	el	da0fs0	article	***
+musica_no_1_8	3	40	voz	voz	ncfs000	common	***
+musica_no_1_8	3	41	respectivamente	respectivamente	rg	-	***
+musica_no_1_8	3	42	.	.	fp	-	***
+
+musica_no_1_8	4	1	Tokio_Hotel	tokio_hotel	np00000	proper	-	-	-
+musica_no_1_8	4	2	son	ser	vsip3p0	semiauxiliary	-	-	-
+musica_no_1_8	4	3	los	el	da0mp0	article	-	-	-
+musica_no_1_8	4	4	nuevos	nuevo	aq0mp0	qualificative	-	-	-
+musica_no_1_8	4	5	idolos	idolos	ncmp000	common	-	-	-
+musica_no_1_8	4	6	de	de	sps00	preposition	-	-	-
+musica_no_1_8	4	7	quinceañeras	quinceañero	ncfp000	common	-	-	-
+musica_no_1_8	4	8	,	,	fc	-	-	-	-
+musica_no_1_8	4	9	con	con	sps00	preposition	-	-	-
+musica_no_1_8	4	10	un	uno	di0ms0	indefinite	-	-	-
+musica_no_1_8	4	11	estilo	estilo	ncms000	common	-	-	-
+musica_no_1_8	4	12	no	no	rn	negative	no	-	-
+musica_no_1_8	4	13	tan	tan	rg	-	-	-	-
+musica_no_1_8	4	14	pasteloso	pasteloso	aq0ms0	qualificative	-	-	-
+musica_no_1_8	4	15	como	como	cs	subordinating	-	-	-
+musica_no_1_8	4	16	los	el	da0mp0	article	-	-	-
+musica_no_1_8	4	17	antiguos	antiguo	aq0mp0	qualificative	-	-	-
+musica_no_1_8	4	18	idolos	idolos	ncmp000	common	-	-	-
+musica_no_1_8	4	19	de	de	sps00	preposition	-	-	-
+musica_no_1_8	4	20	adolescentes	adolescente	nccp000	common	-	-	-
+musica_no_1_8	4	21	de	de	sps00	preposition	-	-	-
+musica_no_1_8	4	22	los	el	da0mp0	article	-	-	-
+musica_no_1_8	4	23	años	año	ncmp000	common	-	-	-
+musica_no_1_8	4	24	80	80	z	-	-	-	-
+musica_no_1_8	4	25	y	y	cc	coordinating	-	-	-
+musica_no_1_8	4	26	90	90	z	-	-	-	-
+musica_no_1_8	4	27	Take_That	take_that	np00000	proper	-	-	-
+musica_no_1_8	4	28	,	,	fc	-	-	-	-
+musica_no_1_8	4	29	Backstreet	backstreet	np00000	proper	-	-	-
+musica_no_1_8	4	30	boys	boys	aq0cp0	qualificative	-	-	-
+musica_no_1_8	4	31	,	,	fc	-	-	-	-
+musica_no_1_8	4	32	New_Kids_On_The_Block	new_kids_on_the_block	np00000	proper	-	-	-
+musica_no_1_8	4	33	...	...	fs	-	-	-	-
+
+musica_no_1_8	5	1	Los	el	da0mp0	article	-	-	-
+musica_no_1_8	5	2	Tokio_Hotel	tokio_hotel	np00000	proper	-	-	-
+musica_no_1_8	5	3	vienen	venir	vmip3p0	main	-	-	-
+musica_no_1_8	5	4	cañeros	cañeros	ncmp000	common	-	-	-
+musica_no_1_8	5	5	con	con	sps00	preposition	-	-	-
+musica_no_1_8	5	6	un	uno	di0ms0	indefinite	-	-	-
+musica_no_1_8	5	7	sonido	sonido	ncms000	common	-	-	-
+musica_no_1_8	5	8	e	y	cc	coordinating	-	-	-
+musica_no_1_8	5	9	imagen	imagen	ncfs000	common	-	-	-
+musica_no_1_8	5	10	alternativo	alternativo	aq0ms0	qualificative	-	-	-
+musica_no_1_8	5	11	porque	porque	cs	subordinating	-	-	-
+musica_no_1_8	5	12	perdonad	perdonar	vmm02p0	main	-	-	-
+musica_no_1_8	5	13	me	me	pp1cs000	personal	-	-	-
+musica_no_1_8	5	14	pero	pero	cc	coordinating	-	-	-
+musica_no_1_8	5	15	eso	ese	pd0ns000	demonstrative	-	-	-
+musica_no_1_8	5	16	no	no	rn	negative	no	-	-
+musica_no_1_8	5	17	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_1_8	5	18	rock	rock	ncms000	common	-	-	-
+musica_no_1_8	5	19	ni_por_asomo	ni_por_asomo	rg	-	-	-	-
+musica_no_1_8	5	20	.	.	fp	-	-	-	-
+
+musica_no_1_8	6	1	El	el	da0ms0	article	-	-	-
+musica_no_1_8	6	2	rock	rock	ncms000	common	-	-	-
+musica_no_1_8	6	3	de	de	sps00	preposition	-	-	-
+musica_no_1_8	6	4	el	el	da0ms0	article	-	-	-
+musica_no_1_8	6	5	bueno	bueno	aq0ms0	qualificative	-	-	-
+musica_no_1_8	6	6	es	ser	vsip3s0	semiauxiliary	-	-	-
+musica_no_1_8	6	7	el	el	da0ms0	article	-	-	-
+musica_no_1_8	6	8	de	de	sps00	preposition	-	-	-
+musica_no_1_8	6	9	Kiss	kiss	np00000	proper	-	-	-
+musica_no_1_8	6	10	,	,	fc	-	-	-	-
+musica_no_1_8	6	11	Led_Zeppelin	led_zeppelin	np00000	proper	-	-	-
+musica_no_1_8	6	12	,	,	fc	-	-	-	-
+musica_no_1_8	6	13	Aerosmith	aerosmith	np00000	proper	-	-	-
+musica_no_1_8	6	14	,	,	fc	-	-	-	-
+musica_no_1_8	6	15	Guns_N	guns_n	np00000	proper	-	-	-
+musica_no_1_8	6	16	'	'	fe	-	-	-	-
+musica_no_1_8	6	17	Roses	roses	np00000	proper	-	-	-
+musica_no_1_8	6	18	...	...	fs	-	-	-	-
+musica_no_1_8	6	19	y	y	cc	coordinating	-	-	-
+musica_no_1_8	6	20	no	no	rn	negative	no	-	-
+musica_no_1_8	6	21	estos	este	dd0mp0	demonstrative	-	-	-
+musica_no_1_8	6	22	niñatos	niñato	ncmp000	common	-	-	-
+musica_no_1_8	6	23	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	6	24	encima	encima	rg	-	-	-	-
+musica_no_1_8	6	25	desafinan	desafinar	vmip3p0	main	-	-	-
+musica_no_1_8	6	26	una	uno	di0fs0	indefinite	-	-	-
+musica_no_1_8	6	27	barabaridad	barabaridad	ncfs000	common	-	-	-
+musica_no_1_8	6	28	.	.	fp	-	-	-	-
+
+musica_no_1_8	7	1	Si	si	np00000	proper	***
+musica_no_1_8	7	2	esto	este	pd0ns000	demonstrative	***
+musica_no_1_8	7	3	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_8	7	4	música	música	ncfs000	common	***
+musica_no_1_8	7	5	que	que	pr0cn000	relative	***
+musica_no_1_8	7	6	baje	bajar	vmsp3s0	main	***
+musica_no_1_8	7	7	Dios	dios	np00000	proper	***
+musica_no_1_8	7	8	y	y	cc	coordinating	***
+musica_no_1_8	7	9	lo	lo	pp3cna00	personal	***
+musica_no_1_8	7	10	vea	ver	vmsp3s0	main	***
+musica_no_1_8	7	11	...	...	fs	-	***
+
+musica_no_1_8	8	1	Los	el	da0mp0	article	***
+musica_no_1_8	8	2	Tokio_Hotel	tokio_hotel	np00000	proper	***
+musica_no_1_8	8	3	son	ser	vsip3p0	semiauxiliary	***
+musica_no_1_8	8	4	un	uno	di0ms0	indefinite	***
+musica_no_1_8	8	5	grupo	grupo	ncms000	common	***
+musica_no_1_8	8	6	alemám	alemám	ncms000	common	***
+musica_no_1_8	8	7	compuesto	componer	vmp00sm	main	***
+musica_no_1_8	8	8	por	por	sps00	preposition	***
+musica_no_1_8	8	9	4	4	z	-	***
+musica_no_1_8	8	10	componentes	componente	nccp000	common	***
+musica_no_1_8	8	11	(	(	fpa	-	***
+musica_no_1_8	8	12	guitarra	guitarra	ncfs000	common	***
+musica_no_1_8	8	13	,	,	fc	-	***
+musica_no_1_8	8	14	bajo	bajo	aq0ms0	qualificative	***
+musica_no_1_8	8	15	,	,	fc	-	***
+musica_no_1_8	8	16	bateria	bateria	ncfs000	common	***
+musica_no_1_8	8	17	y	y	cc	coordinating	***
+musica_no_1_8	8	18	voz	voz	ncfs000	common	***
+musica_no_1_8	8	19	)	)	fpt	-	***
+musica_no_1_8	8	20	y	y	cc	coordinating	***
+musica_no_1_8	8	21	liderado	liderar	vmp00sm	main	***
+musica_no_1_8	8	22	por	por	sps00	preposition	***
+musica_no_1_8	8	23	los	el	da0mp0	article	***
+musica_no_1_8	8	24	gemelos	gemelo	ncmp000	common	***
+musica_no_1_8	8	25	Bill	bill	np00000	proper	***
+musica_no_1_8	8	26	y	y	cc	coordinating	***
+musica_no_1_8	8	27	Tom	tom	np00000	proper	***
+musica_no_1_8	8	28	.	.	fp	-	***
+
+musica_no_1_8	9	1	Mientras_que	mientras_que	cs	subordinating	***
+musica_no_1_8	9	2	Tom	tom	np00000	proper	***
+musica_no_1_8	9	3	toca	tocar	vmip3s0	main	***
+musica_no_1_8	9	4	la	el	da0fs0	article	***
+musica_no_1_8	9	5	guitarra	guitarra	ncfs000	common	***
+musica_no_1_8	9	6	eléctrica	eléctrico	aq0fs0	qualificative	***
+musica_no_1_8	9	7	su	su	dp3cs0	possessive	***
+musica_no_1_8	9	8	hermano	hermano	ncms000	common	***
+musica_no_1_8	9	9	se	se	p00cn000	-	***
+musica_no_1_8	9	10	desgañita	desgañitar	vmip3s0	main	***
+musica_no_1_8	9	11	en	en	sps00	preposition	***
+musica_no_1_8	9	12	playback	playback	ncms000	common	***
+musica_no_1_8	9	13	la	el	da0fs0	article	***
+musica_no_1_8	9	14	mayoria	mayoria	ncfs000	common	***
+musica_no_1_8	9	15	de	de	sps00	preposition	***
+musica_no_1_8	9	16	las	el	da0fp0	article	***
+musica_no_1_8	9	17	veces	vez	ncfp000	common	***
+musica_no_1_8	9	18	como	como	cs	subordinating	***
+musica_no_1_8	9	19	ocurrió	ocurrir	vmis3s0	main	***
+musica_no_1_8	9	20	en	en	sps00	preposition	***
+musica_no_1_8	9	21	la	el	da0fs0	article	***
+musica_no_1_8	9	22	gala	gala	ncfs000	common	***
+musica_no_1_8	9	23	de	de	sps00	preposition	***
+musica_no_1_8	9	24	los	el	da0mp0	article	***
+musica_no_1_8	9	25	Principales	principales	np00000	proper	***
+musica_no_1_8	9	26	.	.	fp	-	***
+
+musica_no_1_8	10	1	Desde_luego	desde_luego	rg	-	***
+musica_no_1_8	10	2	que	que	cs	subordinating	***
+musica_no_1_8	10	3	decepción	decepción	ncfs000	common	***
+musica_no_1_8	10	4	,	,	fc	-	***
+musica_no_1_8	10	5	porque	porque	cs	subordinating	***
+musica_no_1_8	10	6	cuando	cuando	cs	subordinating	***
+musica_no_1_8	10	7	realmente	realmente	rg	-	***
+musica_no_1_8	10	8	se	se	p00cn000	-	***
+musica_no_1_8	10	9	ve	ver	vmip3s0	main	***
+musica_no_1_8	10	10	a	a	sps00	preposition	***
+musica_no_1_8	10	11	un	uno	di0ms0	indefinite	***
+musica_no_1_8	10	12	artista	artista	nccs000	common	***
+musica_no_1_8	10	13	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_8	10	14	en	en	sps00	preposition	***
+musica_no_1_8	10	15	directo	directo	aq0ms0	qualificative	***
+musica_no_1_8	10	16	,	,	fc	-	***
+musica_no_1_8	10	17	pero	pero	cc	coordinating	***
+musica_no_1_8	10	18	bueno	bueno	aq0ms0	qualificative	***
+musica_no_1_8	10	19	.	.	fp	-	***
+
+musica_no_1_8	11	1	Una	uno	di0fs0	indefinite	-	-	-	-	-	-
+musica_no_1_8	11	2	amiga	amigo	ncfs000	common	-	-	-	-	-	-
+musica_no_1_8	11	3	mia	mia	ncfs000	common	-	-	-	-	-	-
+musica_no_1_8	11	4	está	estar	vaip3s0	auxiliary	-	-	-	-	-	-
+musica_no_1_8	11	5	flipada	flipar	vmp00sf	main	-	-	-	-	-	-
+musica_no_1_8	11	6	con	con	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	11	7	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+musica_no_1_8	11	8	grupo	grupo	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	11	9	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_1_8	11	10	hasta	hasta	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	11	11	que	que	cs	subordinating	-	-	-	-	-	-
+musica_no_1_8	11	12	no	no	rn	negative	no	-	-	-	-	-
+musica_no_1_8	11	13	me	me	pp1cs000	personal	-	-	-	-	-	-
+musica_no_1_8	11	14	dejó	dejar	vmis3s0	main	-	-	-	-	-	-
+musica_no_1_8	11	15	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_1_8	11	16	disco	disco	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	11	17	para	para	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	11	18	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_no_1_8	11	19	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+musica_no_1_8	11	20	escuchase	escuchar	vmsi3s0	main	-	-	-	-	-	-
+musica_no_1_8	11	21	no	no	rn	negative	-	-	-	no	-	-
+musica_no_1_8	11	22	paró	parar	vmis3s0	main	-	-	-	-	-	-
+musica_no_1_8	11	23	.	.	fp	-	-	-	-	-	-	-
+
+musica_no_1_8	12	1	Asi	asi	np00000	proper	***
+musica_no_1_8	12	2	que	que	pr0cn000	relative	***
+musica_no_1_8	12	3	lo	lo	pp3cna00	personal	***
+musica_no_1_8	12	4	escuché	escuchar	vmis1s0	main	***
+musica_no_1_8	12	5	y	y	cc	coordinating	***
+musica_no_1_8	12	6	la	el	da0fs0	article	***
+musica_no_1_8	12	7	verdad	verdad	ncfs000	common	***
+musica_no_1_8	12	8	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_8	12	9	que	que	cs	subordinating	***
+musica_no_1_8	12	10	fue	ser	vsis3s0	semiauxiliary	***
+musica_no_1_8	12	11	penoso	penoso	aq0ms0	qualificative	***
+musica_no_1_8	12	12	para	para	sps00	preposition	***
+musica_no_1_8	12	13	mis	mi	dp1cps	possessive	***
+musica_no_1_8	12	14	oidos	oidos	ncmp000	common	***
+musica_no_1_8	12	15	.	.	fp	-	***
+
+musica_no_1_8	13	1	Canciones	canción	ncfp000	common	-	-	-	-	-	-
+musica_no_1_8	13	2	sin	sin	sps00	preposition	sin	-	-	-	-	-
+musica_no_1_8	13	3	sentido	sentido	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	13	4	a	a	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	13	5	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_1_8	13	6	traducir	traducir	vmn0000	main	-	-	-	-	-	-
+musica_no_1_8	13	7	las	lo	pp3fpa00	personal	-	-	-	-	-	-
+musica_no_1_8	13	8	(	(	fpa	-	-	-	-	-	-	-
+musica_no_1_8	13	9	me	me	pp1cs000	personal	-	-	-	-	-	-
+musica_no_1_8	13	10	encanta	encantar	vmip3s0	main	-	-	-	-	-	-
+musica_no_1_8	13	11	el	el	da0ms0	article	-	-	-	-	-	-
+musica_no_1_8	13	12	inglés	inglés	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	13	13	)	)	fpt	-	-	-	-	-	-	-
+musica_no_1_8	13	14	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_1_8	13	15	con	con	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	13	16	unos	uno	di0mp0	indefinite	-	-	-	-	-	-
+musica_no_1_8	13	17	gallos	gallo	ncmp000	common	-	-	-	-	-	-
+musica_no_1_8	13	18	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_no_1_8	13	19	ni	ni	cc	coordinating	-	-	-	ni	-	-
+musica_no_1_8	13	20	Jesulin	jesulin	np00000	proper	-	-	-	-	-	-
+musica_no_1_8	13	21	en	en	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	13	22	su	su	dp3cs0	possessive	-	-	-	-	-	-
+musica_no_1_8	13	23	"	"	fe	-	-	-	-	-	-	-
+musica_no_1_8	13	24	Toa	toar	vmm02s0	main	-	-	-	-	-	-
+musica_no_1_8	13	25	,	,	fc	-	-	-	-	-	-	-
+musica_no_1_8	13	26	toa	toar	vmm02s0	main	-	-	-	-	-	-
+musica_no_1_8	13	27	,	,	fc	-	-	-	-	-	-	-
+musica_no_1_8	13	28	toa	toar	vmm02s0	main	-	-	-	-	-	-
+musica_no_1_8	13	29	te	te	pp2cs000	personal	-	-	-	-	-	-
+musica_no_1_8	13	30	nececito	nececito	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	13	31	toaaaa	toaaaa	aq0fs0	qualificative	-	-	-	-	-	-
+musica_no_1_8	13	32	....	....	fz	-	-	-	-	-	-	-
+musica_no_1_8	13	33	"	"	fe	-	-	-	-	-	-	-
+
+musica_no_1_8	14	1	Veamos	ver	vmsp1p0	main	***
+musica_no_1_8	14	2	,	,	fc	-	***
+musica_no_1_8	14	3	el	el	da0ms0	article	***
+musica_no_1_8	14	4	disco	disco	ncms000	common	***
+musica_no_1_8	14	5	Scream	scream	np00000	proper	***
+musica_no_1_8	14	6	se	se	p00cn000	-	***
+musica_no_1_8	14	7	tradujo	traducir	vmis3s0	main	***
+musica_no_1_8	14	8	a	a	sps00	preposition	***
+musica_no_1_8	14	9	el	el	da0ms0	article	***
+musica_no_1_8	14	10	ingles	ingle	ncfp000	common	***
+musica_no_1_8	14	11	para	para	sps00	preposition	***
+musica_no_1_8	14	12	que	que	cs	subordinating	***
+musica_no_1_8	14	13	este	este	dd0ms0	demonstrative	***
+musica_no_1_8	14	14	grupo	grupo	ncms000	common	***
+musica_no_1_8	14	15	se	se	p00cn000	-	***
+musica_no_1_8	14	16	diese_a_conocer	dar_a_conocer	vmsi1s0	main	***
+musica_no_1_8	14	17	en	en	sps00	preposition	***
+musica_no_1_8	14	18	el	el	da0ms0	article	***
+musica_no_1_8	14	19	resto	resto	ncms000	common	***
+musica_no_1_8	14	20	de	de	sps00	preposition	***
+musica_no_1_8	14	21	Europa	europa	np00000	proper	***
+musica_no_1_8	14	22	y	y	cc	coordinating	***
+musica_no_1_8	14	23	no_sólo	no_sólo	cc	coordinating	***
+musica_no_1_8	14	24	en	en	sps00	preposition	***
+musica_no_1_8	14	25	tierras	tierra	ncfp000	common	***
+musica_no_1_8	14	26	germanas	germano	aq0fp0	qualificative	***
+musica_no_1_8	14	27	.	.	fp	-	***
+
+musica_no_1_8	15	1	A	a	np00000	proper	***
+musica_no_1_8	15	2	mi	mi	dp1css	possessive	***
+musica_no_1_8	15	3	desde_luego	desde_luego	rg	-	***
+musica_no_1_8	15	4	me	me	pp1cs000	personal	***
+musica_no_1_8	15	5	hubiesen	haber	vasi3p0	auxiliary	***
+musica_no_1_8	15	6	hecho	hacer	vmp00sm	main	***
+musica_no_1_8	15	7	un	uno	di0ms0	indefinite	***
+musica_no_1_8	15	8	favor	favor	ncms000	common	***
+musica_no_1_8	15	9	si	si	cs	subordinating	***
+musica_no_1_8	15	10	se	se	p00cn000	-	***
+musica_no_1_8	15	11	hubiesen	haber	vasi3p0	auxiliary	***
+musica_no_1_8	15	12	quedado	quedar	vmp00sm	main	***
+musica_no_1_8	15	13	en	en	sps00	preposition	***
+musica_no_1_8	15	14	Alemania	alemania	np00000	proper	***
+musica_no_1_8	15	15	porque	porque	cs	subordinating	***
+musica_no_1_8	15	16	vaya	ir	vmsp1s0	main	***
+musica_no_1_8	15	17	desafine	desafinar	vmsp3s0	main	***
+musica_no_1_8	15	18	,	,	fc	-	***
+musica_no_1_8	15	19	vaya	ir	vmm03s0	main	***
+musica_no_1_8	15	20	gallos	gallo	ncmp000	common	***
+musica_no_1_8	15	21	y	y	cc	coordinating	***
+musica_no_1_8	15	22	vaya	ir	vmm03s0	main	***
+musica_no_1_8	15	23	chicos	chico	ncmp000	common	***
+musica_no_1_8	15	24	más	más	rg	-	***
+musica_no_1_8	15	25	precozes	precoz	aq0cp0	qualificative	***
+musica_no_1_8	15	26	que	que	cs	subordinating	***
+musica_no_1_8	15	27	con	con	sps00	preposition	***
+musica_no_1_8	15	28	17	17	z	-	***
+musica_no_1_8	15	29	años	año	ncmp000	common	***
+musica_no_1_8	15	30	ya	ya	rg	-	***
+musica_no_1_8	15	31	le	le	pp3csd00	personal	***
+musica_no_1_8	15	32	dan	dar	vmip3p0	main	***
+musica_no_1_8	15	33	a	a	sps00	preposition	***
+musica_no_1_8	15	34	la	el	da0fs0	article	***
+musica_no_1_8	15	35	farlopilla	farlopilla	ncfs000	common	***
+musica_no_1_8	15	36	.	.	fp	-	***
+
+musica_no_1_8	16	1	Ay	ay	i	-	***
+musica_no_1_8	16	2	si	si	cs	subordinating	***
+musica_no_1_8	16	3	les	le	pp3cpd00	personal	***
+musica_no_1_8	16	4	ve	ver	vmip3s0	main	***
+musica_no_1_8	16	5	mamá	mamá	ncfs000	common	***
+musica_no_1_8	16	6	...	...	fs	-	***
+
+musica_no_1_8	17	1	Las	el	da0fp0	article	-	-	-
+musica_no_1_8	17	2	letras	letra	ncfp000	common	-	-	-
+musica_no_1_8	17	3	hablan	hablar	vmip3p0	main	-	-	-
+musica_no_1_8	17	4	desde	desde	sps00	preposition	-	-	-
+musica_no_1_8	17	5	una	uno	di0fs0	indefinite	-	-	-
+musica_no_1_8	17	6	en	en	sps00	preposition	-	-	-
+musica_no_1_8	17	7	la	el	da0fs0	article	-	-	-
+musica_no_1_8	17	8	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	17	9	le	le	pp3csd00	personal	-	-	-
+musica_no_1_8	17	10	quita	quitar	vmip3s0	main	-	-	-
+musica_no_1_8	17	11	la	el	da0fs0	article	-	-	-
+musica_no_1_8	17	12	novia	novio	ncfs000	common	-	-	-
+musica_no_1_8	17	13	a	a	sps00	preposition	-	-	-
+musica_no_1_8	17	14	su	su	dp3cs0	possessive	-	-	-
+musica_no_1_8	17	15	hermano	hermano	ncms000	common	-	-	-
+musica_no_1_8	17	16	hasta	hasta	sps00	preposition	-	-	-
+musica_no_1_8	17	17	otra	otro	pi0fs000	indefinite	-	-	-
+musica_no_1_8	17	18	en	en	sps00	preposition	-	-	-
+musica_no_1_8	17	19	la	el	da0fs0	article	-	-	-
+musica_no_1_8	17	20	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	17	21	le	le	pp3csd00	personal	-	-	-
+musica_no_1_8	17	22	habla	hablar	vmip3s0	main	-	-	-
+musica_no_1_8	17	23	a	a	sps00	preposition	-	-	-
+musica_no_1_8	17	24	el	el	da0ms0	article	-	-	-
+musica_no_1_8	17	25	mismo	mismo	aq0ms0	qualificative	-	-	-
+musica_no_1_8	17	26	diablo	diablo	ncms000	common	-	-	-
+musica_no_1_8	17	27	diciéndole	diciéndole	ncfs000	common	-	-	-
+musica_no_1_8	17	28	que	que	cs	subordinating	-	-	-
+musica_no_1_8	17	29	a	a	sps00	preposition	-	-	-
+musica_no_1_8	17	30	ver	ver	vmn0000	main	-	-	-
+musica_no_1_8	17	31	si	si	cs	subordinating	-	-	-
+musica_no_1_8	17	32	va	ir	vmip3s0	main	-	-	-
+musica_no_1_8	17	33	a	a	sps00	preposition	-	-	-
+musica_no_1_8	17	34	ir	ir	vmn0000	main	-	-	-
+musica_no_1_8	17	35	a	a	sps00	preposition	-	-	-
+musica_no_1_8	17	36	el	el	da0ms0	article	-	-	-
+musica_no_1_8	17	37	infierno	infierno	ncms000	common	-	-	-
+musica_no_1_8	17	38	por	por	sps00	preposition	-	-	-
+musica_no_1_8	17	39	no	no	rn	negative	no	-	-
+musica_no_1_8	17	40	ser	ser	vsn0000	semiauxiliary	-	-	-
+musica_no_1_8	17	41	creyente	creyente	aq0cs0	qualificative	-	-	-
+musica_no_1_8	17	42	.	.	fp	-	-	-	-
+
+musica_no_1_8	18	1	Vamos	vamos	np00000	proper	***
+musica_no_1_8	18	2	,	,	fc	-	***
+musica_no_1_8	18	3	ideal	ideal	ncms000	common	***
+musica_no_1_8	18	4	para	para	sps00	preposition	***
+musica_no_1_8	18	5	que	que	pr0cn000	relative	***
+musica_no_1_8	18	6	lo	lo	pp3cna00	personal	***
+musica_no_1_8	18	7	escuchen	escuchar	vmsp3p0	main	***
+musica_no_1_8	18	8	niños	niño	ncmp000	common	***
+musica_no_1_8	18	9	y	y	cc	coordinating	***
+musica_no_1_8	18	10	adolescentes	adolescente	nccp000	common	***
+musica_no_1_8	18	11	.	.	fp	-	***
+
+musica_no_1_8	19	1	Luego	luego	rg	-	***
+musica_no_1_8	19	2	está	estar	vaip3s0	auxiliary	***
+musica_no_1_8	19	3	la	el	da0fs0	article	***
+musica_no_1_8	19	4	estética	estética	ncfs000	common	***
+musica_no_1_8	19	5	de	de	sps00	preposition	***
+musica_no_1_8	19	6	el	el	da0ms0	article	***
+musica_no_1_8	19	7	grupo	grupo	ncms000	common	***
+musica_no_1_8	19	8	de	de	sps00	preposition	***
+musica_no_1_8	19	9	lo	el	da0ns0	article	***
+musica_no_1_8	19	10	más	más	rg	-	***
+musica_no_1_8	19	11	¿	¿	fia	-	***
+musica_no_1_8	19	12	ambigua	ambiguo	aq0fs0	qualificative	***
+musica_no_1_8	19	13	?	?	fit	-	***
+
+musica_no_1_8	20	1	En	en	sps00	preposition	***
+musica_no_1_8	20	2	principio	principio	ncms000	common	***
+musica_no_1_8	20	3	pensé	pensar	vmis1s0	main	***
+musica_no_1_8	20	4	que	que	cs	subordinating	***
+musica_no_1_8	20	5	el	el	da0ms0	article	***
+musica_no_1_8	20	6	cantante	cantante	nccs000	common	***
+musica_no_1_8	20	7	era	ser	vsii1s0	semiauxiliary	***
+musica_no_1_8	20	8	"	"	fe	-	***
+musica_no_1_8	20	9	la	el	da0fs0	article	***
+musica_no_1_8	20	10	cantante	cantante	nccs000	common	***
+musica_no_1_8	20	11	"	"	fe	-	***
+musica_no_1_8	20	12	porque	porque	cs	subordinating	***
+musica_no_1_8	20	13	parece	parecer	vmip3s0	main	***
+musica_no_1_8	20	14	ua	ua	ncfs000	common	***
+musica_no_1_8	20	15	chica	chico	aq0fs0	qualificative	***
+musica_no_1_8	20	16	con	con	sps00	preposition	***
+musica_no_1_8	20	17	esa	ese	dd0fs0	demonstrative	***
+musica_no_1_8	20	18	imagen	imagen	ncfs000	common	***
+musica_no_1_8	20	19	que	que	pr0cn000	relative	***
+musica_no_1_8	20	20	tiene	tener	vmip3s0	main	***
+musica_no_1_8	20	21	tan	tan	rg	-	***
+musica_no_1_8	20	22	femenina	femenino	aq0fs0	qualificative	***
+musica_no_1_8	20	23	.	.	fp	-	***
+
+musica_no_1_8	21	1	Además	además	rg	-	***
+musica_no_1_8	21	2	parece	parecer	vmip3s0	main	***
+musica_no_1_8	21	3	que	que	cs	subordinating	***
+musica_no_1_8	21	4	se	se	p00cn000	-	***
+musica_no_1_8	21	5	viste	vestir	vmip3s0	main	***
+musica_no_1_8	21	6	con	con	sps00	preposition	***
+musica_no_1_8	21	7	ropa	ropa	ncfs000	common	***
+musica_no_1_8	21	8	de	de	sps00	preposition	***
+musica_no_1_8	21	9	chica	chico	aq0fs0	qualificative	***
+musica_no_1_8	21	10	asi	asi	ncms000	common	***
+musica_no_1_8	21	11	como	como	cs	subordinating	***
+musica_no_1_8	21	12	de	de	sps00	preposition	***
+musica_no_1_8	21	13	el	el	da0ms0	article	***
+musica_no_1_8	21	14	estilo	estilo	ncms000	common	***
+musica_no_1_8	21	15	de	de	sps00	preposition	***
+musica_no_1_8	21	16	Bershka	bershka	np00000	proper	***
+musica_no_1_8	21	17	,	,	fc	-	***
+musica_no_1_8	21	18	mientras_que	mientras_que	cs	subordinating	***
+musica_no_1_8	21	19	su	su	dp3cs0	possessive	***
+musica_no_1_8	21	20	hermano	hermano	ncms000	common	***
+musica_no_1_8	21	21	gemelo	gemelo	aq0ms0	qualificative	***
+musica_no_1_8	21	22	usa	usar	vmip3s0	main	***
+musica_no_1_8	21	23	camisetas	camiseta	ncfp000	common	***
+musica_no_1_8	21	24	que	que	pr0cn000	relative	***
+musica_no_1_8	21	25	parecen	parecer	vmip3p0	main	***
+musica_no_1_8	21	26	camisones	camisón	ncmp000	common	***
+musica_no_1_8	21	27	ya_que	ya_que	cs	subordinating	***
+musica_no_1_8	21	28	las	lo	pp3fpa00	personal	***
+musica_no_1_8	21	29	lleva	llevar	vmip3s0	main	***
+musica_no_1_8	21	30	10	10	z	-	***
+musica_no_1_8	21	31	tallas	talla	ncfp000	common	***
+musica_no_1_8	21	32	más	más	rg	-	***
+musica_no_1_8	21	33	grandes	grande	aq0cp0	qualificative	***
+musica_no_1_8	21	34	que	que	cs	subordinating	***
+musica_no_1_8	21	35	las	el	da0fp0	article	***
+musica_no_1_8	21	36	de	de	sps00	preposition	***
+musica_no_1_8	21	37	su	su	dp3cs0	possessive	***
+musica_no_1_8	21	38	talla	talla	ncfs000	common	***
+musica_no_1_8	21	39	.	.	fp	-	***
+
+musica_no_1_8	22	1	Luego	luego	rg	-	***
+musica_no_1_8	22	2	está	estar	vaip3s0	auxiliary	***
+musica_no_1_8	22	3	el	el	da0ms0	article	***
+musica_no_1_8	22	4	bajista	bajista	nccs000	common	***
+musica_no_1_8	22	5	y	y	cc	coordinating	***
+musica_no_1_8	22	6	el	el	da0ms0	article	***
+musica_no_1_8	22	7	bateria	bateria	ncfs000	common	***
+musica_no_1_8	22	8	con	con	sps00	preposition	***
+musica_no_1_8	22	9	una	uno	di0fs0	indefinite	***
+musica_no_1_8	22	10	imagen	imagen	ncfs000	common	***
+musica_no_1_8	22	11	más	más	rg	-	***
+musica_no_1_8	22	12	normalita	normal	ncfs00d	common	***
+musica_no_1_8	22	13	y	y	cc	coordinating	***
+musica_no_1_8	22	14	aparentemente	aparentemente	rg	-	***
+musica_no_1_8	22	15	más	más	rg	-	***
+musica_no_1_8	22	16	normales	normal	aq0cp0	qualificative	***
+musica_no_1_8	22	17	.	.	fp	-	***
+
+musica_no_1_8	23	1	Todo	todo	di0ms0	indefinite	***
+musica_no_1_8	23	2	fachada	fachada	ncfs000	common	***
+musica_no_1_8	23	3	vamos	ir	vmip1p0	main	***
+musica_no_1_8	23	4	.	.	fp	-	***
+
+musica_no_1_8	24	1	Como	como	cs	subordinating	***
+musica_no_1_8	24	2	diria	diria	ncfs000	common	***
+musica_no_1_8	24	3	Risto_Mejide	risto_mejide	np00000	proper	***
+musica_no_1_8	24	4	,	,	fc	-	***
+musica_no_1_8	24	5	estos	este	dd0mp0	demonstrative	***
+musica_no_1_8	24	6	chicos	chico	ncmp000	common	***
+musica_no_1_8	24	7	son	ser	vsip3p0	semiauxiliary	***
+musica_no_1_8	24	8	un	uno	di0ms0	indefinite	***
+musica_no_1_8	24	9	producto	producto	ncms000	common	***
+musica_no_1_8	24	10	,	,	fc	-	***
+musica_no_1_8	24	11	porque	porque	cs	subordinating	***
+musica_no_1_8	24	12	de	de	sps00	preposition	***
+musica_no_1_8	24	13	música	música	ncfs000	common	***
+musica_no_1_8	24	14	poco	poco	rg	-	***
+musica_no_1_8	24	15	entienden	entender	vmip3p0	main	***
+musica_no_1_8	24	16	la	el	da0fs0	article	***
+musica_no_1_8	24	17	verdad	verdad	ncfs000	common	***
+musica_no_1_8	24	18	.	.	fp	-	***
+
+musica_no_1_8	25	1	Con	con	sps00	preposition	***
+musica_no_1_8	25	2	4	4	z	-	***
+musica_no_1_8	25	3	cadenitas	cadena	ncfp00d	common	***
+musica_no_1_8	25	4	,	,	fc	-	***
+musica_no_1_8	25	5	unos	uno	di0mp0	indefinite	***
+musica_no_1_8	25	6	piercing	piercing	ncms000	common	***
+musica_no_1_8	25	7	,	,	fc	-	***
+musica_no_1_8	25	8	me	me	pp1cs000	personal	***
+musica_no_1_8	25	9	pinto	pintar	vmip1s0	main	***
+musica_no_1_8	25	10	las	el	da0fp0	article	***
+musica_no_1_8	25	11	uñas	uña	ncfp000	common	***
+musica_no_1_8	25	12	y	y	cc	coordinating	***
+musica_no_1_8	25	13	le	le	pp3csd00	personal	***
+musica_no_1_8	25	14	doy	dar	vmip1s0	main	***
+musica_no_1_8	25	15	a	a	sps00	preposition	***
+musica_no_1_8	25	16	la	el	da0fs0	article	***
+musica_no_1_8	25	17	sombra	sombra	ncfs000	common	***
+musica_no_1_8	25	18	aqui	aqui	ncms000	common	***
+musica_no_1_8	25	19	,	,	fc	-	***
+musica_no_1_8	25	20	sombra	sombra	ncfs000	common	***
+musica_no_1_8	25	21	allá	allá	rg	-	***
+musica_no_1_8	25	22	y	y	cc	coordinating	***
+musica_no_1_8	25	23	¡	¡	faa	-	***
+musica_no_1_8	25	24	¡	¡	faa	-	***
+musica_no_1_8	25	25	¡	¡	faa	-	***
+musica_no_1_8	25	26	ale	ale	ncfs000	common	***
+musica_no_1_8	25	27	!	!	fat	-	***
+musica_no_1_8	25	28	!	!	fat	-	***
+musica_no_1_8	25	29	a	a	sps00	preposition	***
+musica_no_1_8	25	30	triunfar	triunfar	vmn0000	main	***
+musica_no_1_8	25	31	...	...	fs	-	***
+
+musica_no_1_8	26	1	y	y	cc	coordinating	-	-	-
+musica_no_1_8	26	2	las	el	da0fp0	article	-	-	-
+musica_no_1_8	26	3	niñas	niño	ncfp000	common	-	-	-
+musica_no_1_8	26	4	como	como	cs	subordinating	-	-	-
+musica_no_1_8	26	5	locas	loco	ncfp000	common	-	-	-
+musica_no_1_8	26	6	soñando	soñar	vmg0000	main	-	-	-
+musica_no_1_8	26	7	con	con	sps00	preposition	-	-	-
+musica_no_1_8	26	8	el	el	da0ms0	article	-	-	-
+musica_no_1_8	26	9	cantante	cantante	nccs000	common	-	-	-
+musica_no_1_8	26	10	,	,	fc	-	-	-	-
+musica_no_1_8	26	11	con	con	sps00	preposition	-	-	-
+musica_no_1_8	26	12	lo	el	da0ns0	article	-	-	-
+musica_no_1_8	26	13	guapos	guapo	ncmp000	common	-	-	-
+musica_no_1_8	26	14	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	26	15	son	ser	vsip3p0	semiauxiliary	-	-	-
+musica_no_1_8	26	16	los	el	da0mp0	article	-	-	-
+musica_no_1_8	26	17	hombres	hombre	ncmp000	common	-	-	-
+musica_no_1_8	26	18	de	de	sps00	preposition	-	-	-
+musica_no_1_8	26	19	verdad	verdad	ncfs000	common	-	-	-
+musica_no_1_8	26	20	,	,	fc	-	-	-	-
+musica_no_1_8	26	21	con	con	sps00	preposition	-	-	-
+musica_no_1_8	26	22	su	su	dp3cs0	possessive	-	-	-
+musica_no_1_8	26	23	barbilla	barbilla	ncfs000	common	-	-	-
+musica_no_1_8	26	24	marcadita	marcar	vmp00sf	main	-	-	-
+musica_no_1_8	26	25	,	,	fc	-	-	-	-
+musica_no_1_8	26	26	su	su	dp3cs0	possessive	-	-	-
+musica_no_1_8	26	27	cuerpo	cuerpo	ncms000	common	-	-	-
+musica_no_1_8	26	28	formado	formar	vmp00sm	main	-	-	-
+musica_no_1_8	26	29	,	,	fc	-	-	-	-
+musica_no_1_8	26	30	la	el	da0fs0	article	-	-	-
+musica_no_1_8	26	31	voz	voz	ncfs000	common	-	-	-
+musica_no_1_8	26	32	grave	grave	aq0cs0	qualificative	-	-	-
+musica_no_1_8	26	33	...	...	fs	-	-	-	-
+musica_no_1_8	26	34	y	y	cc	coordinating	-	-	-
+musica_no_1_8	26	35	no	no	rn	negative	no	-	-
+musica_no_1_8	26	36	ese	ese	dd0ms0	demonstrative	-	-	-
+musica_no_1_8	26	37	pelanas	pelanas	ncmn000	common	-	-	-
+musica_no_1_8	26	38	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	26	39	parece	parecer	vmip3s0	main	-	-	-
+musica_no_1_8	26	40	Espinete	espinete	np00000	proper	-	-	-
+musica_no_1_8	26	41	con	con	sps00	preposition	-	-	-
+musica_no_1_8	26	42	esos	ese	dd0mp0	demonstrative	-	-	-
+musica_no_1_8	26	43	pelos	pelo	ncmp000	common	-	-	-
+musica_no_1_8	26	44	que	que	pr0cn000	relative	-	-	-
+musica_no_1_8	26	45	se	se	p00cn000	-	-	-	-
+musica_no_1_8	26	46	gasta	gastar	vmip3s0	main	-	-	-
+musica_no_1_8	26	47	.	.	fp	-	-	-	-
+
+musica_no_1_8	27	1	Encima	encima	np00000	proper	***
+musica_no_1_8	27	2	viene	venir	vmip3s0	main	***
+musica_no_1_8	27	3	a	a	sps00	preposition	***
+musica_no_1_8	27	4	España	españa	np00000	proper	***
+musica_no_1_8	27	5	y	y	cc	coordinating	***
+musica_no_1_8	27	6	a	a	sps00	preposition	***
+musica_no_1_8	27	7	cantar	cantar	vmn0000	main	***
+musica_no_1_8	27	8	en	en	sps00	preposition	***
+musica_no_1_8	27	9	Playback	playback	np00000	proper	***
+musica_no_1_8	27	10	y	y	cc	coordinating	***
+musica_no_1_8	27	11	se	se	p00cn000	-	***
+musica_no_1_8	27	12	quedan	quedar	vmip3p0	main	***
+musica_no_1_8	27	13	tan	tan	rg	-	***
+musica_no_1_8	27	14	anchos	ancho	aq0mp0	qualificative	***
+musica_no_1_8	27	15	.	.	fp	-	***
+
+musica_no_1_8	28	1	Yo	yo	pp1csn00	personal	***
+musica_no_1_8	28	2	desde_luego	desde_luego	rg	-	***
+musica_no_1_8	28	3	si	si	cs	subordinating	***
+musica_no_1_8	28	4	fuese	ser	vssi1s0	semiauxiliary	***
+musica_no_1_8	28	5	fan	fan	nccs000	common	***
+musica_no_1_8	28	6	de	de	sps00	preposition	***
+musica_no_1_8	28	7	ellos	ellos	pp3mp000	personal	***
+musica_no_1_8	28	8	les	le	pp3cpd00	personal	***
+musica_no_1_8	28	9	mandaba	mandar	vmii3s0	main	***
+musica_no_1_8	28	10	a_paseo	a_paseo	rg	-	***
+musica_no_1_8	28	11	ya_que	ya_que	cs	subordinating	***
+musica_no_1_8	28	12	en	en	sps00	preposition	***
+musica_no_1_8	28	13	esta	este	dd0fs0	demonstrative	***
+musica_no_1_8	28	14	gala	gala	ncfs000	common	***
+musica_no_1_8	28	15	todos	todo	di0mp0	indefinite	***
+musica_no_1_8	28	16	los	el	da0mp0	article	***
+musica_no_1_8	28	17	artistas	artista	nccp000	common	***
+musica_no_1_8	28	18	cantaron	cantar	vmis3p0	main	***
+musica_no_1_8	28	19	en	en	sps00	preposition	***
+musica_no_1_8	28	20	directo	directo	aq0ms0	qualificative	***
+musica_no_1_8	28	21	.	.	fp	-	***
+
+musica_no_1_8	29	1	Bueno	bueno	i	-	***
+musica_no_1_8	29	2	,	,	fc	-	***
+musica_no_1_8	29	3	las	el	da0fp0	article	***
+musica_no_1_8	29	4	canciones	canción	ncfp000	common	***
+musica_no_1_8	29	5	que	que	pr0cn000	relative	***
+musica_no_1_8	29	6	os	os	pp2cp000	personal	***
+musica_no_1_8	29	7	vais	ir	vmip2p0	main	***
+musica_no_1_8	29	8	a	a	sps00	preposition	***
+musica_no_1_8	29	9	encontrar	encontrar	vmn0000	main	***
+musica_no_1_8	29	10	en	en	sps00	preposition	***
+musica_no_1_8	29	11	el	el	da0ms0	article	***
+musica_no_1_8	29	12	disco	disco	ncms000	common	***
+musica_no_1_8	29	13	este	este	dd0ms0	demonstrative	***
+musica_no_1_8	29	14	,	,	fc	-	***
+musica_no_1_8	29	15	son	ser	vsip3p0	semiauxiliary	***
+musica_no_1_8	29	16	las	el	da0fp0	article	***
+musica_no_1_8	29	17	siguientes	siguiente	aq0cp0	qualificative	***
+musica_no_1_8	29	18	a	a	sps00	preposition	***
+musica_no_1_8	29	19	parte	parte	ncfs000	common	***
+musica_no_1_8	29	20	de	de	sps00	preposition	***
+musica_no_1_8	29	21	la	el	da0fs0	article	***
+musica_no_1_8	29	22	cansina	cansino	aq0fs0	qualificative	***
+musica_no_1_8	29	23	Monsoon	monsoon	np00000	proper	***
+musica_no_1_8	29	24	que	que	pr0cn000	relative	***
+musica_no_1_8	29	25	estoy	estar	vaip1s0	auxiliary	***
+musica_no_1_8	29	26	harta	harto	aq0fs0	qualificative	***
+musica_no_1_8	29	27	de	de	sps00	preposition	***
+musica_no_1_8	29	28	escuchar	escuchar	vmn0000	main	***
+musica_no_1_8	29	29	:	:	fd	-	***
+
+musica_no_1_8	30	1	-	-	fg	-	***
+musica_no_1_8	30	2	Scream	scream	np00000	proper	***
+
+musica_no_1_8	31	1	-	-	fg	-	***
+musica_no_1_8	31	2	Ready_Set_Go	ready_set_go	np00000	proper	***
+musica_no_1_8	31	3	!	!	fat	-	***
+
+musica_no_1_8	32	1	-	-	fg	-	***
+musica_no_1_8	32	2	Monsoon	monsoon	np00000	proper	***
+
+musica_no_1_8	33	1	-	-	fg	-	***
+musica_no_1_8	33	2	When_Love	when_love	np00000	proper	***
+musica_no_1_8	33	3	is	i	ncfp000	common	***
+musica_no_1_8	33	4	dead	dead	ncfs000	common	***
+
+musica_no_1_8	34	1	-	-	fg	-	***
+musica_no_1_8	34	2	Don't_Jump	don't_jump	np00000	proper	***
+
+musica_no_1_8	35	1	-	-	fg	-	***
+musica_no_1_8	35	2	On_The_Edge	on_the_edge	np00000	proper	***
+
+musica_no_1_8	36	1	-	-	fg	-	***
+musica_no_1_8	36	2	Saved	saved	np00000	proper	***
+
+musica_no_1_8	37	1	-	-	fg	-	***
+musica_no_1_8	37	2	Break_Away	break_away	np00000	proper	***
+
+musica_no_1_8	38	1	-	-	fg	-	***
+musica_no_1_8	38	2	Rescue_Me	rescue_me	np00000	proper	***
+
+musica_no_1_8	39	1	-	-	fg	-	***
+musica_no_1_8	39	2	Final_Day	final_day	np00000	proper	***
+
+musica_no_1_8	40	1	-	-	fg	-	***
+musica_no_1_8	40	2	Forgotten_Children	forgotten_children	np00000	proper	***
+
+musica_no_1_8	41	1	-	-	fg	-	***
+musica_no_1_8	41	2	By_Your_Side	by_your_side	np00000	proper	***
+
+musica_no_1_8	42	1	Bueno	bueno	np00000	proper	***
+musica_no_1_8	42	2	hasta	hasta	sps00	preposition	***
+musica_no_1_8	42	3	aqui	aqui	vmis1s0	main	***
+musica_no_1_8	42	4	mi	mi	dp1css	possessive	***
+musica_no_1_8	42	5	opinión	opinión	ncfs000	common	***
+musica_no_1_8	42	6	.	.	fp	-	***
+
+musica_no_1_8	43	1	No	no	rn	negative	No	-	-	-	-	-
+musica_no_1_8	43	2	quiero	querer	vmip1s0	main	-	-	-	-	-	-
+musica_no_1_8	43	3	ofender	ofender	vmn0000	main	-	-	-	-	-	-
+musica_no_1_8	43	4	a	a	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	43	5	los	el	da0mp0	article	-	-	-	-	-	-
+musica_no_1_8	43	6	fans	fan	nccp000	common	-	-	-	-	-	-
+musica_no_1_8	43	7	,	,	fc	-	-	-	-	-	-	-
+musica_no_1_8	43	8	simplemente	simplemente	rg	-	-	-	-	-	-	-
+musica_no_1_8	43	9	doy	dar	vmip1s0	main	-	-	-	-	-	-
+musica_no_1_8	43	10	mi	mi	dp1css	possessive	-	-	-	-	-	-
+musica_no_1_8	43	11	punto	punto	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	43	12	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	43	13	vista	vista	ncfs000	common	-	-	-	-	-	-
+musica_no_1_8	43	14	sobre	sobre	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	43	15	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+musica_no_1_8	43	16	grupo	grupo	ncms000	common	-	-	-	-	-	-
+musica_no_1_8	43	17	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_no_1_8	43	18	como	como	cs	subordinating	-	-	-	-	-	-
+musica_no_1_8	43	19	podéis	podar	vmsp2p0	main	-	-	-	-	-	-
+musica_no_1_8	43	20	comprobar	comprobar	vmn0000	main	-	-	-	-	-	-
+musica_no_1_8	43	21	no	no	rn	negative	-	-	-	no	-	-
+musica_no_1_8	43	22	me	me	pp1cs000	personal	-	-	-	-	-	-
+musica_no_1_8	43	23	gusta	gustar	vmip3s0	main	-	-	-	-	-	-
+musica_no_1_8	43	24	un_pelo	uno_pelo	rg	-	-	-	-	-	-	-
+musica_no_1_8	43	25	y	y	cc	coordinating	-	-	-	-	-	-
+musica_no_1_8	43	26	que	que	pr0cn000	relative	-	-	-	-	-	-
+musica_no_1_8	43	27	correrán	correr	vmif3p0	main	-	-	-	-	-	-
+musica_no_1_8	43	28	la	el	da0fs0	article	-	-	-	-	-	-
+musica_no_1_8	43	29	misma	mismo	aq0fs0	qualificative	-	-	-	-	-	-
+musica_no_1_8	43	30	suerte	suerte	ncfs000	common	-	-	-	-	-	-
+musica_no_1_8	43	31	que	que	cs	subordinating	-	-	-	-	-	-
+musica_no_1_8	43	32	otros	otro	di0mp0	indefinite	-	-	-	-	-	-
+musica_no_1_8	43	33	idolos	idolos	ncmp000	common	-	-	-	-	-	-
+musica_no_1_8	43	34	de	de	sps00	preposition	-	-	-	-	-	-
+musica_no_1_8	43	35	quinceañeras	quinceañero	ncfp000	common	-	-	-	-	-	-
+musica_no_1_8	43	36	.	.	fp	-	-	-	-	-	-	-
+
+musica_no_1_8	44	1	Por	por	sps00	preposition	***
+musica_no_1_8	44	2	cierto	cierto	aq0ms0	qualificative	***
+musica_no_1_8	44	3	,	,	fc	-	***
+musica_no_1_8	44	4	el	el	da0ms0	article	***
+musica_no_1_8	44	5	nombre	nombre	ncms000	common	***
+musica_no_1_8	44	6	de	de	sps00	preposition	***
+musica_no_1_8	44	7	el	el	da0ms0	article	***
+musica_no_1_8	44	8	grupo	grupo	ncms000	common	***
+musica_no_1_8	44	9	se	se	p00cn000	-	***
+musica_no_1_8	44	10	debe	deber	vmip3s0	main	***
+musica_no_1_8	44	11	a	a	sps00	preposition	***
+musica_no_1_8	44	12	que	que	cs	subordinating	***
+musica_no_1_8	44	13	como	como	cs	subordinating	***
+musica_no_1_8	44	14	pasan	pasar	vmip3p0	main	***
+musica_no_1_8	44	15	media	medio	aq0fs0	qualificative	***
+musica_no_1_8	44	16	vida	vida	ncfs000	common	***
+musica_no_1_8	44	17	en	en	sps00	preposition	***
+musica_no_1_8	44	18	hoteles	hotel	ncmp000	common	***
+musica_no_1_8	44	19	y	y	cc	coordinating	***
+musica_no_1_8	44	20	les	le	pp3cpd00	personal	***
+musica_no_1_8	44	21	gusta	gustar	vmip3s0	main	***
+musica_no_1_8	44	22	mucho	mucho	rg	-	***
+musica_no_1_8	44	23	la	el	da0fs0	article	***
+musica_no_1_8	44	24	ciudad	ciudad	ncfs000	common	***
+musica_no_1_8	44	25	de	de	sps00	preposition	***
+musica_no_1_8	44	26	Tokio	tokio	np00000	proper	***
+musica_no_1_8	44	27	por	por	sps00	preposition	***
+musica_no_1_8	44	28	lo	el	da0ns0	article	***
+musica_no_1_8	44	29	vanguardista	vanguardista	aq0cs0	qualificative	***
+musica_no_1_8	44	30	que	que	pr0cn000	relative	***
+musica_no_1_8	44	31	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_8	44	32	,	,	fc	-	***
+musica_no_1_8	44	33	de	de	sps00	preposition	***
+musica_no_1_8	44	34	ahi	ahi	ncms000	common	***
+musica_no_1_8	44	35	tuvieron	tener	vmis3p0	main	***
+musica_no_1_8	44	36	la	el	da0fs0	article	***
+musica_no_1_8	44	37	idea	idea	ncfs000	common	***
+musica_no_1_8	44	38	de	de	sps00	preposition	***
+musica_no_1_8	44	39	llamar	llamar	vmn0000	main	***
+musica_no_1_8	44	40	le	le	pp3csd00	personal	***
+musica_no_1_8	44	41	a	a	sps00	preposition	***
+musica_no_1_8	44	42	el	el	da0ms0	article	***
+musica_no_1_8	44	43	grupo	grupo	ncms000	common	***
+musica_no_1_8	44	44	.	.	fp	-	***
+
+musica_no_1_8	45	1	Asi	asi	np00000	proper	***
+musica_no_1_8	45	2	que	que	pr0cn000	relative	***
+musica_no_1_8	45	3	si	si	cs	subordinating	***
+musica_no_1_8	45	4	queréis	querer	vmip2p0	main	***
+musica_no_1_8	45	5	oir	oir	vmn0000	main	***
+musica_no_1_8	45	6	gallos	gallo	ncmp000	common	***
+musica_no_1_8	45	7	,	,	fc	-	***
+musica_no_1_8	45	8	grititos	grito	ncmp00d	common	***
+musica_no_1_8	45	9	y	y	cc	coordinating	***
+musica_no_1_8	45	10	desafines	desafinar	vmsp2s0	main	***
+musica_no_1_8	45	11	,	,	fc	-	***
+musica_no_1_8	45	12	este	este	pd0ms000	demonstrative	***
+musica_no_1_8	45	13	es	ser	vsip3s0	semiauxiliary	***
+musica_no_1_8	45	14	vuestro	vuestro	dp2msp	possessive	***
+musica_no_1_8	45	15	disco	disco	ncms000	common	***
+musica_no_1_8	45	16	,	,	fc	-	***
+musica_no_1_8	45	17	para	para	sps00	preposition	***
+musica_no_1_8	45	18	mi	mi	dp1css	possessive	***
+musica_no_1_8	45	19	un	uno	di0ms0	indefinite	***
+musica_no_1_8	45	20	Bodrio_Hotel	bodrio_hotel	np00000	proper	***
+musica_no_1_8	45	21	.	.	fp	-	***
+
+musica_no_1_8	46	1	Un	uno	di0ms0	indefinite	***
+musica_no_1_8	46	2	besito	beso	ncms00d	common	***
+musica_no_1_8	46	3	y	y	cc	coordinating	***
+musica_no_1_8	46	4	gracias	gracia	ncfp000	common	***
+musica_no_1_8	46	5	por	por	sps00	preposition	***
+musica_no_1_8	46	6	leer	leer	vmn0000	main	***
+musica_no_1_8	46	7	me	me	pp1cs000	personal	***
+musica_no_1_8	46	8	.	.	fp	-	***
+
+musica_yes_5_4	1	1	Señoras	señoras	np00000	proper	***
+musica_yes_5_4	1	2	y	y	cc	coordinating	***
+musica_yes_5_4	1	3	señores	señor	ncmp000	common	***
+musica_yes_5_4	1	4	están	estar	vaip3p0	auxiliary	***
+musica_yes_5_4	1	5	ustedes	usted	pp2cp00p	personal	***
+musica_yes_5_4	1	6	ante	ante	sps00	preposition	***
+musica_yes_5_4	1	7	uno	uno	pi0ms000	indefinite	***
+musica_yes_5_4	1	8	de	de	sps00	preposition	***
+musica_yes_5_4	1	9	los	el	da0mp0	article	***
+musica_yes_5_4	1	10	mejores	mejor	aq0cp0	qualificative	***
+musica_yes_5_4	1	11	discos	disco	ncmp000	common	***
+musica_yes_5_4	1	12	de	de	sps00	preposition	***
+musica_yes_5_4	1	13	Hip-Hop	hip-hop	np00000	proper	***
+musica_yes_5_4	1	14	de	de	sps00	preposition	***
+musica_yes_5_4	1	15	todos	todo	di0mp0	indefinite	***
+musica_yes_5_4	1	16	los	el	da0mp0	article	***
+musica_yes_5_4	1	17	tiempos	tiempo	ncmp000	common	***
+musica_yes_5_4	1	18	y	y	cc	coordinating	***
+musica_yes_5_4	1	19	probablemente	probablemente	rg	-	***
+musica_yes_5_4	1	20	uno	uno	pi0ms000	indefinite	***
+musica_yes_5_4	1	21	de	de	sps00	preposition	***
+musica_yes_5_4	1	22	los	el	da0mp0	article	***
+musica_yes_5_4	1	23	10	10	z	-	***
+musica_yes_5_4	1	24	mejores	mejor	aq0cp0	qualificative	***
+musica_yes_5_4	1	25	discos	disco	ncmp000	common	***
+musica_yes_5_4	1	26	de	de	sps00	preposition	***
+musica_yes_5_4	1	27	la	el	da0fs0	article	***
+musica_yes_5_4	1	28	pasada	pasar	vmp00sf	main	***
+musica_yes_5_4	1	29	década	década	ncfs000	common	***
+musica_yes_5_4	1	30	.	.	fp	-	***
+
+musica_yes_5_4	2	1	Trás	trás	np00000	proper	-	-	-
+musica_yes_5_4	2	2	leer	leer	vmn0000	main	-	-	-
+musica_yes_5_4	2	3	la	el	da0fs0	article	-	-	-
+musica_yes_5_4	2	4	opinión	opinión	ncfs000	common	-	-	-
+musica_yes_5_4	2	5	de	de	sps00	preposition	-	-	-
+musica_yes_5_4	2	6	Fingolfin	fingolfin	np00000	proper	-	-	-
+musica_yes_5_4	2	7	,	,	fc	-	-	-	-
+musica_yes_5_4	2	8	no	no	rn	negative	no	-	-
+musica_yes_5_4	2	9	me	me	pp1cs000	personal	-	-	-
+musica_yes_5_4	2	10	ha	haber	vaip3s0	auxiliary	-	-	-
+musica_yes_5_4	2	11	quedado	quedar	vmp00sm	main	-	-	-
+musica_yes_5_4	2	12	más	más	rg	-	-	-	-
+musica_yes_5_4	2	13	remedio	remedio	ncms000	common	-	-	-
+musica_yes_5_4	2	14	que	que	cs	subordinating	-	-	-
+musica_yes_5_4	2	15	intervenir	intervenir	vmn0000	main	-	-	-
+musica_yes_5_4	2	16	,	,	fc	-	-	-	-
+musica_yes_5_4	2	17	porque	porque	cs	subordinating	-	-	-
+musica_yes_5_4	2	18	este	este	dd0ms0	demonstrative	-	-	-
+musica_yes_5_4	2	19	muchacho	muchacho	ncms000	common	-	-	-
+musica_yes_5_4	2	20	confunde	confundir	vmip3s0	main	-	-	-
+musica_yes_5_4	2	21	la	el	da0fs0	article	-	-	-
+musica_yes_5_4	2	22	velocidad	velocidad	ncfs000	common	-	-	-
+musica_yes_5_4	2	23	con	con	sps00	preposition	-	-	-
+musica_yes_5_4	2	24	el	el	da0ms0	article	-	-	-
+musica_yes_5_4	2	25	tocino	tocino	ncms000	common	-	-	-
+musica_yes_5_4	2	26	.	.	fp	-	-	-	-
+
+musica_yes_5_4	3	1	Y	y	cc	coordinating	***
+musica_yes_5_4	3	2	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_5_4	3	3	que	que	cs	subordinating	***
+musica_yes_5_4	3	4	confundir	confundir	vmn0000	main	***
+musica_yes_5_4	3	5	a	a	sps00	preposition	***
+musica_yes_5_4	3	6	los	el	da0mp0	article	***
+musica_yes_5_4	3	7	Beastie_Boys	beastie_boys	np00000	proper	***
+musica_yes_5_4	3	8	con	con	sps00	preposition	***
+musica_yes_5_4	3	9	un	uno	di0ms0	indefinite	***
+musica_yes_5_4	3	10	grupo	grupo	ncms000	common	***
+musica_yes_5_4	3	11	heavy	heavy	nccn000	common	***
+musica_yes_5_4	3	12	o	o	cc	coordinating	***
+musica_yes_5_4	3	13	power	power	vmn0000	main	***
+musica_yes_5_4	3	14	metal	metal	ncms000	common	***
+musica_yes_5_4	3	15	tiene	tener	vmip3s0	main	***
+musica_yes_5_4	3	16	delito	delito	ncms000	common	***
+musica_yes_5_4	3	17	.	.	fp	-	***
+
+musica_yes_5_4	4	1	Su	su	dp3cs0	possessive	-	-	-	-	-	-
+musica_yes_5_4	4	2	opinión	opinión	ncfs000	common	-	-	-	-	-	-
+musica_yes_5_4	4	3	puede	poder	vmip3s0	main	-	-	-	-	-	-
+musica_yes_5_4	4	4	llevar	llevar	vmn0000	main	-	-	-	-	-	-
+musica_yes_5_4	4	5	a	a	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	6	el	el	da0ms0	article	-	-	-	-	-	-
+musica_yes_5_4	4	7	error	error	ncms000	common	-	-	-	-	-	-
+musica_yes_5_4	4	8	a	a	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	9	posibles	posible	aq0cp0	qualificative	-	-	-	-	-	-
+musica_yes_5_4	4	10	amantes	amante	nccp000	common	-	-	-	-	-	-
+musica_yes_5_4	4	11	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	12	el	el	da0ms0	article	-	-	-	-	-	-
+musica_yes_5_4	4	13	Hip-Hop	hip-hop	np00000	proper	-	-	-	-	-	-
+musica_yes_5_4	4	14	que	que	cs	subordinating	-	-	-	-	-	-
+musica_yes_5_4	4	15	no	no	rn	negative	no	-	-	-	-	-
+musica_yes_5_4	4	16	conozcan	conocer	vmsp3p0	main	-	-	-	-	-	-
+musica_yes_5_4	4	17	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+musica_yes_5_4	4	18	disco	disco	ncms000	common	-	-	-	-	-	-
+musica_yes_5_4	4	19	y	y	cc	coordinating	-	-	-	-	-	-
+musica_yes_5_4	4	20	podrían	poder	vmic3p0	main	-	-	-	-	-	-
+musica_yes_5_4	4	21	perder	perder	vmn0000	main	-	-	-	-	-	-
+musica_yes_5_4	4	22	se	se	pp3cn000	personal	-	-	-	-	-	-
+musica_yes_5_4	4	23	uno	uno	pi0ms000	indefinite	-	-	-	-	-	-
+musica_yes_5_4	4	24	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	25	los	el	da0mp0	article	-	-	-	-	-	-
+musica_yes_5_4	4	26	momentos	momento	ncmp000	common	-	-	-	-	-	-
+musica_yes_5_4	4	27	más	más	rg	-	-	-	-	-	-	-
+musica_yes_5_4	4	28	importantes	importante	aq0cp0	qualificative	-	-	-	-	-	-
+musica_yes_5_4	4	29	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	30	la	el	da0fs0	article	-	-	-	-	-	-
+musica_yes_5_4	4	31	historia	historia	ncfs000	common	-	-	-	-	-	-
+musica_yes_5_4	4	32	de	de	sps00	preposition	-	-	-	-	-	-
+musica_yes_5_4	4	33	la	el	da0fs0	article	-	-	-	-	-	-
+musica_yes_5_4	4	34	música	música	ncfs000	common	-	-	-	-	-	-
+musica_yes_5_4	4	35	(	(	fpa	-	-	-	-	-	-	-
+musica_yes_5_4	4	36	y	y	cc	coordinating	-	-	-	-	-	-
+musica_yes_5_4	4	37	no	no	rn	negative	-	-	-	no	-	-
+musica_yes_5_4	4	38	exagero	exagerar	vmip1s0	main	-	-	-	-	-	-
+musica_yes_5_4	4	39	)	)	fpt	-	-	-	-	-	-	-
+musica_yes_5_4	4	40	.	.	fp	-	-	-	-	-	-	-
+
+musica_yes_5_4	5	1	Sólo	sólo	rg	-	***
+musica_yes_5_4	5	2	por	por	sps00	preposition	***
+musica_yes_5_4	5	3	escuchar	escuchar	vmn0000	main	***
+musica_yes_5_4	5	4	la	el	da0fs0	article	***
+musica_yes_5_4	5	5	explosión	explosión	ncfs000	common	***
+musica_yes_5_4	5	6	musical	musical	aq0cs0	qualificative	***
+musica_yes_5_4	5	7	de	de	sps00	preposition	***
+musica_yes_5_4	5	8	"	"	fe	-	***
+musica_yes_5_4	5	9	Sabotage	sabotage	np00000	proper	***
+musica_yes_5_4	5	10	"	"	fe	-	***
+musica_yes_5_4	5	11	habrás	haber	vaif2s0	auxiliary	***
+musica_yes_5_4	5	12	visto	ver	vmp00sm	main	***
+musica_yes_5_4	5	13	recompensado	recompensar	vmp00sm	main	***
+musica_yes_5_4	5	14	lo	el	da0ns0	article	***
+musica_yes_5_4	5	15	invertido	invertido	ncms000	common	***
+musica_yes_5_4	5	16	en	en	sps00	preposition	***
+musica_yes_5_4	5	17	el	el	da0ms0	article	***
+musica_yes_5_4	5	18	cd	cd	ncfs000	common	***
+musica_yes_5_4	5	19	.	.	fp	-	***
+
+musica_yes_5_4	6	1	Y	y	cc	coordinating	***
+musica_yes_5_4	6	2	es	ser	vsip3s0	semiauxiliary	***
+musica_yes_5_4	6	3	que	que	cs	subordinating	***
+musica_yes_5_4	6	4	la	el	da0fs0	article	***
+musica_yes_5_4	6	5	riqueza	riqueza	ncfs000	common	***
+musica_yes_5_4	6	6	de	de	sps00	preposition	***
+musica_yes_5_4	6	7	sonidos	sonido	ncmp000	common	***
+musica_yes_5_4	6	8	,	,	fc	-	***
+musica_yes_5_4	6	9	ritmos	ritmo	ncmp000	common	***
+musica_yes_5_4	6	10	y	y	cc	coordinating	***
+musica_yes_5_4	6	11	el	el	da0ms0	article	***
+musica_yes_5_4	6	12	buen	bueno	aq0ms0	qualificative	***
+musica_yes_5_4	6	13	hacer	hacer	vmn0000	main	***
+musica_yes_5_4	6	14	de	de	sps00	preposition	***
+musica_yes_5_4	6	15	los	el	da0mp0	article	***
+musica_yes_5_4	6	16	mc	mc	nc00000	common	***
+musica_yes_5_4	6	17	´	´	fz	-	***
+musica_yes_5_4	6	18	s	segundo	ncmn000	common	***
+musica_yes_5_4	6	19	hacen	hacer	vmip3p0	main	***
+musica_yes_5_4	6	20	de	de	sps00	preposition	***
+musica_yes_5_4	6	21	este	este	dd0ms0	demonstrative	***
+musica_yes_5_4	6	22	disco	disco	ncms000	common	***
+musica_yes_5_4	6	23	una	uno	di0fs0	indefinite	***
+musica_yes_5_4	6	24	maravilla	maravilla	ncfs000	common	***
+musica_yes_5_4	6	25	sonora	sonoro	aq0fs0	qualificative	***
+musica_yes_5_4	6	26	.	.	fp	-	***
+
+musica_yes_5_4	7	1	A	a	sps00	preposition	***
+musica_yes_5_4	7	2	mi	mi	dp1css	possessive	***
+musica_yes_5_4	7	3	modesto	modesto	aq0ms0	qualificative	***
+musica_yes_5_4	7	4	juicio	juicio	ncms000	common	***
+musica_yes_5_4	7	5	sólo	sólo	rg	-	***
+musica_yes_5_4	7	6	el	el	da0ms0	article	***
+musica_yes_5_4	7	7	"	"	fe	-	***
+musica_yes_5_4	7	8	It_Takes_a_Nation_of_Millions_to_Hold_Us_Back	it_takes_a_nation_of_millions_to_hold_us_back	np00000	proper	***
+musica_yes_5_4	7	9	"	"	fe	-	***
+musica_yes_5_4	7	10	de	de	sps00	preposition	***
+musica_yes_5_4	7	11	Public_Enemy	public_enemy	np00000	proper	***
+musica_yes_5_4	7	12	lo	lo	pp3cna00	personal	***
+musica_yes_5_4	7	13	supera	superar	vmip3s0	main	***
+musica_yes_5_4	7	14	.	.	fp	-	***
+

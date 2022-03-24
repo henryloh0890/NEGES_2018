@@ -1,0 +1,525 @@
+Si|O quieres|O tirar|O el|O dinero|O esta|O muy|O bien|O ,|O pero|O la|O verdad|O es|O que|O deja|O mucho|O que|O desear|O si|O se|O compara|O con|O cualquier|O otra|O lavadora|O de|O la|O marca|O edesa|O ,|O no|B-C es|O electronica|O ,|O consume|O como|O un|O demonio|O ,|O y|O el|O gasto|O de|O agua|O es|O disparatado|O (|O comparando|O lo|O con|O otros|O modelos|O de|O edesa|O como|O el|O L1015|O o|O L1026|O o|O L836|O )|O .|O
+Se|O nota|O muchisimo|O que|O han|O intentado|O ahorrar|O tanto|O en|O tecnologia|O ,|O que|O hasta|O parece|O que|O se|O han|O olvidado|O que|O tiene|O que|O lavar|O ,|O ademas|O de|O tener|O un|O tambor|O pequeño|O 4,5|O kilos|O exactamente|O no|B-C toma|O el|O suavizante|O correctamente|O ,|O
+hay|O veces|O que|O directamente|O no|B-C lo|O toma|O ,|O y|O la|O ropa|O sale|O empapada|O (|O falta|O de|O revoluciones|O 500|O ?|O ?|O )|O y|O no|B-C del_todo|I-C limpia|O ,|O hay|O que|O poner|O 30|O grados|O o|O 40|O para|O que|O lo|O deje|O aceptable|O ,|O mientras_que|O en|O otros|O modelos|O con|O un|O programa|O frio|O lo|O deja|O perfecto|O .|O
+Mi|O experiencia|O horrorosa|O !|O
+Me|O compre|O la|O lavadora|O (|O bosch|O was20440ee|O )|O muy|O bonita|O ,|O mucha|O tecnologia|O pero|O para|O nada|B-C .|O
+Apenas|O un|O mes|O despues|O de|O traer|O me|O la|O nuevecita|O de|O la|O tienda|O ya|O me|O estaba|O dando|O problemas|O .|O
+El|O servicio|O tecnico|O oficial|O impresentables|O ,|O absolutamente|B-C nada|I-C agiles|O .|O
+La|O triste|O lavadora|O lleva|O a|O día|O de|O hoy|O más|O de|O un|O mes|O averiada|O .|O
+Visitas|O de|O tecnicos|O miles|O ,|O hoy|O hay|O que|O cambiar|O un|O pieza|O ,|O mañana|O otra|O ,|O pasado_mañana|O hay|O que|O codificar|O la|O ,|O espera|O te|O que|O no|B-C hay|O en|O almacen|O y|O vienen|O de|O alemania|O .....|O
+Lo|O que|O se|O refiere|O a|O atención|O usuario|O otra|O verguenza|O también|O !|O
+despues|O de|O haber|O pasado|O dos|O reclamaciones|O por|O escrito|O (|O que|O caen|O en|O saco|O roto|O )|O no|B-C he|O recibido|O ninguna|I-C disculpa|O formal|O por|O su|O parte|O ,|O por|O los|O incovenientes|O que|O estoy|O teniendo|O .|O
+Os|O deseo|O sinceramente|O que|O la|O tecnologia|O no|B-C os|O falle|O nunca|I-C pues|O su|O servicio|O tecnico|O ,|O según|O mi|O experiencia|O ,|O es|O que|O falla|O siempre|O .|O
+en|O general|O estoy|O envcantada|O con|O la|O lavadora|O pero|O sí|O que|O es|O verdad|O que|O en|O más|O de|O una|O ocasión|O he|O descubierto|O que|O la|O ropa|O tenía|O rotos|O después_de|O lavar|O la|O .|O
+yo|O creía|O que|O se|O debía|O a|O el|O contacto|O entre|O la|O propia|O ropa|O (|O cremalleras|O ...|O )|O pero|O como|O he|O podido|O leer|O aquí|O no|B-C soy|O a|O la|O única|O que|O le|O ocurre|O y|O además|O con|O esta|O misma|O lavadora|O .|O
+ya|O digo|O que|O por|O lo|O demás|O me|O parece|O una|O lavadora|O muy|O buena|O y|O lo|O de|O los|O rotos|O me|O habrá|O pasado|O tres|O o|O cuatro|O veces|O en|O dos|O años|O .|O
+eso|O sí|O ,|O cuando|O te|O pasa|O y|O te|O fastidia|O algún|O pantalón|O a|O alguna|O ropa|O que|O aprecias|O te|O fastidia|O bastante|O .|O
+Como|O ya|O os|O comenté|O en|O la|O opi|O de|O el|O lavaplatos|O ,|O mi|O señora|O esposa|O y|O yo|O llevamos|O ya|O 15|O años|O casados|O y|O 15|O años|O tenian|O los|O electrodomésticos|O de|O la|O cocina|O .|O
+Pues_bien|O este|O es|O el|O último|O que|O cambiamos|O la|O lavadora|O ,|O nuestra|O vieja|O lavadora|O era|O una|O Balay|O que|O dió|O un|O muy|O pero|O que|O muy|O buen|O resultado|O durante|O los|O 15|O años|O ,|O pero|O empezaba|O a|O tirar|O agua|O y|O estaba|O ya|O bastante|O vieja|O ,|O ademas|O la|O llegada|O de|O el|O "|O titu|O "|O mi|O hijo|O pequeño|O aumentó|O las|O necesidades|O de|O lavado|O de|O ropa|O en|O casa|O .|O
+Esta|O es|O la|O nueva|O lavadora|O :|O
+~|O ~|O ~|O ~|O ~|O ~|O
+LG|O de|O 7|O Kgs|O
+~|O ~|O ~|O ~|O ~|O ~|O
+Lo|O que|O mas|O llama|O la|O atención|O es|O el|O pedazo|O bombo|O que|O tiene|O ,|O en|O el|O que|O caben|O hasta|O edredones|O grandes|O ,|O ademas|O cuenta|O con|O apertura|O de|O 180|O grados|O lo|O que|O la|O hace|O mas|O cómoda|O .|O
+Uso|O y|O disfrute|O :|O
+Ruedecita|O :|O
+La|O ruedecita|O no|O es|O una|O ruedecita|O tradicional|O ,|O sino_que|O es|O iluminada|O ,|O me|O explico|O ,|O según|O das|O vueltas|O se|O encienden|O las|O diferentes|O opciones|O de|O lavado|O .|O
+Según|O se|O van|O cambiado|O las|O diferentes|O opciones|O la|O lavadora|O por|O si|O misma|O ajusta|O parámetros|O de|O lavado|O de|O los|O programas|O ,|O que|O ademas|O son|O modificables|O manualmente|O .|O
+Opciones|O de|O la|O ruedecita|O :|O
+Color|O :|O La|O verdad|O es|O que|O no|B-C especifica|O que|O color|O ,|O pero|O supongo|O que|O será|O válido|O para|O todos|O .|O
+Sintético|O :|O Para|O las|O prendas|O que|O pican|O .|O
+Delicado|O :|O Para|O ...|O bueno|O para|O esas|O que|O estis|O pensando|O .|O
+Lana|O :|O E|O aqui|O un|O dilema|O hablamos|O de|O lana|O virgen|O o|O de|O la|O otra|O .|O
+Rápido|O :|O Este|O es|O el|O programa|O que|O menos|O tarda|O .|O
+Blanco|O :|O Lo|O que|O no|B-C es|O color|O es|O blanco|O y|O viceversa|O .|O
+Eco|O :|O Eco-Nómico|O ,|O para|O el|O blanco|O no|B-C muy|O negro|O .|O
+Una|O vez|O explicada|O la|O ruedecita|O ,|O vamos|O con|O otro|O importante|O elemento|O de|O nuestros|O electrodomésticos|O .|O
+Los|O botoncitos|O .|O
+Tenemos|O 7|O botoncitos|O ,|O la|O leche|O ¿|O no|O ?|O pues|O venga|O a|O el|O ataque|O vamos|O con|O ellos|O ,|O que|O tampoco|B-C serán|O tan|I-C dificiles|O :|O
+Botón|O 1|O :|O
+On|O /|O off|O ,|O por|O definición|O el|O mas|O facil|O de|O todos|O casi|O todo|O tiene|O un|O botón|O on|O /|O off|O .|O
+Botón2|O :|O
+Incicio|O pausa|O ,|O este|O le|O podriamos|O asemejar|O a|O el|O play|O /|O pausa|O de|O el|O video|O .|O
+Botón|O 3|O :|O
+Lavado|O :|O Aqui|O empieza|O a|O complicar|O se|O ,|O pero|O como|O todo|O lo|O "|O cliqueo|O "|O y|O observo|O el|O resultado|O ,|O la|O lucecita|O pasa|O de|O lavado|O a|O pre-lavado|O y|O si|O lo|O "|O cliqueo|O "|O de|O nuevo|O hace|O lo|O contrario|O ,|O ya|O está|O .|O
+Botón|O 4|O :|O
+Aclarado|O ,|O Usando|O el|O mismo|O sistema|O que|O el|O botón|O anterior|O observo|O que|O tenemos|O aclarado|O o|O super-aclarado|O .|O
+Botón|O 5|O :|O
+Centrifugado|O :|O De|O nuevo|O con|O el|O mismo|O sistema|O ,|O tenemos|O entre|O 400|O y|O 1000|O ,|O rpm|O de|O el|O tambor|O ,|O para|O los|O que|O tenemos|O coche|O facil|O de|O entender|O ,|O y|O una|O opción|O con|O un|O bombo|O tachado|O ,|O esta|O es|O sin|B-C centrifugado|O .|O
+Botón|O 6|O :|O
+Temperatura|O ,|O en|O grados|O Celsius|O ,|O no|B-C le|O pngamos|O mucha|O que|O la|O ropa|O enccoge|O .|O
+Botón|O 7|O :|O
+Retardo|O ,|O ¡|O La|O cagamos|O ,|O este|O es|O dificil|O !|O ,|O observo|O en|O su|O "|O cliqueo|O "|O que|O cambia|O el|O tiempio|O que|O queda|O para|O terminar|O ,|O es|O decir|O que|O si|O le|O pongo|O 5|O horas|O ,|O la|O lavadora|O terminará|O dentro_de|O 5|O horas|O ,|O que|O guay|O un|O programador|O .|O
+Otro|O elemento|O importante|O en|O esta|O lavadora|O es|O el|O display|O de|O 4|O dígitos|O alfanuméricos|O :|O
+opciones|O mas|O habituales|O de|O el|O display|O :|O
+02:35|O (|O por_ejemplo|O )|O tiempo|O que|O queda|O para|O que|O la|O ropa|O esté|O limpita|O ,|O
+Errores|O mas|O habituales|O en|O display|O :|O
+DE|O :|O Puerta|O habierta|O la|O D|O supongo|O que|O es|O por|O door|O ,|O a|O e|O ni_idea|B-C .|O
+IE|O :|O No|B-C tiene|O agua|O
+¿|O donde|O está|O la|O W|O de|O water|O ?|O
+UE|O :|O No|B-C puedo|O centrifugar|O ,|O te|O has|O pasado|O de|O ropa|O ,|O saca|O algo|O .|O
+Hay|O alguno|O mas|O pero|O esos|O ya|B-C no|I-C los|O pillo|O ni_de_coña|I-C .|O
+Resumen|O :|O
+La|O lavadora|O tiene|O un|O sistema|O llamado|O direct|O drive|O ,|O con|O lo|O cual|O ,|O no|B-C hace|O nada_de|I-C ruido|O ,|O es|O incrible|O ,|O con|O lo|O ruidosas|O que|O son|O las|O lavadoras|O esta|O es|O de|O lo|O mas|O discreta|O ,|O buen|O invento|O .|O
+Clasificacion|O energetica|O :|O
+Centrifugado|O :|O C|O
+Lavado|O :|O A|O
+Energetica|O :|O A|O
+Indicador|O error|O /|O alarma|O ,|O se|O me|O olvidó|O que|O esta|O lavadora|O "|O pita|O "|O ,|O encaso|O de|O aparecer|O alguno|O de|O los|O erres|O anteriores|O o_bien|O a|O el|O finalizar|O la|O colada|O te|O avisa|O con|O un|O "|O titutitutitu|O "|O .|O
+Mi|O señora|O dice|O que|O hace|O buenos|O lavados|O y|O que|O es|O muy|O util|O su|O gran|O capacidad|O .|O
+Saludos|O a|O todos|O y|O que|O ustedes|O lo|O laven|O bien|O .|O
+PACO|O
+Esta|O lavadora|O es|O una|O lavadora|O para|O familias|O ya|O algo|O grandes|O dos|O o|O tres|O hijos|O ya_que|O permite|O como|O últimamente|O ya|O una|O carga|O de|O 5.5|O kg|O en|O algodon|O ,|O y|O dado|O la|O calificación|O energetica|O ,|O el|O la|O economización|O de|O los|O programas|O sale|O un|O precio|O por|O kilo|O de|O ropa|O lavada|O muy|O barato|O .|O
+Tiene|O quizas|O el|O inconveniente|O que|O no|B-C tiene|O muchas|O opciones|O de|O lavado|O (|O como|O 1/2|O carga|O ,|O supresión|O centrifugado|O ,|O selector|O temperatura|O )|O que|O la|O hagan|O antieconomica|O para|O familias|O pequeñas|O .|O
+Los|O restos|O de|O detergente|O que|O quedan|O despues|O de|O los|O lavados|O son|O optimos|O si|O bien|O la|O que|O tenia|O anterior|O dejaba|O menos|O ,|O esto|O no|B-C es|O perceptible|O si|O no|B-C sobrepasas|O la|O carga|O máxima|O recomendada|O .|O
+Otro|O inconveniente|O es|O el|O ruido|O molesto|O por_ejemplo|O si|O lo|O tienes|O en|O una|O zona|O de|O descanso|O pero|O imperceptible|O si|O ya|O esta|O instalada|O como|O es|O mi|O caso|O en|O un|O lavadero|O con|O puerta|O .|O
+acabo|O de|O comprar|O la|O y|O estoy|O contentisima|O ,|O lava|O que|O es|O una|O maravilla|O ,|O tiene|O una|O gran|O variedad|O de|O programas|O ,|O elige|O ella|O solita|O la|O temperatura|O dependiendo|O de|O el|O tipo|O de|O ropa|O que|O selecciones|O ,|O tambien|O elige|O las|O revoluciones|O de|O el|O centrifugado|O ,|O la|O ropa|O sale|O casi|O seca|O ,|O menos|O cuando|O se|O trata|O de|O ropa|O delicada|O ,|O y|O que|O decir|O de|O la|O capacidad|O que|O tiene|O ,|O ufffffffff|O ,|O estoy|O encantada|O ,|O ahorro|O en|O agua|O ,|O energia|O y|O tiempo|O ,|O de|O 5kg|O .|O he|O pasado|O a|O 7kg|O .|O hay|O mucha|O diferencia|O ,|O de|O verdad|O .|O
+Ademas|O casi|B-C no|I-C hace|O ruido|O ,|O y|O eso|O no|B-C hay|O dinero|O que|O lo|O pague|O ,|O lavadoras|O silenciosas|O ,|O es|O un|O descanso|O para|O la|O cabeza|O .|O
+Ojala|O me|O dure|O mucho|O tiempo|O ,|O pero|O si|O por|O cualquier|O motivo|O tuviera|O que|O elegir|O otra|O vez|O la|O lavadora|O ,|O desde_luego|O no|B-C dudaría|O en|O elegir|O siemens|O ,|O la|O anterior|O tambien|O era|O de|O la|O misma|O marca|O ,|O pero|O la|O lleve|O para|O la|O casita|O de|O verano|O y|O me|O he|O comprado|O esta|O para|O usar|O a|O diariario|O que|O es|O donde|O tengo|O mas|O ropa|O para|O lavar|O .|O
+en|O fin|O CONTENTISIMA|O
+Email|O enviado|O a|O FAGOR|O para|O que|O arreglen|O una|O lavadora|O ultimo|O modelo|O de|O la|O marca|O que|O no|B-C es|O capaz|O de|O efectuar|O su|O primer|O lavado|O
+QUEJA|O
+-|O
+Hola|O buenos|O dias|O .|O
+Escribo|O este|O e-mail|O para|O mostrar|O mi|O malestar|O hacia|O su|O servicio|O de|O asistencia|O .|O
+Llevo|O 72|O horas|O desde|O que|O comunique|O la|O anomalía|O y|O a|O dia|O de|O hoy|O mi|O super|O lavadora|O con|O pantalla|O de|O Lcd|O modelo|O F-4611|O sigue|O sin|B-C funcionar|O y|O sin|B-C proporcionar|O me|O las|O espectativas|O que|O de|O un|O electrodoméstico|O de|O cerca|O de|O 700|O euros|O se|O espera|O de|O él|O .|O
+Veo|O en|O su|O pagina|O web|O que|O las|O reparaciones|O en|O 24|O horas|O y|O que|O si|O no|B-C no|B-C cobran|O el|O desplazamiento|O .|O
+De|O que|O me|O sierve|O a|O mi|O ese|O caramelo|O si|O mi|O aparato|O esta|O EN|O GARANTÍA|O y|O que|O por|O un|O defecto|O de|O fabricacion|O no|B-C funciona|O .|O
+Ustedes|O se|O gastan|O mucho|O dinero|O en|O publicidad|O pero|O con|O acciones|O de|O este|O tipo|O lo|O único|O que|O hacen|O echar|O pro|O tierra|O todo|O el|O trabajo|O de|O su|O empresa|O .|O
+Ustedes|O sigan|O así|O que|O yo|O me|O he|O comprado|O 8|O electrodomesticos|O de|O su|O marca|O ,|O cosa|O qeu|O no|B-C volveré|O a|O repertir|O y|O haré|O todo|O lo|O posible|O para_que|O esto|O no|B-C quede|O como|O un|O caso|O aislado|O ,|O informando|O en|O todo|O tipo|O de|O foros|O de|O internet|O ,|O allegados|O ,|O etc.|O
+Un|O saludo|O y|O que|O sepan|O que|O han|O perdido|O un|O futuro|O nuevo|O cliente|O
+Hola|O .|O
+Compré|O esta|O lavadora|O hace|O poco|O .|O
+Quería|O que|O fuera|O de|O la|O marca|O LG|O ,|O porque|O tienen|O fama|O de|O ser|O modernas|O y|O de|O buena|O calidad|O ,|O además_de|O incorporar|O el|O sistema|O Direct_Drive|O que|O hace|O que|O la|O lavadora|O no|B-C tambalee|O y|O apenas|B-C haga|O ruido|O (|O a|O el|O centrifugar|O sobre|O todo|O )|O .|O
+Ha|O sido|O una|O compra|O estupenda|O .|O
+Me|O costó|O unos|O 500|O €|O más|O o|O menos|O creo|O ,|O pero|O a|O el|O ser|O de|O clase|O A_la_Comunidad|O te|O reembolsa|O unos|O 40|O €|O por|O sustituir|O la|O antigua|O .|O
+Todos|O los|O reglajes|O son|O digitales|O ,|O lo|O que|O permite|O un|O nivel|O de|O precisión|O elevado|O y|O es|O más|O cómodo|O .|O
+Lo|O mejor|O que|O tiene|O es|O que|O puedes|O elegir|O todas|O las|O opciones|O de|O forma|O independiente|O una|O de|O otra|O ,|O por|O lo|O que|O tú|O haces|O las|O combinaciones|O que|O quieras|O (|O tipo|O de|O ropa|O ,|O lavado|O ,|O aclarado|O ,|O centrifugado|O ,|O temperatura|O ,|O antiarrugas|O ,|O bio|O ,|O intensivo|O )|O .|O
+También|O dispone|O de|O temporizador|O por|O si|O la|O quieres|O dejar|O programada|O .|O
+Incluso|O la|O puedes|O pausar|O durante|O el|O lavado|O .|O
+Su|O capacidad|O es|O de|O 7|O kg|O de|O ropa|O ,|O lo|O que|O es|O bastante|O .|O
+Durante|O el|O lavado|O puedes|O ver|O el|O tiempo|O exacto|O que|O le|O queda|O para|O terminar|O ,|O y|O cuando|O finaliza|O pita|O para|O avisar|O te|O .|O
+Los|O programas|O son|O eficientes|O y|O rápidos|O .|O
+Un|O programa|O normal|O de|O algodón|O sólo|O tarda|O hora|O y|O cuarto|O .|O
+Su|O diseño|O también|O está|O muy|O bien|O .|O
+La|O ropa|O sale|O limpia|O y|O en|O buen|O estado|O que|O da|O gusto|O ,|O aunque|O todo|O depende|O también|O de|O usar|O el|O detergente|O adecuado|O ,|O y|O evitar|O el|O suavizante|O para_que|O no|B-C se|O acumulen|O restos|O dentro_de|O la|O lavadora|O .|O
+Una|O pastilla|O antical|O en|O cada|O lavado|O también|O es|O conveniente|O ,|O sobre|O todo|O si|O no|B-C vives|O en|O una|O zona|O con|O agua|O dulce|O .|O
+Totalmente|O recomendable|O .|O
+Saludos|O .|O
+En|O un|O principio|O todo|O iba|O bien|O ,|O casi|B-C no|I-C se|O movía|O ,|O reformamos|O la|O cocina|O ,|O nivelamos|O el|O suelo|O y|O a_partir_de|O ahí|O ya|O fue|O imposible|O nivelar|O la|O lavadora|O .|O
+Bueno|O se|O suponía|O que|O iba|O como|O todas|O .|O
+A|O el|O año|O y|O medio|O empezó|O a|O perder|O agua|O por|O no_se_sabe_donde|O .|O
+Llamas|O a|O el|O servicio|O técnico|O y|O dice|O que|O no|B-C es|O nada|I-C ,|O que|O si|O la|O presión|O de|O el|O grifo|O es|O mala|O que|O tal|O ,|O cobra|O 45|O y|O se|O larga|O ,|O a|O los|O dos|O días|O nos|O llaman|O y|O nos|O dicen|O que|O ese|O modelo|O y|O serie|O tiene|O mal|O la|O placa|O electrócnica|O que|O tienen|O que|O cambiar|O lo|O por|O orden|O de|O el|O fabricante|O ,|O lo|O cambian|O y|O misteriosamente|O dejó|O de|O salir|O agua|O .|O
+Tedría|O que|O haber|O ido|O a|O el|O servicio|O técnico|O y|O meter|O le|O la|O primera|O factura|O donde|O le|O dijese|O .|O
+Luego_de|O 3|O años|O se|O han|O fastidiado|O los|O rodamientos|O que|O te|O piden|O 180|O €|O de|O mano|O de|O obra|O y|O porque|O los|O materiales|O están|O en|O garantía|O ,|O menuda|O desvergüenza|O ,|O por|O materiales|O de|O 20|O €|O 180|O de|O mano|O de|O obra|O ,|O que|O no|B-C digo|O que|O no|B-C lo|O valga|O ,|O pero|O no|B-C para|O quedar|O se|O con|O una|O lavadora|O vieja|O y|O tocada|O .|O
+Escribí|O a|O Lg|O
+la|O primera|O no|B-C dijeron|O nada|I-C y|O la|O segunda|O que|O si|O quiero|O los|O compre|O en|O el|O servicio|O técnico|O y|O me|O los|O cambie|O yo|O ,|O pero|O viendo|O lo|O malo|O que|O son|O sus|O productos|O preferiría|O averiguar|O cuales|O son|O los|O que|O usa|O ,|O y|O la|O junta|O ,|O y|O comprar|O los|O en|O otro|O sitio|O .|O
+Lo|O malo|O que|O tengo|O que|O desmontar|O la|O para|O saber|O el|O modelo|O y|O la|O mujer|O igual|O me|O descabella|O .|O
+Si|O alguien|O sabe|O cuales|O son|O que|O lo|O diga|O .|O
+Conclusión|O :|O
+ni|B-C yo|O ni|I-C donde|O trabajo|O volveremos|O a|O comprar|O nada|I-C de|O la|O marca|O LG|O ,|O y|O no|B-C parece|O que|O sea|O a|O el|O único|O que|O le|O pasa|O
+Compre|O esta|O lavadora|O hace|O 1|O año|O .|O
+Me|O atrajó|O su|O gran|O capacidad|O de|O lavado|O .|O 7|O kg|O .|O
+Sus|O 1000|O rpm|O de|O centrifugado|O .|O
+Que|O es|O clase|O A|O en|O todo|O .|O
+La|O verdad|O que|O todo|O esto|O es|O cierto|O .|O
+Pero|O cual|O es|O su|O problema|O ?|O ?|O .|O
+Que|O tienes|O que|O estar|O todo|O el|O tiempo|O de|O lavado|O pendiente|O de|O ella|O .|O
+Y|O por|O que|O ?|O
+Pues|O porqué|O la|O muy|O juerguista|O se|O va|O de|O paseo|O por|O toda|O la|O cocina|O .|O
+Se|O pone|O a|O bailar|O y|O a|O menear|O las|O caderas|O y|O eso|O que|O no|B-C le|O ponemos|O música|O .|O
+Llamamos|O a|O el|O servicio|O técnico|O contando|O les|O la|O manía|O de|O la|O lavadora|O bailarina|O .|O
+Vinieron|O y|O le|O cambiaron|O los|O amortiguadores|O .|O
+Pero|O nada|O la|O lavadora|O sigue|O igual|O ,|O bailando|O por|O toda|O la|O cocina|O .|O
+no|B-C se|O si|O llamar|O otra|O vez|O a|O el|O servicio|O técnico|O para_que|O no|B-C hagan|O nada|I-C como|O la|O otra|O vez|O ya_que|O me|O han|O informado|O que|O el|O problema|O de|O esta|O lavadora|O es|O que|O hay|O que|O cambiar|O le|O el|O contrapeso|O y|O eso|O no|B-C te|O lo|O hacen|O porque|O cuesta|O mucho|O dinero|O y|O estando|O en|O garantía|O ,|O pues|O que|O te|O den|O .|O
+Quizar|O la|O solución|O será|O poner|O música|O clásica|O en|O la|O cocina|O y|O así|O por_lo_menos|O la|O lavadora|O se|O moverá|O mas|O despacito|O .|O
+Tengo|O una|O fagor|O de|O 8|O kilos|O desde|O hace|O más|O o|O menos|O cuatro|O meses|O .|O
+Me|O he|O decidido|O a|O dar|O esta|O opinión|O porque|O estoy|O indignada|O con|O esta|O lavadora|O pero|O sobre|O todo|O con|O la|O marca|O Fagor|O ,|O quienes|O no|B-C me|O han|O hecho|O ni|I-C caso|O ante|O mis|O quejas|O .|O
+El|O problema|O de|O esta|O lavadora|O es|O el|O centrifugado|O ,|O no|O es|O que|O haga|O ruido|O sino|O que|O hace|O un|O estruendo|O increíble|O ,|O incluso|O se|O desplaza|O lo|O me|O hace|O ir|O a|O sujetar|O literalmente|O la|O lavadora|O cada|O vez|O que|O centrifuga|O .|O
+(|O la|O primera|O vez|O no|B-C me|O lo|O podóa|O creer|O ...|O )|O
+A|O las|O 2|O semanas|O de|O comprar|O la|O llamé|O a|O los|O técnicos|O quienes|O la|O probaron|O y|O me|O dijeron|O que|O estas|O máquinas|O hacían|O ese|O ruido|O y|O que|O estaba|O dentro_de|O lo|O normal|O ...|O (|O que|O ¡|O qué|O quería|O ¡|O ¡|O ¡|O una|O capacidad|O de|O 8|O kilos|O en|O las|O mismas|O medidas|O que|O las|O de|O 6kilos|O y|O que|O no|B-C hiciera|O ruido|O ¡|O ¡|O ¡|O ¡|O ...|O
+pués|O la|O verdad|O mi|O opinión|O es|O que|O la|O sigan|O mejorando|O porque|O ahora|O mismo|O es|O tomarle_el_pelo|O a|O los|O consumidores|O que|O la|O compran|O ...|O
+por_supuesto|O tambien|O llamé|O a|O la|O central|O de|O Fagor|O y|O despues|O de|O hablar|O con|O ellos|O me|O comentaron|O que|O era|O su|O funcionamiento|O normal|O y|O como|O no|B-C era|O un|O defecto|O de|O la|O máquina|O que|O ni|B-C me|O la|O cambiaban|O ni|B-C me|O devolvían|O el|O dinero|O .|O .|O
+¡|O ¡|O ¡|O increible|O ¡|O ¡|O ¡|O ¡|O ¡|O
+yo|O ya|O lo|O dejo|O por|O perdido|O ....|O
+solo|O espero|O que|O si|O alguien|O lee|O esta|O opinió|O me|O tenga_en_cuenta|O antes_de|O gastar|O se|O unos|O 700|O euros|O en|O esta|O lavadora|O
+bueno|O ....|O
+no|B-C se|O si|O mi|O critica|O es|O para|O la|O lavadora|O o|O para|O el|O servicio|O tecnico|O LG|O .|O
+Hace|O un|O par|O de|O años|O me|O compre|O esta|O preciosa|O lavadora|O porque|O puse|O muy|O ilusionada|O mi|O cocina|O de|O diseño|O y|O necesitaba|O una|O lavadora|O que|O iria|O a|O la|O cocina|O acorde|O con|O el|O estilo|O ,|O me|O gusto|O ,|O la|O marca|O me|O daba|O confianza|O y|O ni_corta_ni_perezosa|O solte|O algo|O mas|O de|O 600|O eurazos|O en|O el|O aparatito|O .|O
+cuando|O me|O instalo|O voy|O a|O estrenar|O la|O ,|O la|O lleno|O con|O mis|O trapitos|O y|O me|O voy|O a|O dormir|O la|O siesta|O a|O mi|O sofa|O ....|O
+a|O el|O rato|O ,|O en|O el|O proceso|O de|O centrifugado|O se|O lio|O un|O estruendo|O tipo|O terremoto|O y|O a|O el|O momento|O la|O lavadora|O estaba|O conmigo|O en|O el|O salon|O ,|O se|O ve|O que|O le|O interesaria|O lo|O que|O ponian|O en|O la|O tele|O ......|O
+despues|O de|O varias|O llamadas|O a|O el|O servicio|O tecnico|O y|O varias|O clavadas|O por|O venir|O a|O ver|O la|O (|O aqui|O viene|O lo|O fuerte|O )|O me|O culpaban|O a|O mi|O porque|O por|O lo|O visto|O no|B-C la|O cargaba|O bien|O ,|O hay|O que|O llevar|O un|O orden|O de|O prioridad|O para|O llenar|O la|O .|O
+Primero|O prendas|O grandes|O ,|O luego|O medianas|O ultimo|O braguitas|O y|O calcetines|O porque|O si|O no|B-C la|O desestabilizo|O .|O
+despues|O de|O dos|O años|O y|O medio|O la|O lavadora|O sigue|O igual|O la|O cargue|O como|O la|O cargue|O ,|O asi|O que|O los|O vecinos|O cada|O vez|O que|O la|O pongo|O se|O meten|O debajo_de|O los|O marcos|O de|O las|O puertas|O por|O lo|O que|O pueda|O pasar|O .|O
+Creo|O que|O el|O servicio|O tecnico|O no|B-C sabia|O por|O donde|O meter|O le|O mano|O a|O tanta|O modernura|O y|O se|O desentendio|O .|O
+En|O fin|O esta|O es|O mi|O opinion|O ,|O que|O conste|O que|O lo|O adverti|O .|O
+Chaito|O .|O
+Y|O buen|O dia|O
+Pues|O la|O verdad|O y|O pese_a|O que|O tengo|O todos|O los|O electrodomesticos|O de|O la|O marca|O BOSCH|O (|O incluida|O una|O batidora|O adquirida|O en|O noviembre|O 2007|O )|O precisamente|O este|O modelo|O de|O lavadora|O me|O ha|O dado|O múltiples|O problemas|O desde|O que|O la|O compré|O en|O enero|O 2005|O y|O la|O puse_en_funcionamiento|O en|O junio|O 2005|O .|O
+Manchaba|O la|O ropa|O con|O una|O especie|O de|O grasa|O negra|O (|O no|B-C funcionó|O el|O asunto|O de|O meclar|O vinagre|O con|O un|O programa|O a|O 90º|O y|O recomendado|O por|O el|O técnico|O )|O .|O
+Desde|O el|O principio|O hacía|O ruidos|O y|O rozamientos|O a|O el|O girar|O el|O tambor|O ,|O se|O mordió-rompió|O con|O dicha|O vibraciones|O el|O tubo|O electroválvula|O (|O el|O que|O lleva|O agua|O a|O la|O cajetilla|O de|O detergente|O y|O suavizante|O )|O con|O fugas|O continuas|O de|O agua|O .|O
+A_punto_de|O expirar|O la|O garantía|O legal|O de|O los|O dos|O años|O los|O técnicos|O tuvieron|O que|O sustituir|O el|O tambor|O completo|O (|O y|O con|O cada|O avería|O lógicamenete|O no|B-C pudía|O lavar|O la|O ropa|O )|O .|O
+En|O enero_de_2008|O aparecieron|O rozamientos|O y|O ruidos|O de|O el|O nuevo|O tambor|O por|O lo|O que|O ,|O desesperado|O ,|O he|O adquirido|O una|O AEG|O modelo|O 5214|O que|O cometaré|O en|O Ciao|O !|O (|O cruzo|O los|O dedos|O para_que|O no|B-C me|O salga|O rana|O como|O la|O BOSCH|O )|O y|O me|O desentiendo|O de|O esta|O ya_que|O ha|O sido|O muy|O mala|O en|O origen|O y|O no|B-C me|O pienso|O gastar|O otros|O 200|O euros|O y|O pico|O en|O el|O técnico|O a|O el|O estar|O fuera_de|O los|O dos|O años|O de|O garantía|O .|O
+En|O general|O ,|O entiendo|O que|O BOSCH|O es|O muy|O buena|O marca|O ,|O prestigiosa|O y|O todo|O eso|O pero|O esta|O lavadora|O ha|O salido|O defectuosa|O como|O cualquier|O producto|O o|O marca|O prestigiosa|O que|O se|O precie|O quedando|O a_expensas_de|O la|O suerte|O .|O
+No_obstante|O mi|O mujer|O me|O recomienda|O que|O de_ahora_en_adelante|O no|B-C adquiera|O más|O productos|O de|O esta|O marca|O .|O
+Lo|O siento|O por|O ellos|O pero|O una|O lavadora|O con|O menos|O de|O tres|O años|O y|O de|O muy|O escaso|O uso|O (|O para|O dos|O personas|O )|O es|O inaceptable|O que|O le|O ocurran|O tantas|O desgracias|O (|O en|O su|O instalación|O comprobé|O que|O las|O envolturas|O y|O corchos|O estaban|O correctos|O y|O no|B-C había|O sufrido|O ningún|I-C golpe|O en|O el|O transporte|O )|O .|O
+Insisto|O en|O que|O BOSCH|O no|B-C es|O mala|O marca|O simplemente|O he|O tenido|O mala|O suerte|O con|O uno|O de|O sus|O productos|O .|O
+No|B-C quiero|O que|O nadie|B-C se|O lleve|O a|O desengaño|O ,|O mis|O otros|O electrodomesticos|O BOSCH|O funcionan|O perfectamente|O aunque|O hace|O poco|O leí|O en|O Internet|O de|O un|O técnico|O que|O en|O frigorificos|O y|O lavadoras|O siempre|O se|O debería|O comprar|O AEG|O y|O en|O placas|O de|O inducción|O ,|O lavavajillas|O y|O hornos|O la|O marca|O BOSCH|O .|O
+Por|O último|O ,|O quiero|O destacar|O que|O el|O día|O 10_de_enero_de_2008|O el|O técnico|O que|O me|O instaló|O la|O lavadora|O AEG|O modelo|O 5214|O me|O indicó|O que|O en|O poco|O tiempo|O yo|O era|O el|O cuarto|O cliente|O que|O tenía|O problemas|O con|O una|O lavadora|O BOSCH|O y|O que|O le|O estaba|O llamando|O la|O atención|O este|O hecho|O ,|O inexistente|O en|O otros|O tiempos|O ;|O que|O el|O tiene|O una|O BOSCH|O desde|O hace|O cuatro|O años|O y|O no|B-C estaba|O muy|I-C tranquilo|O por|O lo|O que|O estaba|O ocurriendo|O y|O que|O iba|O a|O cruzar|O los|O dedos|O .|O
+Expresé|O estos|O hechos|O en|O la|O página|O web|O de|O BOSCH|O aunque|O sólo|O me|O dejaban|O tramitar|O lo|O como|O una|O reclamación|O (|O yo|O no|B-C quería|O reclamar|O nada|I-C ,|O sólo|O que|O tuvieron|O conocimiento|O de|O estos|O incidentes|O )|O y|O a|O los|O pocos|O días|O me|O llamó|O una|O operadora|O dando|O como|O solución|O que|O me|O ofertaban|O un|O modelo|O superior|O (|O no|O que|O me|O la|O sustituían|O o|O hacían|O un|O descuento|O ,|O simplemente|O que|O me|O ofertaban|O otra|O ,|O vamos|O ,|O como|O el|O que|O va|O a|O una|O tienda|O )|O .|O
+Cuando|O le|O indiqué|O que|O habían|O tardado|O demasiado|O en|O contestar|O y|O que|O la|O lavadora|O ya|B-C no|I-C la|O tenía|O entonces|O me|O dijo|O que|O no|B-C podían|O hacer|O nada|I-C ,|O que|O esperaban|O que|O volviera|O a|O confiar|O en|O la|O marca|O y|O que|O daba|O por|O cerrada|O la|O reclamación|O .|O
+En|O fin|O ,|O podría|O seguir|O pero|O creo|O que|O con|O lo|O indicado|O es|O suficiente|O aunque|O motiva|O el|O salto|O a|O otra|O marca|O .|O
+Espero|O que|O esta|O información|O os|O sea|O útil|O .|O
+Un|O saludo|O .|O
+Queridos|O amigos|O ,|O hace|O un|O año|O tuve|O que|O cambiar|O mi|O vieja|O lavadora|O porque|O la|O pobre|O se|O quiso|O jubilar|O .|O
+Fui|O a|O la|O tienda|O con|O las|O ideas|O bastante|O claras|O ,|O necesitaba|O una|O lavadora|O de|O gran|O capacidad|O ,|O con|O muchas|O revoluciones|O de|O centrifugado|O ,|O porque|O en|O mi|O cocina|O no|B-C me|O cabe|O una|O secadora|O y|O necesito|O que|O la|O ropa|O salga|O ya|O bastante|O seca|O .|O
+Por_otro_lado|O me|O gusta|O lavar|O siempre|O con|O agua|O fria|O ,|O excepto|O en|O casos|O muy|O especiales|O .|O
+Escogi|O esta|O lavadora|O porque|O tiene|O el|O selector|O de|O temperatura|O independiente|O de|O el|O programa|O que|O uses|O .|O
+Me|O pareció|O bien|O su|O capacidad|O de|O carga|O y|O su|O ventana|O de|O gran|O tamaño|O que|O facilita|O el|O meter|O la|O ropa|O .|O
+Por_otro_lado|O tiene|O dos|O opciones|O de|O centrifugado|O a|O 500|O o|O a|O 900|O rpm|O .|O ,|O cuando|O centrifuga|O a|O 900|O a|O el|O principio|O asusta|O un|O poco|O porque|O suena|O igual|O que|O un|O avión|O a_punto_de|O despegar|O ,|O al_cabo_de|O el|O tiempo|O acabas|O por|O acostumbrar|O te|O (|O no|B-C así|O tus|O vecinos|O )|O
+Pero|O para|O mi|O aqui|O empezaron|O los|O problemas|O .|O
+Descontando|O el|O lavado|O de|O ropa|O delicada|O (|O que|O excluye|O el|O centrifugado|O )|O ,|O en|O realidad|O solo|O tiene|O otros|O dos|O programas|O .|O
+Uno|O para|O ropa|O muy|O sucia|O que|O tarda|O prácticamente|O DOS|O HORAS|O en|O completar|O se|O y|O que|O centrifuga|O a|O 900|O rpm|O .|O
+Y|O otro|O lavado|O más|O rápido|O y|O menos|O eficaz|O por_lo_tanto|O ,|O que|O tarda|O apenas|O media|O hora|O ,|O pero|O que|O centrifuga|O solamente|O a|O 500|O rpm|O .|O y|O te|O deja|O la|O ropa|O chorreando|O .|O
+Que|O poquitas|O prestaciones|O ,|O no|B-C fue|O una|O lavadora|O cara|O ,|O pero|O tampoco|B-C la|O más|O barata|O .|O
+En|O su|O año|O de|O vida|O se|O ha|O estropeado|O 3|O veces|O ,|O las|O dos|O primeras|O las|O cubrió|O la|O garantía|O ,|O la|O segunda|O avería|O la|O pague|O yo|O .|O
+Se|O rompió|O una|O barra|O de|O plástico|O que|O lleva|O dentro_de|O el|O tambor|O de|O acero|O inox|O .|O
+La|O segunda|O vez|O fue|O el|O mando|O de|O los|O programas|O ,|O que|O dejo|O de|O actuar|O .|O
+La|O tercera|O fue|O más|O gorda|O ,|O se|O inundo|O mi|O casa|O y|O parte|O de|O la|O de|O mi|O vecina|O ,|O la|O deje|O en|O marcha|O y|O me|O fui|O a|O trabajar|O ,|O a|O mi|O vuelta|O comprobé|O que|O la|O lavadora|O no|B-C habia|O dejado|O de|O coger|O agua|O en|O toda|O la|O mañana|O ,|O se|O desbordaba|O por|O todas|O partes|O .|O
+Y|O aun|B-C no|I-C ha|O terminado|O la|O odisea|O ,|O parece|O ser|O que|O la|O lavadora|O no|B-C está|O preparada|O para|O centriffugar|O a|O esa|O velocidad|O ,|O se|O ha|O roto|O un|O cojinete|O ,|O ,|O hace|O un|O ruido|O terrible|O ,|O mucho|O mas|O tremendo|O que|O el|O suyo|O habitual|O ,|O y|O a_medida_que|O centrifuga|O se|O va|O saliendo|O de|O el|O lugar|O donde|O está|O empotrada|O y|O acaba|O en_medio_de|O la|O cocina|O .|O
+Mi|O familia|O ya|O se|O lo|O toma|O a|O risa|O ,|O a|O mi|O me|O dan|O ganas|O de|O llorar|O .|O
+La|O reparación|O de|O el|O susodicho|O cojinete|O sale|O carisima|O .|O
+Por_lo_tanto|O no|O veo|O otra|O salida|O que|O pedir|O le|O una|O lavadora|O nueva|O a|O los|O Reyes_Magos|O este|O año|O ,|O si|O aguanta|O hasta|O entonces|O .|O
+PD|O :|O Todo|O lo|O aqui|O referido|O es|O verídico|O ,|O no|B-C se|O trata|O de|O ninguna|I-C peli|O de|O terror|O ni|I-C de|O risa|O .|O
+Me|O compre|O esta|O lavadora|O informando|O me|O mucho|O a|O traves|O de|O internet|O y|O otros|O medios|O y|O para|O mi|O es|O la|O mejor|O en|O relación|O calidad|O precio|O .|O
+Tiene|O una|O capacidad|O de|O carga|O de|O 7|O kilos|O ,|O lo|O que|O permite|O lavar|O hasta|O mantas|O y|O ederedones|O sin|B-C problema|O .|O
+Puedes|O programar|O el|O lavado|O lo|O que|O es|O estupendo|O pues|O cuando|O llego|O de|O el|O trabajo|O tiendo|O la|O lavadora|O que|O he|O dejado|O preparada|O .|O
+El|O programa|O de|O lavado|O a|O mano|O y|O lana|O viene|O de|O maravilla|O porque|O ya|B-C no|I-C lavo|O nada|I-C a_mano|O ,|O ni|B-C jeseys|O de|O lana|O ,|O ni|B-C ropa|O delicada|O .|O
+Además|O me|O ofrecieron|O una|O garantía|O de|O 7|O años|O en|O motor|O lo|O cual|O inspira|O confianza|O .|O
+Tengo|O una|O lavadora|O Fagor|O que|O me|O destroza|O la|O ropa|O ,|O es|O de|O otro|O modelo|O ,|O pero|O a|O el|O ver|O que|O aqui|O tambien|O se|O habla|O de|O lo|O mismo|O ,|O me|O he|O decidido|O a|O contar|O mi|O experiencia|O .|O
+Deben|O de|O utilizar|O el|O mismo|O tambor|O que|O con|O el|O modelo2FS-3611|O ,|O hace|O agujeros|O en|O la|O ropa|O ,|O la|O desgarra|O y|O ademas|O no|B-C hacen|O ningun|I-C caso|O a|O estas|O reclamaciones|O .|O
+Fagor|O no|B-C me|O soluciona|O el|O problema|O que|O me|O ha|O creado|O .|O
+Me|O dice|O que|O sus|O lavadoras|O no|B-C romen|O la|O ropa|O ,|O el|O servicio|O tecnico|O me|O dice|O que|O la|O lavadora|O esta|O perfectamente|O ,|O yo|O le|O contesto|O que|O yo|O no|B-C se|O como|O esta|O la|O lavadora|O ,|O se|O que|O pongo|O ropa|O a|O lavar|O y|O cada|O vez|O tengo|O mas|O ropa|O rota|O .|O
+Mi|O mujer|O lava|O muchas|O prendas|O a|O mano|O porque|O tiene|O miedo|O a|O la|O lavadora|O .|O
+Nos|O ha|O destrozado|O ropa|O insustituible|O ,|O como|O un|O cojin|O de|O el|O jgo|O de|O cama|O de|O el|O amtrimonio|O ,|O es|O una|O salvaje|O ,|O y|O fagor|O no|B-C me|O hace|O caso|O .|O
+Los|O he|O denunciado|O en|O consumo|O pero|O pasan|O de|O todo|O .|O
+Tendre|O que|O ir|O por|O via|O judicial|O .|O
+Por_favor|O quien|O tenga|O problemas|O de|O este|O tipo|O con|O favor|O se|O puede|O poner_en_contacto|O conmigo|O ,|O nos|O podemos|O ayudar|O mutuamente|O .|O
+Si|O os|O ocurre|O ,|O rellanar|O la|O hoja|O de|O reclamaciones|O en|O la|O tienda|O ,|O denunciar|O en|O Consumo|O ,|O teneis|O dos|O años|O de|O garantia|O ,|O aunque|O a_partir_de|O el|O año|O es|O mas|O problematico|O .|O
+polideuces@hmail.com|O
+me|O inicio|O en|O el|O mundo|O de|O las|O opiniones|O ,|O tras|O el|O cabreo|O de|O la|O rotura|O de|O mi|O lavadora|O ,|O la|O cual|O tenia|O solamente|O 2|O años|O y|O medio|O .|O
+Estaba|O encantado|O con|O ella|O ,|O por|O su|O facil|O manejo|O y|O los|O resultados|O con|O el|O lavado|O ,|O pero|O muy|O pronto|O empezo|O a|O hacer|O mas|O ruido|O de|O la|O cuenta|O ,|O insoportable|O ,|O hasta|O que|O empezo|O a|O sacar|O me|O camisetas|O blancas|O con|O manchas|O redondeadas|O marrones|O (|O era|O robin|O )|O .|O
+La|O compre|O hacia|O solo|O dos|O años|O y|O medio|O (|O fin|O de|O la|O garantia|O )|O ,|O y|O vino|O el|O servicio|O técnico|O a|O los|O tres|O días|O ,|O diciendo|O me|O :|O rodamientos|O ,|O tambor|O ,|O desplazamiento|O ,|O arreglo|O ,|O ...|O =|O 360|O euros|O de|O reparación|O ,|O y|O no|B-C me|O aseguraban|O que|O durara|O mucho|O .|O
+Pensad|O como|O me|O cabree|O ,|O si|O solo|O somos|O dos|O en|O casa|O y|O lavamos|O poco|O y|O poca|O cantidad|O ,|O !|O pero|O si|O esta|O nueva|O ¡|O .|O
+He|O decidido|O tirar|O la|O y|O comprar|O me|O una|O Fagor|O ,|O con|O cuatro|O años|O de|O garantia|O total|O ,|O 2|O mas|O que|O me|O da|O carrefour|O ,|O pagando|O un|O 8_%|O de|O su|O valor|O ,|O y|O que|O me|O asegura|O mas|O servicio|O ,|O sin|B-C abusos|O .|O
+Porque|O es|O lo|O que|O hacen|O abusar|O .|O
+En|O primer|O lugar|O diría|O que|O si|O alguien|O tiene|O una|O lavadora|O de|O esta|O marca|O y|O nota|O cualquier|O tipo|O de|O vibración|O avise|O a|O el|O Servicio_Técnico|O sin|B-C demora|O y|O no|B-C confíe|O en|O la|O garantía|O de|O 7|O años|O que|O anuncia|O LG|O para|O estos|O modelos|O .|O
+Se|O evitará|O sorpresas|O desagradables|O .|O
+Desde|O hace|O poco|O más|O de|O 2|O años|O somos|O propietarios|O de|O esta|O lavadora|O LG|O .|O
+Desde|O el|O principio|O la|O lavadora|O vibraba|O más|O que|O todas|O las|O lavadoras|O que|O habíamos|O tenido|O anteriormente|O y|O comentando|O esto|O donde|O la|O compramos|O nos|O dijeron|O que|O estas|O de|O 1000|O rpm|O vibraban|O algo|O más|O y|O que|O si|O no|B-C se|O movía|O del|O sitio|O era|O lo|O normal|O .|O
+Después_de|O esto|O ,|O la|O lavadora|O poco_a_poco|O empezó|O a|O hacer|O ruido|O ,|O primero|O a|O el|O centrifugar|O a|O 1000|O rpm|O ,|O después|O a|O 800|O rpm|O ,|O hasta|O que|O últimamente|O la|O tenemos|O que|O poner|O a|O 400|O rpm|O y|O no|B-C se|O puede|O estar|O en|O la|O cocina|O a|O el|O poner|O la|O de|O el|O ruido|O que|O hace|O .|O
+Avisamos|O a|O el|O Servicio_Técnico|O y|O a|O la|O semana|O vienen|O a|O casa|O .|O
+Sin|B-C sacar|O la|O lavadora|O del|O sitio|O (|O seguro|O que|O no|B-C es|O la|O primera|O que|O ven|O así|O )|O ,|O gira|O el|O tambor|O y|O nos|O dice|O que|O la|O lavadora|O tiene|O mal|O los|O rodamientos|O ,|O que|O los|O dos|O años|O de|O garantía|O de|O la|O lavadora|O han|O pasado|O hace|O 3|O meses|O ,|O que|O si|O no|B-C he|O avisado|O antes|O del|O ruido|O es|O culpa|O nuestra|O y|O que|O la|O famosa|O garantía|O de|O 7|O años|O que|O anuncia|O LG|O para|O los|O modelos|O de|O tracción|O directa|O sólo|O cubre|O el|O material|O (|O los|O dos|O rodamientos|O )|O ,|O y|O que|O la|O mano|O de|O obra|O y|O el|O desplazamiento|O los|O ha|O de|O pagar|O el|O cliente|O ,|O presupuestándonos|O la|O reparación|O en|O 170|O €|O .|O
+Hemos|O llamado|O por|O teléfono|O a|O Att_al_Cliente|O de|O LG_España|O y|O la|O solución|O que|O nos|O dieron|O fue|O que|O si|O nos|O parecía|O caro|O el|O presupuesto|O podíamos|O acudir|O a|O otro|O Servicio|O técnico|O de|O LG|O .|O
+Hemos|O mandado|O una|O carta|O de|O reclamación|O a|O la|O central|O de|O LG|O ,|O pero|O la|O respuesta|O es|O la|O misma|O .|O
+Nos|O dicen|O que|O el|O servicio|O técnico|O está|O haciendo|O lo|O correcto|O y|O que|O pasados|O los|O dos|O años|O la|O extensión|O de|O garantía|O que|O anuncian|O sólo|O cubre|O el|O material|O (|O dos|O rodamientos|O que|O les|O costarán|O unos|O 6|O €|O )|O y|O de|O el|O resto|O nos|O tenemos|O que|O hacer_cargo|O nosotros|O (|O 170|O €|O )|O .|O
+Además_de|O todo|O esto|O ,|O no|B-C existe|O ninguna|I-C garantía|O de|O que|O reparándola|O ahora|O no|B-C nos|O vuelva|O a|O suceder|O esto|O u|O otra|O cosa|O por|O el|O estilo|O el|O año|O que|O viene|O .|O
+Pagamos|O en|O su|O día|O casi|O 600|O €|O por|O ella|O ,|O más|O incluso|O que|O algunos|O modelos|O de|O Bosch|O y|O Siemens|O ,|O y|O nos|O hemos|O encontrado|O con|O producto|O totalmente|O deficiente|O ,|O que|O no|B-C ha|O durado|O ni|I-C dos|O años|O y|O con|O una|O marca|O que|O elude|O toda|O responsabilidad|O sobre|O ello|O .|O
+Ya|O nos|O hemos|O comprado|O otra|O lavadora|O nueva|O y|O como|O pueden|O imaginar|O de|O una|O marca|O europea|O .|O
+Tengo|O esta|O lavadora|O desde|O hace|O medio|O año|O y|O hasta|O la|O fecha|O no|B-C he|O tenido|O ningún|I-C problema|O con|O ella|O ,|O me|O ha|O funcionado|O bine|O ,|O la|O capacidad|O esta|O decuada|O a|O mmis|O necesidadesy|O en|O general|O todo|O bie|O .|O
+No|B-C doy|O queja|O de|O esta|O lavadora|O .|O
+Como|O sabrais|O ,|O esta|O lavadora|O trae|O la|O puerta|O a|O el|O frente|O y|O no|B-C en|O la|O parte|O superior|O como|O otras|O tantas|O .|O
+Esta|O característica|O puede|O ser|O un|O poco|O fastidiosa|O para|O quienes|O no|B-C pueden|O agachar|O se|O un_poco|O (|O solo|O un|O poco|O )|O para|O colocar|O la|O ropa|O dentro_de|O la|O lavadora|O ,|O como|O por_ejemplo|O mi|O abuelita|O ,|O quien|O con|O sus|O dolores|O de|O huesos|O y|O demás|O siempre|O me|O pide|O ayuda|O (|O siempre|O y|O cuado|O este|O en|O casa|O )|O para|O poner|O le|O su|O ropa|O .|O
+Hablando|O sobre|O sus|O características|O :|O su|O capacidad|O es|O de|O apenas|O 6|O kg|O lo|O que|O para|O muchas|O personas|O parecería|O muy|O poca|O cantidad|O ya_que|O tienen|O que|O lavar|O tinas|O y|O tinas|O de|O ropa|O acumulada|O a|O lo|O largo|O de|O la|O semana|O ,|O pero|O como|O no|B-C tengo|O mucha|O ropa|O que|O lavar|O y|O lo|O que|O tengo|O lo|O voy|O lavando|O conforme|O se|O acumula|O (|O para_que|O no|B-C se|O acumule|O tanto|O )|O no|B-C me|O es|O problema|O .|O
+Cuando|O esta|O lavadora|O termina|O de|O lavar|O tu|O ropa|O ,|O la|O centrifuga|O ,|O y|O esto|O sirve|O para|O entregar|O te|O la|O ropa|O de|O un|O modo|O semiseco|O ,|O pues|O desgraciadamente|O no|B-C cuenta|O con|O sistema|O de|O secado|O (|O esa|O cuestan|O mucho|O más|O que|O esta|O y|O consumen|O una|O barbaridad|O de|O energía|O eléctrica|O )|O .|O
+El|O proceso|O lo|O realiza|O en|O un|O silencio|O relativo|O ,|O no|B-C hace|O mucho|I-C ruido|O y|O eso|O esta|O bien|O ,|O muy|O bien|O .|O
+Cuando|O has|O puesto|O a|O lavar|O algo|O ,|O en|O la|O pantalla|O de|O visulización|O se|O muestra|O claramente|O qué|O tiempo|O es|O el|O que|O falta|O para|O terminar|O el|O ciclo|O de|O lavado|O ...|O
+ahh|O .|O .|O y|O hablando|O de|O ciclos|O .|O .|O esta|O lavadora|O realiza|O 800|O revoluciones|O por|O minuto|O 8|O esto|O lo|O ley|O en|O el|O manual|O ,|O no|B-C creerais|O que|O me|O he|O puesto|O a|O contar|O las|O ,|O o|O si|O ?|O .|O
+En|O general|O esta|O lavadora|O sale|O super|O bien|O ,|O muy|O económica|O y|O solo|O consume|O un|O KWatt|O por|O hora|O por|O ciclo|O ...|O
+asi|O que|O no|B-C es|O mucho|I-C gasto|O .|O
+Se|O las|O recomiendo|O ,|O es|O un|O agrán|O lavadora|O ......|O
+A|O el|O ser|O esta|O mi|O primera|O opinión|O ,|O espero|O haber|O la|O hecho|O bien|O ,|O que|O sea|O de|O mucha|O utilidad|O y|O espero|O sus|O calificaciones|O y|O sus|O comentarios|O .|O
+Gracias|O .|O
+Hace|O unos|O meses|O se|O nos|O estropeó|O la|O lavadora|O .|O
+Era|O una|O lavadora|O de|O esas|O que|O también|O son|O secadora|O ,|O y|O que|O según|O me|O han|O dicho|O después_de|O la|O avería|O a|O el|O parecer|O tienen|O mucho|O menor|O tiempo|O de|O vida|O .|O
+El|O caso|O es|O que|O cuando|O vino|O el|O técnico|O a|O reparar|O la|O nos|O dijo|O que|O no|B-C tenía|O remedio|O porque|O se|O había|O roto|O el|O eje|O de|O no_se_qué|O y|O que|O había|O ,|O por|O tanto|O ,|O que|O comprar|O una|O nueva|O .|O
+La|O lavadora|O es|O un|O electrodoméstico|O imprescindible|O hoy|O día|O ,|O no|B-C es|O algo|O que|O se|O estropee|O y|O puedas|O tomar|O te|O un|O tiempo|O para|O comparar|O antes_de|O comprar|O ,|O porque|O mientras|O la|O ropa|O se|O va|O acumulando|O y|O es|O un|O desastre|O .|O
+Así|O que|O hubo|O que|O comprar|O otra|O de|O urgencia|O .|O
+Según|O nos|O comentaron|O ,|O era|O mejor|O comprar|O una|O lavadora|O que|O no|B-C fuera|O también|O secadora|O .|O
+A|O mi|O me|O daba|O rabia|O porque|O el|O hecho|O de|O que|O la|O lavadora|O también|O seque|O me|O resultaba|O muy|O útil|O ,|O sobre|O todo|O para|O las|O toallas|O y|O porque|O en|O mi|O casa|O no|B-C usamos|O el|O tendedero|O exterior|O porque|O se|O llena|O todo|O de|O olor|O de|O las|O cocinas|O .|O
+Pero|O hicimos|O caso|O de|O lo|O que|O nos|O decían|O ,|O porque|O es|O una|O inversión|O ,|O y|O no|B-C es|O plan|O de|O comprar|O te|O de|O nuevo|O una|O lavadora-secadora|O y|O que|O te|O dure|O solamente|O 3|O o|O 4|O años|O y|O luego|O ,|O ale|O ,|O a|O comprar|O otra|O .|O
+Así|O que|O fuimos|O a|O ver|O lavadoras|O a|O MediaMarkt|O ,|O con|O la|O intención|O de|O comprar|O una|O que|O estuviera|O bien|O y|O sobre|O todo|O que|O tuviera|O una|O buena|O capacidad|O de|O carga|O ,|O porque|O la|O que|O teníamos|O era|O de|O 7,5|O kilos|O .|O
+Por|O eso|O nos|O centramos|O en|O las|O lavadoras|O cuya|O capacidad|O para|O lavar|O ropa|O eran|O de|O 8|O kilos|O ,|O lo|O cual|O está|O fenomenal|O ,|O que|O recuerdo|O yo|O que|O en|O los|O tiempos|O en|O que|O vivía|O con|O mis|O padres|O estas|O lavadoras|O no|O estaban|O tan|O de|O moda|O como|O ahora|O .|O
+Nos|O gustó|O esta|O Fagor|O ,|O entre|O otras|O cosas|O porque|O estaba|O de|O oferta|O y|O tenía|O buenas|O características|O en|O comparación|O con|O las|O demás|O de|O su|O gama|O .|O
+Nos|O costó|O unos|O 560|O euros|O ,|O si|O no|B-C recuerdo|O mal|O .|O
+En|O comparación|O con|O la|O lavadora|O anterior|O no|B-C he|O notado|O diferencia|O apenas|I-C en_cuanto_a|O el|O ruido|O .|O
+No|B-C diría|O de|O esta|O lavadora|O que|O sera|O silenciosa|O ,|O porque|O se|O escucha|O y|O cuando|O centrifuga|O se|O escucha|O aún|O más|O .|O
+Eso|O sí|O ,|O las|O vibraciones|O muy|O bien|O ,|O por_lo_menos|O en|O los|O meses|O que|O llevamos|O con|O ella|O .|O
+Pero|O lo|O de|O los|O anuncios|O estos|O que|O sale|O un|O niño|O durmiendo|O apaciblemente|O encima_de|O la|O lavadora|O ,|O con|O esta|O desde_luego|O que|O no|B-C .|O
+Lo|O que|O aporta|O de|O novedoso|O es|O que|O tiene|O un|O panel|O LCD|O azulito|O y|O se|O controla|O todo|O digitalmente|O .|O
+A_pesar_de|O ello|O ,|O es|O muy|O sencilla|O de|O usar|O .|O
+Tiene|O un|O botón|O de|O encendido|O y|O apagado|O .|O
+A|O continuación|O se|O selecciona|O el|O programa|O .|O
+Para|O ello|O tiene|O una|O rueda|O ,|O como|O las|O lavadoras|O clásicas|O ,|O pero|O que|O va|O suave|O ,|O no|B-C hace|O el|O crik|O crik|O tradicicional|O de|O las|O lavadoras|O .|O
+El|O programa|O elegido|O lo|O ves|O en|O la|O pantallita|O ,|O y|O ahí|O puedes|O elegir|O también|O unos|O "|O extras|O "|O ,|O que|O són|O :|O aclarado|O más|O intenso|O ,|O fácil|O planchado|O y|O manchas|O difíciles|O .|O
+Estos|O extras|O no|B-C están|O mal|O pero|O sin|B-C exagerar|O .|O
+El|O de|O fácil|O planchado|O no|B-C se|O nota|O para_nada|I-C ;|O
+se|O supone|O que|O centrifuga|O de|O un|O modo|O que|O hace|O que|O la|O ropa|O se|O arrugue|O menos|O pero|O yo|O no|B-C lo|O uso|O porque|O no|B-C noto|O la|O diferencia|O .|O
+El|O de|O manchas|O difíciles|O lo|O que|O hace|O es|O añadir|O tiempo|O de|O lavado|O ,|O y|O lo|O uso|O con|O frecuencia|O si|O meto|O algo|O que|O tiene|O una|O mancha|O gorda|O .|O
+En|O la|O pantalla|O puedes|O ver|O el|O tiempo|O que|O va|O a|O durar|O el|O lavado|O y|O las|O revoluciones|O a|O las|O que|O va|O a|O centrifugar|O .|O
+A|O mi|O esto|O me|O parece|O muy|O práctico|O ,|O porque|O así|O puedes|O calcular|O cuando|O va|O a|O acabar|O ,|O cuánto|O le|O queda|O y|O demás|O ,|O me|O encanta|O esta|O opción|O .|O
+Además|O ,|O con|O otro|O botón|O puedes|O controlar|O la|O intensidad|O de|O el|O centrifugado|O .|O
+Así|O ,|O si|O quieres|O que|O una|O colada|O se|O centrifugue|O menos|O intensamente|O porque|O quieres|O que|O se|O arrugue|O menos|O ,|O seleccionas|O la|O velocidad|O y|O punto|O .|O
+Esto|O lo|O uso|O si|O por_ejemplo|O quiero|O lavar|O un|O edredón|O y|O no|B-C quiero|O usar|O el|O programa|O específico|O que|O hay|O para|O eso|O ,|O que|O me|O parece|O que|O lava|O con|O poca|O intensidad|O .|O
+A|O la|O hora|O de|O centrifugar|O ,|O por|O cierto|O ,|O tiene|O un|O sensor|O de|O nivelación|O de|O la|O ropa|O ,|O que|O es|O para|O evitar|O roturas|O ,|O de_modo_que|O si|O la|O ropa|O por|O lo|O que|O sea|O no|B-C está|O bien|O repartida|O por|O el|O tambor|O ,|O el|O programa|O no|B-C centrifuga|O .|O
+Entonces|O tienes|O que|O abrir|O la|O puerta|O ,|O colocar|O mejor|O la|O ropa|O y|O volver|O lo|O a|O encender|O .|O
+Esto|O me|O ha|O sucedido|O un|O par|O de|O veces|O ,|O con|O ropa|O pesada|O ,|O toallas|O por_ejemplo|O ,|O y|O aunque|O es|O un|O poco|O rollo|O ,|O me|O parece|O bien|O para|O prevenir|O problemas|O .|O
+El|O programa|O se|O puede|O detener|O en|O cualquier|O momento|O ,|O aunque|O la|O puerta|O tiene|O un|O poco|O de|O retardo|O para|O abrir|O se|O ,|O como|O todas|O las|O lavadoras|O .|O
+Además|O se|O puede|O retrasar|O el|O inicio|O de|O el|O programa|O hasta|O 24|O horas|O en|O fracciones|O de|O 1h|O .|O
+Esto|O lo|O he|O usado|O alguna|O vez|O ,|O lo|O que|O ocurre|O es|O que|O el|O jabón|O acaba|O filtrándose|O de|O la|O cubeta|O si|O tiene|O que|O esperar|O mucho|O rato|O ,|O y|O tengo|O la|O impresión|O de|O que|O lava|O peor|O ,|O a|O el|O margen|O de|O que|O dejar|O la|O lavadora|O encendida|O por|O su|O cuenta|O sin|B-C que|O haya|O nadie|B-C en|O casa|O ...|O prefiero|O no|B-C hacer|O lo|O .|O
+En|O definitiva|O ,|O estoy|O contenta|O con|O la|O lavadora|O y|O no|B-C me|O ha|O dado|O ningún|I-C problema|O ,|O la|O uso|O muy|O frecuentemente|O y|O todo|O bien|O .|O
+Me|O parece|O que|O incorpora|O novedades|O interesantes|O y|O que|O de|O precio|O es|O interesante|O ,|O igual|O que|O de|O diseño|O ,|O es|O muy|O modernita|O .|O
+Ya|O había|O tenido|O una|O mala|O experiencia|O con|O un|O frigorífico|O de|O esta|O marca|O ,|O y|O cuando|O alquilé|O un|O piso|O recién|O amueblado|O me|O encontré|O con|O esta|O lavadora|O .|O
+Bueno|O ,|O me|O dije|O ,|O en|O estas|O cosa|O un|O producto|O sale|O bueno|O y|O otros|O no|B-C ,|O vamos|O a|O dar|O le|O un|O vto|O de|O confianza|O ...|O
+Lo|O primero|O que|O me|O hizo|O fue|O llenar|O me|O la|O sábanas|O y|O camisas|O de|O manchas|O de|O grasa|O ,|O y|O todavía|B-C no|I-C he|O encontrado|O la|O forma|O de|O solucionar|O lo|O .|O
+Asi|O que|O la|O mitad|O de|O colada|O ,|O muchas|O veces|O ¡|O a|O lavar|O la|O de|O nuevo|O !|O .|O
+Lo|O segundo|O ,|O el|O panel|O inferior|O se|O rompió|O y|O se|O descolgó|O a|O las|O pocas|O semanas|O ,|O y|O no|B-C hay|O forma|O de|O reponer|O lo|O (|O el|O tornillo|O se|O quedó|O pegado|O a|O el|O cuerpo|O de|O la|O lavadora|O )|O .|O
+Para|O rematar|O lo|O ,|O la|O puerta|O de|O carga|O se|O cae|O :|O
+lleva|O un|O perno|O metálico|O yo|O pensé|O que|O sería|O de|O acero|O ...|O pero|O ni|B-C acero|O ni|I-C nada|B-C ,|O baquelita|O o|O malquita|O o|O no_sé_qué|O historias|O ,|O que|O se|O parte|O or|O la|O mitad|O .|O
+Y|O eso|O sí|O ,|O hasta|O que|O acabó|O de|O romper|O se|O ,|O me|O pasé|O un|O par|O de|O meses|O recogiendo|O de|O el|O suelo|O el|O agua|O que|O se|O salía|O de|O el|O aparato|O ¡|O una|O maravilla|O !|O
+...|O Y|O se|O estropeó|O !|O
+Un|O buen|O día|O la|O antigua|O lavadora|O dijo|O que|O adiós|O muy|O buenas|O !|O
+Que|O todo|O tiene|O un|O final|O ya|O lo|O sabemos|O ,|O pero|O a|O aquélla|O máquina|O digna|O de|O posar|O en|O cualquier|O museo|O de|O historia|O de|O la|O lavadora|O le|O teníamos|O cariño|O ;|O
+además|O hoy|O en|O día|O que|O se|O vaya|O la|O luz|O ,|O que|O te|O corten|O el|O agua|O ,|O que|O se|O estropee|O la|O lavadora|O ,|O el|O televisor|O ,|O el|O móvil|O o|O que|O no|B-C funcione|O internet|O se|O convierte|O en|O un|O sinvivir|O !|O
+Había|O que|O comprar|O otra|O inmediatamente|O !|O
+la|O misión|O consistía|O en|O adquirir|O una|O lavadora|O mejor|O (|O fácil|O jeje|O )|O y|O por|O un|O módico|O precio|O porque|O la|O economía|O no|B-C es|O que|O esté|O en|O su|O mejor|O momento|O .|O
+Por_otro_lado|O tenía|O que|O ser|O de|O carga|O superior|O para|O no|B-C cargar|O se|O la|O espalda|O y|O para|O que|O entrara|O en|O el|O lavadero|O ,|O el|O cual|O no|B-C es|O que|O sea|O muy|O grande|O .|O
+...|O Y|O la|O encontramos|O !|O
+Estuvimos|O mirando|O un|O montón|O de|O modelos|O y|O a|O el|O final|O marcados|O por|O el|O presupuesto|O nos|O decidimos|O por|O una|O Edesa|O ,|O concretamente|O la|O 2|O LT-86|O .|O
+Un|O poco|O sobre|O sus|O características|O ...|O
+VELOCIDAD|O CENTRIFUGADO|O :|O
+-----------------------------------------|O
+Alcanza|O un|O máximo|O de|O 800|O r.p.m|O (|O se|O regula|O de|O 400|O a|O 800|O )|O .|O
+Aunque|O ahora|O la|O mayoría|O de|O las|O nuevas|O y|O más|O potentes|O superan|O los|O 1000|O no|B-C hemos|O encontrado|O que|O ésto|O suponga|O un|O problema|O en|O la|O práctica|O .|O
+CARGA|O SUPERIOR|O :|O
+--------------------------------------|O
+Siempre|O es|O mucho|O más|O cómodo|O introducir|O la|O ropa|O por|O arriba|O para|O no|B-C tener|O que|O estar|O agachándose|O todo|O el|O rato|O .|O
+A|O la|O larga|O nuestra|O espalda|O va|O a|O agradecer|O la|O colaboración|O !|O
+MEDIDAS|O :|O
+-----------------------|O
+Ésto|O tiene|O guasa|O porque|O primero|O no|B-C encontraba|O un|O metro|O y|O después|O he|O perdido|O el|O papel|O dónde|O lo|O he|O apuntado|O .|O
+Finalmente|O solucionado|O todo|O ha|O quedado|O así|O la|O cosa|O :|O 40|O cm|O de|O ancho|O ,|O 84|O cm|O de|O alto|O y|O de|O profundidad|O 59|O cm|O
+Nuestro|O lavadero|O es|O estrecho|O y|O encaja|O muy|O bien|O dejándonos|O un|O poco|O de|O espacio|O libre|O extra|O .|O
+CAPACIDAD|O DE|O CARGA|O :|O
+-------------------------------------------|O
+La|O capacidad|O máxima|O es|O de|O 5|O kg|O .|O
+Para|O una|O familia|O no|B-C numerosa|O considero|O que|O es|O suficiente|O .|O
+COMPARTIMENTO|O DETERGENTES|O :|O
+----------------------------------------------------|O
+Es|O de|O plástico|O y|O es|O extraible|O para|O facilitar|O su|O limpieza|O .|O
+Tiene|O 4|O ranuras|O .|O
+La|O primera|O es|O para|O el|O prelavado|O ,|O la|O segunda|O para|O el|O polvo|O o|O líquido|O de|O el|O lavado|O principal|O ,|O la|O tercera|O para|O el|O suavizante|O y|O la|O cuarta|O para|O la|O lejía|O .|O
+PRECIO|O :|O
+---------------------------------------------|O
+Nos|O costó|O de|O oferta|O 355|O euros|O .|O
+Las|O de|O carga|O superior|O son|O más|O caras|O que|O las|O normales|O y|O cuesta|O encontrar|O gangas|O pero|O ésta|O nos|O pareció|O económica|O .|O
+BOTÓN|O DE|O SELECCIÓN|O DE|O TEMPERATURA|O :|O
+----------------------------------------------------|O
+Se|O puede|O escoger|O desde|O agua|O fría|O hasta|O 90|O grados|O .|O
+CLASE|O DE|O ROPA|O :|O
+----------------------------------------------|O
+Se|O pueden|O elegir|O opciones|O para|O ropa|O de|O algodón|O ,|O sintética|O o|O delicada|O /|O lana|O .|O
+BOTÓN|O DE|O PROGRAMAS|O :|O
+--------------------------------------------|O
+Hay|O que|O seleccionar|O el|O programa|O que|O pertoca|O según|O la|O tabla|O de|O las|O instrucciones|O o|O pegatina|O que|O incluyen|O (|O casi|O hay|O que|O hacer|O un|O máster|O )|O .|O
+Los|O programas|O dependerán|O de|O si|O queremos|O o|O no|B-C prelavado|O ,|O de|O el|O tipo|O de|O ropa|O ,|O de|O la|O temperatura|O escogida|O u|O otros|O parámetros|O .|O
+Normalmente|O un|O programa|O normal|O sin|B-C prelavado|O puede|O tardar|O unas|O dos|O horas|O .|O
+BOTÓN|O DE|O ACLARADO|O EXTRA|O :|O
+----------------------------------------------|O
+Éste|O se|O puede|O seleccionar|O para|O personas|O alérgicas|O o|O pieles|O sensibles|O para|O eliminar|O algo|O más|O los|O excesos|O de|O detergente|O u|O otros|O .|O
+BOTÓN|O STOP|O ANTIARRUGAS|O :|O
+---------------------------------------------|O
+Si|O no|B-C queremos|O centrifugar|O o|O si|O nos|O vamos|O mucho|O rato|O accionando|O este|O botón|O haremos|O que|O la|O ropa|O flote|O en|O el|O agua|O para|O no|B-C arrugar|O se|O .|O
+Luego|O se|O podrá|O vaciar|O con|O o|O sin|B-C centrifugado|O según|O nuestras|O preferencias|O .|O
+BOTÓN|O LAVADO|O A|O MANO|O :|O
+-------------------------------------------|O
+Apretándolo|O haremos|O que|O se|O agite|O la|O ropa|O con|O suavidad|O como|O si|O laváramos|O nosotros|O mismos|O a|O mano|O .|O
+Ésto|O está|O destinado|O para|O prendas|O delicadas|O .|O
+PROGRAMAS|O COMPLEMENTARIOS|O :|O
+-------------------------------------------------------|O
+Podremos|O aclarar|O o|O centrifugar|O solamente|O aquellas|O prendas|O lavadas|O por|O nosotros|O a|O mano|O aparte|O .|O
+Es|O útil|O porque|O a|O veces|O lavas|O un|O jersey|O a|O mano|O y|O si|O es|O muy|O gordo|O por_ejemplo|O cuesta|O mucho|O escurrir|O lo|O !|O
+SEGURIDAD|O :|O
+---------------------------------------------------|O
+.|O bloqueo|O de|O la|O tapa|O a|O el|O empezar|O a|O funcionar|O
+.|O prevención|O de|O desbordamiento|O de|O agua|O
+.|O limitación|O de|O el|O centrifugado|O cuando|O se|O reparte|O mal|O la|O carga|O
+EL|O FILTRO|O :|O
+-------------------------------------------|O
+Me|O acuerdo|O que|O en|O la|O vieja|O estaba|O detrás|O y|O había|O que|O hacer|O virguerías|O para|O llegar|O .|O
+Aquí|O está|O en|O el|O fondo|O de|O el|O tambor|O .|O
+Es|O una|O pieza|O que|O se|O puede|O extraer|O desbloqueándola|O .|O
+Es|O muy|O fácil|O y|O hay|O que|O hacer|O lo|O regularmente|O !|O
+SERVICIO|O TÉCNICO|O :|O
+---------------------------------|O
+Aunque|O no|B-C es|O de|I-C los|I-C más|I-C amplios|O está|O repartido|O por|O toda|O España|O .|O
+Hay|O un|O teléfono|O que|O es|O el|O 902|O 105|O 010|O para|O llamar|O .|O
+DE|O LA|O TEORÍA|O A|O LA|O PRÁCTICA|O ...|O
++|O +|O +|O +|O +|O +|O +|O *********|O +|O +|O +|O +|O +|O
+Mi|O madre|O está|O encantada|O después_de|O el|O susto|O inicial|O .|O
+Resulta|O que|O cuando|O la|O instalaron|O dejaron|O el|O tubo|O de|O el|O agua|O pisado|O por|O la|O lavadora|O .|O
+Quién|O iba|O a|O pensar|O que|O iba|O a|O pasar|O ésto|O !|O !|O
+cuando|O pusimos_en_funcionamiento|O la|O lavadora|O no|B-C se|O vaciaba|O el|O detergente|O (|O sólo|O lavaba|O con|O agua|O !|O )|O .|O
+LLamamos|O a|O el|O servicio|O técnico|O con|O el|O malestar|O inherente|O cuando|O el|O producto|O es|O completamente|O nuevo|O .|O
+Supongo|O que|O tendríamos|O que|O haber|O lo|O mirado|O nosotros|O pero|O confiamos|O en|O los|O instaladores|O y|O no|B-C pensamos|O en|O esa|O tontería|O .|O
+Cuando|O vino|O el|O técnico|O lo|O vio|O enseguida|O y|O lo|O colocó|O todo|O bien|O y|O ...|O asunto|O arreglado|O !|O !|O
+tengo|O que|O decir|O que|O ya|O con|O ésto|O vimos|O que|O no|B-C tardaban|O mucho|I-C en|O pasar|O se|O por|O casa|O cuando|O los|O avisabas|O .|O
+Casi|O siempre|O ponemos|O a_partir_de|O el|O número|O 3|O en|O los|O programas|O que|O es|O un|O ciclo|O completo|O sin|B-C prelavado|O .|O
+Siempre|O utilizamos|O agua|O fría|O (|O no_sea_que|O se|O encoja|O algo|O )|O .|O
+La|O verdad|O es|O que|O no|B-C miramos|O la|O tabla|O correspondiente|O y|O seguramente|O desaprovechamos|O funciones|O ...|O pero|O es|O lo|O más|O práctico|O .|O
+Hasta|O el|O técnico|O nos|O dijo|O que|O él|O hacía|O igual|O y|O pasaba_de|B-C mirar|O lo|O de|O los|O programas|O !|O
+La|O ropa|O delicada|O a_pesar_de|O poder|O poner|O la|O en|O la|O lavadora|O yo|O la|O sigo|O lavando|O a|O mano|O porque|O me|O siento|O más|O tranquila|O .|O
+La|O ropa|O sale|O bastante|O más|O seca|O que|O con|O la|O anterior|O porque|O el|O centrifugado|O es|O más|O potente|O y|O se|O elimina|O más|O el|O exceso|O de|O agua|O .|O
+Tampoco|B-C queda|O excesivamente|O arrugada|O aunque|O no|B-C libra|O a|O la|O ropa|O de|O tener|O que|O planchar|O la|O luego|O .|O
+Si|O queréis|O ahorrar|O agua|O tenéis|O la|O opción|O de|O no|B-C hacer|O prelavado|O o|O elegir|O ciclos|O de|O lavado|O cortos|O y|O rápidos|O .|O
+En_cuanto_a|O el|O ruido|O y|O las|O vibraciones|O la|O verdad|O es|O que|O no|B-C es|O muy|I-C molesta|O .|O
+La|O anterior|O daba|O unos|O saltos|O que|O daban|O miedo|O !|O !|O
+Las|O dimensiones|O nos|O gustaron|O ,|O el|O precio|O también|O ,|O las|O prestaciones|O ,|O la|O carga|O superior|O y|O lo|O único|O por|O lo|O que|O dudábamos|O que|O era|O la|O marca|O hasta|O ahora|O no|B-C nos|O ha|O dado|O ningún|I-C problema|O ,|O así|O que|O hasta|O nueva|O orden|O yo|O la|O volvería|O a|O comprar|O .|O
+Es|O una|O lavadora|O sencilla|O ,|O no|B-C es|O de|O diseño|O ni|B-C tiene|O pantalla|O digital|O ,|O ni|B-C una|O super|O capacidad|O de|O carga|O ,|O étc|O ...|O así|O que|O si|O queréis|O todo|O éso|O ésta|O no|B-C es|O vuestra|O lavadora|O .|O
+Yo|O espero|O que|O dure|O tanto|O como|O la|O anterior|O que|O ya|O sería|O todo|O un|O éxito|O !|O
+Gracias|O por|O las|O lecturas|O !|O besos|O !|O
+NO|B-C es|O capaz|O de|O centrifugar|O .|O
+Como_mucho|O centrifuga|O un|O minuto|O y|O no|B-C llega|O a|O 1200|O revoluciones|O ni_de_coña|I-C .|O
+Cuando|O has|O tenido|O antes|O una|O lavadora|O alemana|O (|O AEG|O )|O de|O 1000|O vueltas|O y|O comparas|O con|O esta|O ,|O ves|O que|O no|B-C hay|O color|O .|O
+1200|O aquí|O no|B-C son|O ni|I-C 700|O en|O la|O AEG|O .|O
+Llamas|O a|O el|O técnico|O de|O Fagor|O y|O te|O dice|O que|O esto|O es|O lo|O que|O hay|O :|O
+la|O lavadora|O tiene|O un|O control|O de|O vibraciones|O que|O es|O incapaz|O de|O colocar|O ropa|O y|O centrifugar|O como|O debe|O .|O
+El|O resultado|O es|O ropa|O llena|O de|O agua|O y|O doble|O gasto|O de|O secadora|O .|O
+La|O ventaja|O es|O que|O Fagor|O recoge|O la|O máquina|O si|O no|B-C te|O satisface|O y|O eso|O es|O lo|O que|O van|O a|O hacer|O .|O
+Estoya|O la|O espera|O de|O una|O AEG|O (|O otra|O )|O ,|O pero|O por|O 180|O euros|O más|O .|O
+Qué|O se|O le|O va|O a|O hacer|O ,|O a|O gastar|O se|O la|O pasta|O en|O productos|O de|O verdad|O y|O no|B-C de|O mentira|O .|O
+Por|O cierto|O ,|O que|O la|O prueba|O para|O la|O categoría|O energética|O y|O de|O lavado|O de|O esta|O lavadora|O está|O hecha|O con|O 6|O kilos|O de|O ropa|O y|O no|B-C con|O 8|O .|O
+La|O de|O la|O AEG|O está|O hecha|O con|O 8|O .|O
+La|O picaresca|O española|O no|B-C tiene|O límites|O .|O
+Acerca_de|O este|O modelo|O de|O lavadora|O decir|O que|O después|O dos|O años|O todavía|O me|O estoy|O arrepintiendo|O de|O haber|O la|O comprado|O .|O
+En|O dos|O ocasiones|O ha|O estado|O el|O servicio|O técnico|O revisando|O la|O y|O no|B-C han|O solucionado|O nada|I-C .|O
+-|O No|B-C lava|O bien|O si|O la|O ropa|O esta|O más|O sucia|O de|O lo|O normal|O .|O
+-|O No|B-C coge|O el|O suavizante|O ,|O por|O lo|O que|O saco|O la|O ropa|O sin|B-C olor|O y|O he|O probado|O todos|O los|O suavizantes|O que|O existen|O en|O el|O mercado|O
+-|O deja|O la|O ropa|O con|O restos|O de|O jabón|O .|O
+-|O En|O el|O programa|O de|O lavado|O corto|O siempre|O sale|O una|O parte|O de|O alguna|O prenda|O que|O no|B-C se|O ha|O llegado|O ni|I-C a|O mojar|O .|O
+-|O etc|O ,|O un|O desastre|O
+Tengo|O este|O electrodomestico|O desde|O abril_de_2004|O y|O estoy|O muy|O satisfecha|O con|O su|O resultado|O .|O
+Se|O trata|O de|O una|O lavadora|O moderna|O y|O sofisticada|O .|O
+Tiene|O una|O capacidad|O de|O 6|O kilogramos|O ,|O por|O lo|O que|O es|O idónea|O para|O familias|O grandes|O o|O que|O utilicen|O la|O lavadora|O muy|O a|O menudo|O .|O
+En_cuanto_a|O sus|O utilidades|O ,|O en|O la|O parte|O superior|O tiene|O un|O cajetín|O para|O el|O detergente|O ,|O suavizante|O o|O los|O productos|O que|O vayas|O a|O utilizar|O en|O el|O lavado|O .|O
+También|O tiene|O todos|O los|O botones|O para|O que|O moderes|O el|O lavado|O a|O tu|O gusto|O y|O la|O luz|O que|O te|O indica|O que|O la|O puerta|O está|O bloqueada|O y|O cuando|O esta|O desbloqueada|O .|O
+Pero|O si|O tengo|O que|O hablar|O de|O alguno|O de|O los|O inconvenientes|O de|O esta|O lavadora|O ,|O tendría|O que|O mencionar|O que|O es|O a|O veces|O bastante|O ruidiosa|O y|O sus|O vibraciones|O son|O algo|O molestas|O ,|O por|O lo|O que|O si|O la|O pongo|O por|O la|O noche|O ,|O tengo|O que|O cerrar|O la|O puerta|O para_que|O no|B-C me|O moleste|O el|O ruido|O que|O produce|O .|O
+Por|O todo|O lo|O demás|O estoy|O muy|O contenta|O con|O esta|O lavadora|O y|O os|O la|O recomiendo|O porque|O es|O bastante|O útil|O para|O todo|O tipo|O de|O personas|O .|O
+Vengo|O a|O modificar|O esta|O opinión|O porque|O llevo|O más|O de|O un|O mes|O que|O esta|O lavadora|O no|B-C me|O da|O nada_más_que|I-C problemas|O ,|O a|O los|O pocas|O semanas|O de|O comprar|O la|O ,|O comenzó|O a|O vibrar|O ,|O suena|O como|O si|O fuera|O vieja|O y|O tuviera|O las|O chapas|O sueltas|O .|O
+En|O el|O aclarado|O cuando|O centrifuga|O se|O pone|O a|O brincar|O y|O hay|O que|O estar|O sujetándola|O porque|O si|O no|B-C es|O capaz|O hasta|O de|O arrancar|O el|O tubo|O de|O el|O agua|O .|O
+Y|O de|O el|O servicio|O ténico|O de|O LG|O ¡|O ¡|O ¡|O qué|O decir|O !|O !|O !|O
+Llevo|O un|O mes|O desde|O la|O primera|O vez|O que|O hablé|O con|O ellos|O y|O todavía|B-C esto|O no|I-C tiene|O previsto|O de|O que|O se|O arregle|O pronto|O ,|O ya|O os|O escribiré|O una|O opinión|O sobre|O mi|O periplo|O con|O LG|O .|O
+Es|O una|O pena|O que|O una|O marca|O como|O LG|O ,|O que|O se|O supone|O que|O está|O entre|O las|O de|O gama|O alta|O ,|O que|O venda|O aparatos|O así|O .|O
+Yo|O pensaba|O que|O este|O fabricante|O revisaba|O sus|O productos|O antes_de|O sacar|O los|O a|O la|O venta|O ,|O pero|O por|O lo|O visto|O esto|O no|B-C es|O así|O .|O
+Y|O veremos|O como|O acaba|O esto|O ,|O de|O momento|O ,|O tengo|O una|O lavadora|O de|O más|O de|O 600|O euros|O que|O no|B-C puedo|O utilizar|O y|O sin|B-C ninguna|I-C solución|O por|O la|O casa|O ,|O por|O el|O momento|O .|O
+Que|O es|O de|O 7|O kg|O de|O carga|O pero|O que|O según|O el|O técnico|O no|B-C se|O puede|O cargar|O tanto|O ,|O que|O por|O eso|O vibra|O ,|O tiene|O que|O ser|O de|O 7|O gramos|O porque|O la|O hemos|O probado|O con|O cuatro|O pijamas|O que|O no|B-C pesan|O nada|I-C y|O también|O así|O había|O que|O agarrar|O la|O para_que|O la|O lavadora|O no|B-C saliera|O corriendo|O .|O
+Así_que|O no|B-C os|O recomiendo|O que|O compréis|O productos|O LG|O ,|O como|O tengáis|O la|O mala|O suerte|O de|O que|O salgan|O defectuosos|O ,|O que|O os|O pille|O Dios|O confesados|O .|O
+Próximamente|O os|O colgaré|O una|O opinión|O sobre|O LG|O en|O dónde|O os|O contaré|O todo|O lo|O ocurrido|O con|O el|O bochornoso|O servicio|O técnico|O que|O tiene|O esta|O marca|O .|O
+No|B-C compréis|O productos|O LG|O
+Opinión|O anterior|O a|O que|O comenzara|O a|O dar|O problemas|O a|O las|O pocas|O semanas|O :|O
+Hace|O unas|O semanas|O mi|O lavadora|O Saivod|O después_de|O 13|O años|O ininterrumpidos|O de|O trabajo|O ,|O sin|B-C protestar|O ,|O dijo|O hasta|O aquí|O hemos|O llegado|O ,|O así|O que|O previo|O asesoramiento|O de|O que|O no|B-C merecía|O la|O pena|O el|O arreglo|O ,|O nos|O embarcamos|O a|O la|O busca|O y|O captura|O de|O la|O lavadora|O ideal|O y|O después_de|O mucho|O mirar|O y|O comparar|O relación|O calidad-precio|O ,|O la|O que|O más|O nos|O interesaba|O era|O la|O marca|O LG|O .|O
+Primero|O porque|O a_pesar_de|O ser|O electrónica|O ,|O el|O selector|O de|O la|O temperatura|O es|O independiente|O a|O el|O de|O los|O programas|O ,|O en|O casi|O todas|O las|O que|O veíamos|O ,|O incluida|O una|O Bosch|O ,|O estos|O iban|O unidos|O en|O un|O solo|O mando|O ,|O con|O lo|O que|O las|O posibilidades|O de|O combinar|O un|O programa|O con|O varias|O temperaturas|O se|O reducía|O considerablemente|O .|O
+Otro|O motivo|O fue|O la|O capacidad|O ,|O ya_que|O esta|O serie|O de|O lavadoras|O LG|O tienen|O 7|O kg|O .|O de|O capacidad|O .|O
+También|O nos|O llamó|O la|O atención|O su|O consumo|O de|O agua|O que|O comparado|O con|O la|O mayoría|O de|O 5|O kg|O de|O capacidad|O y|O teniendo_en_cuenta|O que|O esta|O tiene|O 2|O kg|O más|O ,|O es|O de|O sólo|O 58|O litros|O a_tope|O de|O carga|O ,|O 8,3|O litros|O por|O kilo|O de|O ropa|O .|O
+Y|O cómo_no|O ,|O al|O se|O de|O la|O categoría|O A|O tanto|O en|O eficiencia|O de|O consumo|O como|O de|O lavado|O ,|O nos|O han|O abonado|O 80|O €|O por|O el|O plan|O prever|O que|O hay|O ahora|O en|O los|O electrodomésticos|O .|O
+En|O un|O principio|O elegimos|O un|O modelo|O inferior|O de|O LG|O de|O igual|O capacidad|O de|O carga|O ,|O pero|O que|O por|O confusiones|O de|O la|O tienda|O al_final|O no|B-C lo|O distribuían|O y|O para|O compensar|O nos|O nos|O ofrecieron|O la|O LG|O WD10121TD|O sólo|O por|O 30|O €|O más|O ,|O cuando|O su|O precio|O real|O habría|O que|O añadir|O le|O otros|O 120|O €|O más|O que|O en|O el|O caso|O de|O Saturn|O por_ejemplo|O ,|O con|O los|O 25|O €|O de|O transporte|O ,|O esta|O lavadora|O se|O queda|O en|O unas|O 624|O €|O y|O a|O nosotros|O nos|O ha|O salido|O por|O unos|O 400|O €|O incluido|O el|O descuento|O de|O el|O plan|O prever|O ,|O así_que|O no|B-C nos|O lo|O pensamos|O dos|O veces|O y|O aceptamos|O la|O oferta|O .|O
+Esta|O LG|O además|O tiene|O un|O sistema|O de|O lavado|O inteligente|O que|O detecta|O la|O cantidad|O de|O carga|O y|O la|O temperatura|O de|O el|O agua|O ,|O eligiendo|O la|O cantidad|O necesaria|O de|O agua|O y|O el|O tiempo|O de|O lavado|O ,|O reduciendo|O así|O tanto|O el|O consumo|O de|O electricidad|O como|O el|O de|O el|O agua|O ,|O tan|O necesaria|O últimamente|O y|O así|O no|B-C tenemos|O que|O esperar|O a|O acumular|O hasta|O los|O 7|O kg|O de|O ropa|O para|O poder|O poner|O la|O lavadora|O ,|O ella|O sola|O lo|O detecta|O y|O se|O adapta|O a|O la|O cantidad|O que|O tengamos|O que|O lavar|O .|O
+Otra|O de|O las|O características|O quizás|O de|O las|O más|O importantes|O ,|O es|O que|O lleva|O el|O motor|O Direct_Drive|O ,|O este|O motor|O no|B-C lleva|O escobillas|O como|O la|O mayoría|O de|O las|O lavadoras|O y|O hace|O girar|O directamente|O el|O tambor|O sin|B-C necesidad|O de|O correa|O ni|I-C polea|O ,|O precisamente|O la|O avería|O de|O la|O vieja|O lavadora|O ha|O sido|O la|O polea|O ,|O el|O motor|O funcionaba|O pero|O el|O tambor|O no|B-C se|O movía|O .|O
+Gracias_a|O este|O sistema|O las|O vibraciones|O casi|O desaparecen|O por|O completo|O y|O el|O ruido|O ,|O no|B-C he|O visto|O lavadora|O más|O silenciosa|O ,|O sólo|O se|O oye|O el|O ruido|O que|O hace|O la|O ropa|O a|O el|O rozar|O entre|O sí|O ,|O el|O motor|O es|O como|O si|O no|B-C existiera|O .|O
+Lleva|O un|O bloqueo|O para|O niños|O que|O impide|O que|O estos|O toqueteen|O cualquier|O botón|O y|O modifiquen|O el|O programa|O o|O cambien|O la|O temperatura|O o|O la|O velocidad|O de|O centrifugado|O .|O
+Y|O es|O que|O hay|O que|O reconocer|O que|O entre|O la|O cantidad|O de|O lucecitas|O que|O lleva|O ,|O la|O pantalla|O digital|O y|O hasta|O la|O música|O que|O emite|O a|O el|O encender|O se|O ,|O llame|O la|O atención|O a|O los|O más|O pequeños|O .|O
+Pero|O por_si_acaso|O el|O ruido|O casi|O imperceptible|O que|O emite|O ,|O llegara|O a|O molestar|O nos|O ,|O tiene|O un|O sistema|O de|O control|O de|O velocidad|O de|O bajo|O ruido|O que|O detecta|O la|O cantidad|O de|O ropa|O y|O la|O distribuye|O de|O manera|O uniforme|O para|O reducir|O aún|O más|O el|O poco|O ruido|O que|O hace|O a|O el|O centrifugar|O .|O
+A|O el|O ser|O toda|O electrónica|O pudiera|O ocurrir|O como|O pasa|O con|O los|O ordenadores|O que|O a|O el|O ir|O se|O la|O luz|O perdiéramos|O toda|O la|O información|O y|O tuviéramos|O que|O partir|O de|O cero|O ,|O con|O la|O considerable|O pérdida|O de|O tiempo|O y|O de|O dinero|O .|O
+Pues_bien|O ,|O la|O LG|O WD10121TD|O se|O reiniciará|O automáticamente|O en|O la|O posición|O en|O la|O que|O se|O quedó|O a|O el|O interrumpir|O se|O el|O suministro|O de|O corriente|O eléctrica|O .|O
+El|O número|O de|O programas|O que|O tiene|O ,|O es|O el|O siguiente|O :|O
+Algodón|O .|O
+Sintético|O .|O
+Delicado|O .|O
+Lavado|O a|O mano|O /|O lana|O .|O
+Cuidado|O infantil|O .|O
+Rápido|O 30|O .|O
+Ropa|O de|O cama|O .|O
+Y|O los|O programas|O especiales|O :|O
+Prelavado|O .|O
+Aclarado|O en|O espera|O .|O
+Aclarado|O intensivo|O .|O
+Antiarrugas|O .|O
+Bio|O .|O
+Ahorro|O de|O tiempo|O .|O
+Bloqueo|O infantil|O .|O
+El|O funcionamiento|O es|O sencillo|O ,|O elegimos|O el|O programa|O y|O la|O lavadora|O dentro_de|O las|O posibilidades|O lógicas|O que|O ofrezca|O el|O programa|O nos|O señala|O lo|O máximo|O con|O lo|O que|O puede|O funcionar|O en|O este|O ,|O y|O a_partir_de|O ahí|O nosotros|O lo|O podremos|O modificar|O eligiendo|O el|O lavado|O (|O prelavado|O ,|O lavado|O )|O ;|O el|O aclarado|O (|O aclarado|O caliente|O ,|O plus|O y|O normal|O )|O ;|O el|O centrifugado|O (|O 1.000|O ,|O 800|O ,|O 400|O ,|O sin|B-C centrifugado|O ,|O aclarado|O en|O espera|O )|O ;|O la|O temperatura|O (|O 95º|O ,|O 60º|O ,|O 40º|O ,|O 30º|O y|O fría|O )|O y|O la|O opción|O bio|O o|O antiarrugas|O .|O
+Viene|O también|O con|O temporizador|O para|O programar|O que|O la|O lavadora|O funcione|O cuando|O estemos|O fuera_de|O casa|O .|O
+En|O la|O pantalla|O digital|O nos|O aparece|O tanto|O el|O tiempo|O que|O va|O quedando|O para|O que|O la|O lavadora|O finalice|O el|O lavado|O ,|O como|O el|O autodiagnóstico|O ,|O indicándonos|O si|O hay|O algún|O problema|O tal_como|O la|O presión|O de|O el|O agua|O ,|O llenado|O excesivo|O ,|O puerta|O mal|O cerrada|O ,|O problema|O de|O drenaje|O o|O en|O la|O temperatura|O de|O el|O agua|O ,|O etc.|O ,|O etc.|O
+La|O LG|O WD10121TD|O es|O una|O lavadora|O de|O gama|O alta|O que|O ofrece|O mucho|O por|O el|O precio|O que|O tiene|O a_pesar_de|O que|O de_por_sí|O ya|O es|O algo|O elevado|O ,|O porque|O pagar|O cien_mil|O de|O las|O antiguas|O pesetas|O ,|O es|O un|O dinero|O ,|O pero|O que|O a|O la|O larga|O se|O amortiza|O .|O
+De|O entre|O sus|O virtudes|O destacaría|O la|O capacidad|O de|O carga|O ,|O ahorro|O en|O el|O consumo|O de|O agua|O y|O electricidad|O y|O sobre|O todo|O ,|O que|O es|O extremadamente|O silenciosa|O .|O
+he|O tenido|O esta|O lavadora|O durante|O tres|O años|O
+el|O boton|O de|O apertura|O de|O puerta|O se|O ha|O roto|O ya|O varias|O veces|O .|O
+la|O lavadora|O no|B-C esta|O mal|O hasta|O que|O se|O rompe|O ,|O hay|O biene|O lo|O malo|O .|O
+el|O revicio|O tecnico|O fagor|O es|O una|O pesadilla|O ,|O todo|O la|O publicidad|O de|O su|O web|O reaparacion|O 24|O horas|O ,|O sabados|O ,|O todo|O mentira|O .|O
+estube|O esparando|O una|O semana|O y|O no|B-C aparecieron|O .|O
+su|O servicio|O de|O atencion|O a|O el|O cliente|O inexistente|O
+el|O tenlefono|O esta|O siempre|O saturado|O .|O y|O cuando|O lo|O cojen|O su|O ayuda|O se|O limita|O a|O decir|O que|O no|B-C pueden|O hacer|O nada|I-C .|O
+lo|O dicho|O la|O lavadora|O normal|O pero|O mejor|O que|O no|B-C se|O rompa|O .|O
+mejor|O tirar|O la|O a|O la|O basura|O y|O compra|O otra|O
+no|B-C os|O molestais|O en|O intentar|O reparar|O la|O .|O
+Otra|O lavadora|O mas|O en|O la|O gama|O 800/900|O rpm|O .|O
+Eso|O si|O ,|O siendo|O la|O primera|O marca|O de|O grupo|O ,|O y|O superando|O en|O calidad|O a|O Edesa|O ,|O estamos|O hablando|O de|O una|O lavadora|O de|O carga|O superior|O funcional|O y|O muy|O completa|O .|O
+Como|O consumo|O cuenta|O con|O varios|O apartados|O A|O de|O consumo|O energetico|O ,|O con|O lo|O cual|O sera|O una|O buena|O adquisicion|O ya|O de|O por|O si|O .|O
+En_cuanto_a|O la|O calidad|O ,|O es|O superior|O a|O marcas|O como|O Whirlpool|O ,|O NEwpol|O e|O incluso|O Otsein|O .|O
+Teniendo|O un|O precio|O parecido|O a|O esta|O ultima|O ,|O a|O mi|O parecer|O le|O supera|O en|O bastantes|O aspectos|O ,|O los|O cual|O os|O comento|O .|O
+La|O carga|O es|O variable|O ,|O no|B-C tenemos|O que|O seleccionar|O media|O carga|O porque|O ya|O gastara|O exactamente|O en|O relacion|O con|O la|O ropa|O que|O carguemos|O en|O el|O tambor|O .|O
+Tenemos|O unos|O acabados|O de|O diseño|O en|O lavadora|O y|O botones|O de|O superior|O calidad|O que|O en|O otros|O ,|O lo|O cual|O nos|O dara|O una|O dureza|O de|O materiales|O muy|O buena|O .|O
+y|O otra|O cosa|O importante|O ,|O solo|O enviando|O una|O carta|O ,|O sin|B-C coste|O alguno|O ,|O Fagor|O nos|O amplia|O la|O garanti|O a|O 5|O años|O ,|O muy|O interesante|O claro|O esta|O .|O
+El|O precio|O ,|O pues|O supera|O sensiblemente|O los|O 400|O euros|O ,|O algo|O mas|O que|O la|O Whirlpool|O ,|O pero|O me|O parece|O algo|O superior|O en|O calidades|O ,|O materiales|O y|O tenemos|O la|O posibilidad|O de|O ampliar|O la|O garantia|O a|O 5|O años|O .|O
+Saludos|O
+¡|O Se|O mueve|O ¡|O .|O
+A|O la|O hora|O de|O centrifugar|O vibra|O un|O montón|O y|O se|O desplaza|O .|O
+El|O técnico|O le|O colocó|O un|O contrapeso|O ,|O pero|O está|O peor|O aún|O .|O
+Lava|O muy|O bien|O y|O para|O centrifugar|O a|O 800|O rpm|O la|O ropa|O sale|O bastante|O seca|O .|O
+La|O usabilidad|O es|O adecuada|O ,|O se|O entiende|O muy|O fácil|O ,|O pero|O es|O bastante|O ruidosa|O en|O la|O centrifugación|O y|O además|O se|O mueve|O ,|O y|O alo|O he|O dicho|O antes|O ,|O nos|O tiene|O negros|O .|O
+El|O servicio|O técnico|O aunque|O ha|O mejorado|O ,|O deja|O mucho|O que|O desear|O ,|O pero|O supongo|O que|O esto|O dependerá|O de|O la|O zona|O aunque|O también|O influya|O la|O organización|O de|O la|O casa|O matriz|O .|O
+No|B-C se|O si|O es|O la|O lavadora|O o|O el|O nuevo|O detergente|O pero|O mi|O ropa|O cada|O dia|O esta|O mas|O limpia|O y|O suabe|O ,|O a|O eso|O es|O de|O el|O susbizante|O .|O
+La|O lavadora|O a|O tenido|O que|O tener|O tambien|O su|O importancia|O la|O verdad|O ,|O despues|O de|O la|O pasta|O que|O me|O ha|O costado|O .|O
+La|O instalacion|O en|O mi|O terraza|O fue|O facil|O todo|O lo|O icieron|O los|O de|O la|O tienda|O .|O
+Lo|O de|O el|O manejo|O fue|O mas|O complicado|O ,|O aun|O teniendo|O las|O instruciones|O delante|O no|B-C me|O aclaraba|O la|O verdad|O todo|O electronico|O que|O lio|O .|O
+Bueno|O a|O el|O decimo|O quinto|O lavado|O ya|O era|O un|O profesional|O en|O esto|O de|O lavar|O ropa|O y|O de|O poner|O lavadoras|O y|O esta|O chupado|O si|O es|O que|O ella|O lo|O hace|O todo|O menos|O meter|O la|O ropa|O en|O si|O mismo|O osea|O todo|O .|O
+&|O programas|O de|O lavado|O en|O caliente|O o|O frio|O .|O
+Media|O carhga|O o|O carga|O entera|O ,|O bajo|O consumo|O ,|O uuna|O lavadora|O de|O el|O futuro|O para|O gente|O de|O el|O presente|O .|O
+Os|O recomiendo|O esta|O lavadora|O de|O corazon|O esta|O muy|O bien|O .|O
+Paciencia|O leyendo|O tranquilamente|O las|O instruciones|O a|O el|O final|O la|O manejas|O muy|O bien|O .|O
+compré|O una|O WFF-1200|O en|O el|O 99|O y|O la|O hago|O funcionar|O a_diario|O .|O
+Desde|O que|O la|O compramos|O no_hemos_parado_de|O tener|O reparaciones|O .|O
+Y|O no|O eran|O reparaciones|O imprevistas|O ,|O sino|O perfectamente|O previstas|O por|O la|O casa|O .|O
+Así|O nos|O lo|O dijo|O el|O técnico|O cuando|O nos|O cambió|O el|O motor|O de|O centrifugado|O :|O
+"|O se|O estropea|O porque|O centrifuga|O a|O 1200|O revoluciones|O y|O se|O desgasta|O mucho|O .|O
+Pero|O no|B-C se|O preocupe|O porque|O el|O nuevo|O motor|O ,|O que|O vale|O 210|O euros|O se|O lo|O dejan|O por|O 150|O porque|O la|O casa|O ya|O sabe|O que|O se|O tiene|O que|O estropear|O ...|O "|O
+Nos|O quedamos|O de|O pasta|O de|O boniato|O .|O
+Tenemos|O un|O promedio|O de|O una|O reparación|O cada|O tres|O meses|O .|O
+Hemos|O pagado|O tres|O o|O cuatro|O veces|O el|O precio|O de|O compra|O en|O reparaciones|O ...|O y|O llevamos|O 7|O años|O con|O ella|O .|O
+Cuando|O no|B-C es|O el|O circuito|O impreso|O ,|O es|O el|O eje|O que|O se|O estropea|O por|O la|O cal|O (|O y|O ponemos|O antical|O en|O cada|O lavada|O )|O y|O si|O no|B-C es|O el|O filtro|O o|O cualquier|O otra|O cosa|O ...|O
+Antes|O que|O esta|O ,|O tuvimos|O una|O Zanussi|O que|O duró|O 15|O años|O y|O solo|O se|O estropeaba|O cuando|O se|O ensuciaban|O los|O filtros|O .|O
+He|O descubierto|O que|O cuando|O quieres|O añadir|O un|O nuevo|O producto|O ,|O tarda|O siglos|O en|O aparecer|O ,|O y|O eso|O si|O aparece|O .|O
+En_cuestión_de|O electrodomésticos|O ,|O no|B-C se|O incluyen|O las|O novedades|O del|O mercado|O .|O
+Os|O voy|O a|O hablar|O de|O la|O lavadora|O LG|O WD1080FD|O .|O
+Es|O una|O lavadora|O de|O 7|O kg|O .|O de|O capacidad|O y|O carga|O frontal|O ,|O ofrece|O todas|O las|O prestaciones|O de|O las|O lavadoras|O de|O la|O marca|O ,|O gran|O capacidad|O ,|O electrónica|O con|O un|O aislamiento|O especial|O que|O protege|O el|O panel|O electrónico|O de|O la|O humedad|O ,|O eficadia|O de|O lavado|O A|O ,|O clase|O energética|O A|O (|O bajo|O consumo|O )|O y|O eficacia|O de|O centrifugado|O A|O ,|O ésta|O en|O concreto|O es|O de|O 1000|O RPM|O lavado|O inteligente|O o|O Fuzz_Logic|O .|O
+Pero|O este|O aparato|O ofrece|O una|O imnovación|O ,|O su|O motor|O Direct_Drive|O de|O acoplado|O directo|O .|O
+Todas|O las|O lavadoras|O de|O el|O mercado|O ,|O a_partir_de|O 600|O RPM|O llevan|O motor|O de|O escobillas|O ,|O el|O cual|O dependiendo|O de|O la|O cantidad|O de|O lavados|O ,|O suele|O durar|O unos|O 5|O años|O .|O
+El|O motor|O Direct_Drive|O ,|O va|O acoplado|O directamente|O a|O el|O bombo|O ,|O no|B-C lleva|O escobillas|O ni|B-C poleas|O ,|O por|O lo|O que|O su|O durabilidad|O es|O muy|O superior|O a|O el|O de|O el|O resto|O de|O lavadoras|O ,|O incluso|O en|O las|O de|O 1600|O RPM|O .|O
+además|O es|O increíblemente|O silenciosa|O tanto|O en|O el|O lavado|O como|O en|O el|O centrifugado|O .|O
+El|O diseño|O es|O también|O muy|O imnovador|O y|O a_pesar_de|O su|O gran|O capacidad|O ,|O las|O medidas|O exteriores|O son|O las|O de|O una|O lavadora|O convencional|O .|O
+La|O relación|O calidad|O /|O precio|O es|O muy|O buena|O ,|O ya_que|O hay|O lavadoras|O en|O el|O mercado|O muchísimo|O más|O cars|O y|O bastante|O peores|O .|O
+Un|O Saludo|O a|O todos|O los|O que|O me|O leeis|O .|O
+Tengo|O esta|O lavadora|O desde|O hace|O un|O año|O y|O estoy|O encantada|O ,|O deja|O la|O ropa|O casi|O ya|O seca|O ,|O tiene|O una|O capacidad|O enorme|O que|O me|O permite|O meter|O los|O edredones|O de|O la|O cama|O sin|B-C problema|O .|O
+El|O precio|O en|O relación|O con|O la|O calidad|O es|O buenísimo|O ,|O puede|O competir|O perfectamente|O con|O las|O mejores|O marcas|O .|O
+Incluso|O puedes|O poner|O ropa|O delicada|O porque|O con|O el|O programa|O de|O lavado|O a|O mano|O la|O lencería|O fina|O ,|O jerseys|O de|O lana|O etc.|O quedan|O tan|O bien|O como|O si|O lo|O hubieras|O hecho|O a|O mano|O .|O
+Os|O la|O recomiendo|O sin|B-C ninguna|I-C duda|O es|O una|O de|O las|O mejores|O en|O el|O mercado|O en|O este|O momento|O .|O

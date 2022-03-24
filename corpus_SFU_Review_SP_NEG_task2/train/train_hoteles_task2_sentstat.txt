@@ -1,0 +1,700 @@
+Si|O eres|O de|O los|O que|O no|B-C esperas|O que|O un|O olmo|O te|O dé|O peras|O ...|O entonces|O este|O es|O tu|O hotel|O !|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Me|O refiero|O a|O que|O no|B-C hay|O que|O quedar|O se|O mucho|O dentro_de|O el|O hotel|O ,|O es|O como|O estar|O encerrado|O en|O un|O capítulo|O de|O Cuéntame|O con|O la|O família|O Alcántara|O ,|O más|O bien|O algo|O viejo|O ,|O pero|O estaba|O limpio|O ,|O eso|O sí|O !|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+Y|O por|O 45|O €|O la|O noche|O en|O el|O cenro|O de|O Madrid|O ,|O a|O 5|O pasos|O de|O la|O puerta|O de|O el|O Sol|O no|B-C se|O puede|O pedir|O más|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+No|B-C me|O lo|O pensaría|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Viendo|O el|O edificio|O de|O Telefónica|O ,|O y|O ese|O caballo|O que|O aparecía|O en|O la|O película|O "|O La|O Comunidad|O "|O ,|O no|B-C sé|O cómo|O se|O llama|O el|O edificio|O ...|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Pedimos|O unas|O copas|O ,|O lo|O normal|O ,|O alcohol|O ,|O nada|B-C raro|O y|O refresco|O ...|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Pero|O como|O negativo|O ,|O es|O necesario|O señalar|O ,|O la|O antiguedad|O de|O sus|O instalaciones|O ,|O con|O un|O mobiliario|O de|O pelicula|O de|O Alfredo_Landa|O en|O los|O años|O 70|O y|O con|O unos|O pasillos|O tétricos|O y|O faltos|B-C de|I-C luz|O .|O ,|O necesita|O una|O urgente|O renovación|O ,|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Por_otro_lado|O ,|O curiosamente|O ,|O los|O Apartamentos_Goya_75|O no|O esta|O en|O la|O calle|O Goya|O ,|O número|O 75|O .|O sino|O como|O podeis|O comprobar|O estan|O en|O General_Pardiñas|O ,|O 13|O ,|O algo|O que|O nos|O llevo|O a|O confusión|O cuando|O llegabamos|O en|O taxi|O ,|O ni|B-C el|O mismo|O taxista|O madrileño|O lo|O entendía|O ,|O finalmente|O y|O gracias_a|O un|O cartero|O ,|O lo|O encontramos|O ,|O está|O en|O una|O calle|O perpendicular|O a|O Goya|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+Creo|O que|O para|O una|O visita|O de|O trabajo|O con|O poco|O tiempo|O de|O estancia|O puede|O ser|O muy|O util|O ,|O no|B-C olvidemos|O que|O poseen|O cocina|O francesa|O que|O pudes|O utilizar|O ,|O pero|O para|O una|O estancia|O turistica|O queda|O un|O poco|O cutre|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Para|O ser|O franca|O este|O hotel|O no|B-C es|O nada|I-C del_otro_mundo|O ,|O la|O entrada|O es|O un|O tanto|O cutre|O y|O vieja|O ,|O pero|O el|O resto|O de|O el|O hotel|O mas|O o|O menos|O esta|O bien|O ,|O el|O personal|O tampoco|B-C es|O que|O este|O muy|I-C atento|O ,|O si|O vas|O a|O recepcion|O puedes|O tirar|O te|O unos|O 15|O min|O esperando|O que|O salgan|O atender|O te|O ,|O pero|O para|O pasar|O unos|O dias|O en|O pleno|O centro|O de|O madrid|O es|O un|O hotel|O idoneo|O ,|O el|O hotel|O esta|O en|O gran|O via|O pero|O da|O a|O otra|O calle|O ,|O y|O eso|O es|O lo|O bueno|O que|O tiene|O que|O por|O las|O noches|O no|B-C has|O de|O aguantar|O el|O ir|O y|O venir|O de|O las|O ambulancias|O ,|O policias|O ,|O etc.|O
+number of cues= 3.0
+number of tokens= 109
+====================================================
+He|O estado|O en|O este|O hotel|O durante|O 4|O noches|O ,|O y|O la|O verdad|O es|O que|O solo|O por|O la|O pesadez|O de|O volver|O a|O hacer|O la|O maleta|O no|B-C me|O he|O cambiado|O de|O hotel|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+La|O recepcionista|O a|O el|O hacer|O la|O entrada|O unicamente|O te|O pregunta|O si|O quieres|O fumador|O o|O no|B-C fumador|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Pues|O no|B-C ,|O ala|O ,|O a|O la|O ultima|O habitación|O de|O el|O pasillo|O ,|O con|O decoración|O de|O los|O ochenta|O incluido|O el|O colchon|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Muebles|O blancos|O roñosos|O ,|O sofa|O anticuado|O e|O incomodo|O ,|O cama|O que|O hace|O ruidos|O a|O el|O mover|O se|O ,|O moqueta|O asquerosa|O (|O por|O los|O años|O que|O tiene|O ,|O no|B-C por|O falta|O de|O limpieza|O )|O que|O dama|O grima|O ir|O descalza|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+La|O calefacción|O no|B-C se|O puede|O poner|O a|O mas|O de|O 22|O grados|O y|O la|O verdad|O es|O que|O se|O pasa|O un|O poco|O de|O frio|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Sobre|O la|O limpieza|O ,|O poca|O cosa|O que|O objetar|O ,|O solo|O que|O en|O el|O uarto|O de|O baño|O ,|O el|O suelo|O no|B-C se|O ha|O limpiado|O durante|O muchos|O días|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+El|O desayuno|O de|O buffet|O ,|O correcto|O pero|O sin|B-C mucha|O variedad|O y|O los|O encargados|O tardan|O bastante|O en|O rellenar|O los|O platos|O que|O se|O van|O quedando|O vacios|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Y|O no|B-C hay|O en|O la|O habitación|O ni|I-C una|O triste|O hoja|O para|O decidir|O que|O hay|O para|O comer|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Resumiendo|O ,|O recomiendo|O el|O Sofitel|O que|O esta|O justo|O a|O el|O lado|O y|O que|O no|B-C se|O merece|O las|O 4|O estrellas|O que|O tiene|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Con|O un|O precio|O no|B-C precisamente|I-C barato|O ,|O tenemos|O una|O habitación|O con|O muebles|O de|O hace|O 30|O años|O ,|O sábanas|O como|O la|O lija|O de|O el|O 7|O y|O un|O baño|O con|O más|O mugre|O que|O un|O taller|O ,|O en|O el|O que|O para_colmo|O no|B-C son|O capaces|O de|O poner|O champú|O o|O gel|O de|O baño|O y|O hasta|O racanean|O con|O el|O papel|O higiénico|O .|O
+number of cues= 2.0
+number of tokens= 56
+====================================================
+La|O limpieza|O de|O las|O habitaciones|O ,|O además_de|O el|O baño|O ,|O tampoco|B-C es|O buena|O y|O ,|O para_colmo|O ,|O la|O camarera|O se|O dejó|O la|O puerta|O de|O nuestra|O habitación|O abierta|O el|O primer|O día|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Afortunadamente|O no|B-C pasó|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+El|O aspecto|O exterior|O de|O el|O sitio|O tampoco|B-C es|O mucho|O mejor|O ,|O lleno|O de|O sofás|O viejos|O y|O polvorientos|O y|O de|O lozas|O mal|O puestas|O y|O picadas|O ,|O y|O las|O puertas|O ofrecen|O muchas|O marcas|O de|O haber|O sido|O forzadas|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Mi|O recomendación|O es|O que|O ,|O antes_de|O ir|O a|O este|O sitio|O se|O pruebe|O con|O todo|O lo|O demás|O ,|O incluyendo|O los|O hostales|O de|O la|O Carrera_de_San_Jerónimo|O ,|O que|O por|O la|O mitad|O de|O precio|O suelen|O ofrecer|O unos|O servicios|O muy|O superiores|O ,|O y|O si|O no|B-C fuera|O así|O a|O el|O menos|O se|O está|O pagando|O un|O precio|O más|O próximo|O a|O la|O calidad|O ofrecida|O .|O
+number of cues= 1.0
+number of tokens= 57
+====================================================
+En_cuanto_a|O el|O precio|O ,|O no|B-C es|O precisamente|I-C barato|O ,|O 80|O euros|O la|O habitación|O ,|O pero|O sí|O aceptable|O y|O guarda|O una|O buena|O relación|O calidad-precio|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Sin|B-C duda|O alguna|I-C ,|O repetiría|O el|O sitio|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+2|O )|O De|O lo|O ofrecido|O por|O la|O oferta|O de|O nuestra|O reserva|O nada|B-C de_nada|I-C :|O ni|B-C "|O Special_Amenity|O in|O room|O on|O the|O arrival|O day|O "|O ni|B-C "|O Free|O access|O to|O Sauna|O "|O puesto|O que|O estaba|O cerrada|O .|O
+number of cues= 3.0
+number of tokens= 36
+====================================================
+Y|O las|O duchas|O de|O la|O piscina|O no|B-C funcionaban|O .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+3|O )|O Para|O rematar|O la|O faena|O ,|O nos|O cobraron|O (|O sin|B-C previo|O aviso|O )|O un|O suplemento|O de|O 4|O euros|O por|O la|O "|O vigilancia|O de|O el|O parking|O "|O ,|O un|O detalle|O desde_luego|O que|O no|B-C corresponde|O a|O un|O supuesto|O hotel|O de|O lujo|O .|O
+number of cues= 2.0
+number of tokens= 41
+====================================================
+En|O definitiva|O ,|O un|O hotel|O muy|O pero|O que|O muy|O por|O debajo_de|O su|O precio|O ,|O sólo|O se|O salva|O su|O emplazamiento|O ,|O pero|O para|O disfrutar|O lo|O no|B-C hace|O falta|O desde_luego|O alojar|O se|O en|O este|O hotel|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+No|B-C os|O lo|O recomiendo|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Una|O vez|O pagado|O el|O taxi|O desde|O el|O aeropuerto|O hasta|O el|O hotel|O que|O nos|O costó|O 25.94|O Euros|O ,|O entramos|O en|O la|O recepción|O el|O domingo_por_la_noche|O ,|O nos|O asignaron|O dos|O habitaciones|O en|O la|O planta|O sexta|O ,|O a|O mi|O pregunta|O ,|O se|O puede|O fumar|O en|O la|O habitación|O ,|O me|O dijeron|O que|O no|B-C ,|O con|O lo|O cual|O tuve|O la|O suerte|O que|O quedaban|O habitaciones|O ,|O y|O a|O mi|O me|O dieron|O una|O en|O la|O planta|O segunda|O .|O
+number of cues= 1.0
+number of tokens= 70
+====================================================
+En_cuanto_a|O la|O vista|O exterior|O era|O nula|B-C ,|O porque|O me|O tocó|O una|O habitación|O interior|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+El|O baño|O bien|O aprovechado|O ,|O con|O ducha|O y|O se|O suponía|O que|O masajeador|O ,|O que|O nunca|B-C conseguí|O que|O funcionara|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+El|O lavabo|O para|O lavar|O se|O las|O manos|O demasiado|O pequeño|O ,|O no|B-C tenía|O sitio|O para|O dejar|O mis|O cosas|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Se|O supone|O que|O tiene|O aire|O acondicionado|O ,|O pero|O aunque|O había|O una|O nota|O que|O el|O aire|O acondicionado|O lo|O ponían|O desde|O el|O mes_de_abril|O hasta|O octubre|O ,|O no|B-C es|O cierto|O ,|O el|O lunes|O cuando|O me|O fuí|O lo|O deje|O funcionando|O para|O que|O me|O enfriara|O la|O habitación|O ya_que|O la|O noche|O anterior|O había|O pasado|O mucho|O calor|O ,|O me|O encontré|O cuando|O llegué|O por|O la|O noche|O ,|O mi|O habitación|O era|O una|O sauna|O .|O
+number of cues= 1.0
+number of tokens= 65
+====================================================
+En_cuanto_a|O el|O personal|O ,|O sólo|O puedo|O hablar|O de|O la|O recepción|O ,|O y|O aunque|O eran|O amables|O ,|O cuando|O llegué|O a|O barcelona|O ,|O me|O encontré|O que|O me|O habían|O dejado|O un|O mensaje|O en|O el|O hotel|O para|O que|O los|O llamara|O ,|O y|O los|O de|O recepción|O no|B-C me|O dieron|O el|O mensaje|O .|O
+number of cues= 1.0
+number of tokens= 47
+====================================================
+Aunque|O no|B-C era|O nada|I-C importante|O ,|O esto|O es|O un|O punto|O negativo|O para|O recepción|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+El|O hotel|O está|O situado|O en|O la|O puerta|O de|O toledo|O ,|O no|B-C está|O lejos|O del|O centro|O ,|O se|O puede|O ir|O andando|O ,|O a|O el|O palacio|O real|O y|O tambien|O a|O el|O centro|O de|O madrid|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+Y|O si|O vas|O para|O trabajar|O ,|O si|O paga|O la|O empresa|O recomienda|O les|O que|O te|O busquen|O otro|O ,|O no|B-C vale|O lo|O que|O pagas|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Desde|O Septiembre|O para|O aca|O ,|O he|O ido|O 5|O veces|O ,|O aunque|O solo|O he|O pernoctado|O en|O una|O ocasion|O ,|O y|O porque|O no|B-C habia|O mas|O remedio|O ,|O pero|O en|O cuanto|O puedo|O ....|O me|O libro|O de|O dormir|O alli|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Empecemos|O por|O la|O categoria|O de|O el|O hotel|O ,|O no|B-C se|O si|O se|O ultimamente|O las|O estrellas|O las|O regalan|O juntando|O las|O tapas|O de|O los|O yogures|O ,|O o|O en|O que|O se|O basan|O para|O dar|O las|O estrellas|O en|O un|O hotel|O ,|O pero|O desde_luego|O yo|O he|O estado|O en|O hoteles|O de|O 3|O estrellas|O que|O estan|O muchisimo|O mejor|O que|O este|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+El|O primer|O dia|O que|O llegue|O ,|O fue|O mi|O primer|O dia|O en|O esta|O empresa|O ,|O asi|O es|O que|O no|B-C conocia|O a|O nadie|I-C ,|O lo|O que|O mas|O me|O llamo|O la|O atencion|O ,|O es|O que|O ni_tan_siquiera|B-C me|O guardaron|O el|O equipaje|O hasta|O la|O hora|O en|O que|O pude|O coger|O la|O habitacion|O ,|O eso|O si|O ......|O la|O recepcionista|O esta|O un|O poco|O colgada|O ,|O y|O vacila|O a|O los|O extranjeros|O como|O quiere|O ...|O
+number of cues= 2.0
+number of tokens= 65
+====================================================
+La|O sala|O en|O cuestion|O no|B-C es|O que|O tenga|O mucho|I-C que|O destacar|O ,|O dispone|O de|O dos|O neveritas|O ,|O una|O con|O agua|O con|O gas|O y|O otra|O sin|B-C gas|O ,|O el|O 90_%|O de|O los|O enchufes|O deben|O ser|O de|O adorno|O ,|O porque|O no|B-C tienen|O corriente|O ,|O y|O no_veas|O los|O pifostios|O que|O se|O montaban|O con|O los|O alargadores|O ,|O las|O sillas|O no|B-C muy|I-C comodas|O la|O verdad|O ,|O y|O para|O pasar|O te|O unas|O 8|O horas|O sentada|O en|O ella|O ....|O pues|O no|B-C eran|O muy|I-C adecuadas|O .|O
+number of cues= 5.0
+number of tokens= 78
+====================================================
+En|O otra|O ocasion|O utilice|O la|O sala|O de|O la|O sexta|O planta|O ,|O bastante|O pequeña|O a|O mi|O parecer|O ,|O porque|O no|B-C eramos|O mas|I-C de|I-C 50|O y|O tabamos|O apiñados|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+La|O habitacion|O ...|O normalita|O ,|O la|O mia|O daba|O a|O un|O patio|O de|O luces|O ,|O ejem|O ,|O con|O lo|O que|O la|O vista|O era|O la|O leche|O ,|O y|O de|O iluminacion|O 0|B-C ,|O dos|O camas|O de|O 80|O ,|O un|O minibar|O ,|O y|O una|O tele|O era|O todo|O lo|O que|O tenia|O ,|O eso|O si|O ,|O hacia|O un|O frio|O pelotudo|O y|O la|O calefaccion|O no|B-C iba|O muy|I-C bien|O ,|O y|O encima|O no|B-C les|O quedaban|O mas|O habitaciones|O ....|O o|O eso|O me|O dijeron|O ,|O total|O solo|O seria|O una|O noche|O ,|O asi|O es|O que|O me|O adjudique|O mantas|O de|O mis|O compañeros|O y|O asi|O logre|O dormir|O unas|O dos|O horas|O .|O
+number of cues= 3.0
+number of tokens= 98
+====================================================
+A|O el|O dia|O siguiente|O ,|O en|O el|O desayuno|O ,|O comprobe|O que|O el|O acceso|O a|O el|O comedor|O es|O a|O traves|O de|O una|O escalera|O ,|O asi|O es|O que|O ya|O me|O direis|O que|O haran|O las|O personas|O minusvalidas|O en|O este|O hotel|O ,|O consegui|O llegar|O el|O reservado|O ,|O que|O no_veas|O si|O estaba|O escondido|O ,|O es|O una|O salita|O contigua|O a|O el|O restaurante|O ,|O y|O te|O pilla|O bastante|O lejos|O el|O buffet|O de|O el|O desayuno|O ,|O como|O la|O cosa|O no|B-C tenia|O muy|O buena|O pinta|O ,|O cogi|O un|O bollito|O de|O pan|O ,|O lo|O tosté|O ,|O y|O me|O eche|O un|O poquito|O de|O aceite|O y|O sal|O ...|O porque|O el|O tomate|O tampoco|B-C le|O veia|O yo|O en|O condiciones|O ....|O
+number of cues= 2.0
+number of tokens= 106
+====================================================
+Hicimos_uso|O de|O la|O cafeteria|O ...|O y|O bueno|O ...|O tampoco|B-C es|O que|O tuviera|O mucho|O mas|O ,|O mejor|O nos|O ibamos|O a|O el|O bar|O de|O enfrente|O que|O te|O ponia|O unas|O tapas|O de|O muerte|O ,|O o|O a|O la|O tasca|O vasca|O de|O la|O esquina|O ....|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+No|B-C se|O como|O anda|O de|O precio|O la|O habitacion|O ,|O pero|O os|O aseguro|O ,|O que|O yo|O no|B-C pagaria|O por|O ir|O alli|O ,|O asi|O es|O que|O cada|O vez|O que|O tengo|O reunion|O ,|O sea|O a|O la|O hora|O que|O sea|O ,|O salga|O a|O la|O hora|O que|O salga|O ,|O esta|O que|O esta|O a|O qui|O se|O pira|O pa|O Talavera|O ,|O que|O pa|O muestra|O un|O boton|O .|O
+number of cues= 2.0
+number of tokens= 60
+====================================================
+Hice|O reserva|O de|O ese|O hostal|O y|O pese_a|O avisar|O el|O mismo|O dia|O que|O llegaría|O por|O la|O tarde|O ,|O no|B-C me|O comunicaron|O que|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+No|B-C es|O nada|I-C recomendable|O no|O por|O las|O instalaciones|O que|O no|B-C lo|O se|O ,|O puesto_que|O no|B-C estuve|O alojada|O ,|O si_no|O porque|O te|O arriesgas|O a|O no|B-C tener|O habitación|O .|O
+number of cues= 4.0
+number of tokens= 27
+====================================================
+El|O vehículo|O que|O lleve|O me|O lo|O rozaron|O en|O el|O aparcamiento|O de|O el|O hotel|O ,|O y|O la|O dirección|O de|O el|O hotel|O ,|O a_pesar_de|O cobrar|O me|O el|O estacionamiento|O se|O desentendió|O de|O los|O daños|O causados|O a|O mi|O vehículo|O ,|O alegando|O que|O la|O persona|O que|O me|O rozo|O el|O coche|O no|B-C les|O dio|O parte|O .|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+No|B-C estoy|O nada|I-C satisfecho|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Podríamos|O volver|O a|O casa|O pero|O no|B-C hay|O ni|I-C metro|O ni|I-C autobuses|O ,|O sólo|O un|O nocturno|O que|O sale|O cada|O hora|O desde|O el|O intercambiador|O de|O la|O Avenida_de_América|O ,|O y|O desde|O Barajas|O hasta|O dicha|O Avenida|O hay|O que|O coger|O un|O taxi|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+Total|O que|O ni|B-C lo|O pensamos|O ,|O porque|O encima|O te|O vienen|O a|O recoger|O a|O la|O terminal|O cuatro|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Pero|O estuvimos|O 40|O minutos|O esperando|O y|O nada|O que|O no|B-C venía|O ,|O llamamos|O y|O nos|O dijeron|O que|O ya|O había|O venido|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+El|O hotel|O es|O muy|O bueno|O ,|O tiene|O todas|O las|O comodidades|O típicas|O de|O un|O cuatro|O estrellas|O ,|O pero|O no|B-C es|O nuevo|O ,|O asi_que|O no|B-C está|O todo|O reluciente|O .|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+No|B-C hay|O minibar|O pero|O si|O hay|O una|O nevera|O con|O congelador|O vacía|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+No|B-C se|O escucha|O nada|I-C al|O vecino|O ,|O con|O lo|O que|O el|O hotel|O es|O silencioso|O y|O se|O puede|O descansar|O a_las_mil_maravillas|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Sobre|O la|O dirección|O de|O el|O sitio|O ,|O arriba|O en|O la|O descripción|O la|O he|O visto|O ,|O asi_que|O no|B-C la|O pongo|O ,|O jeje|O y|O fotos|O también|O hay|O ...|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+La|O decoración|O está|O muy|O anticuada|O ,|O el|O mobiliario|O de|O las|O habitaciones|O parece|O comprado|O en|O un|O todo|O a|O 100|O ,|O la|O cama|O es|O incomodísima|O y|O no|B-C tienen|O ni|I-C unos|O tristes|O cuadrantes|O (|O almuhadones|O )|O ,|O la|O pequeña|O cocina|O incorporada|O en|O la|O habitación|O es|O practicamente|O inservible|O ,|O no|B-C hay|O ni|I-C cubo|O de|O basura|O ,|O ni|I-C vajilla-cubertería|O ,|O absolutamente|B-C nada|I-C ,|O a|O el|O menos|O en|O la|O habitación|O que|O me|O dieron|O ;|O
+number of cues= 3.0
+number of tokens= 68
+====================================================
+La|O ubicación|O es|O bastante|O mala|O si|O pretendes|O hacer|O turismo|O ,|O transporte|O público|O cercano|O no|B-C hay|O excepto|O alguna|O línea|O de|O autobus|O y|O si|O vas|O en|O coche|O no|B-C hay|O quien|O aparque|O a_no_ser_que|O pages|O el|O parking|O de|O el|O hotel|O que|O no|B-C es|O barato|O precisamente|I-C ...|O
+number of cues= 3.0
+number of tokens= 42
+====================================================
+La|O amabilidad|O y|O ganas|O de|O agradar|O de|O el|O personal|O en|O especial|O de|O la|O recepcionista|O brilló_por_su_ausencia|B-C ,|O es|O más|O sería|O más|O acertado|O calificar|O lo|O de|O antipatía|O ...|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+En|O fin|O ,|O primera|O y|O última|O vez|O que|O me|O alojo|O en|O este|O hotel|O ,|O no|B-C lo|O recomiendo|O a|O nadie|I-C .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Llegamos|O a_eso_de|O media|O mañana|O a|O la|O capital|O y|O ya|O estaba|O lista|O nuestra|O habitacione|O por|O lo|O que|O no|B-C tardamos|O mucho|O en|O ocupar|O la|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+no|B-C esta|O mal|O buenas|O habitaciones|O camas|O amplias|O y|O bueno|O eso|O si|O la|O habitacion|O es|O algo|O pequeña|O pero|O en_resumidas_cuentas|O mas|O que|O aceptable|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Pues|O no|B-C se|O podían|O abrir|O las|O ventanas|O por|O más|O que|O tiramos|O entre|O tres|O personas|O porque|O era|O una|O doble|O con|O supletoria|O ,|O nada|O allí|O encerrados|O como|O ratas|O y|O claro|O tampoco|O te|O acercaras|O mucho|O a|O la|O ventana|O porque|O había|O telarañas|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+INCREÍBLE|O ,|O el|O cuarto|O era|O de|O moqueta|O y|O no|B-C brillaba|O la|O limpieza|O ,|O la|O iluminación|O era|O de|O el|O conde|O drácula|O y|O a|O mi|O me|O daba|O un|O agobio|O no|B-C poder|O abria|O la|O ventana|O increible|O ,|O pero|O claro|O no|B-C nos|O íbamos|O a|O asfixiar|O porque|O tenía|O sus|O boquetitos|O por|O el|O que|O entraba|O el|O aire|O perfumado|O por|O lo|O que|O adornaba|O la|O ventana|O .|O
+number of cues= 3.0
+number of tokens= 59
+====================================================
+Ahh|O otra|O cosa|O supongo|O porque|O es|O un|O hotel|O austero|O ,|O pero|O el|O ascensor|O como|O dicen|O no|B-C está|O en|O la|O entrada|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Vamos|O llega|O uno|O reventado|O y|O ni|B-C las|O maletas|O te|O suben|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+La|O situación|O si|O es|O maravillosa|O encima_de|O el|O antiguo|O cine|O rex|O ,|O si|O el|O sitio|O era|O maravilloso|O por|O eso|O estábamos|O siempre|O fuera_de|O el|O hotel|O ,|O para|O no|B-C ver|O aquello|O y|O quedar|O nos|O con|O una|O grata|O postal|O madrileña|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+Estoy|O hablando|O de|O hace|O 4|O años|O cuando|O fuimos|O con|O nuestra|O reserva|O hecha|O de|O los|O bonos|O de|O bancotel|O por|O el|O corte|O inglés|O llegamos|O a|O las|O 5_de_la_tarde|O ,|O y|O las|O malas|O personas|O que|O trabajaban|O en|O la|O recepción|O de|O el|O hotel|O nos|O echaron|O de|O allí|O literalmente|O y|O dijeron|O que|O nuestra|O reserva|O se|O la|O habían|O dado|O a|O otras|O personas|O ,|O que|O o|O perdíamos|O los|O bonos|O regalándolos|O por|O la|O gran|O vía|O o|O que|O ellos|O nos|O tramitaban|O un|O desgraciado|O tryp|O de|O tres-cuatro|O estrellas|O que|O estaba|O muy|O cerquita|O y|O también|O en|O una|O calle|O que|O da|O a|O la|O Gran_Vía|O madrileña|O ,|O nosotros|O resignados|O y|O yo|O con|O una|O cara|O de|O enanito|O rojo|O sulfurado|O ,|O no|B-C paraba|O de|O decir|O hoja|O de|O reclamación|O pero|O mis|O padres|O aceptaron|O pq|O estábamos|O con|O las|O maletas|O y|O nos|O íbamos|O a|O quedar|O en|O la|O calle|O .|O
+number of cues= 1.0
+number of tokens= 130
+====================================================
+Nos|O llevan|O a|O un|O tryp|O que|O está|O en|O la|O calle|O luna|O de|O Madrid|O ,|O vamos|O lo|O peor|O lo|O peor|O lo|O peor|O ,|O no|O el|O hotel|O sino|O lo|O que|O había|O abajo|O yo|O no|B-C es|O por|O estar|O en|O contra|O pero|O nos|O metieron|O en|O una|O calle|O que|O había|O un|O motón|O de|O inmigrantes|O que|O a|O mi|O no|B-C me|O afecta|O para_nada|I-C ,|O pero|O eran|O unas|O personas|O que|O yo|O mes|O compadecía|O de|O ellos|O porque|O estaban|O drogados|O y|O una|O cantidad|O de|O prostitución|O increíble|O ,|O bueno|O tal|O era|O la|O cosa|O que|O uno|O podría|O decir|O ,|O que|O mas|O te|O daba|O si|O sólo|O lo|O veías|O cuando|O entrabas|O en|O el|O hotel|O ,|O pues|O no|B-C ,|O se|O escuchaban|O continuamente|O el|O coche|O y|O las|O patrullas|O de|O la|O policía|O nacional|O llegando|O a|O la|O calle|O luna|O durante|O dos|O días|O que|O estábamos|O allí|O ,|O yo|O no|B-C se|O que|O pasaba|O en|O esa|O calle|O a|O un|O minuto|O de|O gran|O vía|O pero|O aquello|O era|O una|O pena|O el|O ambiente|O y|O la|O policía|O deteniendo|O a|O gente|O continuamente|O y|O todos|O gritando|O abajo|O .|O
+number of cues= 4.0
+number of tokens= 161
+====================================================
+Y|O a|O mí|O porque|O no|B-C queríamos|O volver|O más|O tarde|O de|O las|O 10|O de|O gran|O vía|O porque|O las|O peleas|O abajo|O de|O el|O hotel|O eran|O increíbles|O ,|O el|O hotel|O a|O las|O 5_de_la_tarde|O o|O a|O cualquier|O hora|O tenías|O que|O llamar|O para|O que|O te|O abrieran|O ,|O he|O estado|O buscando|O en|O google|O el|O nombre|O y|O me|O parece|O que|O ya|O no|B-C pertenece|O ni|I-C a|O tryp|O porque|O no|B-C lo|O encuentro|O .|O
+number of cues= 3.0
+number of tokens= 64
+====================================================
+Mi|O experiencia|O en|O el|O tryp|O Rex_de_Madrid|O también|O fue|O NEFASTA|O ,|O todo|O lleno|O de|O arañas|O y|O las|O ventanas|O no|B-C se|O podían|O abrir|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Ahora|O parece|O que|O la|O cadena|O la|O ha|O absorbido|O Melía|O y|O quizás|O no|B-C te|O mandan|O a|O que|O veas|O la|O Luna_Cascabelera|O cuando|O vas|O con|O bancotel|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Cogi|O este|O hotel|O por|O su|O supuesta|O comodidad|O a|O el|O estar|O cerca|O de|O el|O aeropuerto|O de|O Barajas|O ,|O tenia|O que|O hacer|O una|O larga|O conexion|O de|O vuelos|O y|O no|B-C queria|O pasar|O me|O un|O dia|O entero|O en|O el|O aeropuerto|O sin|B-C nada|I-C que|O hacer|O y|O sin|B-C poder|O descansar|O .|O
+number of cues= 3.0
+number of tokens= 45
+====================================================
+Pues_bien|O tuve|O que|O llamar|O mas|O de|O 4|O veces|O y|O el|O minibus|O seguia|O sin|B-C venir|O ,|O ademas|O cuando|O por|O fin|O llego|O iba|O sin|B-C luces|O interiores|O ,|O con|O lo|O cual|O parecia|O que|O íbamos|O todos|O en|O tinieblas|O .|O
+number of cues= 2.0
+number of tokens= 35
+====================================================
+A|O EL|O llegar|O a|O la|O recepción|O ,|O pude|O comprobar|O por|O quien|O iba|O aleccionado|O el|O conductor|O ,|O ya_que|O el|O gerente|O que|O me|O atendio|O en|O recepción|O no|B-C pudo|O ser|O mas|O borde|O (|O especialmente|O cuando|O se|O negó|O a|O dar|O me|O los|O puntos|O Iberia|O porque|O habia|O cogido|O una|O habitacion|O muy|O barata|O ¡|O ¡|O ¡|O 80euros|O !|O !|O !|O )|O
+number of cues= 1.0
+number of tokens= 55
+====================================================
+La|O habitación|O no|B-C tiene|O nada|I-C destacable|O ,|O es|O antigua|O ,|O pequeña|O ,|O y|O la|O cama|O no|B-C era|O especialmente|O cómoda|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+Por|O cierto|O que|O estos|O minibuses|O de|O el|O hotel|O (|O o|O a|O el|O menos|O en|O los|O que|O yo|O subi|O )|O no|B-C tienen|O ninguna|I-C referencia|O escrita|O por|O fuerta|O de|O el|O hotel|O a|O el|O que|O pertenecen|O (|O quiza|O sean|O compartidos|O por|O varios|O de|O la|O zona|O )|O y|O en|O mi|O opinion|O es|O un|O soberano|O lio|O para|O el|O cliente|O que|O cansado|O tras|O un|O largo|O vuelo|O está|O en|O la|O parada|O esperándolos|O ,|O sin|B-C encontrar|O ninguna|I-C indicación|O de|O el|O destino|O a|O el|O que|O van|O .|O
+number of cues= 2.0
+number of tokens= 78
+====================================================
+Quiza|O pase|O ante|O ti|O y|O ni|B-C lo|O pares|O ,|O pensando|O que|O no|B-C es|O el|O tuyo|O .|O
+number of cues= 2.0
+number of tokens= 16
+====================================================
+El|O llegó|O primero|O y|O ya|O reclamó|O que|O ,|O nada_más|O ver|O le|O ,|O el|O recepcionista|O con|O cara|O de|O pocos|O amigos|O le|O pedió|O el|O pasaporte|O de_mala_manera|O (|O en|O en_lugar_de|O una|O pieza|O de|O indentidad|O ,|O como|O seria|O lo|O más|O correcto|O para_que|O el|O visitante|O no|B-C se|O sienta|O en|O una|O segunda|O aduana|O o|O tratado|O como|O un|O extranjero|O )|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+Los|O ciudadanos|O de|O la|O comunidad|O Europea|O no|B-C necesitan|O pasaporte|O ,|O me|O da|O igual|O la|O manía|O que|O tenga|O los|O españoles|O a|O los|O franceses|O y|O vice|O versa|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Nadie|B-C salió|O de|O su|O puesto|O para|O ayudar|O me|O a|O subir|O las|O maletas|O en|O los|O enormes|O escalones|O de|O la|O entrada|O de|O el|O hotel|O ,|O tuve|O que|O llamar|O mi|O novio|O para|O bajar|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Me|O quedé|O pensando|O como|O seria|O para|O un|O minusválido|O tener|O que|O subir|O aquellas|O escaleras|O mal|O hechas|O y|O sin|B-C rampa|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+El|O el|O hotel|O no|B-C hay|O servicio|O de|O habitaciones|O ,|O el|O bar|O de|O la|O piscina|O no|B-C estaba|O activo|O ,|O y|O esto|O que|O estábamos|O en|O pleno|O verano|O a|O 35|O grados|O en|O Madrid|O .|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+En|O la|O piscina|O no|B-C hay|O para|O tapar|O nos|O de|O el|O sol|O ...|O solamente|O el|O tio|O que|O estaba|O de|O seguridad|O en|O la|O piscina|O gozaba|O de|O este|O previlegio|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+El|O aire|O acondicionado|O de|O la|O habitación|O es|O tipo|O frigorífico|O ,|O sin|B-C posibilidades|O de|O manipulación|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+En|O este|O momento|O bajé|O de|O mis|O tacones|O y|O le|O dije|O que|O no|B-C discutiera|O mi|O petición|O pues|O para|O hacer|O esta|O mínima|O tarea|O estaba|O él|O alli|O ,|O o_sea|O ,|O para|O acceder|O a|O mi|O petición|O de|O ,|O a|O el|O menos|O tener|O un|O taxi|O en|O la|O puerta|O de|O aquel|O maldito|O hotel|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Le|O dije|O también|O ,|O si|O no|B-C estaba|O contento|O con|O su|O puesto|O que|O lo|O cediera|O a|O una|O persona|O mas|O competente|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Comigo|O ,|O malos|O servicios|O ,|O no|B-C !|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+No|B-C puedes|O pedir|O dos|O horas|O o|O trés|O ...|O pagas|O una|O hora|O o|O diez|O ...|O si|O no|B-C nada|B-C .|O
+number of cues= 3.0
+number of tokens= 18
+====================================================
+Hoy|O dia|O "|O ningún|B-C "|O hotel|O cobra|O la|O conexión|O en|O internet|O ....|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Los|O recepcionistas|O no|B-C hablan|O ni|I-C el|O inglés|O cuanto|B-C menos|I-C el|O francés|O .|O
+number of cues= 2.0
+number of tokens= 12
+====================================================
+El|O inglés|O es|O una|O lengua|O obligatoria|O en|O las|O recepciones|O de|O hoteles|O cuales|O ,|O aunque|O sean|O de|O trés|O estrellas|O como|O este|O ,|O no|B-C puede|O faltar|O quien|O lo|O hable|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Las|O instalaciones|O no|B-C están|O mal|O :|O piscina|O cubierta|O ,|O piscina|O descubierta|O ,|O gimnasio|O ...|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Siempre|O defendi|O España|O por|O su|O amabilidad|O y|O su|O competencia|O en|O el|O trato|O hostelero|O ...|O pero|O desta|O vez|O tuve|O que|O tragar|O mis|O palabras|O ante|O mi|O novio|O francés|O ,|O que|O me|O dijo|O que|O tenia|O la|O impresión|O de|O no|B-C haber|O salido|O de|O Paris|O debido_a|O la|O semejanza|O en|O el|O mal|O trato|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Aun|O que|O tuve|O la|O mala|O suerte|O de|O reservar|O este|O malo|O hotel|O ,|O sé|O que|O no|B-C todos|O son|O asi|O ....|O pero|O para|O mi|O novio|O fué|O la|O primera|O impresión|O de|O la|O hospitalidad|O y|O el|O profisionalismo|O "|O en|O Madrid|O ,|O de_modo_que|O se|O quedó|O con|O ello|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+La|O habitación|O daba|O a|O la|O carreterra|O pero|O no|B-C hubo|O ruidos|O durante|O la|O noche|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Si|O queires|O hacer|O turismo|O no|B-C está|O muy|I-C bien|I-C situado|O ,|O está|O alejado|O de|O el|O centro|O y|O en|O el|O metro|O se|O tarda|O bastante|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Si|O quieres|O cocinar|O tienes|O que|O llevar|O te|O cosas|O porque|O no|B-C hay|O muchos|O utensilios|O de|O cocina|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Tampoco|B-C hay|O nada|I-C para|O limpiar|O lo|O que|O ensucias|O .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+No|B-C estaría|O mal|O que|O pondrían|O un|O bote|O de|O Fairy|O o|O similar|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Si|O llamas|O de|O fuera|O a|O las|O habitaciones|O hay|O que|O pasar|O por|O recepción|O ,|O no|B-C se|O puede|O llamar|O directamente|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Acceso|O a|O Internet|O (|O no|B-C Wifi|O )|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+No|B-C lo|O use|O ,|O pero|O he|O oido|O que|O no|B-C es|O muy|I-C bueno|O ,|O sobre|O todo|O si|O tienes|O coche|O grande|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+No|B-C suele|O haber|O problemas|O por|O la|O zona|O para|O aparcar|O el|O coche|O ,|O si|O no|B-C es|O a_la_primera|O ,|O dando|O un|O par|O de|O vueltas|O se|O encuentra|O sitio|O .|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+A|O fecha|O de|O hoy|O no|B-C hay|O diferencia|O entre|O hacer|O la|O reserva|O por|O internet|O o|O en|O el|O hotel|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Sin_embargo|O ,|O las|O habitaciones|O no|B-C están|O cuidadas|O ,|O hay|O manchas|O de|O humedad|O ,|O techos|O desconchados|O ,|O las|O TV|O no|B-C tienen|O mando|O a|O distancia|O ,|O los|O suelos|O de|O los|O pasillos|O están|O levantados|O ,|O necesita|O una|O remodelación|O urgente|O !|O !|O
+number of cues= 2.0
+number of tokens= 38
+====================================================
+El|O día|O que|O llegué|O le|O pregunté|O a|O el|O chico|O si|O pagaba|O ya|O ,|O porque|O quería|O hacer|O lo|O en|O efectivo|O ,|O y|O me|O dijo|O que|O no|B-C ,|O que|O como|O estaba|O la|O tarheta|O de|O creédito|O no|B-C había|O problema|O si|O me|O iba|O sin|B-C pagar|O ...|O
+number of cues= 3.0
+number of tokens= 42
+====================================================
+total|O ,|O que|O el|O día|O que|O me|O voy|O ,|O bajo|O por|O la|O mañana|O a|O entregar|O la|O llave|O y|O pagar|O y|O me|O dicen|O que|O no|B-C hace|O falta|O ,|O que|O han|O pasado|O la|O tarjeta|O ,|O me|O pareció|O de|O una|O incompetencia|O increible|O ,|O sobretodo|O porque|O yo|O aún|B-C no|I-C habái|O abandonado|O la|O habitación|O ,|O y|O en|O dos|O ocasiones|O les|O habñia|O recordado|O que|O quería|O pagar|O en|O efectivo|O .|O .|O pues|O nada|O !|O que|O lo|O que|O dice|O el|O cliente|O por|O un|O lado|O les|O entra|O y|O por|O otro|O les|O sale|O .|O .|O
+number of cues= 2.0
+number of tokens= 85
+====================================================
+yo|O no|B-C repito|O ,|O desde_luego|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Para_colmo|O ,|O mi|O chico|O y|O yo|O nos|O quedamos|O encerrados|O en|O el|O ascensor|O 5|O minutos|O ,|O el|O ascensor|O decidió|O parar|O se|O ,|O y|O no|B-C fue|I-C porque|O se|O fuera|O la|O luz|O !|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Ah|O !|O que|O no|B-C se|O os|O olviden|O los|O tapones|O para|O los|O oidos|O ,|O sobretodo|O en|O verano|O ,|O ya_que|O no|B-C hay|O aire|O acondicionado|O en|O las|O habitaciones|O y|O si|O duermes|O con|O las|O ventanas|O abiertas|O el|O follón|O que|O entra|O de|O la|O calle|O es|O increible|O !|O !|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+muy|O importante|O es|O a|O este|O respecto|O ,|O decir|O que|O el|O hotel|O cuenta|O conexión|O a|O Internet|O sin|B-C cable|O (|O WLAN|O )|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Acabo|O de|O pasar|O unos|O días|O en|O el|O Hotel_Príncipe_Pío|O de|O Madrid|O y|O ya|O a|O el|O entrar|O en|O el|O vestíbulo|O te|O das_cuenta|O de|O que|O no|B-C está|O lo|O cuidado|O que|O debería|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Esta|O impresión|O inicial|O toma|O fuerza|O cuando|O ves|O los|O lamparones|O (|O manchas|O )|O que|O cubren|O la|O moqueta|O de|O el|O suelo|O de|O los|O pasillos|O que|O te|O llevan|O a|O las|O habitaciones|O y|O que|O no|B-C desaparecen|O cuando|O accedes|O a|O ellas|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+uno|O sin|B-C mucha|O importancia|O pero|O fácilmente|O reparable|O ,|O y|O es|O el|O telefonillo|O de|O la|O ducha|O ,|O que|O pierde|O agua|O por|O donde|O no|B-C debe|O y|O no|B-C parece|O de|O mucha|O calidad|O .|O
+number of cues= 3.0
+number of tokens= 30
+====================================================
+El|O otro|O fallo|O de|O el|O baño|O es|O importante|O y|O consiste|O en|O que|O no|B-C hay|O toallero|O para|O las|O toallas|O de|O manos|O ,|O por|O lo|O que|O tienes|O que|O colgar|O las|O en|O el|O pomo|O de|O la|O puerta|O (|O tampoco|B-C hay|O percheros|O )|O y|O siempre|O acaban|O en|O el|O suelo|O .|O
+number of cues= 2.0
+number of tokens= 46
+====================================================
+Como|O esto|O no|B-C lo|O había|O visto|O en|O ningún|B-C hotel|O ,|O hostal|O o|O pensión|O de|O los|O que|O he|O estado|O en|O mi|O vida|O ,|O lo|O comuniqué|O a|O la|O recepción|O en|O la|O creencia|O de|O que|O mantenimiento|O de|O el|O hotel|O solventaría|O el|O descuido|O en|O la|O mañana|O siguiente|O .|O
+number of cues= 2.0
+number of tokens= 44
+====================================================
+De|O camino|O les|O dije|O que|O sustituyeran|O una|O bombilla|O de|O una|O lámpara|O que|O estaba|O fundida|O dejando|O a|O la|O habitación|O con|O bastante|O penumbra|O al|O no|B-C haber|O muchas|O más|O luces|O en|O ella|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+En|O el|O improbable|O caso|O de|O que|O el|O servicio|O de|O mantenimiento|O de|O el|O hotel|O no|B-C dispusiera|O de|O un|O toallero|O ,|O hasta|O los|O bazares|O de|O los|O chinos|O venden|O perchas|O de|O estas|O que|O se|O pegan|O en|O las|O puertas|O ,|O y|O si|O tampoco|B-C tuviera|O una|O bombilla|O ,|O con|O coger|O la|O de|O una|O de|O las|O muchas|O habitaciones|O que|O había|O libres|O ,|O problema|O resuelto|O y|O cliente|O atendido|O .|O
+number of cues= 2.0
+number of tokens= 62
+====================================================
+La|O realidad|O es|O que|O mis|O peticiones|O no|B-C fueron|O atendidas|O ,|O sin|B-C siquiera|I-C intentar|O dar|O me|O una|O excusa|O o|O una|O explicación|O de|O por|O qué|O .|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+A|O el|O menos|O las|O camas|O no|B-C estaban|O mal|O .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+El|O concepto|O de|O el|O hotel|O no|B-C tiene|O nada|I-C que|O ver|O con|O lo|O que|O era|O antes|O ,|O y|O ademas|O de|O su|O reform|O integral|O ,|O ahora|O es|O un|O hotel|O de|O 4|O estrellas|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+La|O de|O Colmenar_Viejo|O es|O una|O carretera|O comarcal|O ,|O más|O pesada|O ,|O sobre|O todo|O desde|O Colmenar|O porque|O es|O una|O vía|O de|O un|O solo|O carril|O y|O si|O te|O toca|O delante|O un|O camión|O ,|O ya|O vas|O "|O apaña|O @|O "|O ,|O pero|O no|B-C suele|O llevar|O tanto|I-C tráfico|O .|O
+number of cues= 1.0
+number of tokens= 45
+====================================================
+Eso|O si|O ,|O hablamos|O de|O Madrid|O ,|O por|O lo|O que|O solos|O por|O la|O carretera|O nunca|B-C viajaréis|O .|O ;|O )|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Demasiada|O gente|O para|O poco|O espacio|O ,|O por|O lo|O que|O los|O amantes|O de|O el|O esquí|O no|B-C lo|O disfrutarán|O como_es_debido|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Ideal|O para|O recorrer|O estos|O parajes|O durante|O todo|O el|O año|O ,|O nunca|B-C pasarás|O calor|O y|O el|O invierno|O basta|O con|O ir|O bien|O abrigado|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Además|O dispone|O de|O piscina|O cubierta|O ,|O sauna|O y|O gimnasio|O y|O podrás|O jugar|O a|O el|O squash|O ,|O billar|O ,|O padel|O ,|O ping-pong|O e|O incluso|O a|O el|O golf|O si|O no|B-C te|O importa|O desplazar|O te|O unos|O kilómetros|O .|O
+number of cues= 1.0
+number of tokens= 35
+====================================================
+Tiene|O 4|O estrellas|O y|O muy|O bien|O llevadas|O ,|O está|O dotado|O de|O todas|O las|O comodidades|O y|O no|B-C se|O echa|O en|O falta|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Yo|O lo|O conocí|O cuando|O aún|O era|O una|O pequeñaza|O y|O desde|O entonces|O se|O ha|O modernizado|O bastante|O sin|B-C perder|O el|O encanto|O y|O ganando|O en|O comodidades|O y|O bienestar|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+En|O el|O año|O 1.982|O estaba|O la|O selección|O española|O de|O fútbol|O concentrada|O en|O este|O hotel|O para|O el|O mundial|O (|O bueno|O ,|O no|B-C hubo|O suerte|O ,|O pero|O no|B-C tiene|O culpa|O ninguna|I-C el|O hotelito|O )|O y|O cuando|O no|B-C estaba|O tan|I-C de|O moda|O concentrar|O a|O los|O equipos|O fuera_de|O España|O por|O allí|O pasaron|O equipos|O como|O el|O Real_Madrid|O y|O el|O Sevilla|O .|O
+number of cues= 3.0
+number of tokens= 56
+====================================================
+Considero|O que|O es|O un|O hotel|O ideal|O para|O hacer|O una|O sana|O escapada|O si|O eres|O de|O Madrid|O ,|O olvidar|O te|O de|O el|O tráfico|O y|O dejar|O a|O un|O lado|O el|O estrés|O rodeado|O de|O naturaleza|O ;|O y|O si|O no|B-C eres|O de|O Madrid|O ,|O merece|O la|O pena|O conocer|O este|O entorno|O sencillo|O pero|O maravillosamente|O encantador|O y|O de|O gran|O atractivo|O turístico|O .|O
+number of cues= 1.0
+number of tokens= 55
+====================================================
+La|O Villa_de_Navacerrada|O no|B-C ha|O cumplido|O aún|I-C cuatrocientos|O años|O ,|O aunque|O su|O aparición|O se|O remonta|O algo|O más|O en|O la|O historia|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+En|O el|O sur|O ,|O la|O única|O zona|O sin|B-C picos|O ,|O se|O localiza|O el|O Embalse_de_Navacerrada|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+No|B-C os|O las|O perdías|O ,|O seguro|O que|O por|O allí|O me|O veréis|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+La|O entrada|O de|O el|O Hotel|O es|O algo|O estrecha|O y|O ademas|O hay|O que|O bajar|O unas|O escaleras|O ,|O lo|O que|O no|B-C lo|O hace|O muy|I-C aconsejable|O para|O personas|O con|O discapacidad|O ,|O casi|O en|O el|O sotano|O encontramos|O la|O recepcion|O a|O mano|O derecha|O donde|O los|O repecionistas|O ,|O a|O el|O menos|O los|O dos|O que|O he|O conocido|O son|O bastante|O amables|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+El|O desayuno|O es|O tipo|O Bufet|O y|O no|B-C es|O muy|I-C abundante|O ,|O el|O zumo|O no|O es|O natural|O sino|O de|O el|O que|O se|O hace|O con|O polvos|O ,|O lastima|O ,|O y|O hay|O menu|O de|O frios|O y|O calientes|O ,|O dulces|O y|O salados|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+El|O precio|O es|O asequible|O ,|O ah|O ,|O y|O no|B-C tiene|O parking|O privado|O ,|O pero|O cerca|O hay|O unos|O cuantos|O ,|O como|O el|O de|O la|O Plaza_de_Santo|O Domingo|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Se|O nota|O que|O nunca|B-C ha|O sido|O rehabilitado|O ,|O lo|O que|O le|O ha|O dejado|O totalmente|O anticuado|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Así|O entramos|O en|O la|O habitación|O donde|O encontraremos|O 2|O camas|O normalitas|O con|O un|O aire|O acondicionado|O antidiluviano|O que|O ni|B-C enfría|O ni|B-C calienta|O ,|O te|O mantiene|O el|O habitáculo|O a|O temperatura|O ambiente|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================
+Por|O no|B-C hablar|O de|O la|O TV|O ,|O creo|O que|O era|O de|O los|O primeros|O modelos|O de|O televisión|O en|O color|O que|O se|O lanzaron|O a|O el|O mercado|O ,|O así_que|O ni|B-C te|O molestes|O contar|O con|O televisión|O por|O cable|O que|O si|O no|B-C sería|O demasiado|O derroche|O .|O
+number of cues= 3.0
+number of tokens= 41
+====================================================
+-|O En|O función|O de|O su|O calidad|O ir|O os|O a|O un|O hostal|O como|O el|O Galaico|O ,|O pues|O los|O servicios|O no|B-C son|O mejores|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Pensé|O que|O era|O algo|O puntual|O ¡|O ¡|O pero|O no|B-C !|O !|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+¿|O Es|O que|O un|O Hotel|O de|O 4|O *|O no|B-C puede|O permitir|O se|O un|O guardia|O de|O seguridad|O en|O la|O puerta|O ,|O si|O tanto|O les|O preocupa|O ?|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Luego|O nos|O dimos_cuenta|O de|O que|O no|B-C era|O así|O .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+En|O ese|O momento|O no|B-C vimos|O nada|I-C porque|O según|O llegamos|O volvimos|O a|O ir|O nos|O ya_que|O habíamos|O quedado|O con|O unos|O amigos|O que|O viven|O en|O esta|O ciudad|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Evidentemente|O casi|B-C no|I-C pude|O dormir|O pensando|O que|O habría|O más|O ,|O aunque|O miramos|O muy|O bien|O en|O todos|O los|O rincones|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Yo|O estaba|O con|O frío|O ,|O así|O que|O fui|O a|O el|O armario|O en_busca_de|O una|O manta|O (|O todos|O los|O hoteles|O de|O esta|O categoría|O ,|O incluso|O inferiores|O tienen|O manta|O y|O almohada|O extra|O )|O ¡|O ¡|O y|O cual|O fue|O mi|O sorpresa|O a|O el|O ver|O que|O no|B-C había|O !|O !|O
+number of cues= 1.0
+number of tokens= 45
+====================================================
+A|O el|O día|O siguiente|O bajamos|O y|O nos|O quejamos|O ,|O así|O que|O rápidamente|O nos|O cambiaron|O de|O habitación|O y|O ,|O aunque|O ya|O se|O que|O eso|O no|B-C era|O mucho|I-C remedio|O ,|O pero|O bueno|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+También|O les|O pedí|O una|O manta|O y|O como|O solo|O había|O una|O persona|O en|O recepción|O ,|O nos|O dijo|O q|O no|B-C le|O abriésemos|O a|O nadie|I-C mientras|O iba|O a|O buscar|O la|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+¿|O ¿|O Como|O es|O posible|O que|O no|B-C tengan|O servicio|O de|O habitaciones|O ?|O ?|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+Además_de|O no|B-C tener|O manta|O ,|O una|O parte|O de|O el|O techo|O estaba|O medio|O colgando|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Pues|O aunque|O parezca|O increíble|O ¡|O ¡|O la|O puerta|O de|O el|O baño|O no|B-C encaja|O !|O !|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Pero|O no|O porque|O esté|O mal|O ,|O sino|O porque|O por|O su|O diseño|O ,|O no|B-C tiene|O pestillo|O ni|I-C nada|I-C y|O tiene|O una|O gran|O separación|O alrededor_de|O toda|O la|O puerta|O respecto_a|O la|O pared|O ,|O de|O forma|O ,|O que|O mientras|O estas|O en|O el|O baño|O no|B-C tienes|O intimidad|O porque|O salen|O absolutamente|O todos|O los|O ruidos|O y|O olores|O y|O eso|O sin|B-C tener_en_cuenta|O ,|O que|O la|O persona|O que|O está|O en|O la|O cama|O puede|O ver|O perfectamente|O por|O la|O "|O pedazo|O de|O rendija|O "|O a|O el|O que|O está|O en|O el|O baño|O .|O
+number of cues= 3.0
+number of tokens= 81
+====================================================
+Pues|O sí|O ,|O el|O baño|O está|O hecho|O como|O una|O minicaja|O de|O cristal|O no|B-C opaco|O dentro_de|O la|O habitación|O ,|O por|O lo|O que|O si|O enciendes|O la|O luz|O de|O el|O baño|O por|O la|O noche|O ,|O iluminas|O la|O habitación|O a|O el|O completo|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+Así|O que|O si|O vais|O a|O Madrid|O ,|O os|O recomiendo|O ¡|O ¡|O ¡|O Que|O no|B-C vayáis|O a|O este|O hotel|O !|O !|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Salimos|O de|O la|O estación|O de|O Atocha|O y|O lo|O encontramos|O enfrente|O ,|O lo|O cual|O resultó|O muy|O cómodo|O porque|O ni_siquiera|B-C fue|O necesario|O coger|O un|O taxi|O para|O llegar|O hasta|O allí|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Además|O resulta|O muy|O cómodo|O para|O coger|O el|O tren|O ,|O el|O metro|O ,|O los|O autobuses|O urbanos|O y|O el|O bus|O turístico|O ,|O dado_que|O para|O ello|O no|B-C es|O necesario|O tener|O que|O caminar|O durante|O un|O trayecto|O largo|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+El|O precio|O no|B-C es|O alto|O para|O la|O calidad|O de|O el|O hotel|O ,|O dado_que|O nos|O costó|O poco|O más|O que|O lo|O que|O nos|O cobraron|O en|O una|O ocasión|O en|O un|O hostal|O de|O una|O estrella|O que|O nos|O gustó|O nada|B-C ,|O ni_siquiera|B-C tenía|O una|O ventana|O con|O vistas|O y|O las|O camas|O eran|O muy|O incómodas|O .|O
+number of cues= 3.0
+number of tokens= 49
+====================================================
+A|O el|O llegar|O te|O encuentras|O un|O hotel|O viejo|O ,|O en|O una|O calle|O china|O (|O digo|O china|O porque|O el|O 90_%|O de|O los|O comercios|O son|O chinos|O ,|O pero|O no|B-C es|O ningún|I-C problema|O )|O que|O hace|O subida|O ,|O pequeñas|O aceras|O y|O media|O calle|O en|O obras|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Hay|O una|O cosa|O que|O no|B-C entiendo|O ,|O hay|O hoteles|O con|O zonas|O reformadas|O y|O otras|O no|B-C ,|O ¿|O por|O qué|O ponen|O los|O mismos|O precios|O ?|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+lo|O que|O obtienes|O no|B-C es|O lo|O mismo|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+Primera|O planta|O ,|O sin|B-C luz|O exterior|O ,|O ventanas|O viejas|O con|O cristales|O de|O esos|O que|O no|B-C se|O ve|O el|O exterior|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+Mejor|O no|B-C abras|O la|O ventana|O ,|O ves|O un|O mini|O patio|O interior|O oscuro|O y|O asqueroso|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Pequeña|O ,|O fea|O ,|O vieja|O ,|O con|O las|O mismas|O vistas|O ASQUEROSAS|O que|O la|O otra|O ventana|O que|O mejor|O no|B-C la|O abras|O ,|O un|O armario|O viejo|O medio|O roto|O por|O todas|O partes|O ....|O etc|O etc|O etc|O -|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+¿|O te|O digo|O esto|O ahora|O que|O te|O vas|O aunque|O no|B-C nos|O quedaban|O habitaciones|O nuevas|O libres|O ?|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Casi|O hubiese|O preferido|O no|B-C saber|O que|O había|O 2|O zonas|O ,|O ya_que|O entonces|O me|O hubiese|O ido|O con|O la|O sensación|O de|O "|O vaya|O porquería|O de|O hotel|O "|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Puedes|O hacer|O mil|O cosas|O ,|O os|O lo|O recomiendo|O encarecidamente|O porque|O he|O ido|O a|O hoteles|O muchisimo|O mejor|O ,|O de|O 5|O estrellas|O ,|O modernisimos|O ,|O etc.|O .|O pero|O donde|O Cristo|O perdio|O las|O alpargatas|O .|O vamos|O que|O sales|O de|O el|O hotel|O y|O no|B-C hay|O nada|I-C alrededor|O .|O
+number of cues= 1.0
+number of tokens= 44
+====================================================
+El|O que|O resultó|O más|O económico|O (|O y|O no|B-C es|O preciosamente|I-C que|O sea|O económico|O )|O fue|O este|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+También|O tenía|O minibar|O y|O una|O tele|O de|O LCD|O bastante|O buena|O (|O no|B-C de|O las|O típicas|O de|O tubo|O )|O es|O decir|O ,|O estaba|O todo|O bastante|O remodelado|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+*|O Restaurante|O :|O La|O verdad|O es|O que|O no|B-C nos|O pasamos|O por|O el|O restaurante|O y|O no|B-C puedo|O opinar|O ,|O Sorry|O !|O !|O
+number of cues= 2.0
+number of tokens= 21
+====================================================
+*|O El|O hotel|O disponía|O de|O sala|O con|O acceso|O a|O Internet|O ordenadores|O ,|O aunque|O en|O la|O habitación|O tb|O había|O Wi-Fi|O (|O podías|O coger|O la|O conexión|O de|O el|O propio|O hotel|O pq|O no|B-C tenían|O contraseña|O )|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================

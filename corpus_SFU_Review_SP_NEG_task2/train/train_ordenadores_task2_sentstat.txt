@@ -1,0 +1,460 @@
+El|O ordenador|O HP|O dc5100|O MT|O es|O un|O aparato|O que|O vendemos|O mucho|O a|O empresas|O pero|O el|O qual|O no|B-C recomendaria|O para|O usuarios|O finales|O domésticos|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Por|O que|O no|B-C lo|O recomendaria|O a|O usuarios|O domésticos|O ,|O te|O preguntarás|O ?|O ?|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+pues|O realmente|O es|O muy|O sencillo|O ,|O éste|O es|O un|O ordenador|O con|O 80|O GB_de_Disco|O duro|O ,|O 512|O de|O Mem_Ram_DDR|O 400|O (|O HP|O )|O (|O Dual|O )|O ,|O y|O una|O lectora|O de|O DVD|O ,|O y|O también|O cuenta|O que|O el|O precio|O no|B-C como|O como|O un|O pc|O del|O BEE|O ...|O ,|O ok|O ?|O ?|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+si|O ,|O me|O parece|O perfecto|O porque|O este|O disco|O lo|O hace|O todo|O ,|O es|O muy|O facil|O de|O instalar|O y|O lo|O hace|O todo|O muy|O bien|O ,|O sin|B-C problemas|O ,|O pero|O porque|O en_vez_de|O ese|O disco|O no|O nos|O dieron|O un|O disco|O de|O windows|O como|O es|O normal|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Ahora|O me|O falla|O un|O simple|O archivo|O ,|O se|O me|O jode|O el|O ordenador|O y|O no|B-C lo|O puedo|O arreglar|O porque|O no|B-C me|O dieron|O el|O disco|O .|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+Cambiando|O de|O tema|O ,|O el|O ordenador|O funciona|O muy|O bien|O ,|O no|B-C le|O veo|O una|I-C cantidad|I-C excesiva|I-C de|I-C fallos|O pero|O por_lo_general|O es|O aceptable|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Si|O no|B-C fuera|O por|O lo|O de|O el|O disco|O os|O recomendaria|O a|O todos|O que|O eligieseis|O compaq|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Les|O recomiendo|O que|O si|O no|B-C son|O usuarios|O expertos|O y|O no|B-C se|O quieren|O patear|O mil|O tiendas|O no|I-C compren|O un|O IBM|O ya_que|O a|O la|O larga|O saldra|O mas|O caro|O ya_que|O no|B-C ay|O apenas|I-C hardware|O disponible|O para|O estas|O maquinas|O e|O intel|O les|O supera|O por|O mucho|O en|O temas|O de|O procesadores|O ya_que|O ahora|O estan|O sacando|O una|O gama|O con|O un|O par|O de|O procesadores|O en|O cada|O ordenador|O lo|O que|O mejora|O el|O sistemas|O multitarea|O aun|B-C no|I-C desarrollado|O por|O esta|O marca|O y|O tienen|O medio|O mercado|O comprado|O para|O que|O tengan|O compatibilidad|O con|O ellos|O y|O no|B-C con|O la|O competencia|O .|O
+number of cues= 6.0
+number of tokens= 88
+====================================================
+el|O ordenador|O no|B-C esta|O mal|O pero|O por|O experiencia|O he|O visto|O que|O esta|O marca|O pone|O algo|O bueno|O y|O algo|O malo|O para|O abaratar|O costes|O y|O luego|O la|O publicidad|O no|B-C menciona|O lo|O malo|O ,|O por|O lo|O que|O la|O impresión|O general|O es|O muy|O buena|O ,|O pero|O a_el_fin_y_a_el_cabo|O ,|O ¿|O Que|O compañia|O no|B-C lo|O hace|O ?|O .|O
+number of cues= 3.0
+number of tokens= 52
+====================================================
+Pero|O a|O el|O ser|O un|O ordenador|O armado|O ,|O no|B-C contentara|O a|O todos|O (|O en|O gustos|O no|B-C hay|O nada|B-C escrito|O )|O ,|O tal_ves|O a|O muchos|O no|B-C les|O agrade|O que|O no|B-C tenga|O salida|O de|O TV|O y|O algunas|O otras|O cosas|O .|O
+number of cues= 5.0
+number of tokens= 38
+====================================================
+Pero|O para|O el|O usuario|O promedio|O y|O no|B-C tan|I-C exigente|O es|O una|O eleccion|O bastante|O buena|O ,|O y|O ya|O viene|O con|O Windows_Vista|O ,|O y|O el|O ordenador|O lo|O maneja|O perfectamente|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Desde|O mi|O punto|O de|O vista|O Acer|O ,|O y|O todo|O lo|O relacionado|O con|O ello|O ,|O no|B-C es|O bueno|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Puede|O tener|O buenos|O precios|O ,|O pero|O eso|O no|B-C es|O lo|O mas|O importante|O para|O decir|O que|O una|O cosa|O sea|O buena|O o|O no|B-C lo|O sea|O .|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+Hace|O poco|O mas|O de|O un|O año|O me|O regalaron|O una|O Pda_Acern|O n30|O ,|O no|B-C era|O la|O mejor|O de|O el|O mercado|O pero|O ...|O en|O relacion|O calidad|O precio|O ,|O no|B-C me|O podia|O quejar|O .|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+Pues_Bien|O ,|O a|O el|O par|O de|O meses|O de|O tener|O la|O pda|O ,|O voy|O a|O coger|O la|O un|O dia|O y|O no|B-C me|O enciende|O ,|O sabiendo|O yo|O que|O tenia|O la|O bateria|O cargada|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Una|O vez|O estaba|O la|O pda|O en|O el|O servicio|O tecnico|O me|O llega|O un|O mail|O de|O estos|O diciendo|O me|O que|O la|O pda|O tiene|O la|O pantalla|O rota|O y|O que|O reparar|O la|O me|O costara|O unos|O 130|O €|O ,|O en_caso_de|O no|B-C aceptar|O el|O presupuesto|O tendria|O que|O abonar|O 60|O €|O por|O este|O y|O 40|O €|O por|O el|O transporte|O .|O
+number of cues= 1.0
+number of tokens= 53
+====================================================
+Todo|O esto|O sin|B-C avisar|O me|O de|O nada|B-C claro|O esta|O .|O
+number of cues= 2.0
+number of tokens= 10
+====================================================
+Despues|O de|O mucho|O reclamar|O ,|O pelear|O y|O gastar|O tiempo|O y|O dinero|O en|O telefono|O me|O dicen|O que|O ellos|O no|B-C pueden|O asegurar|O que|O sea|O un|O golpe|O ,|O que|O no|B-C hay|O forma|O de|O saber|O lo|O ,|O pero|O que|O la|O pantalla|O no|B-C la|O cubre|O la|O garantia|O y|O que|O tengo|O que|O pagar|O en_caso_de|O que|O me|O la|O reparasen|O .|O
+number of cues= 3.0
+number of tokens= 53
+====================================================
+Pasados|O 4|O dias|O ,|O sin|B-C haber|O recibido|O nada|B-C ,|O vuelvo|O a|O llamar|O y|O me|O dicen|O que|O no|B-C saben|O nada|I-C ,|O que|O ellos|O pasaron|O una|O orden|O a|O un|O servicio|O tecnico|O de|O Barcelona|O y|O que|O es|O lo|O ultimo|O que|O saben|O .|O
+number of cues= 3.0
+number of tokens= 39
+====================================================
+Consigo|O que|O me|O den|O el|O mail|O y|O el|O fax|O ,|O el|O telefono|O no|B-C me|O lo|O facilitaron|O ;|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+les|O escribo|O un|O mail|O y|O un|O fax|O haciendo|O una|O reclamacion|O de|O la|O cual|O aun|B-C no|I-C he|O tenido|O respuesta|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Resumiendo|O .|O mas|O de|O cuatro|O meses|O para|O cambiar|O una|O pantalla|O ,|O 130|O gastados|O sin|B-C contar|O el|O tiempo|O y|O el|O gasto|O de|O telefono|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Acer|O es|O una|O buena|O marca|O ,|O de|O las|O de|O confianza|O ,|O que|O sin|B-C ser|O la|O mejor|O del|O mercado|O es|O un|O ordenador|O que|O sabes|O que|O te|O va|O a|O salir|O bueno|O el|O cual|O no|B-C te|O dará|O muchos|I-C problemas|O .|O
+number of cues= 2.0
+number of tokens= 37
+====================================================
+Mi|O hermano|O se|O compró|O este|O mismo|O modelo|O hace|O casi|O un|O año|O y|O le|O va|O de|O maravilla|O ,|O no|B-C le|O ha|O dado|O ni|I-C fallos|O ni|I-C problemas|O hasta|O ahora|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Tiene|O 156.25|O gibabytes|O de|O disco|O duro|O ,|O que|O como|O os|O podreis|O imaginar|O sin|B-C ser|O excesivo|O estan|O muy|O bien|O a|O nivel|O usuario|O ,|O se|O tarda|O mucho|O ,|O pero|O mucho|O tiempo|O en|O llenar|O el|O disco|O duro|O y|O no|B-C tienes|O que|O estar|O sacando|O cosas|O ,|O grabándolas|O en|O cds|O ,|O etc.|O
+number of cues= 2.0
+number of tokens= 47
+====================================================
+La|O velocidad|O de|O el|O procesador|O también|O es|O destacables|O ,|O no|B-C es|O el|O más|O rápido|O del|O mercado|O pero|O se|O defiende|O muy|O bien|O y|O lo|O agradeceras|O ,|O de|O mercado|O sale|O a|O 2800|O Mhz|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Resumiendo|O :|O Es|O una|O buena|O opción|O que|O sin|B-C ser|O el|O mejor|O ordenador|O del|O mercado|O ,|O en|O relación|O calidad-precio|O es|O muy|O aceptable|O y|O durante|O un|O par|O de|O años|O (|O mínimo|O )|O estarás|O muy|O agusto|O con|O él|O ,|O luego|O ,|O quizás|O tengas|O que|O ampliar|O memoria|O ,|O etc.|O
+number of cues= 1.0
+number of tokens= 45
+====================================================
+Hola|O esta|O es|O mi|O primera|O opinion|O ,|O y|O desde_luego|O no|B-C la|O voy|O a|O comenzar|O con|O una|O alegracia|O glorificando|O a|O HP|O pues|O hace|O unos|O pocos|O meses|O decidi|O comprar|O me|O un|O equipo|O Hp|O ,|O que|O me|O costo|O un|O paston|O ,|O luego|O tonta|O de|O mi|O comenze|O a|O comparar|O precios|O y|O me|O di_cuenta|O lo|O mucho|O mas|O economico|O que|O resulta|O comprar|O un|O ordenador|O por|O piezas|O ,|O es|O decir|O ,|O de|O distinto|O distribuidores|O ,|O
+number of cues= 1.0
+number of tokens= 68
+====================================================
+bien|O pues|O despues|O de|O aceptar|O que|O HP|O me|O sacara|O 1500|O €|O por|O una|O maravilla|O de|O ordenador|O ,|O me|O di_cuenta|O que|O hasta|O los|O ganchillos|O de|O mi|O abuela|O daban|O mejor|O resultado|O ,|O y|O nooooo|B-C ,|O no|B-C os|O creais|O que|O me|O he|O comprado|O un|O ordenador|O de|O bajo|O rendimiento|O ,|O quize|O comprar|O me|O la|O mayor|O tecnologia|O para|O que|O me|O durara|O bastante|O tiempo|O a|O nuestro|O avances|O tecnologicos|O ,|O un|O procesador|O pentium|O 4|O a|O 3,2ghz|O ,|O con|O 1.24|O de|O memoria|O ram|O ddr|O ,|O pantalla|O plana|O de|O 17|O "|O tft|O muy|O mona|O por|O cierto|O ,|O con|O 200gb|O de|O disco|O duro|O ,|O uhhhhh|O que|O bien|O suena|O ,|O
+number of cues= 2.0
+number of tokens= 99
+====================================================
+pues|O para|O empezar|O cuando|O encendi|O el|O ordenador|O me|O di_cuenta|O que|O no|B-C traida|O sistema|O operativo|O ,|O ni_si_quiera|B-C el|O cd|O para|O instalar|O lo|O ,|O total|O que|O tuve|O que|O pedir|O le|O a|O un|O compañero|O mio|O que|O me|O instalara|O el|O windows|O Xp|O y|O varios|O programas|O mas|O ...|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+total|O que|O luego|O despues|O de|O intalar|O me|O el|O windos|O xp|O me|O fui|O a|O mi|O casita|O ,|O y|O toda|O contenta|O de|O que|O me|O habian|O arreglado|O todo|O ,|O me|O lo|O habian|O dejado|O peor|O ,|O ahora|O el|O ordenador|O ni|B-C me|O reconocia|O la|O grabadora|O ,|O ni|B-C el|O moden|O interno|O ,|O total|O q|O pase|O de|O volver|O a|O la|O tienda|O y|O compre|O un|O nuevo|O moden|O ,|O total|O no|B-C me|O lo|O reconocia|O por|O no|B-C ser|O una|O pieza|O Hp|O !|O !|O !|O !|O
+number of cues= 4.0
+number of tokens= 75
+====================================================
+llego|O a|O la|O tienda|O y|O dicen|O q|O no|B-C se|O hacen_cargo|O de|O la|O pantalla|O ,|O que|O la|O garantia|O no|B-C cubre|O el|O que|O se|O queme|O ....|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+en|O resumen|O tras|O muchos|O gritos|O ,|O quejas|O y|O demas|O historia|O consigui|O que|O me|O dieran|O mis|O 1500|O €|O y|O la|O mierda|O de|O pc|O se|O quedo|O alli|O ,|O total|O q|O con|O unos|O 900|O €|O mi|O amigo|O me|O consiguio|O un|O pc|O ,|O con|O las|O misma|O caracteristicas|O que|O el|O de|O Hp|O ,|O pero|O la|O caja|O de|O la|O torre|O es|O mas|O monas|O tiene|O luces|O por|O todas|O partes|O ,|O total|O que|O el|O ordenador|O de|O maravilla|O ,|O me|O registra|O hasta|O componentes|O que|O no|B-C tiene|O !|O !|O !|O !|O !|O
+number of cues= 1.0
+number of tokens= 82
+====================================================
+vamos|O que|O estoy|O supercontenta|O y|O ya|O os|O digo|O aun|O me|O quedan|O cosas|O q|O no|B-C se|O de|O que|O sirven|O ...|O pero|O yo|O encantada|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+opino|O que|O es|O una|O buena|O adquisicion|O puesto|O su|O rendimiento|O es|O notable|O y|O no|B-C he|O tenido|O ningun|I-C problema|O de|O configuración|O desde|O que|O lo|O tengo|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+no|B-C tienen|O incompatibilidad|O con|O ninguna|B-C targeta|O de|O video|O o|O sonido|O ,|O y|O el|O rendimiento|O tanto|O para|O jugar|O como|O para|O trabajar|O són|O muy|O óptimos|O .|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+hola|O buenas|O tardes|O ,|O en|O mi|O opinion|O las|O computadoras|O compaq|O son|O de|O las|O peores|O ,|O te|O pueden|O durar|O mucho|O tiempo|O como|O dice|O el|O otro|O usuario|O ,|O pero|O hablando|O de|O la|O marca|O para|O que|O quieres|O una|O pc|O que|O sea|O de|O las|O mas|O caras|O y|O no|B-C sirva|O para|O todo|O lo|O que|O debe|O servir|O ?|O
+number of cues= 1.0
+number of tokens= 52
+====================================================
+obviamente|O que|O si|O una|O computadora|O es|O usada|O solamente|O para|O internet|O y|O aplicaciones|O de|O exel|O y|O word|O te|O va|O a|O durar|O mucho|O tiempo|O y|O no|B-C vas|O a|O tener|O problemas|O ,|O pero|O si|O te|O vas|O a|O comprar|O una|O computadora|O para|O usar|O solamente|O internet|O y|O aplicaciones|O de|O tipo|O word|O ,|O exel|O ,|O acces|O ,|O te|O compras|O una|O notebook|O de|O apple|O que|O te|O cuesta|O un|O poco|O mas|O pero|O ahi|O si|O que|O tienes|O computadora|O para_rato|O ,|O y|O sin|B-C virus|O que|O te|O molesten|O ,|O y|O estan|O unos|O 1000|O dolares|O las|O mas|O basicas|O ,|O que|O van|O perfecto|O para|O las|O personas|O que|O quieran|O dar|O le|O ese|O uso|O .|O
+number of cues= 2.0
+number of tokens= 100
+====================================================
+Mi|O opinion|O es|O negativa|O ya_que|O en|O un|O pasado|O no|B-C muy|I-C lejano|O tuve|O una|O y|O no|B-C me|O gusto|O para_nada|I-C .|O
+number of cues= 2.0
+number of tokens= 19
+====================================================
+Bueno|O ,|O hoy|O os|O voy|O a|O dar|O mi|O punto|O de|O vista|O de|O este|O ordenador|O que|O he|O encontrado|O por|O aqui|O (|O ya|O crei|O que|O ni|B-C se|O vendia|O ...|O )|O y|O que|O mi|O hermano|O tubo|O hace|O tiempo|O ...|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Consiguio|O arreglando|O lo|O el|O mismo|O comprando|O un|O HD|O nuevo|O ,|O no|B-C sin|B-C constar|O le|O un|O ojo|O de|O la|O cara|O y|O parte|O de|O el|O otro|O ,|O por|O aquello|O de|O IBM|O y|O esas|O cosas|O ...|O
+number of cues= 2.0
+number of tokens= 33
+====================================================
+A|O el|O mes|O siguiente|O tubo|O problemas|O con|O la|O pantalla|O ,|O a|O las|O 2|O semanas|O ,|O con|O desgaste|O de|O el|O teclado|O ...|O ,|O no|B-C quiero|O eternizar|O me|O y|O os|O lo|O dejo|O aqui|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+El|O final|O ,|O el|O IBM|O aquel|O tan|O cojonudo|O ,|O lo|O vencio|O en|O Ibazar|O ,|O tirao|O de|O precio|O porque|O apenas|B-C le|O furrulaba|O nada|I-C ...|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Con|O esto|O no|B-C digo|O que|O todos|O los|O IBM|O den|O problemas|O ,|O ni|B-C que|O todos|O vayan|O a|O ser|O perfectos|O ,|O pero|O eso|O si|O ,|O comprar|O un|O pc|O de|O marca|O siempre|O va|O a|O salir|O extremadamente|O mas|O caro|O que|O uno|O clonico|O (|O sin|B-C marca|O )|O .|O
+number of cues= 3.0
+number of tokens= 43
+====================================================
+Mi|O opnion|O es|O ahorrar|O se|O unos|O durrillos|O y|O comprar|O se|O un|O pc|O bueno|O ,|O sin|B-C marca|O ,|O y|O si|O ademas|O teneis|O algun|O conocimiento|O de|O Hardware|O comprar|O lo|O por|O piezas|O que|O os|O puede|O salir|O un|O autentico|O chollo|O ,|O el|O mio|O es|O asi|O y|O por|O 600|O euros|O escasos|O me|O monte|O un|O Sr_Pepinorro|O ....|O que|O espero|O dure|O una|O buena|O temporada|O .|O
+number of cues= 1.0
+number of tokens= 58
+====================================================
+Os|O iba|O a|O dejar|O alguna|O imagen|O por|O aqui|O pero|O no|B-C las|O he|O encontrado|O en|O el|O pc|O ,|O ustedes|O disculpen|O ,|O por|O aquello|O de|O que|O una|O imagen|O vale|O mas|O que|O mil|O palabras|O ...|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Para|O mi|O todo|O va|O muy|O bien|O ,|O y|O todavia|O pienso|O que|O evoluciona|O ,|O hay|O nuevas|O funcionalidades|O y|O el|O sistema|O para|O criptar|O los|O ficheros|O ,|O respecto_a|O los|O programas|O de|O regalo|O ,|O son|O demasiado|O breves|O y|O despues|O tienes|O que|O comprar|O los|O ,|O esto|O es|O un|O poco|O molestoso|O ,|O cuando|O ya|O te|O has|O habituado|O a|O ellos|O ,|O si|O no|B-C lo|O haces|O es|O nesesario|O volver|O a|O los|O mas|O antiguos|O ,|O o|O comprar|O los|O ,|O esto|O no|B-C me|O pare_se|O muy|I-C agradable|O ,|O sino|O por|O el|O resto|O o|O el|O aparato|O mismo|O estoy|O muy|O contento|O ,|O y|O pienso|O renovar|O my|O material|O fielmente|O ,|O esperando|O que|O siga|O evolucionando|O y|O si|O puede|O regalar|O definitivamente|O los|O programas|O principales|O o|O de|O base|O ,|O para|O mi|O fue|O una|O sorpresa|O porque|O fue|O un|O ensayo|O
+number of cues= 2.0
+number of tokens= 121
+====================================================
+No|B-C me|O extraña|O que|O estas|O marcas|O conocidas|O se|O hayan|O hecho|O de|O oro|O a|O costa|O de|O los|O clientes|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Cuando|O llegó|O a|O mis|O manos|O ,|O el|O equipo|O no|B-C funcionaba|O correctamente|O ;|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+fallaban|O la|O mitad|O de|O los|O programas|O ,|O no|B-C reconocía|O los|O puertos|O USB|O ,|O ...|O etc.|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Osea|O que|O si|O tu|O instalas|O otro|O sistema|O ,|O no|B-C te|O funciona|O casi|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Como|O yo|O no|B-C tenía|O el|O disco|O de|O recuperación|O de|O Hp|O ,|O volví|O a|O formatear|O de|O nuevo|O instalando|O un|O XP_Home|O y|O los|O drivers|O disponibles|O en|O la|O web|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Pero|O muchas|O cosas|O seguían|O sin|B-C funcionar|O (|O los|O lectores|O de|O tarjetas|O ,|O USB|O ,|O ...|O )|O porque|O no|B-C los|O reconocía|O .|O
+number of cues= 2.0
+number of tokens= 21
+====================================================
+Su|O respuesta|O fue|O que|O para|O que|O el|O pc|O reconociese|O todos|O los|O dispositivos|O ,|O había|O que|O instalar|O lo|O desde|O el|O disco|O de|O recuperación|O de|O la|O marca|O ,|O que|O no|B-C servía|O un|O Windows_XP_Home|O estándar|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+Y|O como|O yo|O no|B-C lo|O tenía|O ,|O la|O solución|O era|O que|O me|O enviaran|O el|O cd|O a|O mi|O domicilio|O ,|O con|O un|O coste|O de|O 40|O €|O más|O IVA|O y|O gastos|O de|O envío|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Y|O encima|O no|B-C puedes|O usar|O el|O sistema|O operativo|O que|O quieres|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+La|O empresa|O los|O tiene|O que|O comprar|O obligatoriamente|O de|O marca|O ,|O nada|B-C de|O clónicos|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+pero|O que|O a|O los|O tres|O días|O dejen|O de|O funcionar|O la|O salida|O de|O sonido|O y|O otros|O pequeños|O problemas|O de|O ese|O tipo|O no|B-C es|O normal|O ,|O sobre|O todo|O en|O 15|O aparatos|O a_la_vez|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Como|O la|O solución|O implicaba|O dejar|O la|O oficina|O sin|B-C ordenadores|O ,|O así|O siguen|O ,|O perdida|O ya|O la|O garantía|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+No|B-C entiendo|O que|O aparatos|O tan|O caros|O den|O tantos|O problemas|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Ahora_bien|O :|O no|B-C viene|O con|O wireless|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Es|O un|O ordenador|O para|O sacar|O le|O todo|O el|O jugo|O y|O para|O ampliar|O lo|O no|B-C es|O aconsejable|O por|O el|O tamaño|O de|O las|O piezas|O (|O excepto|O el|O dvd|O y|O el|O disco|O duro|O )|O ,|O el|O resto|O de|O las|O piezas|O son|O de|O tamaño|O pequeño|O (|O y|O supongo|O que|O caras|O )|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Conecto|O todo|O ,|O enciendo|O y|O despues|O de|O esperar|O 20|O minutos|O (|O como|O indican|O las|O intrucciones|O )|O el|O monitor|O no|B-C se|O enciende|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Espero|O 30|O minutos|O ,|O 35|O ,|O 40|O ...|O una|O hora|O y|O nada|B-C .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+No|B-C funciona|O .|O
+number of cues= 1.0
+number of tokens= 3
+====================================================
+Pruebo|O el|O monitor|O (|O por_si_acaso|O ,|O pero|O hasta|O ese|O momento|O habia|O funcionado|O )|O en|O otro|O ordenador|O y|O no|B-C es|O culpa|O de|O el|O monitor|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+A|O el|O llamar|O a|O HP|O me|O dicen|O que|O no|B-C hay|O ningun|I-C problema|O en|O sustituir|O me|O el|O aparato|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Bien|O ,|O repito|O la|O operacion|O y|O el|O nuevo|O ordenador|O no|B-C funciona|O ,|O lo|O mismo|O que|O la|O vez|O anterior|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Como|O es|O necesario|O rellenar|O los|O campos|O de|O criterios|O especificos|O ahi|O van|O pero|O que|O conste|O q|O como|O no|B-C he|O podido|O estrenar|O el|O ordenador|O no|B-C se|O si|O la|O velocidad|O de|O arranque|O ,|O facilidad|O de|O uso|O ,|O ets|O es|O buena|O o|O mala|O .|O
+number of cues= 2.0
+number of tokens= 40
+====================================================
+No|B-C soy|O partidario|O de|O los|O ordenadores|O que|O ya|O estan|O montados|O y|O vienen|O con|O una|O serie|O de|O piezas|O ya|O determindas|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Para|O obtener|O un|O buen|O ordenador|O no|B-C hay|O que|O obtener|O lo|O de|O esta|O manera|O ,|O como|O si|O esto|O fuera|O un|O hipermercado|O ,|O si|O quieres|O una|O buena|O maquina|O hay|O que|O ir|O a|O tiendas|O de|O informatica|O ,|O si|O no|B-C entiendes|O de|O ordenadores|O ir|O con|O alguien|O que|O entiendas|O o|O a|O una|O tienda|O informatica|O de|O confianza|O ,|O yo|O por|O suerte|O entiendo|O y|O tengo|O una|O tienda|O que|O es|O de|O confianza|O .|O
+number of cues= 2.0
+number of tokens= 65
+====================================================
+Yo|O tengo|O suerte|O porque|O esta|O tienda|O no|B-C me|O cobra|O la|O mano|O de|O obra|O y|O hoy|O por|O hoy|O ,|O sin|B-C hacer|O me|O el|O descuento|O que|O me|O hacen|O ,|O son|O de|O las|O tiendas|O mas|O baratas|O de|O la|O zona|O .|O
+number of cues= 2.0
+number of tokens= 37
+====================================================
+no|B-C puede|O ser|O que|O despues|O que|O hp|O es|O una|O marca|O prestigiosa|O salga|O con|O esto|O de|O esa|O computadora|O y|O no|B-C me|O gusta|O
+number of cues= 2.0
+number of tokens= 21
+====================================================
+no|B-C es|O muy|I-C original|O la|O caja|O de|O la|O computadora|O porque|O es|O negra|O con|O una|O cuadro|O plateado|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+yo|O tengo|O una|O caja|O asi|O en|O mi|O casa|O arrumbado|O porque|O no|B-C me|O gusta|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+siento|O lo|O que|O dicen|O de|O la|O tarjeta|O base|O que|O le|O pusieron|O la|O nvidia|O y|O despues|O se|O la|O quitaron|O para|O poner|O una|O ati|O pero|O bueno|O el|O precio|O es|O muy|O elevado|O por|O el|O producto|O pero|O yo|O la|O verdad|O no|B-C la|O compraria|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+todavia|O hay|O mucho|O mejor|O computadoras|O que|O estas|O pero|O bueno|O yo|O digo|O ue|O no|B-C la|O compren|O esta|O muy|O simple|O la|O computadora|O no|B-C la|O compren|O porfavor|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+Sus|O limitaciones|O y|O su|O pequeño|O disco|O duro|O ,|O no|B-C nos|O permiten|O hacer|O grandes|O descargas|O de|O internet|O como|O cualquier|O ordenador|O normal|O que|O se|O precie|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Esta|O noche|O habia|O decidido|O tomar|O me|O la|O de|O relax|O y|O apra|O ello|O ke|O mejor|O ke|O ver|O una|O peli|O metida|O en|O la|O cama|O ,|O pues|O yo|O me|O disponia|O a|O ello|O y|O le|O pedi|O su|O portatil|O (|O compaq|O presario|O 1200|O )|O a|O mi|O amiga|O ,|O todo|O bien|O ,|O hasta|O ke|O lo|O encendi|O ,|O los|O problemas|O empezaron|O con|O la|O configuracion|O de|O pantalla|O ,|O ke|O kosa|O mas|O rara|O ,|O no|B-C se|O veia|O nada|B-C de_nada|I-C ,|O cuando|O lo|O configuro|O ya|O a_punto_de|O kedarme|O totalmente|O ciega|O de|O pegar|O la|O cara|O a|O el|O monitor|O reinicio|O ,|O y|O cual|O es|O mi|O sorpresa|O a|O el|O ver|O ke|O se|O cuelga|O el|O p...|O ordenador|O ,|O intento|O dar|O le|O a|O el|O ctr+alt+sup|O y|O ni|B-C se|O inmutaba|O ...|O
+number of cues= 3.0
+number of tokens= 114
+====================================================
+intente|O buskar|O la|O bateria|O para|O asi|O sacar|O la|O y|O a|O el|O meter|O la|O de|O nuevo|O encender|O bien|O el|O ordenador|O ,|O pero|O cual|O es|O mi|O sorpresa|O a|O el|O ver|O ke|O no|B-C hay|O compartimiento|O de|O bateria|O ...|O
+number of cues= 1.0
+number of tokens= 35
+====================================================
+dios|O mio|O ,|O buske|O y|O buske|O ,|O sake|O tornillos|O y|O volvi|O a|O enroskar|O (|O mi|O amiga|O me|O mata|O si|O se|O entera|O )|O y|O cuando|O porfin|O doy|O con|O un|O mini|O compartimiento|O duro|O como|O una|O piedra|O y|O consigo|O abrir|O lo|O ,|O veo|O una|O gran|O bateria|O incrustadisima|O dentro|O ke|O se|O movia|O ,|O con|O lo|O cual|O piensas|O ke|O se|O puede|O sacar|O ,|O pero|O no|B-C ,|O mentira|O cochina|O ,|O es|O un|O engaña|O bobos|O no|B-C sale|O la|O jodia|O bateria|O ,|O y|O harta|O de|O tanto|O pensar|O en|O ke|O podia|O hacer|O para|O ver|O mi|O pelicula|O di|O con|O apretar|O el|O boton|O de|O power|O un|O rato|O ,|O muy|O bien|O se|O apaga|O el|O ordenador|O ,|O pero|O ke|O paso|O luego|O ?|O ?|O
+number of cues= 2.0
+number of tokens= 110
+====================================================
+Ke|O no|B-C encendio|O !|O !|O !|O
+number of cues= 1.0
+number of tokens= 6
+====================================================
+chikita|O mierda|O de|O portatil|O ,|O yo|O no|B-C se|O como|O no|B-C les|O da|O vergüenza|O vender|O eso|O a|O la|O gente|O ,|O vamos|O por|O dios|O ,|O deberian|O retirar|O lo|O de|O el|O emrcado|O por|O incompatibilidades|O ,|O en|O fin|O ke|O menos|O mal|O ke|O no|B-C es|O mi|O ordenador|O pk|O si|O no|B-C ya|O le|O habria|O metido|O una|O buena|O patada|O y|O se|O lo|O habria|O devuelto|O a|O los|O chinos|O !|O !|O
+number of cues= 4.0
+number of tokens= 62
+====================================================
+este|O ordenador|O desde|O que|O salio|O a|O el|O mercado|O revoluciono|O toda|O la|O tecnologia|O ya|B-C no|I-C hay|O nada|I-C mas|I-C que|O desir|O esta|O es|O una|O gran|O maquina|O ,|O muy|O potente|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+algo|O mas|O no|B-C se|O calienta|O tanto|I-C no|B-C importa|O el|O tiempo|O que|O la|O uses|O ,|O es|O rapida|O con|O una|O tarjeta|O de|O video|O ideal|O para|O esos|O juegos|O pesados|O que|O no|B-C son|O visibles|O en|O todas|O las|O pcs|O ,|O ya|O lo|O saben|O si|O se|O deciden|O por|O una|O que|O sea|O estas|O ,|O pero|O de|O un|O modelo|O salido|O resientemente|O .|O
+number of cues= 3.0
+number of tokens= 54
+====================================================
+Los|O IBM|O de|O ahora|O no|B-C son|O los|O de|O antes|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+No|B-C .|O
+number of cues= 1.0
+number of tokens= 2
+====================================================
+Ya|O no|B-C .|O
+number of cues= 1.0
+number of tokens= 3
+====================================================
+Disco|O duro|O :|O Ninguno/a|B-C
+number of cues= 1.0
+number of tokens= 4
+====================================================
+Monitor|O :|O Ninguno|B-C
+number of cues= 1.0
+number of tokens= 3
+====================================================
+Fuera_de|O este|O ámbito|O ,|O no|B-C tiene|O aplicación|O alguna|I-C ,|O pués|O estaríamos|O "|O matando|O moscas|O a|O cañonazos|O "|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Ah|O ,|O no|B-C olvideis|O que|O si|O me|O leeis|O yo|O tambien|O hare|O lo|O mismo|O ,|O pero|O que|O eso|O no|B-C signifique|O ninguna|B-C presion|O para|O vosotros|O .|O
+number of cues= 3.0
+number of tokens= 24
+====================================================
+No|B-C me|O importa|O que|O comenteis|O mi|O opinión|O pero|O si|O me|O criticais|O calificare|O con|O un|O nada|B-C util|O todas|O vuestras|O opiniones|O (|O casualmente|O 90|O palabras|O clavadas|O )|O
+number of cues= 2.0
+number of tokens= 25
+====================================================
+He|O podido|O comprobar|O lo|O mal|O que|O va|O este|O ordenador|O gracias_a|O los|O rompederos|O de|O cabeza|O que|O me|O ha|O traido|O ,|O y|O eso|O que|O no|B-C era|O mio|O ,|O mi|O tia|O compro|O un|O ordenador|O y|O entonces|O se|O armo|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Para|O empezar|O el|O ordenador|O no|B-C va|O mal|O ya_que|O la|O preintalacion|O va|O bien|O ,|O pero|O no|B-C nos|O avisaron|O de|O que|O la|O unidad|O C|O recibia|O pocos|O megabytes|O ,|O y|O que|O habia|O que|O unir|O la|O unidad|O C|O y|O la|O D|O para|O que|O aquello|O valiera|O para|O algo|O .|O
+number of cues= 2.0
+number of tokens= 44
+====================================================
+Despues|O estaba|O el|O problema|O de|O que|O si|O no|B-C te|O gustaba|O la|O instalacion|O que|O viene|O tienes|O que|O comer|O te|O la|O cabeza|O para|O justificar|O cada|O detalle|O que|O quieres|O hacer|O ,|O total|O que|O un|O desastre|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+A|O el|O final|O conseguimos|O que|O nos|O lo|O instalaran|O y|O tampoco|B-C iba|O del_todo|I-C mal|O ,|O pero|O no|B-C vale|O lo|O que|O cuesta|O para_nada|I-C .|O
+number of cues= 2.0
+number of tokens= 22
+====================================================
+Claro|O está|O que|O por|O este|O precio|O no|B-C se|O puede|O pedir|O demasiado|O ,|O ni|B-C la|O décima|O parte|O de|O lo|O que|O tiene|O este|O ordenador|O Prodigios_Intel_Celeron|O ,|O a_pesar_de|O que|O cuenta|O con|O un|O disco|O duro|O de|O 4,3|O gigabytes|O y|O la|O velocidad|O de|O el|O procesador|O es|O de|O 300|O megaherzios|O .|O
+number of cues= 2.0
+number of tokens= 45
+====================================================
+El|O modem|O que|O lleva|O incorporado|O es|O de|O 56|O kilobytes|O por|O segundo|O ,|O cantidad|O más|O que|O de_sobra|O porque|O en|O España|O a_excepción_de|O DSL|O o|O similares|O la|O velocidad|O no|B-C supera|O los|O 33|O kilobytes|O por|O segundo|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+Lo|O recomiendo|O principalmente|O para|O usuarios|O domésticos|O que|O no|B-C precisen|O gran|O cantidad|O de|O memoria|O ni|I-C un|O disco|O duro|O de|O capacidad|O excesiva|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+ya|O se|O que|O intel|O tiene|O tambien|O tiene|O procesadores|O de|O 64|O bits|O pero|O no|B-C me|O gustan|O ...|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+No|B-C los|O vas|O a|O llenar|O nuca|I-C acaso_que|O no|B-C seas|O un|O descargador|O compulsivo|O ,|O que|O eso|O de|O el|O espacio|O se|O soluciona|O con|O la|O grabadora|O de|O dvd|O dual|O que|O tiene|O ,|O que|O con|O un|O dvd|O te|O libras|O de|O 4.7|O Gb|O y|O con|O uno|O dual|O de|O 8|O !|O !|O !|O
+number of cues= 2.0
+number of tokens= 47
+====================================================
+respecto_a|O la|O grabadora|O de|O dvds|O ,|O me|O parecen|O igual|O todas|O asi_que|O no|B-C se|O que|O decir|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+No|B-C creais|O que|O porque|O sea|O grabadora|O de|O doble|O capa|O un|O dvd|O normal|O lo|O haceis|O de|O 8|O Gb|O sino_que|O teneis|O que|O comprar|O un|O dvd|O virgen|O especial|O de|O doble|O capa|O ...|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+UN|O BUEN|O ORDENADOR|O POR|O UN|O MODICO|O PRECIO|O ,|O Aunque|O no|B-C es|O la|O makina|O definitiva|O ...|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Como|O pasa|O a|O veces|O en|O ciao|O cuando|O no|B-C encontramos|O el|O producto|O en|O concreto|O ponemos|O nuestra|O opinión|O en|O el|O sitio|O que|O nos|O parece|O más|O adecuado|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Se|O lo|O ha|O comprado|O mi|O hermano|O que|O trabaja|O bastante|O con|O ordenadores|O y|O el|O otro|O día|O tube|O la|O oportunidad|O de|O probar|O lo|O y|O uff|O ...|O no|B-C está|O nada_,_pero_que_nada|I-C mal|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Para|O aquellos|O quienes|O los|O datos|O técnicos|O no|B-C les|O digan|O nada|I-C ,|O os|O diré|O que|O se|O trata|O de|O un|O ordenador|O potente|O ,|O de|O arranque|O rápido|O ,|O con|O el|O que|O podremos|O trabajar|O a|O nivel|O de|O imagen|O y|O vídeo|O sin|B-C ningún|I-C problema|O (|O teniendo_en_cuenta|O que|O se|O trata|O de|O un|O portátil|O )|O y|O que|O ofrece|O bastante|O espacio|O para|O poder|O ampliar|O lo|O para|O cuando|O se|O nos|O quede|O anticuado|O .|O
+number of cues= 2.0
+number of tokens= 64
+====================================================
+si|O lo|O único|O que|O quereis|O hacer|O con|O el|O portátil|O es|O procesar|O textos|O y|O conectar|O os|O a|O internet|O no|B-C os|O compreis|O este|O ...|O comprar|O os|O otro|O más|O baratillo|O que|O total|O os|O hará|O el|O mismo|O servicio|O ...|O porque|O este|O ordenador|O que|O os|O acabo|O de|O describir|O vale|O unas|O 360.000|O ptas|O ...|O o_sea|O que|O vosotros|O mismos|O .|O
+number of cues= 1.0
+number of tokens= 53
+====================================================
+El|O unico|O fallo|O que|O le|O veo|O es|O que|O hay|O que|O tener|O cuidado|O de|O los|O diversores|O de|O energía|O ,|O si|O tratas|O mal|O las|O salidas|O de|O ventilación|O pueden|O dar|O te|O problemas|O (|O me|O refiero|O a|O que|O las|O salidas|O de|O aire|O no|B-C sean|O entorpecidas|O con|O nada|B-C ,|O y|O cuidado|O con|O los|O fallos|O de|O electricidad|O !|O !|O pueden|O llevar|O a|O la|O ruina|O cualquier|O ordenador|O :|O
+number of cues= 2.0
+number of tokens= 61
+====================================================
+Pienso|O que|O este|O ordenador|O no|B-C merece|O el|O gasto|O ,|O viene|O con|O 256kb|O de|O memoria|O ,|O que|O es|O muy|O poco|O para|O la|O nesecidad|O de|O la|O epoca|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+La|O capacidad|O de|O el|O disco|O duro|O es|O muy|O pobre|O ,|O claro|O ,|O si|O necesitais|O el|O ordenador|O para|O cosas|O que|O no|B-C tengan|O que|O ver|O con|O dibujo|O ,|O u|O otras|O cosas|O que|O tengan|O archivos|O muy|O grandes|O ,|O pudiera|O estar|O bien|O ,|O sinembargo|O la|O velocidad|O lo|O mata|O ,|O y|O de|O paso|O el|O procesador|O tampoco|O es|O que|O sea|O una|O cosa|O de|O el|O otro|O mundo|O .|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+Ademas|O no|B-C trae|O grabadora|O ni|I-C de|O cd|O ni|I-C de|O dvd|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+como|O pega|O es|O que|O tenia|O algunos|O problemillas|O ,|O se|O apagaba|O de_vez_en_cuando|O no|B-C lo|O se|O si|O es|O por|O que|O salio|O malo|O ese|O ordenador|O o|O es|O un|O problema|O tecnico|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+de_todas_maneras|O me|O parece|O un|O ordenador|O fantastico|O ,|O y|O mucha|O gente|O me|O habla|O muy|O bien|O de|O el|O sin|B-C que|O previamente|O le|O diga|O uqe|O lo|O he|O utilizado|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================

@@ -1,0 +1,116 @@
+Maldigo|O el|O día|O que|O me|O ofrecí|O voluntaria|O para|O reservar|O hotel|O en|O Madrid|O .|O
+Necesitábamos|O 5|O habitaciones|O ,|O dos|O de|O ellas|O a|O el|O menos|O contiguas|O ,|O para|O un|O grupo|O familiar|O de|O 10|O personas|O .|O
+Queríamos|O el|O hotel|O en|O esa|O zona|O concreta|O para|O evitar|O coger|O el|O coche|O una|O vez|O en|O la|O ciudad|O .|O
+Toda|O convencida|O de|O que|O era|O una|O apuesta|O segura|O ,|O opté|O por|O recurrir|O a|O la|O cadena|O Meliá|O .|O
+Llegamos|O allí|O con|O la|O reserva|O previamente|O confirmada|O pero|O allí|O no|B-C me|O esperaba|O nadie|B-C ,|O a_pesar_de|O que|O había|O reservado|O por|O web|O con|O dos|O meses|O de|O antelación|O y|O confirmado|O el|O día|O antes|O por|O teléfono|O con|O el|O servicio|O de|O reservas|O de|O meliá|O .|O
+Ibamos|O a|O una|O boda|O y|O teníamos|O el|O tiempo|O justo|O para|O arreglar|O nos|O ,|O el|O check|O in|O tardó|O a|O el|O menos|O 2|O horas|O ,|O y|O a_pesar_de|O que|O fueron|O amables|O ,|O no|B-C tuvieron_en_cuenta|O nada|B-C de|O lo|O que|O se|O les|O dijo|O .|O
+No|B-C nos|O dieron|O ninguna|I-C facilidad|O .|O
+A|O mí|O personalmente|O ,|O que|O me|O ocupé|O de|O hacer|O la|O reserva|O para|O toda|O la|O familia|O ,|O me|O hicieron|O quedar|O mal|O por|O lo|O que|O nunca|B-C podría|O recomendar|O este|O hotel|O .|O
+Aun|O estoy|O esperando|O que|O me|O carguen|O los|O puntos|O en|O mi|O tarjeta|O más|O ,|O no|B-C sé|O dónde|O tienen|O la|O cabeza|O pero|O no|B-C la|O tienen|O donde|O deberían|O .|O
+Hasta|O la|O 6_de_la_tarde|O no|B-C nos|O dieron|O las|O habitaciones|O ,|O que|O por_supuesto|O no|B-C estaban|O siquiera|O todas|O en|O el|O mismo|O piso|O .|O
+En_mi_vida|O he|O hecho|O una|O reserva|O con|O tanta|O antelación|O y|O a_pesar_de|O ello|O fue|O desastroso|O .|O
+Desastroso|O el|O servicio|O de|O reservas|O telefónico|O ,|O si|O llamo|O el|O día|O antes|O para|O confirmar|O que|O está|O todo|O OK|O ,|O ¿|O por|O que|O me|O dicen|O que|O sí|O y|O ni_siquiera|B-C hablan|O con|O el|O hotel|O para|O asegurar|O se|O ?|O
+Luego|O el|O hotel|O me|O dice|O que|O ellos|O no|B-C hacen_caso|O a|O esas|O reservas|O ¿|O ?|O .|O
+Y|O bueno|O ,|O casi|O no|B-C me|O quieren|O ni|B-C aceptar|O la|O tarifa|O web|O ,|O me|O tuve|O que|O poner|O farruca|O ,|O por_no_decir_que|O al_principio|O la|O chica|O incluso|O dudaba|O si|O tendría|O habitaciones|O para|O nosotros|O .|O
+Los|O puntos|O de|O la|O tarjeta|O MÁS|O -|O recalco|O ,|O tarjeta|O de|O F-I-D-E-L-I-Z-A-C-I-O-N|O ,|O por|O si|O se|O les|O olvida|O el|O objetivo|O de|O este|O tipo|O de|O tarjetas|O -|O están|O reclamados|O y|O han|O pasado|O más|O de|O 6|O meses|O .|O
+Detalles|O de|O el|O hotel|O :|O habitaciones|O pequeñas|O pero|O correctas|O ,|O hay|O un|O parking|O cercano|O de|O pago|O .|O
+Estás|O en|O plena|O gran|O via|O ,|O que|O puedes|O ver|O desde|O la|O ventana|O de|O tu|O habitación|O ,|O No|B-C hay|O restaurante|O ,|O sólo|O una|O cafetería|O con|O madalenas|O empaquetadas|O ,|O aunque|O sí|O se|O sirven|O desayunos|O .|O
+Los|O empleados|O son|O amables|O pero|O poco|O eficientes|O .|O
+Hay|O mejores|O opciones|O para|O alojar|O se|O en|O el|O centro|O de|O Madrid|O .|O
+La|O calidad|O no|B-C corresponde|O a|O un|O 4|O estrellas|O .|O
+En|O esta|O ocasión|O le|O vamos|O a|O dar|O un|O suspenso|O a|O la|O cadena|O Meliá|O .|O
+Los|O elegí|O como|O opción|O segura|O para|O un|O compromiso|O y|O me|O hicieron|O quedar|O como|O una|O idiota|O .|O
+La|O recepción|O se|O encuentra|O en|O el|O primer|O piso|O y|O es|O minúscula|O ,|O bueno|O ,|O minúscula|O es|O poco|O .|O
+Abajo|O en|O el|O portal|O hay|O un|O botones|O -|O una|O chica|O cuando|O fuimos|O -|O que|O nos|O dió|O un|O carrito|O portamaletas|O para|O subir|O lo|O en|O el|O ascensor|O a|O el|O piso|O de|O arriba|O .|O
+Esta|O entrada|O te|O hace|O parecer|O que|O estás|O entrando|O en|O una|O pensión|O ,|O pero|O para_nada|I-C ,|O en|O el|O primer|O piso|O la|O recepción|O como|O digo|O y|O junto_a|O ella|O un|O patio|O con|O un|O gran|O tragaluz|O ,|O unos|O sillones|O y|O una|O cafetería|O ,|O que|O estaba|O sin|B-C servicio|O .|O
+Aquí|O el|O hotel|O ya|O adquiere|O otro|O aspecto|O .|O
+También|O una|O buena|O televisión|O de|O plasma|O en|O la|O que|O pudimos|O dejar|O a|O la|O mañana|O siguiente|O a|O un|O adolescente|O viendo|O la|O salida|O de|O nuestro|O querido|O Alonso|O ,|O mientras|O dotoreábamos|O el|O museo|O de|O el|O prado|O .|O .|O
+En|O definitiva|O ,|O no|B-C fue|O todo|O tan|O horrible|O pero|O me|O parecieron|O poco|O profesionales|O y|O la|O próxima|O vez|O seguramente|O elegiré|O otro|O hotel|O .|O
+Aunque|O las|O habitaciones|O no|B-C están|O mal|O ,|O la|O atención|O recibida|O me|O hace|O calificar|O lo|O de|O malo|O por|O su|O falta|O de|O seriedad|O .|O
+Si|O no|B-C fuese|O por|O esa|O informalidad|O ,|O que|O en|O nuestro|O caso|O ,|O con|O la|O prisa|O que|O llevábamos|O ,|O fue|O muy|O perjudicial|O y|O estresante|O ,|O el|O hotel|O se|O podría|O calificar|O de|O correcto|O .|O
+Conozco|O hoteles|O de|O 4|O y|O 3|O estrellas|O mucho|O mejores|O ,|O por|O lo|O que|O no|B-C creo|O que|O este|O hotel|O pase|O de|O 2|O .|O
+Las|O habitaciones|O son|O pequeñas|O ,|O casi|B-C no|I-C tienen|O camas|O de|O matrimonio|O ,|O ni|B-C tienen|O terraza|O .|O
+Estan|O decoradas|O de|O manera|O antigua|O y|O con|O algunas|O grietas|O .|O
+Los|O mandos|O de|O la|O tele|O no|B-C funcionan|O y|O no|B-C tienen|O apenas|O canales|O .|O
+Por_no_comentar_que|O además|O estan|O sucias|O (|O tanto|O los|O baños|O como|O la|O habitación|O en|O si|O )|O .|O
+Las|O instalaciones|O estan|O viejas|O y|O muy|O descuidadas|O .|O
+En|O el|O gimnasio|O todo|O roto|O y|O la|O piscina|O climatizada|O solo|O abren|O de|O 5|O a|O 9_de_la_tarde|O .|O
+De|O masajes|O ...|O no|B-C habia|O masajista|O .|O
+No|B-C voy|O a|O ser|O del_todo|O mala|O y|O dire|O que|O el|O entorno|O es|O bonito|O ,|O el|O personal|O de|O el|O hotel|O muy|O amable|O ,|O las|O zonas|O comunes|O estan|O bien|O y|O el|O desayuno|O tipo|O buffet|O de|O lo|O mejor|O que|O hay|O .|O
+A|O mi|O no|B-C me|O gustó|O ,|O deberian|O hacer|O una|O revisión|O y|O adecuar|O la|O calidad|O de|O el|O hotel|O a|O las|O estrellas|O .|O
+Demasiado|O caro|O (|O a|O mi|O me|O costo|O 83|O euros|O /|O noche|O )|O para|O como|O está|O .|O
+Realmente|O conozco|O hoteles|O de|O 4|O estrellas|O y|O son|O una|O pasada|O .|O
+Queria|O regalar|O a|O mi|O novio|O un|O finde|O en|O un|O hotel|O de|O 4|O estrellas|O y|O me|O lleve|O una|O gran|O desilusión|O con|O lo|O que|O encontramos|O .|O
+Buenas|O ,|O he|O pasado|O este|O fin|O de|O semana|O en|O Madrid|O en|O el|O Hotel_Tryp_Centro_Norte|O de|O la|O cadena|O Sol_Melia|O .|O
+Para|O empezar|O os|O diré|O que|O es|O la|O primera|O vez|O que|O entro|O en|O Madrid|O y|O doy|O a|O la|O primera|O con|O el|O Hotel|O .|O
+Viniendo|O por|O la|O NI|O la|O entrada|O es|O supersencilla|O ,|O y|O a|O la|O fuerza|O porque|O os|O confieso|O que|O torda|O soy|O un|O rato|O y|O de|O verdad|O que|O lo|O encontré|O a|O la|O primera|O .|O
+Bueno|O ,|O el|O hotel|O está|O a|O 500|O mts|O de|O la|O estación|O de|O Chamartin|O así|O que|O para|O mover|O te|O está|O de|O cine|O .|O
+Llegamos|O y|O no|B-C sé|O si|O sería|O mi|O día|O de|O suerte|O o|O que|O pero|O encontré|O sitio|O para|O aparcar|O enfrente|O justo|O de|O la|O puerta|O de|O el|O hotel|O .|O
+Os|O cuento|O ,|O la|O zona|O está|O en|O obras|O pero|O todo|O alrededor|O es|O zona|O azul|O o|O verde|O ,|O es|O decir|O ,|O no|B-C puedes|O dejar|O el|O coche|O más|O de|O una|O hora|O y|O pagando|O (|O nos|O explicaron|O en|O recepción|O )|O .|O
+Cuando|O preguntamos|O por|O el|O parking|O de|O el|O hotel|O ,|O resulta|O que|O no|B-C tiene|O ,|O pero|O hay|O dos|O parkings|O públicos|O muy|O cerquita|O .|O
+Bien|O después_de|O aparcar|O el|O coche|O volvemos|O a|O registrar|O nos|O .|O
+Aviso|O ,|O con|O maletas|O muy|O cargadas|O ,|O con|O sillas|O de|O niños|O ,|O etc.|O .|O peliagudo|O ,|O porque|O tal_y_como|O se|O ve|O en|O la|O foto|O ,|O aunque|O no|B-C se|O aprecie|O del_todo|O bien|O hay|O una|O tirada|O de|O escaleras|O tanto|O fuera|O ,|O como|O dentro|O hasta|O llegar|O a|O recepción|O ,|O me|O pregunto|O donde|O está|O el|O acceso|O para|O minusválidos|O .|O
+Las|O chicas|O de|O recepción|O encantadoras|O .|O
+Ya|O subimos|O a|O la|O habitación|O y|O oh|O sorpresa|O en|O el|O ascensor|O marca|O un|O botón|O para|O bajar|O a|O el|O parking|O ?|O ?|O ?|O ?|O ?|O
+No|B-C entiendo|O nada|I-C .|O
+Se|O me|O olvidó|O preguntar|O ,|O lo|O siento|O .|O
+Sigo|O .|O
+Entramos|O a|O la|O habitación|O y|O todo|O muy|O bien|O .|O
+Amplia|O ,|O limpia|O ,|O el|O baño|O muy|O bien|O también|O ,|O aire|O acondicionado|O (|O menos|O mal|O hacía|O un|O calorrrr|O )|O ,|O nevera|O ,|O caja|O de|O seguridad|O (|O de|O pago|O )|O ...|O
+El|O baño|O amplio|O ,|O limpio|O ,|O con|O jabones|O y|O todo|O eso|O pero|O oh|O problema|O ,|O me|O voy|O a|O dar|O una|O ducha|O y|O cuando|O entro|O en|O la|O bañera|O ...|O la|O cebolleta|O fija|O me|O queda|O allá|O lejos|O ,|O hombre|O no|B-C soy|O muy|O alta|O (|O 1.6|O )|O pero|O tampoco|B-C un|O pitufo|O y|O
+no|B-C sé|O calculo|O que|O estaría|O colocada|O como|O a|O 2.10|O aproximadamente|O .|O
+Ya|O duchados|O nos|O encaminamos|O a|O la|O visita|O turística|O .|O
+Como|O digo|O el|O metro|O queda|O a|O tiro|O piedra|O así|O que|O el|O resto|O de|O el|O día|O genial|O .|O
+Justo|O debajo_de|O el|O hotel|O hay|O un|O restaurante|O ,|O no|B-C comimos|O en|O él|O así_que|O no|B-C os|O puedo|O decir|O pero|O estaba|O a_tope|O de|O gente|O el|O sábado|O .|O
+Además|O en|O el|O barrio|O hay|O todo|O tipo|O de|O servicios|O .|O
+Bueno|O volvimos|O a|O el|O hotel|O y|O mi|O pareja|O se|O fue|O a|O dar|O un|O baño|O a|O la|O piscina|O .|O
+Quedó|O muy|O contento|O ,|O nos|O volvimos|O a|O preparar|O y|O nos|O fuimos|O a|O chueca|O a|O cenar|O .|O
+Nos|O habían|O recomendado|O ir|O a|O picar|O algo|O a|O La_Bardemcilla|O .|O
+Un|O sitio|O que|O pertenece|O a|O la|O hermana|O de|O Javier_Bardem|O por|O lo|O visto|O .|O
+El|O sitio|O me|O gustó|O ,|O la|O decoración|O muy|O acogedora|O y|O en_plan_de|O picoteo|O bien|O ,|O un|O poco|O caro|O para|O lo|O que|O estamos|O acostumbrados|O en|O Vitoria|O pero|O bien|O .|O
+Tomamos|O unas|O copas|O por|O Chueca|O ,|O me|O encantó|O la|O zona|O ,|O y|O vuelta|O a|O el|O hotel|O .|O
+Dormimos|O en|O la|O supercama|O (|O me|O pareció|O enorme|O )|O como|O angelitos|O y|O por|O la|O mañana|O no|B-C os|O puedo|O hablar|O de|O el|O desayuno|O porque|O no|B-C nos|O quedamos|O ,|O pero|O una|O chica|O que|O conocimos|O mientras|O esperábamos|O en|O recepción|O nos|O dijo|O que|O era|O tipo|O buffet|O ,|O majo|O pero|O 12|O euros|O por_barba|O .|O
+Nos|O fuimos|O a|O la|O zona|O centro|O y|O desayunamos|O en|O un|O bar|O un|O chocolate|O con|O porras|O que|O casi|O me|O meo|O de|O el|O gusto|O .|O 6|O euros|O los|O dos|O por|O cierto|O .|O
+Bueno|O que|O no|B-C os|O doy|O la|O chapa|O más|O ,|O el|O hotel|O nos|O costó|O con|O una|O oferta|O 61|O euros|O noche|O sin|B-C desayuno|O ni|B-C parking|O como|O ya|O os|O he|O dicho|O .|O
+En|O mi|O opinion|O el|O hotel|O está|O muy|O bien|O ,|O sin|B-C grandes|O lujos|O .|O
+Si|O lo|O que|O quieres|O es|O estar|O cerca|O de|O el|O centro|O ,|O cómodo|O ,|O en|O un|O sitio|O limpio|O ,|O acogedor|O ,|O con|O fácil|O transporte|O y|O por|O cierto|O con|O el|O calor|O lo|O de|O la|O piscina|O es|O un|O puntazo|O ,|O pues|O yo|O creo|O que|O es|O muy|O buena|O opción|O .|O
+Repetiría|O .|O
+Otra|O cosa|O ,|O para|O los|O padres|O ,|O tienen|O un|O servicio|O que|O montan|O unas|O tiendas|O de|O campaña|O para|O los|O peques|O con|O talleres|O de|O pintar|O camisetas|O y|O así|O (|O solo|O los|O sabados|O )|O y|O la|O verdad|O se|O les|O veía|O de|O lo|O más|O entretenidos|O .|O
+Ah|O y|O también|O hay|O piscina|O para|O peques|O ,|O chiquitina|O pero|O bien|O .|O
+Espero|O que|O os|O sirva|O de|O algo|O .|O
+Un|O beso|O y|O gracias|O por|O leer|O me|O .|O
+Estuve|O hospedado|O tres|O noches|O en|O el|O hostal|O y|O desde_luego|O mi|O experiencia|O no|B-C fue|O muy|O buena|O que|O digamos|O .|O
+Es|O verdad|O que|O el|O hostal|O es|O céntrico|O y|O tiene|O muy|O buena|O situacion|O de_cara_a|O ver|O cosas|O de|O la|O ciudad|O pero|O desde_luego|O no|B-C tienen|O nada|I-C que|O ver|O con|O las|O imágenes|O que|O aparecen|O en|O la|O web|O o_sea|O en|O otras|O palabras|O un|O verdadero|O engaño|O .|O
+El|O cuarto|O de|O baño|O era|O bastante|O pequeño|O y|O muy|O destartalado|O ,|O como|O la|O habitación|O ,|O las|O toallas|O muy|O estropeadas|O ,|O viejas|O y|O descoloridas|O ,|O las|O colchas|O de|O las|O camas|O sucias|O y|O asi|O una|O cosa|O detras|O de|O otra|O .|O
+Desde|O la|O habitación|O se|O podía|O oir|O todo|O lo|O que|O sucedia|O en|O el|O hall|O de|O el|O hotel|O .|O
+Antes_de|O hacer|O la|O reserva|O de|O la|O habitación|O intenté|O buscar|O opiniones|O de|O gente|O que|O lo|O hubiera|O visitado|O y|O no|B-C encontré|O mucho|O ,|O sin_embargo|O lei|O una|O muy|O detallada|O que|O dejaba|O a|O el|O hostal|O ,|O poco|O mas|O que|O a|O la|O altura|O de|O el|O hotel|O Palace|O ,|O y|O después_de|O haber|O visitado|O el|O hostal|O puedo|O asegurar|O que|O esa|O opinión|O es|O muy|O muy|O subjetiva|O y|O muy|O poco|O imparcial|O .|O
+Desde_luego|O aqui|O no|B-C vuelvo|O a|O venir|O .|O
+Escogimos|O este|O hotel|O por|O su|O localización|O cercana|O a|O barajas|O y|O su|O servicio|O de|O transfer|O gratuito|O a|O el|O aeropuerto|O ,|O sin_embargo|O no|B-C volveremos|O a|O repetir|O esta|O horrible|O experiencia|O .|O
+La|O entrada|O y|O la|O apariencia|O de|O el|O hotel|O es|O impresionante|O ,|O sin_embargo|O la|O simpatía|O y|O amabilidad|O de|O el|O personal|O de|O recepción|O así_como|O la|O calidad|O de|O las|O instalaciones|O brillan|O por|O su|O ausencia|O .|O
+HABITACIONES|O :|O 2/10|O .|O
+Las|O habitaciones|O están|O muy|O deterioradas|O por|O el|O uso|O :|O el|O lavabo|O atascado|O ,|O la|O grifería|O de|O la|O ducha|O suelta|O de|O la|O pared|O ,|O la|O alcachofa|O de|O la|O ducha|O con|O desconchones|O ,|O la|O moqueta|O sucia|O ,|O etc.|O
+El|O precio|O de|O el|O servicio|O de|O habitaciones|O ,|O bares|O y|O restaurantes|O excesivamente|O caro|O (|O un|O bocadillo|O por|O 12|O euros|O es|O casi|O una|O estafa|O )|O
+SERVICIO|O TRANSFER|O :|O 1/10|O .|O
+Efectivamente|O el|O hotel|O dispone|O de|O servicio|O transfer|O gratuito|O a|O el|O aeropuerto|O ,|O sin_embargo|O solo|O existe|O un|O servicio|O cada|O hora|O y|O las|O plazas|O son|O limitadas|O .|O
+Las|O plazas|O están|O limitadas|O no|B-C solo|O por|O el|O número|O de|O pasajeros|O (|O 18|O )|O sino|O también|O por|O el|O ridículo|O maletero|O que|O posee|O el|O minibús|O que|O realiza|O el|O servicio|O ya_que|O si|O las|O maletas|O que|O lleva|O la|O gente|O son|O grandes|O y|O no|B-C caben|O más|O en|O el|O maletero|O ,|O pues|O el|O minibús|O se|O irá|O con|O menos|O pasajeros|O si|O llega|O el|O caso|O ,|O que|O es|O lo|O que|O nos|O ha|O pasado|O a|O nosotros|O .|O
+Citando|O palabras|O textuales|O de|O la|O recepción|O de|O el|O hotel|O "|O como|O el|O servicio|O de|O transfer|O no|B-C esta|O incluido|O en|O el|O precio|O de|O el|O hotel|O y|O es|O un|O servicio|O gratuito|O que|O se|O ofrece|O ,|O o|O esperas|O una|O hora|O a|O el|O siguiente|O autobús|O (|O con|O el|O riesgo|O de|O perder|O el|O vuelo|O )|O o|O te|O coges|O un|O taxi|O a|O el|O aeropuerto|O "|O cuyo|O coste|O es|O de|O 22|O euros|O (|O y|O menos|O mal|O que|O el|O hotel|O esta|O cerca|O )|O .|O
+PARKING|O DEL|O HOTEL|O .|O 2/10|O
+Nos|O han|O intentado|O cobrar|O una|O tarifa|O de|O el|O parking|O superior|O a|O la|O establecida|O .|O
+Cuando|O les|O hemos|O dicho|O que|O la|O tarifa|O no|B-C era|O correcta|O nos|O han|O respondido|O con|O despotismo|O y|O desprecio|O .|O
+Después_de|O explicar|O les|O que|O tal_y_como|O se|O indica|O en|O la|O tabla|O de|O tarifas|O ,|O a|O el|O aumentar|O la|O estancia|O disminuye|O el|O precio|O por|O día|O evidentemente|O nos|O han|O dado|O la|O razón|O y|O nos|O han|O cobrado|O la|O cantidad|O correcta|O sin|B-C disculpar|O se|O y|O de|O forma|O desagradable|O .|O
+LOCALIZACION|O DEL|O HOTEL|O :|O 1/10|O .|O
+El|O hotel|O esta|O localizado|O en|O el|O medio|O de|O la|O nada|I-C .|O
+A_no_ser_que|O conozcas|O un|O poco|O la|O zona|O es|O casi|O imposible|O llegar|O a|O el|O hotel|O ya_que|O a_diferencia_de|O otros|O hoteles|O no|B-C esta|O señalizado|O .|O
+Y|O menos|O mal|O que|O teníamos|O GPS|O !|O !|O .|O
+No|B-C existe|O ninguna|I-C otra|O forma|O de|O llegar|O a|O el|O aeropuerto|O que_no_sea|O en|O taxi|O o|O en|O su|O transfer|O .|O
+Soy|O cliente|O de|O este|O hostal|O desde|O hace|O mucho|O tiempo|O y|O me|O da|O pena|O ver|O opiniones|O de|O gente|O que|O ni_tan_siquiera|B-C han|O pasado|O unan|O noche|O estado|O :|O
+es|O totalmente|O injusto|O .|O
+La|O localizacion|O es|O inmejorable|O ,|O justo|O detras|O de|O el|O Congreso_de_los_Diputados|O ,|O que|O yo|O sepa|O es|O uno|O de|O los|O edificios|O mas|O importantes|O de|O Madrid|O (|O y|O de|O toda|O la|O nacion|O )|O ,|O la|O calle|O hace|O esquina|O con|O el|O Paseo_de_el_Prado|O ,|O a|O 5|O min|O .|O de|O todos|O los|O museos|O ,|O monumentos|O ,|O restaurantes|O ,|O teatros|O ,|O ...|O
+la|O relacion|O calidad|O precio|O es|O mas|O que|O buena|O ,|O y|O si|O no|B-C vayan|O dos|O personas|O a|O un|O restaurante|O corriente|O a|O comer|O y|O les|O costara|O mas|O caro|O que|O una|O noche|O .|O
+Se|O hablan|O varios|O idiomas|O ,|O es|O tan|O seguro|O que|O los|O clientes|O se|O pueden|O llevar|O el|O juego|O de|O llaves|O consigo|O .|O
+No|B-C se|O que|O mas|O se|O puede|O pedir|O .....|O
+Elegimos|O este|O hotel|O habiendo|O visto|O tan|O sólo|O una|O foto|O de|O el|O exterior|O por|O internet|O ,|O mal|O hecho|O ,|O pero|O nos|O decidimos|O por|O él|O dada|O su|O situación|O tan|O céntrica|O .|O
+A|O el|O entrar|O ya|O vimos|O que|O el|O hotel|O estaba|O en|O unas|O condiciones|O ruinosas|O ,|O y|O cuando|O subimos|O a|O las|O habitaciones|O se|O confirmó|O la|O opinión|O .|O
+Pasillos|O de|O paredes|O sucias|O ,|O moqueta|O muy|O ,|O muy|O vieja|O ,|O y|O habitaciones|O peores|O aún|O .|O
+Del|O buffet|O de|O desayuno|O no|B-C puedo|O opinar|O ,|O ya_que|O no|B-C lo|O incluía|O nuestro|O régimen|O .|O
+Afortunadamente|O ,|O el|O hotel|O anunciaba|O una|O restauración|O en|O poco|O tiempo|O ,|O así|O que|O espero|O que|O el|O hotel|O resurja|O después_de|O ésta|O ,|O porque|O de|O momento|O sus|O tres|O estrellas|O le|O vienen|O grande|O .|O

@@ -1,0 +1,688 @@
+Si|O quieres|O tirar|O el|O dinero|O esta|O muy|O bien|O ,|O pero|O la|O verdad|O es|O que|O deja|O mucho|O que|O desear|O si|O se|O compara|O con|O cualquier|O otra|O lavadora|O de|O la|O marca|O edesa|O ,|O no|B-C es|O electronica|O ,|O consume|O como|O un|O demonio|O ,|O y|O el|O gasto|O de|O agua|O es|O disparatado|O (|O comparando|O lo|O con|O otros|O modelos|O de|O edesa|O como|O el|O L1015|O o|O L1026|O o|O L836|O )|O .|O
+number of cues= 1.0
+number of tokens= 63
+====================================================
+Se|O nota|O muchisimo|O que|O han|O intentado|O ahorrar|O tanto|O en|O tecnologia|O ,|O que|O hasta|O parece|O que|O se|O han|O olvidado|O que|O tiene|O que|O lavar|O ,|O ademas|O de|O tener|O un|O tambor|O pequeño|O 4,5|O kilos|O exactamente|O no|B-C toma|O el|O suavizante|O correctamente|O ,|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+hay|O veces|O que|O directamente|O no|B-C lo|O toma|O ,|O y|O la|O ropa|O sale|O empapada|O (|O falta|O de|O revoluciones|O 500|O ?|O ?|O )|O y|O no|B-C del_todo|I-C limpia|O ,|O hay|O que|O poner|O 30|O grados|O o|O 40|O para|O que|O lo|O deje|O aceptable|O ,|O mientras_que|O en|O otros|O modelos|O con|O un|O programa|O frio|O lo|O deja|O perfecto|O .|O
+number of cues= 2.0
+number of tokens= 51
+====================================================
+Me|O compre|O la|O lavadora|O (|O bosch|O was20440ee|O )|O muy|O bonita|O ,|O mucha|O tecnologia|O pero|O para|O nada|B-C .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+El|O servicio|O tecnico|O oficial|O impresentables|O ,|O absolutamente|B-C nada|I-C agiles|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Visitas|O de|O tecnicos|O miles|O ,|O hoy|O hay|O que|O cambiar|O un|O pieza|O ,|O mañana|O otra|O ,|O pasado_mañana|O hay|O que|O codificar|O la|O ,|O espera|O te|O que|O no|B-C hay|O en|O almacen|O y|O vienen|O de|O alemania|O .....|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+despues|O de|O haber|O pasado|O dos|O reclamaciones|O por|O escrito|O (|O que|O caen|O en|O saco|O roto|O )|O no|B-C he|O recibido|O ninguna|I-C disculpa|O formal|O por|O su|O parte|O ,|O por|O los|O incovenientes|O que|O estoy|O teniendo|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Os|O deseo|O sinceramente|O que|O la|O tecnologia|O no|B-C os|O falle|O nunca|I-C pues|O su|O servicio|O tecnico|O ,|O según|O mi|O experiencia|O ,|O es|O que|O falla|O siempre|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+yo|O creía|O que|O se|O debía|O a|O el|O contacto|O entre|O la|O propia|O ropa|O (|O cremalleras|O ...|O )|O pero|O como|O he|O podido|O leer|O aquí|O no|B-C soy|O a|O la|O única|O que|O le|O ocurre|O y|O además|O con|O esta|O misma|O lavadora|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+Color|O :|O La|O verdad|O es|O que|O no|B-C especifica|O que|O color|O ,|O pero|O supongo|O que|O será|O válido|O para|O todos|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Blanco|O :|O Lo|O que|O no|B-C es|O color|O es|O blanco|O y|O viceversa|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Eco|O :|O Eco-Nómico|O ,|O para|O el|O blanco|O no|B-C muy|O negro|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Tenemos|O 7|O botoncitos|O ,|O la|O leche|O ¿|O no|O ?|O pues|O venga|O a|O el|O ataque|O vamos|O con|O ellos|O ,|O que|O tampoco|B-C serán|O tan|I-C dificiles|O :|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Centrifugado|O :|O De|O nuevo|O con|O el|O mismo|O sistema|O ,|O tenemos|O entre|O 400|O y|O 1000|O ,|O rpm|O de|O el|O tambor|O ,|O para|O los|O que|O tenemos|O coche|O facil|O de|O entender|O ,|O y|O una|O opción|O con|O un|O bombo|O tachado|O ,|O esta|O es|O sin|B-C centrifugado|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Temperatura|O ,|O en|O grados|O Celsius|O ,|O no|B-C le|O pngamos|O mucha|O que|O la|O ropa|O enccoge|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+DE|O :|O Puerta|O habierta|O la|O D|O supongo|O que|O es|O por|O door|O ,|O a|O e|O ni_idea|B-C .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+IE|O :|O No|B-C tiene|O agua|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+UE|O :|O No|B-C puedo|O centrifugar|O ,|O te|O has|O pasado|O de|O ropa|O ,|O saca|O algo|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Hay|O alguno|O mas|O pero|O esos|O ya|B-C no|I-C los|O pillo|O ni_de_coña|I-C .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+La|O lavadora|O tiene|O un|O sistema|O llamado|O direct|O drive|O ,|O con|O lo|O cual|O ,|O no|B-C hace|O nada_de|I-C ruido|O ,|O es|O incrible|O ,|O con|O lo|O ruidosas|O que|O son|O las|O lavadoras|O esta|O es|O de|O lo|O mas|O discreta|O ,|O buen|O invento|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+Tiene|O quizas|O el|O inconveniente|O que|O no|B-C tiene|O muchas|O opciones|O de|O lavado|O (|O como|O 1/2|O carga|O ,|O supresión|O centrifugado|O ,|O selector|O temperatura|O )|O que|O la|O hagan|O antieconomica|O para|O familias|O pequeñas|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Los|O restos|O de|O detergente|O que|O quedan|O despues|O de|O los|O lavados|O son|O optimos|O si|O bien|O la|O que|O tenia|O anterior|O dejaba|O menos|O ,|O esto|O no|B-C es|O perceptible|O si|O no|B-C sobrepasas|O la|O carga|O máxima|O recomendada|O .|O
+number of cues= 2.0
+number of tokens= 33
+====================================================
+Ademas|O casi|B-C no|I-C hace|O ruido|O ,|O y|O eso|O no|B-C hay|O dinero|O que|O lo|O pague|O ,|O lavadoras|O silenciosas|O ,|O es|O un|O descanso|O para|O la|O cabeza|O .|O
+number of cues= 2.0
+number of tokens= 25
+====================================================
+Ojala|O me|O dure|O mucho|O tiempo|O ,|O pero|O si|O por|O cualquier|O motivo|O tuviera|O que|O elegir|O otra|O vez|O la|O lavadora|O ,|O desde_luego|O no|B-C dudaría|O en|O elegir|O siemens|O ,|O la|O anterior|O tambien|O era|O de|O la|O misma|O marca|O ,|O pero|O la|O lleve|O para|O la|O casita|O de|O verano|O y|O me|O he|O comprado|O esta|O para|O usar|O a|O diariario|O que|O es|O donde|O tengo|O mas|O ropa|O para|O lavar|O .|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+Email|O enviado|O a|O FAGOR|O para|O que|O arreglen|O una|O lavadora|O ultimo|O modelo|O de|O la|O marca|O que|O no|B-C es|O capaz|O de|O efectuar|O su|O primer|O lavado|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Llevo|O 72|O horas|O desde|O que|O comunique|O la|O anomalía|O y|O a|O dia|O de|O hoy|O mi|O super|O lavadora|O con|O pantalla|O de|O Lcd|O modelo|O F-4611|O sigue|O sin|B-C funcionar|O y|O sin|B-C proporcionar|O me|O las|O espectativas|O que|O de|O un|O electrodoméstico|O de|O cerca|O de|O 700|O euros|O se|O espera|O de|O él|O .|O
+number of cues= 2.0
+number of tokens= 45
+====================================================
+Veo|O en|O su|O pagina|O web|O que|O las|O reparaciones|O en|O 24|O horas|O y|O que|O si|O no|B-C no|B-C cobran|O el|O desplazamiento|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+De|O que|O me|O sierve|O a|O mi|O ese|O caramelo|O si|O mi|O aparato|O esta|O EN|O GARANTÍA|O y|O que|O por|O un|O defecto|O de|O fabricacion|O no|B-C funciona|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Ustedes|O sigan|O así|O que|O yo|O me|O he|O comprado|O 8|O electrodomesticos|O de|O su|O marca|O ,|O cosa|O qeu|O no|B-C volveré|O a|O repertir|O y|O haré|O todo|O lo|O posible|O para_que|O esto|O no|B-C quede|O como|O un|O caso|O aislado|O ,|O informando|O en|O todo|O tipo|O de|O foros|O de|O internet|O ,|O allegados|O ,|O etc.|O
+number of cues= 2.0
+number of tokens= 46
+====================================================
+Quería|O que|O fuera|O de|O la|O marca|O LG|O ,|O porque|O tienen|O fama|O de|O ser|O modernas|O y|O de|O buena|O calidad|O ,|O además_de|O incorporar|O el|O sistema|O Direct_Drive|O que|O hace|O que|O la|O lavadora|O no|B-C tambalee|O y|O apenas|B-C haga|O ruido|O (|O a|O el|O centrifugar|O sobre|O todo|O )|O .|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+La|O ropa|O sale|O limpia|O y|O en|O buen|O estado|O que|O da|O gusto|O ,|O aunque|O todo|O depende|O también|O de|O usar|O el|O detergente|O adecuado|O ,|O y|O evitar|O el|O suavizante|O para_que|O no|B-C se|O acumulen|O restos|O dentro_de|O la|O lavadora|O .|O
+number of cues= 1.0
+number of tokens= 35
+====================================================
+Una|O pastilla|O antical|O en|O cada|O lavado|O también|O es|O conveniente|O ,|O sobre|O todo|O si|O no|B-C vives|O en|O una|O zona|O con|O agua|O dulce|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+En|O un|O principio|O todo|O iba|O bien|O ,|O casi|B-C no|I-C se|O movía|O ,|O reformamos|O la|O cocina|O ,|O nivelamos|O el|O suelo|O y|O a_partir_de|O ahí|O ya|O fue|O imposible|O nivelar|O la|O lavadora|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Llamas|O a|O el|O servicio|O técnico|O y|O dice|O que|O no|B-C es|O nada|I-C ,|O que|O si|O la|O presión|O de|O el|O grifo|O es|O mala|O que|O tal|O ,|O cobra|O 45|O y|O se|O larga|O ,|O a|O los|O dos|O días|O nos|O llaman|O y|O nos|O dicen|O que|O ese|O modelo|O y|O serie|O tiene|O mal|O la|O placa|O electrócnica|O que|O tienen|O que|O cambiar|O lo|O por|O orden|O de|O el|O fabricante|O ,|O lo|O cambian|O y|O misteriosamente|O dejó|O de|O salir|O agua|O .|O
+number of cues= 1.0
+number of tokens= 69
+====================================================
+Luego_de|O 3|O años|O se|O han|O fastidiado|O los|O rodamientos|O que|O te|O piden|O 180|O €|O de|O mano|O de|O obra|O y|O porque|O los|O materiales|O están|O en|O garantía|O ,|O menuda|O desvergüenza|O ,|O por|O materiales|O de|O 20|O €|O 180|O de|O mano|O de|O obra|O ,|O que|O no|B-C digo|O que|O no|B-C lo|O valga|O ,|O pero|O no|B-C para|O quedar|O se|O con|O una|O lavadora|O vieja|O y|O tocada|O .|O
+number of cues= 3.0
+number of tokens= 59
+====================================================
+la|O primera|O no|B-C dijeron|O nada|I-C y|O la|O segunda|O que|O si|O quiero|O los|O compre|O en|O el|O servicio|O técnico|O y|O me|O los|O cambie|O yo|O ,|O pero|O viendo|O lo|O malo|O que|O son|O sus|O productos|O preferiría|O averiguar|O cuales|O son|O los|O que|O usa|O ,|O y|O la|O junta|O ,|O y|O comprar|O los|O en|O otro|O sitio|O .|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+ni|B-C yo|O ni|I-C donde|O trabajo|O volveremos|O a|O comprar|O nada|I-C de|O la|O marca|O LG|O ,|O y|O no|B-C parece|O que|O sea|O a|O el|O único|O que|O le|O pasa|O
+number of cues= 2.0
+number of tokens= 25
+====================================================
+Se|O pone|O a|O bailar|O y|O a|O menear|O las|O caderas|O y|O eso|O que|O no|B-C le|O ponemos|O música|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+no|B-C se|O si|O llamar|O otra|O vez|O a|O el|O servicio|O técnico|O para_que|O no|B-C hagan|O nada|I-C como|O la|O otra|O vez|O ya_que|O me|O han|O informado|O que|O el|O problema|O de|O esta|O lavadora|O es|O que|O hay|O que|O cambiar|O le|O el|O contrapeso|O y|O eso|O no|B-C te|O lo|O hacen|O porque|O cuesta|O mucho|O dinero|O y|O estando|O en|O garantía|O ,|O pues|O que|O te|O den|O .|O
+number of cues= 3.0
+number of tokens= 56
+====================================================
+Me|O he|O decidido|O a|O dar|O esta|O opinión|O porque|O estoy|O indignada|O con|O esta|O lavadora|O pero|O sobre|O todo|O con|O la|O marca|O Fagor|O ,|O quienes|O no|B-C me|O han|O hecho|O ni|I-C caso|O ante|O mis|O quejas|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+(|O la|O primera|O vez|O no|B-C me|O lo|O podóa|O creer|O ...|O )|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+A|O las|O 2|O semanas|O de|O comprar|O la|O llamé|O a|O los|O técnicos|O quienes|O la|O probaron|O y|O me|O dijeron|O que|O estas|O máquinas|O hacían|O ese|O ruido|O y|O que|O estaba|O dentro_de|O lo|O normal|O ...|O (|O que|O ¡|O qué|O quería|O ¡|O ¡|O ¡|O una|O capacidad|O de|O 8|O kilos|O en|O las|O mismas|O medidas|O que|O las|O de|O 6kilos|O y|O que|O no|B-C hiciera|O ruido|O ¡|O ¡|O ¡|O ¡|O ...|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+por_supuesto|O tambien|O llamé|O a|O la|O central|O de|O Fagor|O y|O despues|O de|O hablar|O con|O ellos|O me|O comentaron|O que|O era|O su|O funcionamiento|O normal|O y|O como|O no|B-C era|O un|O defecto|O de|O la|O máquina|O que|O ni|B-C me|O la|O cambiaban|O ni|B-C me|O devolvían|O el|O dinero|O .|O .|O
+number of cues= 3.0
+number of tokens= 42
+====================================================
+no|B-C se|O si|O mi|O critica|O es|O para|O la|O lavadora|O o|O para|O el|O servicio|O tecnico|O LG|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+despues|O de|O varias|O llamadas|O a|O el|O servicio|O tecnico|O y|O varias|O clavadas|O por|O venir|O a|O ver|O la|O (|O aqui|O viene|O lo|O fuerte|O )|O me|O culpaban|O a|O mi|O porque|O por|O lo|O visto|O no|B-C la|O cargaba|O bien|O ,|O hay|O que|O llevar|O un|O orden|O de|O prioridad|O para|O llenar|O la|O .|O
+number of cues= 1.0
+number of tokens= 46
+====================================================
+Primero|O prendas|O grandes|O ,|O luego|O medianas|O ultimo|O braguitas|O y|O calcetines|O porque|O si|O no|B-C la|O desestabilizo|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Creo|O que|O el|O servicio|O tecnico|O no|B-C sabia|O por|O donde|O meter|O le|O mano|O a|O tanta|O modernura|O y|O se|O desentendio|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Manchaba|O la|O ropa|O con|O una|O especie|O de|O grasa|O negra|O (|O no|B-C funcionó|O el|O asunto|O de|O meclar|O vinagre|O con|O un|O programa|O a|O 90º|O y|O recomendado|O por|O el|O técnico|O )|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+A_punto_de|O expirar|O la|O garantía|O legal|O de|O los|O dos|O años|O los|O técnicos|O tuvieron|O que|O sustituir|O el|O tambor|O completo|O (|O y|O con|O cada|O avería|O lógicamenete|O no|B-C pudía|O lavar|O la|O ropa|O )|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+En|O enero_de_2008|O aparecieron|O rozamientos|O y|O ruidos|O de|O el|O nuevo|O tambor|O por|O lo|O que|O ,|O desesperado|O ,|O he|O adquirido|O una|O AEG|O modelo|O 5214|O que|O cometaré|O en|O Ciao|O !|O (|O cruzo|O los|O dedos|O para_que|O no|B-C me|O salga|O rana|O como|O la|O BOSCH|O )|O y|O me|O desentiendo|O de|O esta|O ya_que|O ha|O sido|O muy|O mala|O en|O origen|O y|O no|B-C me|O pienso|O gastar|O otros|O 200|O euros|O y|O pico|O en|O el|O técnico|O a|O el|O estar|O fuera_de|O los|O dos|O años|O de|O garantía|O .|O
+number of cues= 2.0
+number of tokens= 75
+====================================================
+No_obstante|O mi|O mujer|O me|O recomienda|O que|O de_ahora_en_adelante|O no|B-C adquiera|O más|O productos|O de|O esta|O marca|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Lo|O siento|O por|O ellos|O pero|O una|O lavadora|O con|O menos|O de|O tres|O años|O y|O de|O muy|O escaso|O uso|O (|O para|O dos|O personas|O )|O es|O inaceptable|O que|O le|O ocurran|O tantas|O desgracias|O (|O en|O su|O instalación|O comprobé|O que|O las|O envolturas|O y|O corchos|O estaban|O correctos|O y|O no|B-C había|O sufrido|O ningún|I-C golpe|O en|O el|O transporte|O )|O .|O
+number of cues= 1.0
+number of tokens= 52
+====================================================
+Insisto|O en|O que|O BOSCH|O no|B-C es|O mala|O marca|O simplemente|O he|O tenido|O mala|O suerte|O con|O uno|O de|O sus|O productos|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+No|B-C quiero|O que|O nadie|B-C se|O lleve|O a|O desengaño|O ,|O mis|O otros|O electrodomesticos|O BOSCH|O funcionan|O perfectamente|O aunque|O hace|O poco|O leí|O en|O Internet|O de|O un|O técnico|O que|O en|O frigorificos|O y|O lavadoras|O siempre|O se|O debería|O comprar|O AEG|O y|O en|O placas|O de|O inducción|O ,|O lavavajillas|O y|O hornos|O la|O marca|O BOSCH|O .|O
+number of cues= 2.0
+number of tokens= 47
+====================================================
+Por|O último|O ,|O quiero|O destacar|O que|O el|O día|O 10_de_enero_de_2008|O el|O técnico|O que|O me|O instaló|O la|O lavadora|O AEG|O modelo|O 5214|O me|O indicó|O que|O en|O poco|O tiempo|O yo|O era|O el|O cuarto|O cliente|O que|O tenía|O problemas|O con|O una|O lavadora|O BOSCH|O y|O que|O le|O estaba|O llamando|O la|O atención|O este|O hecho|O ,|O inexistente|O en|O otros|O tiempos|O ;|O que|O el|O tiene|O una|O BOSCH|O desde|O hace|O cuatro|O años|O y|O no|B-C estaba|O muy|I-C tranquilo|O por|O lo|O que|O estaba|O ocurriendo|O y|O que|O iba|O a|O cruzar|O los|O dedos|O .|O
+number of cues= 1.0
+number of tokens= 79
+====================================================
+Expresé|O estos|O hechos|O en|O la|O página|O web|O de|O BOSCH|O aunque|O sólo|O me|O dejaban|O tramitar|O lo|O como|O una|O reclamación|O (|O yo|O no|B-C quería|O reclamar|O nada|I-C ,|O sólo|O que|O tuvieron|O conocimiento|O de|O estos|O incidentes|O )|O y|O a|O los|O pocos|O días|O me|O llamó|O una|O operadora|O dando|O como|O solución|O que|O me|O ofertaban|O un|O modelo|O superior|O (|O no|O que|O me|O la|O sustituían|O o|O hacían|O un|O descuento|O ,|O simplemente|O que|O me|O ofertaban|O otra|O ,|O vamos|O ,|O como|O el|O que|O va|O a|O una|O tienda|O )|O .|O
+number of cues= 1.0
+number of tokens= 79
+====================================================
+Cuando|O le|O indiqué|O que|O habían|O tardado|O demasiado|O en|O contestar|O y|O que|O la|O lavadora|O ya|B-C no|I-C la|O tenía|O entonces|O me|O dijo|O que|O no|B-C podían|O hacer|O nada|I-C ,|O que|O esperaban|O que|O volviera|O a|O confiar|O en|O la|O marca|O y|O que|O daba|O por|O cerrada|O la|O reclamación|O .|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+Fui|O a|O la|O tienda|O con|O las|O ideas|O bastante|O claras|O ,|O necesitaba|O una|O lavadora|O de|O gran|O capacidad|O ,|O con|O muchas|O revoluciones|O de|O centrifugado|O ,|O porque|O en|O mi|O cocina|O no|B-C me|O cabe|O una|O secadora|O y|O necesito|O que|O la|O ropa|O salga|O ya|O bastante|O seca|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Por_otro_lado|O tiene|O dos|O opciones|O de|O centrifugado|O a|O 500|O o|O a|O 900|O rpm|O .|O ,|O cuando|O centrifuga|O a|O 900|O a|O el|O principio|O asusta|O un|O poco|O porque|O suena|O igual|O que|O un|O avión|O a_punto_de|O despegar|O ,|O al_cabo_de|O el|O tiempo|O acabas|O por|O acostumbrar|O te|O (|O no|B-C así|O tus|O vecinos|O )|O
+number of cues= 1.0
+number of tokens= 46
+====================================================
+Que|O poquitas|O prestaciones|O ,|O no|B-C fue|O una|O lavadora|O cara|O ,|O pero|O tampoco|B-C la|O más|O barata|O .|O
+number of cues= 2.0
+number of tokens= 16
+====================================================
+La|O tercera|O fue|O más|O gorda|O ,|O se|O inundo|O mi|O casa|O y|O parte|O de|O la|O de|O mi|O vecina|O ,|O la|O deje|O en|O marcha|O y|O me|O fui|O a|O trabajar|O ,|O a|O mi|O vuelta|O comprobé|O que|O la|O lavadora|O no|B-C habia|O dejado|O de|O coger|O agua|O en|O toda|O la|O mañana|O ,|O se|O desbordaba|O por|O todas|O partes|O .|O
+number of cues= 1.0
+number of tokens= 52
+====================================================
+Y|O aun|B-C no|I-C ha|O terminado|O la|O odisea|O ,|O parece|O ser|O que|O la|O lavadora|O no|B-C está|O preparada|O para|O centriffugar|O a|O esa|O velocidad|O ,|O se|O ha|O roto|O un|O cojinete|O ,|O ,|O hace|O un|O ruido|O terrible|O ,|O mucho|O mas|O tremendo|O que|O el|O suyo|O habitual|O ,|O y|O a_medida_que|O centrifuga|O se|O va|O saliendo|O de|O el|O lugar|O donde|O está|O empotrada|O y|O acaba|O en_medio_de|O la|O cocina|O .|O
+number of cues= 2.0
+number of tokens= 60
+====================================================
+PD|O :|O Todo|O lo|O aqui|O referido|O es|O verídico|O ,|O no|B-C se|O trata|O de|O ninguna|I-C peli|O de|O terror|O ni|I-C de|O risa|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Tiene|O una|O capacidad|O de|O carga|O de|O 7|O kilos|O ,|O lo|O que|O permite|O lavar|O hasta|O mantas|O y|O ederedones|O sin|B-C problema|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+El|O programa|O de|O lavado|O a|O mano|O y|O lana|O viene|O de|O maravilla|O porque|O ya|B-C no|I-C lavo|O nada|I-C a_mano|O ,|O ni|B-C jeseys|O de|O lana|O ,|O ni|B-C ropa|O delicada|O .|O
+number of cues= 3.0
+number of tokens= 27
+====================================================
+Deben|O de|O utilizar|O el|O mismo|O tambor|O que|O con|O el|O modelo2FS-3611|O ,|O hace|O agujeros|O en|O la|O ropa|O ,|O la|O desgarra|O y|O ademas|O no|B-C hacen|O ningun|I-C caso|O a|O estas|O reclamaciones|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Fagor|O no|B-C me|O soluciona|O el|O problema|O que|O me|O ha|O creado|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Me|O dice|O que|O sus|O lavadoras|O no|B-C romen|O la|O ropa|O ,|O el|O servicio|O tecnico|O me|O dice|O que|O la|O lavadora|O esta|O perfectamente|O ,|O yo|O le|O contesto|O que|O yo|O no|B-C se|O como|O esta|O la|O lavadora|O ,|O se|O que|O pongo|O ropa|O a|O lavar|O y|O cada|O vez|O tengo|O mas|O ropa|O rota|O .|O
+number of cues= 2.0
+number of tokens= 47
+====================================================
+Nos|O ha|O destrozado|O ropa|O insustituible|O ,|O como|O un|O cojin|O de|O el|O jgo|O de|O cama|O de|O el|O amtrimonio|O ,|O es|O una|O salvaje|O ,|O y|O fagor|O no|B-C me|O hace|O caso|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+La|O compre|O hacia|O solo|O dos|O años|O y|O medio|O (|O fin|O de|O la|O garantia|O )|O ,|O y|O vino|O el|O servicio|O técnico|O a|O los|O tres|O días|O ,|O diciendo|O me|O :|O rodamientos|O ,|O tambor|O ,|O desplazamiento|O ,|O arreglo|O ,|O ...|O =|O 360|O euros|O de|O reparación|O ,|O y|O no|B-C me|O aseguraban|O que|O durara|O mucho|O .|O
+number of cues= 1.0
+number of tokens= 51
+====================================================
+He|O decidido|O tirar|O la|O y|O comprar|O me|O una|O Fagor|O ,|O con|O cuatro|O años|O de|O garantia|O total|O ,|O 2|O mas|O que|O me|O da|O carrefour|O ,|O pagando|O un|O 8_%|O de|O su|O valor|O ,|O y|O que|O me|O asegura|O mas|O servicio|O ,|O sin|B-C abusos|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+En|O primer|O lugar|O diría|O que|O si|O alguien|O tiene|O una|O lavadora|O de|O esta|O marca|O y|O nota|O cualquier|O tipo|O de|O vibración|O avise|O a|O el|O Servicio_Técnico|O sin|B-C demora|O y|O no|B-C confíe|O en|O la|O garantía|O de|O 7|O años|O que|O anuncia|O LG|O para|O estos|O modelos|O .|O
+number of cues= 2.0
+number of tokens= 41
+====================================================
+Desde|O el|O principio|O la|O lavadora|O vibraba|O más|O que|O todas|O las|O lavadoras|O que|O habíamos|O tenido|O anteriormente|O y|O comentando|O esto|O donde|O la|O compramos|O nos|O dijeron|O que|O estas|O de|O 1000|O rpm|O vibraban|O algo|O más|O y|O que|O si|O no|B-C se|O movía|O del|O sitio|O era|O lo|O normal|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Después_de|O esto|O ,|O la|O lavadora|O poco_a_poco|O empezó|O a|O hacer|O ruido|O ,|O primero|O a|O el|O centrifugar|O a|O 1000|O rpm|O ,|O después|O a|O 800|O rpm|O ,|O hasta|O que|O últimamente|O la|O tenemos|O que|O poner|O a|O 400|O rpm|O y|O no|B-C se|O puede|O estar|O en|O la|O cocina|O a|O el|O poner|O la|O de|O el|O ruido|O que|O hace|O .|O
+number of cues= 1.0
+number of tokens= 52
+====================================================
+Sin|B-C sacar|O la|O lavadora|O del|O sitio|O (|O seguro|O que|O no|B-C es|O la|O primera|O que|O ven|O así|O )|O ,|O gira|O el|O tambor|O y|O nos|O dice|O que|O la|O lavadora|O tiene|O mal|O los|O rodamientos|O ,|O que|O los|O dos|O años|O de|O garantía|O de|O la|O lavadora|O han|O pasado|O hace|O 3|O meses|O ,|O que|O si|O no|B-C he|O avisado|O antes|O del|O ruido|O es|O culpa|O nuestra|O y|O que|O la|O famosa|O garantía|O de|O 7|O años|O que|O anuncia|O LG|O para|O los|O modelos|O de|O tracción|O directa|O sólo|O cubre|O el|O material|O (|O los|O dos|O rodamientos|O )|O ,|O y|O que|O la|O mano|O de|O obra|O y|O el|O desplazamiento|O los|O ha|O de|O pagar|O el|O cliente|O ,|O presupuestándonos|O la|O reparación|O en|O 170|O €|O .|O
+number of cues= 3.0
+number of tokens= 108
+====================================================
+Además_de|O todo|O esto|O ,|O no|B-C existe|O ninguna|I-C garantía|O de|O que|O reparándola|O ahora|O no|B-C nos|O vuelva|O a|O suceder|O esto|O u|O otra|O cosa|O por|O el|O estilo|O el|O año|O que|O viene|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================
+Pagamos|O en|O su|O día|O casi|O 600|O €|O por|O ella|O ,|O más|O incluso|O que|O algunos|O modelos|O de|O Bosch|O y|O Siemens|O ,|O y|O nos|O hemos|O encontrado|O con|O producto|O totalmente|O deficiente|O ,|O que|O no|B-C ha|O durado|O ni|I-C dos|O años|O y|O con|O una|O marca|O que|O elude|O toda|O responsabilidad|O sobre|O ello|O .|O
+number of cues= 1.0
+number of tokens= 47
+====================================================
+Tengo|O esta|O lavadora|O desde|O hace|O medio|O año|O y|O hasta|O la|O fecha|O no|B-C he|O tenido|O ningún|I-C problema|O con|O ella|O ,|O me|O ha|O funcionado|O bine|O ,|O la|O capacidad|O esta|O decuada|O a|O mmis|O necesidadesy|O en|O general|O todo|O bie|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+No|B-C doy|O queja|O de|O esta|O lavadora|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Como|O sabrais|O ,|O esta|O lavadora|O trae|O la|O puerta|O a|O el|O frente|O y|O no|B-C en|O la|O parte|O superior|O como|O otras|O tantas|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Esta|O característica|O puede|O ser|O un|O poco|O fastidiosa|O para|O quienes|O no|B-C pueden|O agachar|O se|O un_poco|O (|O solo|O un|O poco|O )|O para|O colocar|O la|O ropa|O dentro_de|O la|O lavadora|O ,|O como|O por_ejemplo|O mi|O abuelita|O ,|O quien|O con|O sus|O dolores|O de|O huesos|O y|O demás|O siempre|O me|O pide|O ayuda|O (|O siempre|O y|O cuado|O este|O en|O casa|O )|O para|O poner|O le|O su|O ropa|O .|O
+number of cues= 1.0
+number of tokens= 58
+====================================================
+Hablando|O sobre|O sus|O características|O :|O su|O capacidad|O es|O de|O apenas|O 6|O kg|O lo|O que|O para|O muchas|O personas|O parecería|O muy|O poca|O cantidad|O ya_que|O tienen|O que|O lavar|O tinas|O y|O tinas|O de|O ropa|O acumulada|O a|O lo|O largo|O de|O la|O semana|O ,|O pero|O como|O no|B-C tengo|O mucha|O ropa|O que|O lavar|O y|O lo|O que|O tengo|O lo|O voy|O lavando|O conforme|O se|O acumula|O (|O para_que|O no|B-C se|O acumule|O tanto|O )|O no|B-C me|O es|O problema|O .|O
+number of cues= 3.0
+number of tokens= 68
+====================================================
+Cuando|O esta|O lavadora|O termina|O de|O lavar|O tu|O ropa|O ,|O la|O centrifuga|O ,|O y|O esto|O sirve|O para|O entregar|O te|O la|O ropa|O de|O un|O modo|O semiseco|O ,|O pues|O desgraciadamente|O no|B-C cuenta|O con|O sistema|O de|O secado|O (|O esa|O cuestan|O mucho|O más|O que|O esta|O y|O consumen|O una|O barbaridad|O de|O energía|O eléctrica|O )|O .|O
+number of cues= 1.0
+number of tokens= 49
+====================================================
+El|O proceso|O lo|O realiza|O en|O un|O silencio|O relativo|O ,|O no|B-C hace|O mucho|I-C ruido|O y|O eso|O esta|O bien|O ,|O muy|O bien|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+ahh|O .|O .|O y|O hablando|O de|O ciclos|O .|O .|O esta|O lavadora|O realiza|O 800|O revoluciones|O por|O minuto|O 8|O esto|O lo|O ley|O en|O el|O manual|O ,|O no|B-C creerais|O que|O me|O he|O puesto|O a|O contar|O las|O ,|O o|O si|O ?|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+asi|O que|O no|B-C es|O mucho|I-C gasto|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+El|O caso|O es|O que|O cuando|O vino|O el|O técnico|O a|O reparar|O la|O nos|O dijo|O que|O no|B-C tenía|O remedio|O porque|O se|O había|O roto|O el|O eje|O de|O no_se_qué|O y|O que|O había|O ,|O por|O tanto|O ,|O que|O comprar|O una|O nueva|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+La|O lavadora|O es|O un|O electrodoméstico|O imprescindible|O hoy|O día|O ,|O no|B-C es|O algo|O que|O se|O estropee|O y|O puedas|O tomar|O te|O un|O tiempo|O para|O comparar|O antes_de|O comprar|O ,|O porque|O mientras|O la|O ropa|O se|O va|O acumulando|O y|O es|O un|O desastre|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+Según|O nos|O comentaron|O ,|O era|O mejor|O comprar|O una|O lavadora|O que|O no|B-C fuera|O también|O secadora|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+A|O mi|O me|O daba|O rabia|O porque|O el|O hecho|O de|O que|O la|O lavadora|O también|O seque|O me|O resultaba|O muy|O útil|O ,|O sobre|O todo|O para|O las|O toallas|O y|O porque|O en|O mi|O casa|O no|B-C usamos|O el|O tendedero|O exterior|O porque|O se|O llena|O todo|O de|O olor|O de|O las|O cocinas|O .|O
+number of cues= 1.0
+number of tokens= 44
+====================================================
+Pero|O hicimos|O caso|O de|O lo|O que|O nos|O decían|O ,|O porque|O es|O una|O inversión|O ,|O y|O no|B-C es|O plan|O de|O comprar|O te|O de|O nuevo|O una|O lavadora-secadora|O y|O que|O te|O dure|O solamente|O 3|O o|O 4|O años|O y|O luego|O ,|O ale|O ,|O a|O comprar|O otra|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Nos|O costó|O unos|O 560|O euros|O ,|O si|O no|B-C recuerdo|O mal|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+En|O comparación|O con|O la|O lavadora|O anterior|O no|B-C he|O notado|O diferencia|O apenas|I-C en_cuanto_a|O el|O ruido|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+No|B-C diría|O de|O esta|O lavadora|O que|O sera|O silenciosa|O ,|O porque|O se|O escucha|O y|O cuando|O centrifuga|O se|O escucha|O aún|O más|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Pero|O lo|O de|O los|O anuncios|O estos|O que|O sale|O un|O niño|O durmiendo|O apaciblemente|O encima_de|O la|O lavadora|O ,|O con|O esta|O desde_luego|O que|O no|B-C .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Para|O ello|O tiene|O una|O rueda|O ,|O como|O las|O lavadoras|O clásicas|O ,|O pero|O que|O va|O suave|O ,|O no|B-C hace|O el|O crik|O crik|O tradicicional|O de|O las|O lavadoras|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Estos|O extras|O no|B-C están|O mal|O pero|O sin|B-C exagerar|O .|O
+number of cues= 2.0
+number of tokens= 9
+====================================================
+El|O de|O fácil|O planchado|O no|B-C se|O nota|O para_nada|I-C ;|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+se|O supone|O que|O centrifuga|O de|O un|O modo|O que|O hace|O que|O la|O ropa|O se|O arrugue|O menos|O pero|O yo|O no|B-C lo|O uso|O porque|O no|B-C noto|O la|O diferencia|O .|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+Esto|O lo|O uso|O si|O por_ejemplo|O quiero|O lavar|O un|O edredón|O y|O no|B-C quiero|O usar|O el|O programa|O específico|O que|O hay|O para|O eso|O ,|O que|O me|O parece|O que|O lava|O con|O poca|O intensidad|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+A|O la|O hora|O de|O centrifugar|O ,|O por|O cierto|O ,|O tiene|O un|O sensor|O de|O nivelación|O de|O la|O ropa|O ,|O que|O es|O para|O evitar|O roturas|O ,|O de_modo_que|O si|O la|O ropa|O por|O lo|O que|O sea|O no|B-C está|O bien|O repartida|O por|O el|O tambor|O ,|O el|O programa|O no|B-C centrifuga|O .|O
+number of cues= 2.0
+number of tokens= 45
+====================================================
+Esto|O lo|O he|O usado|O alguna|O vez|O ,|O lo|O que|O ocurre|O es|O que|O el|O jabón|O acaba|O filtrándose|O de|O la|O cubeta|O si|O tiene|O que|O esperar|O mucho|O rato|O ,|O y|O tengo|O la|O impresión|O de|O que|O lava|O peor|O ,|O a|O el|O margen|O de|O que|O dejar|O la|O lavadora|O encendida|O por|O su|O cuenta|O sin|B-C que|O haya|O nadie|B-C en|O casa|O ...|O prefiero|O no|B-C hacer|O lo|O .|O
+number of cues= 3.0
+number of tokens= 59
+====================================================
+En|O definitiva|O ,|O estoy|O contenta|O con|O la|O lavadora|O y|O no|B-C me|O ha|O dado|O ningún|I-C problema|O ,|O la|O uso|O muy|O frecuentemente|O y|O todo|O bien|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Bueno|O ,|O me|O dije|O ,|O en|O estas|O cosa|O un|O producto|O sale|O bueno|O y|O otros|O no|B-C ,|O vamos|O a|O dar|O le|O un|O vto|O de|O confianza|O ...|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Lo|O primero|O que|O me|O hizo|O fue|O llenar|O me|O la|O sábanas|O y|O camisas|O de|O manchas|O de|O grasa|O ,|O y|O todavía|B-C no|I-C he|O encontrado|O la|O forma|O de|O solucionar|O lo|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Lo|O segundo|O ,|O el|O panel|O inferior|O se|O rompió|O y|O se|O descolgó|O a|O las|O pocas|O semanas|O ,|O y|O no|B-C hay|O forma|O de|O reponer|O lo|O (|O el|O tornillo|O se|O quedó|O pegado|O a|O el|O cuerpo|O de|O la|O lavadora|O )|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+lleva|O un|O perno|O metálico|O yo|O pensé|O que|O sería|O de|O acero|O ...|O pero|O ni|B-C acero|O ni|I-C nada|B-C ,|O baquelita|O o|O malquita|O o|O no_sé_qué|O historias|O ,|O que|O se|O parte|O or|O la|O mitad|O .|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+además|O hoy|O en|O día|O que|O se|O vaya|O la|O luz|O ,|O que|O te|O corten|O el|O agua|O ,|O que|O se|O estropee|O la|O lavadora|O ,|O el|O televisor|O ,|O el|O móvil|O o|O que|O no|B-C funcione|O internet|O se|O convierte|O en|O un|O sinvivir|O !|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+la|O misión|O consistía|O en|O adquirir|O una|O lavadora|O mejor|O (|O fácil|O jeje|O )|O y|O por|O un|O módico|O precio|O porque|O la|O economía|O no|B-C es|O que|O esté|O en|O su|O mejor|O momento|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Por_otro_lado|O tenía|O que|O ser|O de|O carga|O superior|O para|O no|B-C cargar|O se|O la|O espalda|O y|O para|O que|O entrara|O en|O el|O lavadero|O ,|O el|O cual|O no|B-C es|O que|O sea|O muy|O grande|O .|O
+number of cues= 2.0
+number of tokens= 30
+====================================================
+Aunque|O ahora|O la|O mayoría|O de|O las|O nuevas|O y|O más|O potentes|O superan|O los|O 1000|O no|B-C hemos|O encontrado|O que|O ésto|O suponga|O un|O problema|O en|O la|O práctica|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Siempre|O es|O mucho|O más|O cómodo|O introducir|O la|O ropa|O por|O arriba|O para|O no|B-C tener|O que|O estar|O agachándose|O todo|O el|O rato|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Ésto|O tiene|O guasa|O porque|O primero|O no|B-C encontraba|O un|O metro|O y|O después|O he|O perdido|O el|O papel|O dónde|O lo|O he|O apuntado|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Para|O una|O familia|O no|B-C numerosa|O considero|O que|O es|O suficiente|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Los|O programas|O dependerán|O de|O si|O queremos|O o|O no|B-C prelavado|O ,|O de|O el|O tipo|O de|O ropa|O ,|O de|O la|O temperatura|O escogida|O u|O otros|O parámetros|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Normalmente|O un|O programa|O normal|O sin|B-C prelavado|O puede|O tardar|O unas|O dos|O horas|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Si|O no|B-C queremos|O centrifugar|O o|O si|O nos|O vamos|O mucho|O rato|O accionando|O este|O botón|O haremos|O que|O la|O ropa|O flote|O en|O el|O agua|O para|O no|B-C arrugar|O se|O .|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+Luego|O se|O podrá|O vaciar|O con|O o|O sin|B-C centrifugado|O según|O nuestras|O preferencias|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Aunque|O no|B-C es|O de|I-C los|I-C más|I-C amplios|O está|O repartido|O por|O toda|O España|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+cuando|O pusimos_en_funcionamiento|O la|O lavadora|O no|B-C se|O vaciaba|O el|O detergente|O (|O sólo|O lavaba|O con|O agua|O !|O )|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Supongo|O que|O tendríamos|O que|O haber|O lo|O mirado|O nosotros|O pero|O confiamos|O en|O los|O instaladores|O y|O no|B-C pensamos|O en|O esa|O tontería|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+tengo|O que|O decir|O que|O ya|O con|O ésto|O vimos|O que|O no|B-C tardaban|O mucho|I-C en|O pasar|O se|O por|O casa|O cuando|O los|O avisabas|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Casi|O siempre|O ponemos|O a_partir_de|O el|O número|O 3|O en|O los|O programas|O que|O es|O un|O ciclo|O completo|O sin|B-C prelavado|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+La|O verdad|O es|O que|O no|B-C miramos|O la|O tabla|O correspondiente|O y|O seguramente|O desaprovechamos|O funciones|O ...|O pero|O es|O lo|O más|O práctico|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Hasta|O el|O técnico|O nos|O dijo|O que|O él|O hacía|O igual|O y|O pasaba_de|B-C mirar|O lo|O de|O los|O programas|O !|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Tampoco|B-C queda|O excesivamente|O arrugada|O aunque|O no|B-C libra|O a|O la|O ropa|O de|O tener|O que|O planchar|O la|O luego|O .|O
+number of cues= 2.0
+number of tokens= 17
+====================================================
+Si|O queréis|O ahorrar|O agua|O tenéis|O la|O opción|O de|O no|B-C hacer|O prelavado|O o|O elegir|O ciclos|O de|O lavado|O cortos|O y|O rápidos|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+En_cuanto_a|O el|O ruido|O y|O las|O vibraciones|O la|O verdad|O es|O que|O no|B-C es|O muy|I-C molesta|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Las|O dimensiones|O nos|O gustaron|O ,|O el|O precio|O también|O ,|O las|O prestaciones|O ,|O la|O carga|O superior|O y|O lo|O único|O por|O lo|O que|O dudábamos|O que|O era|O la|O marca|O hasta|O ahora|O no|B-C nos|O ha|O dado|O ningún|I-C problema|O ,|O así|O que|O hasta|O nueva|O orden|O yo|O la|O volvería|O a|O comprar|O .|O
+number of cues= 1.0
+number of tokens= 46
+====================================================
+Es|O una|O lavadora|O sencilla|O ,|O no|B-C es|O de|O diseño|O ni|B-C tiene|O pantalla|O digital|O ,|O ni|B-C una|O super|O capacidad|O de|O carga|O ,|O étc|O ...|O así|O que|O si|O queréis|O todo|O éso|O ésta|O no|B-C es|O vuestra|O lavadora|O .|O
+number of cues= 4.0
+number of tokens= 35
+====================================================
+NO|B-C es|O capaz|O de|O centrifugar|O .|O
+number of cues= 1.0
+number of tokens= 6
+====================================================
+Como_mucho|O centrifuga|O un|O minuto|O y|O no|B-C llega|O a|O 1200|O revoluciones|O ni_de_coña|I-C .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Cuando|O has|O tenido|O antes|O una|O lavadora|O alemana|O (|O AEG|O )|O de|O 1000|O vueltas|O y|O comparas|O con|O esta|O ,|O ves|O que|O no|B-C hay|O color|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+1200|O aquí|O no|B-C son|O ni|I-C 700|O en|O la|O AEG|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+La|O ventaja|O es|O que|O Fagor|O recoge|O la|O máquina|O si|O no|B-C te|O satisface|O y|O eso|O es|O lo|O que|O van|O a|O hacer|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Qué|O se|O le|O va|O a|O hacer|O ,|O a|O gastar|O se|O la|O pasta|O en|O productos|O de|O verdad|O y|O no|B-C de|O mentira|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Por|O cierto|O ,|O que|O la|O prueba|O para|O la|O categoría|O energética|O y|O de|O lavado|O de|O esta|O lavadora|O está|O hecha|O con|O 6|O kilos|O de|O ropa|O y|O no|B-C con|O 8|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+La|O picaresca|O española|O no|B-C tiene|O límites|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+En|O dos|O ocasiones|O ha|O estado|O el|O servicio|O técnico|O revisando|O la|O y|O no|B-C han|O solucionado|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+-|O No|B-C lava|O bien|O si|O la|O ropa|O esta|O más|O sucia|O de|O lo|O normal|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+-|O No|B-C coge|O el|O suavizante|O ,|O por|O lo|O que|O saco|O la|O ropa|O sin|B-C olor|O y|O he|O probado|O todos|O los|O suavizantes|O que|O existen|O en|O el|O mercado|O
+number of cues= 2.0
+number of tokens= 25
+====================================================
+-|O En|O el|O programa|O de|O lavado|O corto|O siempre|O sale|O una|O parte|O de|O alguna|O prenda|O que|O no|B-C se|O ha|O llegado|O ni|I-C a|O mojar|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Pero|O si|O tengo|O que|O hablar|O de|O alguno|O de|O los|O inconvenientes|O de|O esta|O lavadora|O ,|O tendría|O que|O mencionar|O que|O es|O a|O veces|O bastante|O ruidiosa|O y|O sus|O vibraciones|O son|O algo|O molestas|O ,|O por|O lo|O que|O si|O la|O pongo|O por|O la|O noche|O ,|O tengo|O que|O cerrar|O la|O puerta|O para_que|O no|B-C me|O moleste|O el|O ruido|O que|O produce|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+Vengo|O a|O modificar|O esta|O opinión|O porque|O llevo|O más|O de|O un|O mes|O que|O esta|O lavadora|O no|B-C me|O da|O nada_más_que|I-C problemas|O ,|O a|O los|O pocas|O semanas|O de|O comprar|O la|O ,|O comenzó|O a|O vibrar|O ,|O suena|O como|O si|O fuera|O vieja|O y|O tuviera|O las|O chapas|O sueltas|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+En|O el|O aclarado|O cuando|O centrifuga|O se|O pone|O a|O brincar|O y|O hay|O que|O estar|O sujetándola|O porque|O si|O no|B-C es|O capaz|O hasta|O de|O arrancar|O el|O tubo|O de|O el|O agua|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Llevo|O un|O mes|O desde|O la|O primera|O vez|O que|O hablé|O con|O ellos|O y|O todavía|B-C esto|O no|I-C tiene|O previsto|O de|O que|O se|O arregle|O pronto|O ,|O ya|O os|O escribiré|O una|O opinión|O sobre|O mi|O periplo|O con|O LG|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Yo|O pensaba|O que|O este|O fabricante|O revisaba|O sus|O productos|O antes_de|O sacar|O los|O a|O la|O venta|O ,|O pero|O por|O lo|O visto|O esto|O no|B-C es|O así|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Y|O veremos|O como|O acaba|O esto|O ,|O de|O momento|O ,|O tengo|O una|O lavadora|O de|O más|O de|O 600|O euros|O que|O no|B-C puedo|O utilizar|O y|O sin|B-C ninguna|I-C solución|O por|O la|O casa|O ,|O por|O el|O momento|O .|O
+number of cues= 2.0
+number of tokens= 33
+====================================================
+Que|O es|O de|O 7|O kg|O de|O carga|O pero|O que|O según|O el|O técnico|O no|B-C se|O puede|O cargar|O tanto|O ,|O que|O por|O eso|O vibra|O ,|O tiene|O que|O ser|O de|O 7|O gramos|O porque|O la|O hemos|O probado|O con|O cuatro|O pijamas|O que|O no|B-C pesan|O nada|I-C y|O también|O así|O había|O que|O agarrar|O la|O para_que|O la|O lavadora|O no|B-C saliera|O corriendo|O .|O
+number of cues= 3.0
+number of tokens= 54
+====================================================
+Así_que|O no|B-C os|O recomiendo|O que|O compréis|O productos|O LG|O ,|O como|O tengáis|O la|O mala|O suerte|O de|O que|O salgan|O defectuosos|O ,|O que|O os|O pille|O Dios|O confesados|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+No|B-C compréis|O productos|O LG|O
+number of cues= 1.0
+number of tokens= 4
+====================================================
+Hace|O unas|O semanas|O mi|O lavadora|O Saivod|O después_de|O 13|O años|O ininterrumpidos|O de|O trabajo|O ,|O sin|B-C protestar|O ,|O dijo|O hasta|O aquí|O hemos|O llegado|O ,|O así|O que|O previo|O asesoramiento|O de|O que|O no|B-C merecía|O la|O pena|O el|O arreglo|O ,|O nos|O embarcamos|O a|O la|O busca|O y|O captura|O de|O la|O lavadora|O ideal|O y|O después_de|O mucho|O mirar|O y|O comparar|O relación|O calidad-precio|O ,|O la|O que|O más|O nos|O interesaba|O era|O la|O marca|O LG|O .|O
+number of cues= 2.0
+number of tokens= 65
+====================================================
+En|O un|O principio|O elegimos|O un|O modelo|O inferior|O de|O LG|O de|O igual|O capacidad|O de|O carga|O ,|O pero|O que|O por|O confusiones|O de|O la|O tienda|O al_final|O no|B-C lo|O distribuían|O y|O para|O compensar|O nos|O nos|O ofrecieron|O la|O LG|O WD10121TD|O sólo|O por|O 30|O €|O más|O ,|O cuando|O su|O precio|O real|O habría|O que|O añadir|O le|O otros|O 120|O €|O más|O que|O en|O el|O caso|O de|O Saturn|O por_ejemplo|O ,|O con|O los|O 25|O €|O de|O transporte|O ,|O esta|O lavadora|O se|O queda|O en|O unas|O 624|O €|O y|O a|O nosotros|O nos|O ha|O salido|O por|O unos|O 400|O €|O incluido|O el|O descuento|O de|O el|O plan|O prever|O ,|O así_que|O no|B-C nos|O lo|O pensamos|O dos|O veces|O y|O aceptamos|O la|O oferta|O .|O
+number of cues= 2.0
+number of tokens= 106
+====================================================
+Esta|O LG|O además|O tiene|O un|O sistema|O de|O lavado|O inteligente|O que|O detecta|O la|O cantidad|O de|O carga|O y|O la|O temperatura|O de|O el|O agua|O ,|O eligiendo|O la|O cantidad|O necesaria|O de|O agua|O y|O el|O tiempo|O de|O lavado|O ,|O reduciendo|O así|O tanto|O el|O consumo|O de|O electricidad|O como|O el|O de|O el|O agua|O ,|O tan|O necesaria|O últimamente|O y|O así|O no|B-C tenemos|O que|O esperar|O a|O acumular|O hasta|O los|O 7|O kg|O de|O ropa|O para|O poder|O poner|O la|O lavadora|O ,|O ella|O sola|O lo|O detecta|O y|O se|O adapta|O a|O la|O cantidad|O que|O tengamos|O que|O lavar|O .|O
+number of cues= 1.0
+number of tokens= 85
+====================================================
+Otra|O de|O las|O características|O quizás|O de|O las|O más|O importantes|O ,|O es|O que|O lleva|O el|O motor|O Direct_Drive|O ,|O este|O motor|O no|B-C lleva|O escobillas|O como|O la|O mayoría|O de|O las|O lavadoras|O y|O hace|O girar|O directamente|O el|O tambor|O sin|B-C necesidad|O de|O correa|O ni|I-C polea|O ,|O precisamente|O la|O avería|O de|O la|O vieja|O lavadora|O ha|O sido|O la|O polea|O ,|O el|O motor|O funcionaba|O pero|O el|O tambor|O no|B-C se|O movía|O .|O
+number of cues= 3.0
+number of tokens= 63
+====================================================
+Gracias_a|O este|O sistema|O las|O vibraciones|O casi|O desaparecen|O por|O completo|O y|O el|O ruido|O ,|O no|B-C he|O visto|O lavadora|O más|O silenciosa|O ,|O sólo|O se|O oye|O el|O ruido|O que|O hace|O la|O ropa|O a|O el|O rozar|O entre|O sí|O ,|O el|O motor|O es|O como|O si|O no|B-C existiera|O .|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+El|O funcionamiento|O es|O sencillo|O ,|O elegimos|O el|O programa|O y|O la|O lavadora|O dentro_de|O las|O posibilidades|O lógicas|O que|O ofrezca|O el|O programa|O nos|O señala|O lo|O máximo|O con|O lo|O que|O puede|O funcionar|O en|O este|O ,|O y|O a_partir_de|O ahí|O nosotros|O lo|O podremos|O modificar|O eligiendo|O el|O lavado|O (|O prelavado|O ,|O lavado|O )|O ;|O el|O aclarado|O (|O aclarado|O caliente|O ,|O plus|O y|O normal|O )|O ;|O el|O centrifugado|O (|O 1.000|O ,|O 800|O ,|O 400|O ,|O sin|B-C centrifugado|O ,|O aclarado|O en|O espera|O )|O ;|O la|O temperatura|O (|O 95º|O ,|O 60º|O ,|O 40º|O ,|O 30º|O y|O fría|O )|O y|O la|O opción|O bio|O o|O antiarrugas|O .|O
+number of cues= 1.0
+number of tokens= 95
+====================================================
+la|O lavadora|O no|B-C esta|O mal|O hasta|O que|O se|O rompe|O ,|O hay|O biene|O lo|O malo|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+estube|O esparando|O una|O semana|O y|O no|B-C aparecieron|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+el|O tenlefono|O esta|O siempre|O saturado|O .|O y|O cuando|O lo|O cojen|O su|O ayuda|O se|O limita|O a|O decir|O que|O no|B-C pueden|O hacer|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+lo|O dicho|O la|O lavadora|O normal|O pero|O mejor|O que|O no|B-C se|O rompa|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+no|B-C os|O molestais|O en|O intentar|O reparar|O la|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+La|O carga|O es|O variable|O ,|O no|B-C tenemos|O que|O seleccionar|O media|O carga|O porque|O ya|O gastara|O exactamente|O en|O relacion|O con|O la|O ropa|O que|O carguemos|O en|O el|O tambor|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+y|O otra|O cosa|O importante|O ,|O solo|O enviando|O una|O carta|O ,|O sin|B-C coste|O alguno|O ,|O Fagor|O nos|O amplia|O la|O garanti|O a|O 5|O años|O ,|O muy|O interesante|O claro|O esta|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+No|B-C se|O si|O es|O la|O lavadora|O o|O el|O nuevo|O detergente|O pero|O mi|O ropa|O cada|O dia|O esta|O mas|O limpia|O y|O suabe|O ,|O a|O eso|O es|O de|O el|O susbizante|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Lo|O de|O el|O manejo|O fue|O mas|O complicado|O ,|O aun|O teniendo|O las|O instruciones|O delante|O no|B-C me|O aclaraba|O la|O verdad|O todo|O electronico|O que|O lio|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Pero|O no|B-C se|O preocupe|O porque|O el|O nuevo|O motor|O ,|O que|O vale|O 210|O euros|O se|O lo|O dejan|O por|O 150|O porque|O la|O casa|O ya|O sabe|O que|O se|O tiene|O que|O estropear|O ...|O "|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Cuando|O no|B-C es|O el|O circuito|O impreso|O ,|O es|O el|O eje|O que|O se|O estropea|O por|O la|O cal|O (|O y|O ponemos|O antical|O en|O cada|O lavada|O )|O y|O si|O no|B-C es|O el|O filtro|O o|O cualquier|O otra|O cosa|O ...|O
+number of cues= 2.0
+number of tokens= 35
+====================================================
+En_cuestión_de|O electrodomésticos|O ,|O no|B-C se|O incluyen|O las|O novedades|O del|O mercado|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+El|O motor|O Direct_Drive|O ,|O va|O acoplado|O directamente|O a|O el|O bombo|O ,|O no|B-C lleva|O escobillas|O ni|B-C poleas|O ,|O por|O lo|O que|O su|O durabilidad|O es|O muy|O superior|O a|O el|O de|O el|O resto|O de|O lavadoras|O ,|O incluso|O en|O las|O de|O 1600|O RPM|O .|O
+number of cues= 2.0
+number of tokens= 40
+====================================================
+Tengo|O esta|O lavadora|O desde|O hace|O un|O año|O y|O estoy|O encantada|O ,|O deja|O la|O ropa|O casi|O ya|O seca|O ,|O tiene|O una|O capacidad|O enorme|O que|O me|O permite|O meter|O los|O edredones|O de|O la|O cama|O sin|B-C problema|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Os|O la|O recomiendo|O sin|B-C ninguna|I-C duda|O es|O una|O de|O las|O mejores|O en|O el|O mercado|O en|O este|O momento|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================

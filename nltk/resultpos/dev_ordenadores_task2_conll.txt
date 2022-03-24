@@ -1,0 +1,2655 @@
+ordenadores_yes_5_9	1	1	A	a	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	2	continuación	continuación	ncfs000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	3	os	os	pp2cp000	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	4	voy	ir	vmip1s0	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	5	a	a	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	6	contar	contar	vmn0000	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	7	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_yes_5_9	1	8	truco	truco	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	9	para	para	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	10	mejorar	mejorar	vmn0000	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	11	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_yes_5_9	1	12	hardware	hardware	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	13	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	14	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_yes_5_9	1	15	ordenador	ordenador	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	16	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	17	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	18	mandó	mandar	vmis3s0	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	19	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_yes_5_9	1	20	amigo	amigo	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	21	mío	mío	px1ms0s0	possessive	-	-	-	-	-	-
+ordenadores_yes_5_9	1	22	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	23	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+ordenadores_yes_5_9	1	24	informático	informático	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	25	por	por	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	26	internet	internet	ncfs000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	27	,	,	fc	-	-	-	-	-	-	-
+ordenadores_yes_5_9	1	28	yo	yo	pp1csn00	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	29	todavía	todavía	rg	-	-	-	-	-	-	-
+ordenadores_yes_5_9	1	30	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_yes_5_9	1	31	lo	él	pp3cna00	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	32	he	haber	vaip1s0	auxiliary	-	-	-	-	-	-
+ordenadores_yes_5_9	1	33	hecho	hacer	vmp00sm	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	34	asi	asi	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	35	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	36	allá	allá	rg	-	-	-	-	-	-	-
+ordenadores_yes_5_9	1	37	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_yes_5_9	1	38	las	el	da0fp0	article	-	-	-	-	-	-
+ordenadores_yes_5_9	1	39	consecuencias	consecuencia	ncfp000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	40	yo	yo	pp1csn00	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	41	no	no	rn	negative	-	-	-	no	-	-
+ordenadores_yes_5_9	1	42	se	saber	vmip1s0	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	43	como	cómo	pt00000	interrogative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	44	puede	poder	vmip3s0	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	45	salir	salir	vmn0000	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	46	,	,	fc	-	-	-	-	-	-	-
+ordenadores_yes_5_9	1	47	mi	mi	dp1css	possessive	-	-	-	-	-	-
+ordenadores_yes_5_9	1	48	amigo	amigo	ncms000	common	-	-	-	-	-	-
+ordenadores_yes_5_9	1	49	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_yes_5_9	1	50	ha	haber	vaip3s0	auxiliary	-	-	-	-	-	-
+ordenadores_yes_5_9	1	51	prometido	prometer	vmp00sm	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	52	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_yes_5_9	1	53	va	ir	vmip3s0	main	-	-	-	-	-	-
+ordenadores_yes_5_9	1	54	bien	bien	rg	-	-	-	-	-	-	-
+ordenadores_yes_5_9	1	55	....	....	fz	-	-	-	-	-	-	-
+
+ordenadores_yes_5_9	2	1	Refrigerar	refrigerar	np00000	proper	***
+ordenadores_yes_5_9	2	2	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	2	3	microprocesador	microprocesador	ncms000	common	***
+ordenadores_yes_5_9	2	4	de	de	sps00	preposition	***
+ordenadores_yes_5_9	2	5	una	uno	di0fs0	indefinite	***
+ordenadores_yes_5_9	2	6	forma	forma	ncfs000	common	***
+ordenadores_yes_5_9	2	7	eficiente	eficiente	aq0cs0	qualificative	***
+ordenadores_yes_5_9	2	8	nos	nos	pp1cp000	personal	***
+ordenadores_yes_5_9	2	9	asegurará	asegurar	vmif3s0	main	***
+ordenadores_yes_5_9	2	10	la	el	da0fs0	article	***
+ordenadores_yes_5_9	2	11	longevidad	longevidad	ncfs000	common	***
+ordenadores_yes_5_9	2	12	de	de	sps00	preposition	***
+ordenadores_yes_5_9	2	13	el	el	da0ms0	article	***
+ordenadores_yes_5_9	2	14	mismo	mismo	aq0ms0	qualificative	***
+ordenadores_yes_5_9	2	15	.	.	fp	-	***
+
+ordenadores_yes_5_9	3	1	Es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	3	2	recomendable	recomendable	aq0cs0	qualificative	***
+ordenadores_yes_5_9	3	3	adquirir	adquirir	vmn0000	main	***
+ordenadores_yes_5_9	3	4	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	3	5	disipador	disipador	ncms000	common	***
+ordenadores_yes_5_9	3	6	de	de	sps00	preposition	***
+ordenadores_yes_5_9	3	7	gran	gran	aq0cs0	qualificative	***
+ordenadores_yes_5_9	3	8	formato	formato	ncms000	common	***
+ordenadores_yes_5_9	3	9	y	y	cc	coordinating	***
+ordenadores_yes_5_9	3	10	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	3	11	ventilador	ventilador	ncms000	common	***
+ordenadores_yes_5_9	3	12	de	de	sps00	preposition	***
+ordenadores_yes_5_9	3	13	alta	alto	aq0fs0	qualificative	***
+ordenadores_yes_5_9	3	14	calidad	calidad	ncfs000	common	***
+ordenadores_yes_5_9	3	15	.	.	fp	-	***
+
+ordenadores_yes_5_9	4	1	Además	además	rg	-	-	-	-
+ordenadores_yes_5_9	4	2	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	4	3	no	no	rn	negative	no	-	-
+ordenadores_yes_5_9	4	4	está	estar	vmip3s0	main	-	-	-
+ordenadores_yes_5_9	4	5	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	6	más	más	rg	-	-	-	-
+ordenadores_yes_5_9	4	7	untar	untar	vmn0000	main	-	-	-
+ordenadores_yes_5_9	4	8	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_5_9	4	9	capa	capa	ncfs000	common	-	-	-
+ordenadores_yes_5_9	4	10	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	11	silicona	silicona	ncfs000	common	-	-	-
+ordenadores_yes_5_9	4	12	para	para	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	13	semiconductores	semiconductor	ncmp000	common	-	-	-
+ordenadores_yes_5_9	4	14	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	4	15	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	16	color	color	ncms000	common	-	-	-
+ordenadores_yes_5_9	4	17	blanco	blanco	aq0ms0	qualificative	-	-	-
+ordenadores_yes_5_9	4	18	y	y	cc	coordinating	-	-	-
+ordenadores_yes_5_9	4	19	vendida	vender	vmp00sf	main	-	-	-
+ordenadores_yes_5_9	4	20	por	por	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	21	tubitos	tubo	ncmp00d	common	-	-	-
+ordenadores_yes_5_9	4	22	pequeños	pequeño	aq0mp0	qualificative	-	-	-
+ordenadores_yes_5_9	4	23	en	en	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	24	cualquier	cualquiera	di0cs0	indefinite	-	-	-
+ordenadores_yes_5_9	4	25	tienda	tienda	ncfs000	common	-	-	-
+ordenadores_yes_5_9	4	26	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	27	ferretería	ferretería	ncfs000	common	-	-	-
+ordenadores_yes_5_9	4	28	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	4	29	y	y	cc	coordinating	-	-	-
+ordenadores_yes_5_9	4	30	así	así	rg	-	-	-	-
+ordenadores_yes_5_9	4	31	mejorar	mejorar	vmn0000	main	-	-	-
+ordenadores_yes_5_9	4	32	la	el	da0fs0	article	-	-	-
+ordenadores_yes_5_9	4	33	transmisión	transmisión	ncfs000	common	-	-	-
+ordenadores_yes_5_9	4	34	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	35	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	4	36	calor	calor	ncms000	common	-	-	-
+ordenadores_yes_5_9	4	37	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	38	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	4	39	micro	micro	ncms000	common	-	-	-
+ordenadores_yes_5_9	4	40	a_través_de	a_través_de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	4	41	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	4	42	disipador	disipador	ncms000	common	-	-	-
+ordenadores_yes_5_9	4	43	.	.	fp	-	-	-	-
+
+ordenadores_yes_5_9	5	1	l	l	ncfs000	common	***
+ordenadores_yes_5_9	5	2	orden	orden	ncms000	common	***
+ordenadores_yes_5_9	5	3	de	de	sps00	preposition	***
+ordenadores_yes_5_9	5	4	las	el	da0fp0	article	***
+ordenadores_yes_5_9	5	5	tarjetas	tarjeta	ncfp000	common	***
+ordenadores_yes_5_9	5	6	.	.	fp	-	***
+
+ordenadores_yes_5_9	6	1	Hay	haber	vmip3s0	main	-	-	-
+ordenadores_yes_5_9	6	2	quien	quien	pr0cs000	relative	-	-	-
+ordenadores_yes_5_9	6	3	dice	decir	vmip3s0	main	-	-	-
+ordenadores_yes_5_9	6	4	que	que	cs	subordinating	-	-	-
+ordenadores_yes_5_9	6	5	sí	sí	pp3cno00	personal	-	-	-
+ordenadores_yes_5_9	6	6	y	y	cc	coordinating	-	-	-
+ordenadores_yes_5_9	6	7	quien	quien	pr0cs000	relative	-	-	-
+ordenadores_yes_5_9	6	8	no	no	rn	negative	no	-	-
+ordenadores_yes_5_9	6	9	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	6	10	pero	pero	cc	coordinating	-	-	-
+ordenadores_yes_5_9	6	11	nosotros	nosotros	pp1mp000	personal	-	-	-
+ordenadores_yes_5_9	6	12	por_si_acaso	por_si_acaso	rg	-	-	-	-
+ordenadores_yes_5_9	6	13	nos	nos	pp1cp000	personal	-	-	-
+ordenadores_yes_5_9	6	14	lo	lo	pp3cna00	personal	-	-	-
+ordenadores_yes_5_9	6	15	creemos	creer	vmip1p0	main	-	-	-
+ordenadores_yes_5_9	6	16	.	.	fp	-	-	-	-
+
+ordenadores_yes_5_9	7	1	Todas	todo	di0fp0	indefinite	***
+ordenadores_yes_5_9	7	2	las	el	da0fp0	article	***
+ordenadores_yes_5_9	7	3	ranuras	ranura	ncfp000	common	***
+ordenadores_yes_5_9	7	4	para	para	sps00	preposition	***
+ordenadores_yes_5_9	7	5	poner	poner	vmn0000	main	***
+ordenadores_yes_5_9	7	6	tarjetas	tarjeta	ncfp000	common	***
+ordenadores_yes_5_9	7	7	de	de	sps00	preposition	***
+ordenadores_yes_5_9	7	8	la	el	da0fs0	article	***
+ordenadores_yes_5_9	7	9	placa	placa	ncfs000	common	***
+ordenadores_yes_5_9	7	10	base	base	nccs000	common	***
+ordenadores_yes_5_9	7	11	suelen	soler	vmip3p0	main	***
+ordenadores_yes_5_9	7	12	estar	estar	van0000	auxiliary	***
+ordenadores_yes_5_9	7	13	numeradas	numerar	vmp00pf	main	***
+ordenadores_yes_5_9	7	14	,	,	fc	-	***
+ordenadores_yes_5_9	7	15	normalmente	normalmente	rg	-	***
+ordenadores_yes_5_9	7	16	la	el	da0fs0	article	***
+ordenadores_yes_5_9	7	17	primera	1	ao0fs0	ordinal	***
+ordenadores_yes_5_9	7	18	PCI	pci	np00000	proper	***
+ordenadores_yes_5_9	7	19	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	7	20	la	el	da0fs0	article	***
+ordenadores_yes_5_9	7	21	opuesta	oponer	vmp00sf	main	***
+ordenadores_yes_5_9	7	22	a	a	sps00	preposition	***
+ordenadores_yes_5_9	7	23	los	el	da0mp0	article	***
+ordenadores_yes_5_9	7	24	slots	slots	ncmp000	common	***
+ordenadores_yes_5_9	7	25	ISA	isa	np00000	proper	***
+ordenadores_yes_5_9	7	26	y	y	cc	coordinating	***
+ordenadores_yes_5_9	7	27	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	28	último	último	ao0ms0	ordinal	***
+ordenadores_yes_5_9	7	29	PCI	pci	np00000	proper	***
+ordenadores_yes_5_9	7	30	está	estar	vaip3s0	auxiliary	***
+ordenadores_yes_5_9	7	31	a	a	sps00	preposition	***
+ordenadores_yes_5_9	7	32	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	33	lado	lado	ncms000	common	***
+ordenadores_yes_5_9	7	34	de	de	sps00	preposition	***
+ordenadores_yes_5_9	7	35	los	el	da0mp0	article	***
+ordenadores_yes_5_9	7	36	ISA	isa	np00000	proper	***
+ordenadores_yes_5_9	7	37	(	(	fpa	-	***
+ordenadores_yes_5_9	7	38	a	a	sps00	preposition	***
+ordenadores_yes_5_9	7	39	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	40	igual	igual	aq0cs0	qualificative	***
+ordenadores_yes_5_9	7	41	pasa	pasar	vmip3s0	main	***
+ordenadores_yes_5_9	7	42	con	con	sps00	preposition	***
+ordenadores_yes_5_9	7	43	los	el	da0mp0	article	***
+ordenadores_yes_5_9	7	44	ISA	isa	np00000	proper	***
+ordenadores_yes_5_9	7	45	,	,	fc	-	***
+ordenadores_yes_5_9	7	46	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	47	primer	1	ao0ms0	ordinal	***
+ordenadores_yes_5_9	7	48	ISA	isa	np00000	proper	***
+ordenadores_yes_5_9	7	49	está	estar	vaip3s0	auxiliary	***
+ordenadores_yes_5_9	7	50	a	a	sps00	preposition	***
+ordenadores_yes_5_9	7	51	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	52	lado	lado	ncms000	common	***
+ordenadores_yes_5_9	7	53	de	de	sps00	preposition	***
+ordenadores_yes_5_9	7	54	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	55	PCI	pci	np00000	proper	***
+ordenadores_yes_5_9	7	56	y	y	cc	coordinating	***
+ordenadores_yes_5_9	7	57	el	el	da0ms0	article	***
+ordenadores_yes_5_9	7	58	último	último	ao0ms0	ordinal	***
+ordenadores_yes_5_9	7	59	lejos_de	lejos_de	sps00	preposition	***
+ordenadores_yes_5_9	7	60	éste	este	pd0ms000	demonstrative	***
+ordenadores_yes_5_9	7	61	)	)	fpt	-	***
+ordenadores_yes_5_9	7	62	.	.	fp	-	***
+
+ordenadores_yes_5_9	8	1	Pues_bien	pues_bien	rg	-	-	-	-
+ordenadores_yes_5_9	8	2	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	8	3	según	según	sps00	preposition	-	-	-
+ordenadores_yes_5_9	8	4	dicen	decir	vmip3p0	main	-	-	-
+ordenadores_yes_5_9	8	5	la	el	da0fs0	article	-	-	-
+ordenadores_yes_5_9	8	6	primera	1	ao0fs0	ordinal	-	-	-
+ordenadores_yes_5_9	8	7	ranura	ranura	ncfs000	common	-	-	-
+ordenadores_yes_5_9	8	8	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	8	9	cada	cada	di0cs0	indefinite	-	-	-
+ordenadores_yes_5_9	8	10	tipo	tipo	ncms000	common	-	-	-
+ordenadores_yes_5_9	8	11	va	ir	vmip3s0	main	-	-	-
+ordenadores_yes_5_9	8	12	mejor	mejor	aq0cs0	qualificative	-	-	-
+ordenadores_yes_5_9	8	13	que	que	cs	subordinating	-	-	-
+ordenadores_yes_5_9	8	14	la	el	da0fs0	article	-	-	-
+ordenadores_yes_5_9	8	15	última	último	ao0fs0	ordinal	-	-	-
+ordenadores_yes_5_9	8	16	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	8	17	algo	algo	pi0cs000	indefinite	-	-	-
+ordenadores_yes_5_9	8	18	no	no	rn	negative	no	-	-
+ordenadores_yes_5_9	8	19	explicable	explicable	aq0cs0	qualificative	-	-	-
+ordenadores_yes_5_9	8	20	porque	porque	cs	subordinating	-	-	-
+ordenadores_yes_5_9	8	21	están	estar	vaip3p0	auxiliary	-	-	-
+ordenadores_yes_5_9	8	22	en_paralelo	en_paralelo	rg	-	-	-	-
+ordenadores_yes_5_9	8	23	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	8	24	pero	pero	cc	coordinating	-	-	-
+ordenadores_yes_5_9	8	25	por_si_acaso	por_si_acaso	rg	-	-	-	-
+ordenadores_yes_5_9	8	26	sigamos	seguir	vmsp1p0	main	-	-	-
+ordenadores_yes_5_9	8	27	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	8	28	orden	orden	ncms000	common	-	-	-
+ordenadores_yes_5_9	8	29	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	8	30	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_yes_5_9	8	31	decir	decir	vmn0000	main	-	-	-
+ordenadores_yes_5_9	8	32	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	8	33	si	si	cs	subordinating	-	-	-
+ordenadores_yes_5_9	8	34	sólo	sólo	rg	-	-	-	-
+ordenadores_yes_5_9	8	35	tenemos	tener	vmip1p0	main	-	-	-
+ordenadores_yes_5_9	8	36	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_5_9	8	37	tarjeta	tarjeta	ncfs000	common	-	-	-
+ordenadores_yes_5_9	8	38	PCI	pci	np00000	proper	-	-	-
+ordenadores_yes_5_9	8	39	la	lo	pp3fsa00	personal	-	-	-
+ordenadores_yes_5_9	8	40	pondremos	poner	vmif1p0	main	-	-	-
+ordenadores_yes_5_9	8	41	en	en	sps00	preposition	-	-	-
+ordenadores_yes_5_9	8	42	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	8	43	slot	slot	ncms000	common	-	-	-
+ordenadores_yes_5_9	8	44	1	1	z	-	-	-	-
+ordenadores_yes_5_9	8	45	.	.	fp	-	-	-	-
+
+ordenadores_yes_5_9	9	1	Además	además	rg	-	***
+ordenadores_yes_5_9	9	2	,	,	fc	-	***
+ordenadores_yes_5_9	9	3	situar	situar	vmn0000	main	***
+ordenadores_yes_5_9	9	4	la	lo	pp3fsa00	personal	***
+ordenadores_yes_5_9	9	5	aquí	aquí	rg	-	***
+ordenadores_yes_5_9	9	6	puede	poder	vmip3s0	main	***
+ordenadores_yes_5_9	9	7	corregir	corregir	vmn0000	main	***
+ordenadores_yes_5_9	9	8	algunas	alguno	di0fp0	indefinite	***
+ordenadores_yes_5_9	9	9	incompatibilidades	incompatibilidad	ncfp000	common	***
+ordenadores_yes_5_9	9	10	.	.	fp	-	***
+
+ordenadores_yes_5_9	10	1	Conexión	conexión	ncfs000	common	***
+ordenadores_yes_5_9	10	2	de	de	sps00	preposition	***
+ordenadores_yes_5_9	10	3	disco	disco	ncms000	common	***
+ordenadores_yes_5_9	10	4	duro	duro	aq0ms0	qualificative	***
+ordenadores_yes_5_9	10	5	IDE	ide	np00000	proper	***
+ordenadores_yes_5_9	10	6	y	y	cc	coordinating	***
+ordenadores_yes_5_9	10	7	de	de	sps00	preposition	***
+ordenadores_yes_5_9	10	8	unidad	unidad	ncfs000	common	***
+ordenadores_yes_5_9	10	9	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	10	10	/	/	fh	-	***
+ordenadores_yes_5_9	10	11	DVD-ROM	dvd-rom	np00000	proper	***
+ordenadores_yes_5_9	10	12	.	.	fp	-	***
+
+ordenadores_yes_5_9	11	1	Para	para	sps00	preposition	***
+ordenadores_yes_5_9	11	2	poder	poder	ncms000	common	***
+ordenadores_yes_5_9	11	3	usar	usar	vmn0000	main	***
+ordenadores_yes_5_9	11	4	este	este	dd0ms0	demonstrative	***
+ordenadores_yes_5_9	11	5	truco	truco	ncms000	common	***
+ordenadores_yes_5_9	11	6	se	se	p00cn000	-	***
+ordenadores_yes_5_9	11	7	necesita	necesitar	vmip3s0	main	***
+ordenadores_yes_5_9	11	8	una	uno	di0fs0	indefinite	***
+ordenadores_yes_5_9	11	9	controladora	controlador	ncfs000	common	***
+ordenadores_yes_5_9	11	10	ide	ide	vmip3s0	main	***
+ordenadores_yes_5_9	11	11	con	con	sps00	preposition	***
+ordenadores_yes_5_9	11	12	dos	2	z	-	***
+ordenadores_yes_5_9	11	13	canales	canal	ncmp000	common	***
+ordenadores_yes_5_9	11	14	(	(	fpa	-	***
+ordenadores_yes_5_9	11	15	primario	primario	aq0ms0	qualificative	***
+ordenadores_yes_5_9	11	16	y	y	cc	coordinating	***
+ordenadores_yes_5_9	11	17	secundario	secundario	aq0ms0	qualificative	***
+ordenadores_yes_5_9	11	18	)	)	fpt	-	***
+ordenadores_yes_5_9	11	19	y	y	cc	coordinating	***
+ordenadores_yes_5_9	11	20	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	11	21	segundo	2	ao0ms0	ordinal	***
+ordenadores_yes_5_9	11	22	cable	cable	ncms000	common	***
+ordenadores_yes_5_9	11	23	de	de	sps00	preposition	***
+ordenadores_yes_5_9	11	24	50	50	z	-	***
+ordenadores_yes_5_9	11	25	pins	pin	ncmp000	common	***
+ordenadores_yes_5_9	11	26	.	.	fp	-	***
+
+ordenadores_yes_5_9	12	1	Como	como	cs	subordinating	***
+ordenadores_yes_5_9	12	2	bien	bien	rg	-	***
+ordenadores_yes_5_9	12	3	se	se	p00cn000	-	***
+ordenadores_yes_5_9	12	4	sabe	saber	vmip3s0	main	***
+ordenadores_yes_5_9	12	5	,	,	fc	-	***
+ordenadores_yes_5_9	12	6	las	el	da0fp0	article	***
+ordenadores_yes_5_9	12	7	unidades	unidad	ncfp000	common	***
+ordenadores_yes_5_9	12	8	IDE	ide	np00000	proper	***
+ordenadores_yes_5_9	12	9	pueden	poder	vmip3p0	main	***
+ordenadores_yes_5_9	12	10	configurar	configurar	vmn0000	main	***
+ordenadores_yes_5_9	12	11	se	se	pp3cn000	personal	***
+ordenadores_yes_5_9	12	12	como	como	cs	subordinating	***
+ordenadores_yes_5_9	12	13	maestro	maestro	aq0ms0	qualificative	***
+ordenadores_yes_5_9	12	14	o	o	cc	coordinating	***
+ordenadores_yes_5_9	12	15	esclavo	esclavo	aq0ms0	qualificative	***
+ordenadores_yes_5_9	12	16	.	.	fp	-	***
+
+ordenadores_yes_5_9	13	1	Pues_bien	pues_bien	rg	-	***
+ordenadores_yes_5_9	13	2	,	,	fc	-	***
+ordenadores_yes_5_9	13	3	lo	el	da0ns0	article	***
+ordenadores_yes_5_9	13	4	más	más	rg	-	***
+ordenadores_yes_5_9	13	5	normal	normal	aq0cs0	qualificative	***
+ordenadores_yes_5_9	13	6	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	13	7	que	que	cs	subordinating	***
+ordenadores_yes_5_9	13	8	tengamos	tener	vmsp1p0	main	***
+ordenadores_yes_5_9	13	9	en	en	sps00	preposition	***
+ordenadores_yes_5_9	13	10	el	el	da0ms0	article	***
+ordenadores_yes_5_9	13	11	primer	1	ao0ms0	ordinal	***
+ordenadores_yes_5_9	13	12	canal	canal	ncms000	common	***
+ordenadores_yes_5_9	13	13	una	uno	di0fs0	indefinite	***
+ordenadores_yes_5_9	13	14	disco	disco	ncms000	common	***
+ordenadores_yes_5_9	13	15	duro	duro	aq0ms0	qualificative	***
+ordenadores_yes_5_9	13	16	como	como	cs	subordinating	***
+ordenadores_yes_5_9	13	17	maestro	maestro	ncms000	common	***
+ordenadores_yes_5_9	13	18	y	y	cc	coordinating	***
+ordenadores_yes_5_9	13	19	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	13	20	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	13	21	/	/	fh	-	***
+ordenadores_yes_5_9	13	22	DVD-ROM	dvd-rom	np00000	proper	***
+ordenadores_yes_5_9	13	23	como	como	cs	subordinating	***
+ordenadores_yes_5_9	13	24	esclavo	esclavo	ncms000	common	***
+ordenadores_yes_5_9	13	25	.	.	fp	-	***
+
+ordenadores_yes_5_9	14	1	El	el	da0ms0	article	***
+ordenadores_yes_5_9	14	2	problema	problema	ncms000	common	***
+ordenadores_yes_5_9	14	3	de	de	sps00	preposition	***
+ordenadores_yes_5_9	14	4	esta	este	dd0fs0	demonstrative	***
+ordenadores_yes_5_9	14	5	configuración	configuración	ncfs000	common	***
+ordenadores_yes_5_9	14	6	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	14	7	que	que	cs	subordinating	***
+ordenadores_yes_5_9	14	8	el	el	da0ms0	article	***
+ordenadores_yes_5_9	14	9	disco	disco	ncms000	common	***
+ordenadores_yes_5_9	14	10	duro	duro	aq0ms0	qualificative	***
+ordenadores_yes_5_9	14	11	entorpece	entorpecer	vmip3s0	main	***
+ordenadores_yes_5_9	14	12	el	el	da0ms0	article	***
+ordenadores_yes_5_9	14	13	acceso	acceso	ncms000	common	***
+ordenadores_yes_5_9	14	14	a	a	sps00	preposition	***
+ordenadores_yes_5_9	14	15	la	el	da0fs0	article	***
+ordenadores_yes_5_9	14	16	unidad	unidad	ncfs000	common	***
+ordenadores_yes_5_9	14	17	de	de	sps00	preposition	***
+ordenadores_yes_5_9	14	18	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	14	19	/	/	fh	-	***
+ordenadores_yes_5_9	14	20	DVD-ROM	dvd-rom	np00000	proper	***
+ordenadores_yes_5_9	14	21	.	.	fp	-	***
+
+ordenadores_yes_5_9	15	1	Para	para	sps00	preposition	***
+ordenadores_yes_5_9	15	2	evitar	evitar	vmn0000	main	***
+ordenadores_yes_5_9	15	3	lo	lo	pp3cna00	personal	***
+ordenadores_yes_5_9	15	4	,	,	fc	-	***
+ordenadores_yes_5_9	15	5	pondremos	poner	vmif1p0	main	***
+ordenadores_yes_5_9	15	6	la	el	da0fs0	article	***
+ordenadores_yes_5_9	15	7	unidad	unidad	ncfs000	common	***
+ordenadores_yes_5_9	15	8	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	15	9	/	/	fh	-	***
+ordenadores_yes_5_9	15	10	DVD-ROM	dvd-rom	np00000	proper	***
+ordenadores_yes_5_9	15	11	en	en	sps00	preposition	***
+ordenadores_yes_5_9	15	12	el	el	da0ms0	article	***
+ordenadores_yes_5_9	15	13	segundo	2	ao0ms0	ordinal	***
+ordenadores_yes_5_9	15	14	canal	canal	ncms000	common	***
+ordenadores_yes_5_9	15	15	como	como	cs	subordinating	***
+ordenadores_yes_5_9	15	16	maestra	maestro	ncfs000	common	***
+ordenadores_yes_5_9	15	17	.	.	fp	-	***
+
+ordenadores_yes_5_9	16	1	El	el	da0ms0	article	***
+ordenadores_yes_5_9	16	2	disco	disco	ncms000	common	***
+ordenadores_yes_5_9	16	3	duro	duro	aq0ms0	qualificative	***
+ordenadores_yes_5_9	16	4	lo	lo	pp3cna00	personal	***
+ordenadores_yes_5_9	16	5	dejaremos	dejar	vmif1p0	main	***
+ordenadores_yes_5_9	16	6	como	como	cs	subordinating	***
+ordenadores_yes_5_9	16	7	maestro	maestro	ncms000	common	***
+ordenadores_yes_5_9	16	8	,	,	fc	-	***
+ordenadores_yes_5_9	16	9	o	o	cc	coordinating	***
+ordenadores_yes_5_9	16	10	,	,	fc	-	***
+ordenadores_yes_5_9	16	11	si	si	cs	subordinating	***
+ordenadores_yes_5_9	16	12	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	16	13	el	el	da0ms0	article	***
+ordenadores_yes_5_9	16	14	caso	caso	ncms000	common	***
+ordenadores_yes_5_9	16	15	,	,	fc	-	***
+ordenadores_yes_5_9	16	16	habrá	haber	vmif3s0	main	***
+ordenadores_yes_5_9	16	17	que	que	cs	subordinating	***
+ordenadores_yes_5_9	16	18	poner	poner	vmn0000	main	***
+ordenadores_yes_5_9	16	19	lo	lo	pp3cna00	personal	***
+ordenadores_yes_5_9	16	20	en	en	sps00	preposition	***
+ordenadores_yes_5_9	16	21	el	el	da0ms0	article	***
+ordenadores_yes_5_9	16	22	llamado	llamar	vmp00sm	main	***
+ordenadores_yes_5_9	16	23	modo	modo	ncms000	common	***
+ordenadores_yes_5_9	16	24	"	"	fe	-	***
+ordenadores_yes_5_9	16	25	Stand_Alone	stand_alone	np00000	proper	***
+ordenadores_yes_5_9	16	26	"	"	fe	-	***
+ordenadores_yes_5_9	16	27	,	,	fc	-	***
+ordenadores_yes_5_9	16	28	o	o	cc	coordinating	***
+ordenadores_yes_5_9	16	29	lo	el	da0ns0	article	***
+ordenadores_yes_5_9	16	30	que	que	pr0cn000	relative	***
+ordenadores_yes_5_9	16	31	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	16	32	lo	el	da0ns0	article	***
+ordenadores_yes_5_9	16	33	mismo	mismo	aq0ms0	qualificative	***
+ordenadores_yes_5_9	16	34	"	"	fe	-	***
+ordenadores_yes_5_9	16	35	una	uno	di0fs0	indefinite	***
+ordenadores_yes_5_9	16	36	sola	solo	aq0fs0	qualificative	***
+ordenadores_yes_5_9	16	37	unidad	unidad	ncfs000	common	***
+ordenadores_yes_5_9	16	38	"	"	fe	-	***
+ordenadores_yes_5_9	16	39	.	.	fp	-	***
+
+ordenadores_yes_5_9	17	1	Con	con	sps00	preposition	***
+ordenadores_yes_5_9	17	2	esto	este	pd0ns000	demonstrative	***
+ordenadores_yes_5_9	17	3	aumentaremos	aumentar	vmif1p0	main	***
+ordenadores_yes_5_9	17	4	el	el	da0ms0	article	***
+ordenadores_yes_5_9	17	5	flujo	flujo	ncms000	common	***
+ordenadores_yes_5_9	17	6	de	de	sps00	preposition	***
+ordenadores_yes_5_9	17	7	datos	dato	ncmp000	common	***
+ordenadores_yes_5_9	17	8	a	a	sps00	preposition	***
+ordenadores_yes_5_9	17	9	el	el	da0ms0	article	***
+ordenadores_yes_5_9	17	10	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	17	11	/	/	fh	-	***
+ordenadores_yes_5_9	17	12	DVD-ROM	dvd-rom	np00000	proper	***
+
+ordenadores_yes_5_9	18	1	Un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	18	2	pequeño	pequeño	aq0ms0	qualificative	***
+ordenadores_yes_5_9	18	3	consejo	consejo	ncms000	common	***
+ordenadores_yes_5_9	18	4	:	:	fd	-	***
+ordenadores_yes_5_9	18	5	poned	poner	vmm02p0	main	***
+ordenadores_yes_5_9	18	6	ocho	8	z	-	***
+ordenadores_yes_5_9	18	7	tornillos	tornillo	ncmp000	common	***
+ordenadores_yes_5_9	18	8	de	de	sps00	preposition	***
+ordenadores_yes_5_9	18	9	las	el	da0fp0	article	***
+ordenadores_yes_5_9	18	10	unidades	unidad	ncfp000	common	***
+ordenadores_yes_5_9	18	11	lectoras	lector	aq0fp0	qualificative	***
+ordenadores_yes_5_9	18	12	de	de	sps00	preposition	***
+ordenadores_yes_5_9	18	13	CD	cd	np00000	proper	***
+ordenadores_yes_5_9	18	14	,	,	fc	-	***
+ordenadores_yes_5_9	18	15	especialmente	especialmente	rg	-	***
+ordenadores_yes_5_9	18	16	en	en	sps00	preposition	***
+ordenadores_yes_5_9	18	17	altas	alto	aq0fp0	qualificative	***
+ordenadores_yes_5_9	18	18	velocidades	velocidad	ncfp000	common	***
+ordenadores_yes_5_9	18	19	.	.	fp	-	***
+
+ordenadores_yes_5_9	19	1	Vibrará	vibrar	vmif3s0	main	***
+ordenadores_yes_5_9	19	2	menos	menos	rg	-	***
+ordenadores_yes_5_9	19	3	y	y	cc	coordinating	***
+ordenadores_yes_5_9	19	4	lo	lo	pp3cna00	personal	***
+ordenadores_yes_5_9	19	5	más	más	rg	-	***
+ordenadores_yes_5_9	19	6	probable	probable	aq0cs0	qualificative	***
+ordenadores_yes_5_9	19	7	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_5_9	19	8	que	que	cs	subordinating	***
+ordenadores_yes_5_9	19	9	funcione	funcionar	vmsp3s0	main	***
+ordenadores_yes_5_9	19	10	un	uno	di0ms0	indefinite	***
+ordenadores_yes_5_9	19	11	poco	poco	pi0ms000	indefinite	***
+ordenadores_yes_5_9	19	12	mejor	mejor	aq0cs0	qualificative	***
+ordenadores_yes_5_9	19	13	.	.	fp	-	***
+
+ordenadores_yes_5_9	20	1	(	(	fpa	-	-	-	-
+ordenadores_yes_5_9	20	2	sí	sí	rg	-	-	-	-
+ordenadores_yes_5_9	20	3	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	20	4	el	el	da0ms0	article	-	-	-
+ordenadores_yes_5_9	20	5	aumento	aumento	ncms000	common	-	-	-
+ordenadores_yes_5_9	20	6	de	de	sps00	preposition	-	-	-
+ordenadores_yes_5_9	20	7	rendimiento	rendimiento	ncms000	common	-	-	-
+ordenadores_yes_5_9	20	8	era	ser	vsii1s0	semiauxiliary	-	-	-
+ordenadores_yes_5_9	20	9	gratis	gratis	aq0cn0	qualificative	-	-	-
+ordenadores_yes_5_9	20	10	,	,	fc	-	-	-	-
+ordenadores_yes_5_9	20	11	pero	pero	cc	coordinating	-	-	-
+ordenadores_yes_5_9	20	12	para	para	sps00	preposition	-	-	-
+ordenadores_yes_5_9	20	13	cuatro	4	z	-	-	-	-
+ordenadores_yes_5_9	20	14	mini-tornillos	mini-tornillos	ncmp000	common	-	-	-
+ordenadores_yes_5_9	20	15	creo	crear	vmip1s0	main	-	-	-
+ordenadores_yes_5_9	20	16	que	que	cs	subordinating	-	-	-
+ordenadores_yes_5_9	20	17	no	no	rn	negative	no	-	-
+ordenadores_yes_5_9	20	18	pasaremos	pasar	vmif1p0	main	-	-	-
+ordenadores_yes_5_9	20	19	muchos	mucho	di0mp0	indefinite	-	-	-
+ordenadores_yes_5_9	20	20	problemas	problema	ncmp000	common	-	-	-
+ordenadores_yes_5_9	20	21	económicos	económico	aq0mp0	qualificative	-	-	-
+ordenadores_yes_5_9	20	22	)	)	fpt	-	-	-	-
+ordenadores_yes_5_9	20	23	.	.	fp	-	-	-	-
+
+ordenadores_yes_5_9	21	1	En_caso_de	en_caso_de	sps00	preposition	***
+ordenadores_yes_5_9	21	2	poseer	poseer	vmn0000	main	***
+ordenadores_yes_5_9	21	3	varias	varios	di0fp0	indefinite	***
+ordenadores_yes_5_9	21	4	unidades	unidad	ncfp000	common	***
+ordenadores_yes_5_9	21	5	lectoras	lector	aq0fp0	qualificative	***
+ordenadores_yes_5_9	21	6	de	de	sps00	preposition	***
+ordenadores_yes_5_9	21	7	CD-ROM	cd-rom	np00000	proper	***
+ordenadores_yes_5_9	21	8	y	y	cc	coordinating	***
+ordenadores_yes_5_9	21	9	una	uno	di0fs0	indefinite	***
+ordenadores_yes_5_9	21	10	caja	caja	ncfs000	common	***
+ordenadores_yes_5_9	21	11	tipo	tipo	ncms000	common	***
+ordenadores_yes_5_9	21	12	torre	torre	ncfs000	common	***
+ordenadores_yes_5_9	21	13	,	,	fc	-	***
+ordenadores_yes_5_9	21	14	se	se	p00cn000	-	***
+ordenadores_yes_5_9	21	15	recomienda	recomendar	vmip3s0	main	***
+ordenadores_yes_5_9	21	16	dejar	dejar	vmn0000	main	***
+ordenadores_yes_5_9	21	17	alguna	alguno	di0fs0	indefinite	***
+ordenadores_yes_5_9	21	18	bahía	bahía	ncfs000	common	***
+ordenadores_yes_5_9	21	19	vacía	vacío	aq0fs0	qualificative	***
+ordenadores_yes_5_9	21	20	entre	entre	sps00	preposition	***
+ordenadores_yes_5_9	21	21	ellas	ellos	pp3fp000	personal	***
+ordenadores_yes_5_9	21	22	para	para	sps00	preposition	***
+ordenadores_yes_5_9	21	23	favorecer	favorecer	vmn0000	main	***
+ordenadores_yes_5_9	21	24	la	el	da0fs0	article	***
+ordenadores_yes_5_9	21	25	ventilación	ventilación	ncfs000	common	***
+ordenadores_yes_5_9	21	26	.	.	fp	-	***
+
+ordenadores_no_2_22	1	1	el	el	da0ms0	article	***
+ordenadores_no_2_22	1	2	anuncio	anuncio	ncms000	common	***
+ordenadores_no_2_22	1	3	esta	este	dd0fs0	demonstrative	***
+ordenadores_no_2_22	1	4	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_22	1	5	poco	poco	rg	-	***
+ordenadores_no_2_22	1	6	enrevesado	enrevesado	aq0ms0	qualificative	***
+ordenadores_no_2_22	1	7	,	,	fc	-	***
+ordenadores_no_2_22	1	8	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_no_2_22	1	9	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_22	1	10	ordenador	ordenador	ncms000	common	***
+ordenadores_no_2_22	1	11	con	con	sps00	preposition	***
+ordenadores_no_2_22	1	12	gran	gran	aq0cs0	qualificative	***
+ordenadores_no_2_22	1	13	capacidad	capacidad	ncfs000	common	***
+ordenadores_no_2_22	1	14	tanto	tanto	rg	-	***
+ordenadores_no_2_22	1	15	de	de	sps00	preposition	***
+ordenadores_no_2_22	1	16	ram	ram	ncms000	common	***
+ordenadores_no_2_22	1	17	como	como	cs	subordinating	***
+ordenadores_no_2_22	1	18	de	de	sps00	preposition	***
+ordenadores_no_2_22	1	19	HD	hd	np00000	proper	***
+ordenadores_no_2_22	1	20	,	,	fc	-	***
+ordenadores_no_2_22	1	21	pero	pero	cc	coordinating	***
+ordenadores_no_2_22	1	22	con	con	sps00	preposition	***
+ordenadores_no_2_22	1	23	una	uno	di0fs0	indefinite	***
+ordenadores_no_2_22	1	24	falta	falta	ncfs000	common	***
+ordenadores_no_2_22	1	25	de	de	sps00	preposition	***
+ordenadores_no_2_22	1	26	unidades	unidad	ncfp000	common	***
+ordenadores_no_2_22	1	27	grabadoras	grabador	aq0fp0	qualificative	***
+ordenadores_no_2_22	1	28	,	,	fc	-	***
+
+ordenadores_no_2_22	2	1	yo	yo	pp1csn00	personal	-	-	-
+ordenadores_no_2_22	2	2	no	no	rn	negative	no	-	-
+ordenadores_no_2_22	2	3	compraria	comprar	vm0c3s0	main	-	-	-
+ordenadores_no_2_22	2	4	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_22	2	5	equipo	equipo	ncms000	common	-	-	-
+ordenadores_no_2_22	2	6	ya_que	ya_que	cs	subordinating	-	-	-
+ordenadores_no_2_22	2	7	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	8	mercado	mercado	ncms000	common	-	-	-
+ordenadores_no_2_22	2	9	existen	existir	vmip3p0	main	-	-	-
+ordenadores_no_2_22	2	10	ordenadores	ordenador	ncmp000	common	-	-	-
+ordenadores_no_2_22	2	11	completos	completo	aq0mp0	qualificative	-	-	-
+ordenadores_no_2_22	2	12	a	a	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	13	muy	muy	rg	-	-	-	-
+ordenadores_no_2_22	2	14	buen	bueno	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_22	2	15	precio	precio	ncms000	common	-	-	-
+ordenadores_no_2_22	2	16	,	,	fc	-	-	-	-
+ordenadores_no_2_22	2	17	y	y	cc	coordinating	-	-	-
+ordenadores_no_2_22	2	18	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	19	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_22	2	20	misma	mismo	aq0fs0	qualificative	-	-	-
+ordenadores_no_2_22	2	21	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_2_22	2	22	,	,	fc	-	-	-	-
+ordenadores_no_2_22	2	23	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_22	2	24	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_2_22	2	25	compre	comprar	vmsp3s0	main	-	-	-
+ordenadores_no_2_22	2	26	tuvo	tener	vmis3s0	main	-	-	-
+ordenadores_no_2_22	2	27	problemas	problema	ncmp000	common	-	-	-
+ordenadores_no_2_22	2	28	con	con	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	29	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_22	2	30	ventilador	ventilador	ncms000	common	-	-	-
+ordenadores_no_2_22	2	31	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	32	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_22	2	33	placa	placa	ncfs000	common	-	-	-
+ordenadores_no_2_22	2	34	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	35	video	video	ncms000	common	-	-	-
+ordenadores_no_2_22	2	36	,	,	fc	-	-	-	-
+ordenadores_no_2_22	2	37	solventado	solventar	vmp00sm	main	-	-	-
+ordenadores_no_2_22	2	38	con	con	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	39	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_22	2	40	dualidad	dualidad	ncfs000	common	-	-	-
+ordenadores_no_2_22	2	41	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_22	2	42	tarjeta	tarjeta	ncfs000	common	-	-	-
+ordenadores_no_2_22	2	43	,	,	fc	-	-	-	-
+
+ordenadores_no_2_22	3	1	el	el	da0ms0	article	***
+ordenadores_no_2_22	3	2	equipo	equipo	ncms000	common	***
+ordenadores_no_2_22	3	3	de	de	sps00	preposition	***
+ordenadores_no_2_22	3	4	servicio	servicio	ncms000	common	***
+ordenadores_no_2_22	3	5	tecnico	tecnico	aq0ms0	qualificative	***
+ordenadores_no_2_22	3	6	,	,	fc	-	***
+ordenadores_no_2_22	3	7	fabuloso	fabuloso	aq0ms0	qualificative	***
+ordenadores_no_2_22	3	8	,	,	fc	-	***
+ordenadores_no_2_22	3	9	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_22	3	10	gran	gran	aq0cs0	qualificative	***
+ordenadores_no_2_22	3	11	equipo	equipo	ncms000	common	***
+ordenadores_no_2_22	3	12	para	para	sps00	preposition	***
+ordenadores_no_2_22	3	13	el	el	da0ms0	article	***
+ordenadores_no_2_22	3	14	trabajo	trabajo	ncms000	common	***
+ordenadores_no_2_22	3	15	en	en	sps00	preposition	***
+ordenadores_no_2_22	3	16	oficina	oficina	ncfs000	common	***
+ordenadores_no_2_22	3	17	,	,	fc	-	***
+ordenadores_no_2_22	3	18	util	util	aq0cs0	qualificative	***
+ordenadores_no_2_22	3	19	de	de	sps00	preposition	***
+ordenadores_no_2_22	3	20	gran	gran	aq0cs0	qualificative	***
+ordenadores_no_2_22	3	21	capacidad	capacidad	ncfs000	common	***
+ordenadores_no_2_22	3	22	de	de	sps00	preposition	***
+ordenadores_no_2_22	3	23	trabajo	trabajo	ncms000	common	***
+ordenadores_no_2_22	3	24	,	,	fc	-	***
+ordenadores_no_2_22	3	25	pero	pero	cc	coordinating	***
+ordenadores_no_2_22	3	26	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_22	3	27	tanto	tanto	rg	-	***
+ordenadores_no_2_22	3	28	delicado	delicado	aq0ms0	qualificative	***
+ordenadores_no_2_22	3	29	en	en	sps00	preposition	***
+ordenadores_no_2_22	3	30	sus	su	dp3cp0	possessive	***
+ordenadores_no_2_22	3	31	carcasa	carcasa	ncfs000	common	***
+ordenadores_no_2_22	3	32	exterior	exterior	aq0cs0	qualificative	***
+ordenadores_no_2_22	3	33	,	,	fc	-	***
+ordenadores_no_2_22	3	34	bastante	bastante	di0cs0	indefinite	***
+ordenadores_no_2_22	3	35	plastico	plasto	ncms00d	common	***
+ordenadores_no_2_22	3	36	en_lugar_de	en_lugar_de	sps00	preposition	***
+ordenadores_no_2_22	3	37	solido	soler	vmp00sm	main	***
+ordenadores_no_2_22	3	38	metal	metal	ncms000	common	***
+
+ordenadores_no_2_12	1	1	Este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+ordenadores_no_2_12	1	2	ordenador	ordenador	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	3	en	en	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_12	1	4	mi	mi	dp1css	possessive	-	-	-	-	-	-
+ordenadores_no_2_12	1	5	opinion	opinion	vmis3p0	main	-	-	-	-	-	-
+ordenadores_no_2_12	1	6	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	7	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_no_2_12	1	8	esta	estar	vmip3s0	main	-	-	-	-	-	-
+ordenadores_no_2_12	1	9	mal	mal	rg	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	10	respecto_a	respecto_a	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_12	1	11	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_2_12	1	12	apartado	apartado	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	13	tecnico	tecnico	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	14	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	15	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_12	1	16	procesador	procesador	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	17	normalillo	normalillo	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	18	(	(	fpa	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	19	aunque	aunque	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_12	1	20	ahora	ahora	rg	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	21	los	lo	pp3mpa00	personal	-	-	-	-	-	-
+ordenadores_no_2_12	1	22	hay	haber	vmip3s0	main	-	-	-	-	-	-
+ordenadores_no_2_12	1	23	mucho	mucho	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_12	1	24	mas	mas	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	25	potentes	potente	aq0cp0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	26	)	)	fpt	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	27	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	28	memoria	memoria	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	29	RAM	ram	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_12	1	30	algo	algo	pi0cs000	indefinite	-	-	-	-	-	-
+ordenadores_no_2_12	1	31	escasa	escaso	aq0fs0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	32	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	33	y	y	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_12	1	34	ademas	adema	ncfp000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	35	tambien	tambien	rg	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	36	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_12	1	37	disco	disco	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_12	1	38	duro	duro	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	39	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_12	1	40	40	40	z	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	41	Gb	gb	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_12	1	42	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_no_2_12	1	43	no	no	rn	negative	-	-	-	no	-	-
+ordenadores_no_2_12	1	44	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+ordenadores_no_2_12	1	45	para_nada	para_nada	rg	-	-	-	-	para_nada	-	-
+ordenadores_no_2_12	1	46	algo	algo	rg	-	-	-	-	-	-	-
+ordenadores_no_2_12	1	47	extraordinario	extraordinario	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_12	1	48	.	.	fp	-	-	-	-	-	-	-
+
+ordenadores_no_2_12	2	1	En	en	np00000	proper	-	-	-
+ordenadores_no_2_12	2	2	general	general	aq0cs0	qualificative	-	-	-
+ordenadores_no_2_12	2	3	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	4	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_12	2	5	ordenador	ordenador	ncms000	common	-	-	-
+ordenadores_no_2_12	2	6	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	7	a_no_ser_que	a_no_ser_que	cs	subordinating	-	-	-
+ordenadores_no_2_12	2	8	lo	el	pp3cna00	personal	-	-	-
+ordenadores_no_2_12	2	9	uses	usar	vmsp2s0	main	-	-	-
+ordenadores_no_2_12	2	10	para	para	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	11	retoque	retoque	ncms000	common	-	-	-
+ordenadores_no_2_12	2	12	fotografico	fotografico	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_12	2	13	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	14	o	o	cc	coordinating	-	-	-
+ordenadores_no_2_12	2	15	edición	edición	ncfs000	common	-	-	-
+ordenadores_no_2_12	2	16	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	17	video	video	ncms000	common	-	-	-
+ordenadores_no_2_12	2	18	...	...	fs	-	-	-	-
+ordenadores_no_2_12	2	19	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	20	no	no	rn	negative	no	-	-
+ordenadores_no_2_12	2	21	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_no_2_12	2	22	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_2_12	2	23	mal	malo	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_12	2	24	ordenador	ordenador	ncms000	common	-	-	-
+ordenadores_no_2_12	2	25	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	26	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_12	2	27	problema	problema	ncms000	common	-	-	-
+ordenadores_no_2_12	2	28	yo	yo	pp1csn00	personal	-	-	-
+ordenadores_no_2_12	2	29	creo	crear	vmip1s0	main	-	-	-
+ordenadores_no_2_12	2	30	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_12	2	31	esta	este	dd0fs0	demonstrative	-	-	-
+ordenadores_no_2_12	2	32	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	33	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_2_12	2	34	alomejor	alomejor	rg	-	-	-	-
+ordenadores_no_2_12	2	35	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	36	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_2_12	2	37	poco	poco	pi0ms000	indefinite	-	-	-
+ordenadores_no_2_12	2	38	caro	caro	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_12	2	39	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	40	por	por	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	41	ese	ese	dd0ms0	demonstrative	-	-	-
+ordenadores_no_2_12	2	42	precio	precio	ncms000	common	-	-	-
+ordenadores_no_2_12	2	43	,	,	fc	-	-	-	-
+ordenadores_no_2_12	2	44	puedes	poder	vmip2s0	main	-	-	-
+ordenadores_no_2_12	2	45	encontrar	encontrar	vmn0000	main	-	-	-
+ordenadores_no_2_12	2	46	ordenadores	ordenador	ncmp000	common	-	-	-
+ordenadores_no_2_12	2	47	mucho	mucho	rg	-	-	-	-
+ordenadores_no_2_12	2	48	mejores	mejor	aq0cp0	qualificative	-	-	-
+ordenadores_no_2_12	2	49	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	50	cualquier	cualquiera	di0cs0	indefinite	-	-	-
+ordenadores_no_2_12	2	51	tienda	tienda	ncfs000	common	-	-	-
+ordenadores_no_2_12	2	52	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_2_12	2	53	encuentres	encontrar	vmsp2s0	main	-	-	-
+ordenadores_no_2_12	2	54	por	por	sps00	preposition	-	-	-
+ordenadores_no_2_12	2	55	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_12	2	56	calle	calle	ncfs000	common	-	-	-
+ordenadores_no_2_12	2	57	.	.	fp	-	-	-	-
+
+ordenadores_yes_4_16	1	1	Hace	hacer	vmip3s0	main	***
+ordenadores_yes_4_16	1	2	ya	ya	rg	-	***
+ordenadores_yes_4_16	1	3	casi	casi	rg	-	***
+ordenadores_yes_4_16	1	4	tres	3	z	-	***
+ordenadores_yes_4_16	1	5	años	año	ncmp000	common	***
+ordenadores_yes_4_16	1	6	que	que	pr0cn000	relative	***
+ordenadores_yes_4_16	1	7	tenemos	tener	vmip1p0	main	***
+ordenadores_yes_4_16	1	8	este	este	dd0ms0	demonstrative	***
+ordenadores_yes_4_16	1	9	ordenador	ordenador	ncms000	common	***
+ordenadores_yes_4_16	1	10	en	en	sps00	preposition	***
+ordenadores_yes_4_16	1	11	casa	casa	ncfs000	common	***
+ordenadores_yes_4_16	1	12	y	y	cc	coordinating	***
+ordenadores_yes_4_16	1	13	la	el	da0fs0	article	***
+ordenadores_yes_4_16	1	14	verdad	verdad	ncfs000	common	***
+ordenadores_yes_4_16	1	15	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_4_16	1	16	que	que	cs	subordinating	***
+ordenadores_yes_4_16	1	17	estamos	estar	vaip1p0	auxiliary	***
+ordenadores_yes_4_16	1	18	todos	todo	pi0mp000	indefinite	***
+ordenadores_yes_4_16	1	19	encantados	encantar	vmp00pm	main	***
+ordenadores_yes_4_16	1	20	con	con	sps00	preposition	***
+ordenadores_yes_4_16	1	21	el	el	da0ms0	article	***
+ordenadores_yes_4_16	1	22	,	,	fc	-	***
+ordenadores_yes_4_16	1	23	solo	solo	rg	-	***
+ordenadores_yes_4_16	1	24	hemos	haber	vaip1p0	auxiliary	***
+ordenadores_yes_4_16	1	25	tenido	tener	vmp00sm	main	***
+ordenadores_yes_4_16	1	26	un	uno	di0ms0	indefinite	***
+ordenadores_yes_4_16	1	27	pequeño	pequeño	aq0ms0	qualificative	***
+ordenadores_yes_4_16	1	28	problema	problema	ncms000	common	***
+ordenadores_yes_4_16	1	29	con	con	sps00	preposition	***
+ordenadores_yes_4_16	1	30	sus	su	dp3cp0	possessive	***
+ordenadores_yes_4_16	1	31	altavoces	altavoz	ncmp000	common	***
+ordenadores_yes_4_16	1	32	cuya	cuyo	pr0fs000	relative	***
+ordenadores_yes_4_16	1	33	conexion	conexion	vmis3p0	main	***
+ordenadores_yes_4_16	1	34	estaba	estar	vaii1s0	auxiliary	***
+ordenadores_yes_4_16	1	35	mal	mal	rg	-	***
+ordenadores_yes_4_16	1	36	desde	desde	sps00	preposition	***
+ordenadores_yes_4_16	1	37	un	uno	di0ms0	indefinite	***
+ordenadores_yes_4_16	1	38	primer	1	ao0ms0	ordinal	***
+ordenadores_yes_4_16	1	39	principio	principio	ncms000	common	***
+ordenadores_yes_4_16	1	40	,	,	fc	-	***
+ordenadores_yes_4_16	1	41	si	si	cs	subordinating	***
+ordenadores_yes_4_16	1	42	bien	bien	rg	-	***
+ordenadores_yes_4_16	1	43	el	el	da0ms0	article	***
+ordenadores_yes_4_16	1	44	servicio	servicio	ncms000	common	***
+ordenadores_yes_4_16	1	45	tecnico	tecnico	aq0ms0	qualificative	***
+ordenadores_yes_4_16	1	46	de	de	sps00	preposition	***
+ordenadores_yes_4_16	1	47	hp	hp	ncms000	common	***
+ordenadores_yes_4_16	1	48	,	,	fc	-	***
+ordenadores_yes_4_16	1	49	funciono	funcionar	vmip1s0	main	***
+ordenadores_yes_4_16	1	50	bastante	bastante	rg	-	***
+ordenadores_yes_4_16	1	51	bien	bien	rg	-	***
+ordenadores_yes_4_16	1	52	y	y	cc	coordinating	***
+ordenadores_yes_4_16	1	53	en	en	sps00	preposition	***
+ordenadores_yes_4_16	1	54	cuestion	cuestion	vmis3p0	main	***
+ordenadores_yes_4_16	1	55	de	de	sps00	preposition	***
+ordenadores_yes_4_16	1	56	cinco	5	z	-	***
+ordenadores_yes_4_16	1	57	dias	dias	ncms000	common	***
+ordenadores_yes_4_16	1	58	teniamos	teniamos	vmip1p0	main	***
+ordenadores_yes_4_16	1	59	unos	uno	di0mp0	indefinite	***
+ordenadores_yes_4_16	1	60	nuevos	nuevo	aq0mp0	qualificative	***
+ordenadores_yes_4_16	1	61	en	en	sps00	preposition	***
+ordenadores_yes_4_16	1	62	casa	casa	ncfs000	common	***
+ordenadores_yes_4_16	1	63	y	y	cc	coordinating	***
+ordenadores_yes_4_16	1	64	funcionado	funcionar	vmp00sm	main	***
+ordenadores_yes_4_16	1	65	.	.	fp	-	***
+
+ordenadores_yes_4_16	2	1	Para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	2	mi	mi	dp1css	possessive	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	3	este	este	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	4	ordenador	ordenador	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	5	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	6	tener	tener	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	7	casi	casi	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	8	tres	3	z	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	9	añitos	añito	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	10	esta	este	dd0fs0	demonstrative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	11	bastante	bastante	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	12	bien	bien	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	13	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	14	aun	aun	rg	-	aun	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	15	no	no	rn	negative	no	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	16	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	17	ha	haber	vaip3s0	auxiliary	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	18	quedado	quedar	vmp00sm	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	19	anticuado	anticuado	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	20	aunque	aunque	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	21	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	22	mi	mi	dp1css	possessive	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	23	peca	peca	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	24	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	25	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	26	no	no	rn	negative	-	-	-	no	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	27	traia	traer	vmii3s0	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	28	grabadora	grabador	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	29	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	30	dvd	dvd	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	31	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	32	hoy	hoy	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	33	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	34	hoy	hoy	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	35	seria	serio	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	36	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	37	grandisima	grandisima	aqsfs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	38	utilidad	utilidad	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	39	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	40	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	41	si	si	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	42	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	43	trae	traer	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	44	lector	lector	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	45	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	46	dvd	dvd	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	47	disquetera	disquetera	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	48	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	49	por_otro_lado	por_otro_lado	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	50	grabador	grabador	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	51	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	52	cd	cd	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	53	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	54	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	55	cual	cual	pr0cs000	relative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	56	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	57	he	haber	vmip1s0	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	58	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	59	decir	decir	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	60	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	61	funciona	funcionar	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	62	perfectamente	perfectamente	rg	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	63	permitiendo	permitir	vmg0000	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	64	te	te	pp2cs000	personal	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	65	grabar	grabar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	66	hasta	hasta	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	67	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	68	maximo	maximo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	69	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	70	48x	48x	z	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	71	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	72	sin	sin	sps00	preposition	-	-	-	-	-	-	sin	-	-	-	-	-
+ordenadores_yes_4_16	2	73	tener	tener	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	74	nunca	nunca	rg	-	-	-	-	-	-	-	-	-	-	nunca	-	-
+ordenadores_yes_4_16	2	75	ningun	ninguno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	ningun	-	-
+ordenadores_yes_4_16	2	76	fallo	fallo	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	77	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	78	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	79	grabacion	grabacion	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_yes_4_16	2	80	.	.	fp	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+ordenadores_yes_4_16	3	1	Una	uno	di0fs0	indefinite	***
+ordenadores_yes_4_16	3	2	de	de	sps00	preposition	***
+ordenadores_yes_4_16	3	3	las	el	da0fp0	article	***
+ordenadores_yes_4_16	3	4	cosas	cosa	ncfp000	common	***
+ordenadores_yes_4_16	3	5	que	que	pr0cn000	relative	***
+ordenadores_yes_4_16	3	6	mas	mas	cc	coordinating	***
+ordenadores_yes_4_16	3	7	me	me	pp1cs000	personal	***
+ordenadores_yes_4_16	3	8	gusta	gustar	vmip3s0	main	***
+ordenadores_yes_4_16	3	9	de	de	sps00	preposition	***
+ordenadores_yes_4_16	3	10	este	este	dd0ms0	demonstrative	***
+ordenadores_yes_4_16	3	11	pc	pc	nc00000	common	***
+ordenadores_yes_4_16	3	12	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_4_16	3	13	que	que	cs	subordinating	***
+ordenadores_yes_4_16	3	14	te	te	pp2cs000	personal	***
+ordenadores_yes_4_16	3	15	trae	traer	vmip3s0	main	***
+ordenadores_yes_4_16	3	16	una	uno	di0fs0	indefinite	***
+ordenadores_yes_4_16	3	17	tarjeta	tarjeta	ncfs000	common	***
+ordenadores_yes_4_16	3	18	sintonizadora	sintonizadora	aq0fs0	qualificative	***
+ordenadores_yes_4_16	3	19	de	de	sps00	preposition	***
+ordenadores_yes_4_16	3	20	tv	tv	ncfs000	common	***
+ordenadores_yes_4_16	3	21	con	con	sps00	preposition	***
+ordenadores_yes_4_16	3	22	mando	mando	ncms000	common	***
+ordenadores_yes_4_16	3	23	a	a	sps00	preposition	***
+ordenadores_yes_4_16	3	24	distancia	distancia	ncfs000	common	***
+ordenadores_yes_4_16	3	25	y	y	cc	coordinating	***
+ordenadores_yes_4_16	3	26	con	con	sps00	preposition	***
+ordenadores_yes_4_16	3	27	su	su	dp3cs0	possessive	***
+ordenadores_yes_4_16	3	28	propio	propio	aq0ms0	qualificative	***
+ordenadores_yes_4_16	3	29	programa	programa	ncms000	common	***
+ordenadores_yes_4_16	3	30	y	y	cc	coordinating	***
+ordenadores_yes_4_16	3	31	que	que	pr0cn000	relative	***
+ordenadores_yes_4_16	3	32	te	te	pp2cs000	personal	***
+ordenadores_yes_4_16	3	33	hace_ver	hacer_ver	vmip3s0	main	***
+ordenadores_yes_4_16	3	34	la	el	da0fs0	article	***
+ordenadores_yes_4_16	3	35	television	television	ncms000	common	***
+ordenadores_yes_4_16	3	36	de	de	sps00	preposition	***
+ordenadores_yes_4_16	3	37	una	uno	di0fs0	indefinite	***
+ordenadores_yes_4_16	3	38	manera	manera	ncfs000	common	***
+ordenadores_yes_4_16	3	39	muy	muy	rg	-	***
+ordenadores_yes_4_16	3	40	sencilla	sencillo	aq0fs0	qualificative	***
+ordenadores_yes_4_16	3	41	y	y	cc	coordinating	***
+ordenadores_yes_4_16	3	42	con	con	sps00	preposition	***
+ordenadores_yes_4_16	3	43	una	uno	di0fs0	indefinite	***
+ordenadores_yes_4_16	3	44	calidad	calidad	ncfs000	common	***
+ordenadores_yes_4_16	3	45	buena	bueno	aq0fs0	qualificative	***
+ordenadores_yes_4_16	3	46	.	.	fp	-	***
+
+ordenadores_yes_4_16	4	1	Su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	4	2	disco	disco	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	3	duro	duro	aq0ms0	qualificative	-	-	-
+ordenadores_yes_4_16	4	4	la	el	da0fs0	article	-	-	-
+ordenadores_yes_4_16	4	5	verdad	verdad	ncfs000	common	-	-	-
+ordenadores_yes_4_16	4	6	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_yes_4_16	4	7	que	que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	8	esta	este	dd0fs0	demonstrative	-	-	-
+ordenadores_yes_4_16	4	9	bastante	bastante	rg	-	-	-	-
+ordenadores_yes_4_16	4	10	bien	bien	rg	-	-	-	-
+ordenadores_yes_4_16	4	11	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	12	trae	traer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	4	13	160gb	160gb	z	-	-	-	-
+ordenadores_yes_4_16	4	14	aunque	aunque	cc	coordinating	-	-	-
+ordenadores_yes_4_16	4	15	he	haber	vmip1s0	main	-	-	-
+ordenadores_yes_4_16	4	16	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	17	decir	decir	vmn0000	main	-	-	-
+ordenadores_yes_4_16	4	18	que	que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	19	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_4_16	4	20	parte	parte	ncfs000	common	-	-	-
+ordenadores_yes_4_16	4	21	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	22	este	este	dd0ms0	demonstrative	-	-	-
+ordenadores_yes_4_16	4	23	disco	disco	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	24	duro	duro	aq0ms0	qualificative	-	-	-
+ordenadores_yes_4_16	4	25	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	26	para	para	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	27	ser	ser	vsn0000	semiauxiliary	-	-	-
+ordenadores_yes_4_16	4	28	exactos	exacto	aq0mp0	qualificative	-	-	-
+ordenadores_yes_4_16	4	29	unos	uno	di0mp0	indefinite	-	-	-
+ordenadores_yes_4_16	4	30	4	4	z	-	-	-	-
+ordenadores_yes_4_16	4	31	gigas	giga	ncmp000	common	-	-	-
+ordenadores_yes_4_16	4	32	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	4	33	medio	medio	pi0ms000	indefinite	-	-	-
+ordenadores_yes_4_16	4	34	no	no	rn	negative	no	-	-
+ordenadores_yes_4_16	4	35	los	lo	pp3mpa00	personal	-	-	-
+ordenadores_yes_4_16	4	36	puedes	poder	vmip2s0	main	-	-	-
+ordenadores_yes_4_16	4	37	usar	usar	vmn0000	main	-	-	-
+ordenadores_yes_4_16	4	38	ya_que	ya_que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	39	estan	estan	vmip3p0	main	-	-	-
+ordenadores_yes_4_16	4	40	destiandos	destiandos	ncmp000	common	-	-	-
+ordenadores_yes_4_16	4	41	para	para	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	42	poder	poder	vmn0000	main	-	-	-
+ordenadores_yes_4_16	4	43	recuperar	recuperar	vmn0000	main	-	-	-
+ordenadores_yes_4_16	4	44	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	4	45	disco	disco	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	46	duro	duro	aq0ms0	qualificative	-	-	-
+ordenadores_yes_4_16	4	47	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	48	si	si	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	49	pasara	pasar	vmsi3s0	main	-	-	-
+ordenadores_yes_4_16	4	50	cualquier	cualquiera	di0cs0	indefinite	-	-	-
+ordenadores_yes_4_16	4	51	cosa	cosa	ncfs000	common	-	-	-
+ordenadores_yes_4_16	4	52	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	4	53	en	en	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	54	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	4	55	que	que	pr0cn000	relative	-	-	-
+ordenadores_yes_4_16	4	56	se	se	p00cn000	-	-	-	-
+ordenadores_yes_4_16	4	57	alojan	alojar	vmip3p0	main	-	-	-
+ordenadores_yes_4_16	4	58	los	el	da0mp0	article	-	-	-
+ordenadores_yes_4_16	4	59	programas	programa	ncmp000	common	-	-	-
+ordenadores_yes_4_16	4	60	que	que	pr0cn000	relative	-	-	-
+ordenadores_yes_4_16	4	61	trae	traer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	4	62	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	4	63	ordenador	ordenador	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	64	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	65	tales	tal	dd0cp0	demonstrative	-	-	-
+ordenadores_yes_4_16	4	66	como	como	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	67	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	4	68	windows	windows	ncmp000	common	-	-	-
+ordenadores_yes_4_16	4	69	xp	xp	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	70	home	home	vmsp3s0	main	-	-	-
+ordenadores_yes_4_16	4	71	edition	edition	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	72	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	73	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_yes_4_16	4	74	paquete	paquete	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	75	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	76	works	works	ncmp000	common	-	-	-
+ordenadores_yes_4_16	4	77	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	78	adobe	adobar	vmsp3s0	main	-	-	-
+ordenadores_yes_4_16	4	79	reader	reader	vmn0000	main	-	-	-
+ordenadores_yes_4_16	4	80	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	4	81	microsoft	microsoft	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	82	word	word	aq0cn0	qualificative	-	-	-
+ordenadores_yes_4_16	4	83	2002	2002	z	-	-	-	-
+ordenadores_yes_4_16	4	84	entre	entre	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	85	otros	otro	pi0mp000	indefinite	-	-	-
+ordenadores_yes_4_16	4	86	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	4	87	asi	asi	ncms000	common	-	-	-
+ordenadores_yes_4_16	4	88	como	como	cs	subordinating	-	-	-
+ordenadores_yes_4_16	4	89	actualizaciones	actualización	ncfp000	common	-	-	-
+ordenadores_yes_4_16	4	90	continuas	continuo	aq0fp0	qualificative	-	-	-
+ordenadores_yes_4_16	4	91	gratuitas	gratuito	aq0fp0	qualificative	-	-	-
+ordenadores_yes_4_16	4	92	que	que	pr0cn000	relative	-	-	-
+ordenadores_yes_4_16	4	93	son	ser	vsip3p0	semiauxiliary	-	-	-
+ordenadores_yes_4_16	4	94	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	4	95	bastante	bastante	di0cs0	indefinite	-	-	-
+ordenadores_yes_4_16	4	96	utilidad	utilidad	ncfs000	common	-	-	-
+ordenadores_yes_4_16	4	97	.	.	fp	-	-	-	-
+
+ordenadores_yes_4_16	5	1	De	de	sps00	preposition	***
+ordenadores_yes_4_16	5	2	este	este	dd0ms0	demonstrative	***
+ordenadores_yes_4_16	5	3	equipo	equipo	ncms000	common	***
+ordenadores_yes_4_16	5	4	tambien	tambien	rg	-	***
+ordenadores_yes_4_16	5	5	me	me	pp1cs000	personal	***
+ordenadores_yes_4_16	5	6	gusta	gustar	vmip3s0	main	***
+ordenadores_yes_4_16	5	7	el	el	da0ms0	article	***
+ordenadores_yes_4_16	5	8	que	que	pr0cn000	relative	***
+ordenadores_yes_4_16	5	9	lleva	llevar	vmip3s0	main	***
+ordenadores_yes_4_16	5	10	lector	lector	ncms000	common	***
+ordenadores_yes_4_16	5	11	de	de	sps00	preposition	***
+ordenadores_yes_4_16	5	12	tarjetas	tarjeta	ncfp000	common	***
+ordenadores_yes_4_16	5	13	7	7	z	-	***
+ordenadores_yes_4_16	5	14	en	en	sps00	preposition	***
+ordenadores_yes_4_16	5	15	uno	uno	pi0ms000	indefinite	***
+ordenadores_yes_4_16	5	16	,	,	fc	-	***
+ordenadores_yes_4_16	5	17	que	que	cs	subordinating	***
+ordenadores_yes_4_16	5	18	hoy	hoy	rg	-	***
+ordenadores_yes_4_16	5	19	por	por	sps00	preposition	***
+ordenadores_yes_4_16	5	20	hoy	hoy	rg	-	***
+ordenadores_yes_4_16	5	21	son	ser	vsip3p0	semiauxiliary	***
+ordenadores_yes_4_16	5	22	de	de	sps00	preposition	***
+ordenadores_yes_4_16	5	23	grandisima	grandisima	aqsfs0	qualificative	***
+ordenadores_yes_4_16	5	24	utlidad	utlidad	ncfs000	common	***
+ordenadores_yes_4_16	5	25	sobre	sobre	sps00	preposition	***
+ordenadores_yes_4_16	5	26	todo	todo	pi0ms000	indefinite	***
+ordenadores_yes_4_16	5	27	si	si	cs	subordinating	***
+ordenadores_yes_4_16	5	28	se	se	p00cn000	-	***
+ordenadores_yes_4_16	5	29	suele	soler	vmip3s0	main	***
+ordenadores_yes_4_16	5	30	usar	usar	vmn0000	main	***
+ordenadores_yes_4_16	5	31	camaras	camaras	ncfp000	common	***
+ordenadores_yes_4_16	5	32	digitales	digital	aq0cp0	qualificative	***
+ordenadores_yes_4_16	5	33	,	,	fc	-	***
+ordenadores_yes_4_16	5	34	pdas	pdas	vmp00pf	main	***
+ordenadores_yes_4_16	5	35	o	o	cc	coordinating	***
+ordenadores_yes_4_16	5	36	moviles	moviles	aq0cp0	qualificative	***
+ordenadores_yes_4_16	5	37	con	con	sps00	preposition	***
+ordenadores_yes_4_16	5	38	tarjetas	tarjeta	ncfp000	common	***
+ordenadores_yes_4_16	5	39	.	.	fp	-	***
+
+ordenadores_yes_4_16	6	1	El	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	6	2	lector	lector	ncms000	common	-	-	-
+ordenadores_yes_4_16	6	3	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	4	tarjetas	tarjeta	ncfp000	common	-	-	-
+ordenadores_yes_4_16	6	5	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	6	6	junto_con	junto_con	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	7	tres	3	z	-	-	-	-
+ordenadores_yes_4_16	6	8	entradas	entrada	ncfp000	common	-	-	-
+ordenadores_yes_4_16	6	9	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	10	usb	usb	ncms000	common	-	-	-
+ordenadores_yes_4_16	6	11	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	6	12	la	el	da0fs0	article	-	-	-
+ordenadores_yes_4_16	6	13	disquetera	disquetera	ncfs000	common	-	-	-
+ordenadores_yes_4_16	6	14	estan	estan	vmip3p0	main	-	-	-
+ordenadores_yes_4_16	6	15	protegidos	proteger	vmp00pm	main	-	-	-
+ordenadores_yes_4_16	6	16	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	17	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_4_16	6	18	tapa	tapa	ncfs000	common	-	-	-
+ordenadores_yes_4_16	6	19	deslizante	deslizante	aq0cs0	qualificative	-	-	-
+ordenadores_yes_4_16	6	20	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	21	mucha	mucho	di0fs0	indefinite	-	-	-
+ordenadores_yes_4_16	6	22	utilidad	utilidad	ncfs000	common	-	-	-
+ordenadores_yes_4_16	6	23	sobre	sobre	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	24	todo	todo	pi0ms000	indefinite	-	-	-
+ordenadores_yes_4_16	6	25	para_que	para_que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	6	26	no	no	rn	negative	no	-	-
+ordenadores_yes_4_16	6	27	entre	entrar	vmsp3s0	main	-	-	-
+ordenadores_yes_4_16	6	28	polvo	polvo	ncms000	common	-	-	-
+ordenadores_yes_4_16	6	29	en	en	sps00	preposition	-	-	-
+ordenadores_yes_4_16	6	30	los	el	da0mp0	article	-	-	-
+ordenadores_yes_4_16	6	31	mismos	mismo	aq0mp0	qualificative	-	-	-
+ordenadores_yes_4_16	6	32	.	.	fp	-	-	-	-
+
+ordenadores_yes_4_16	7	1	La	la	np00000	proper	***
+ordenadores_yes_4_16	7	2	tarjeta	tarjeta	ncfs000	common	***
+ordenadores_yes_4_16	7	3	grafica	grafica	aq0fs0	qualificative	***
+ordenadores_yes_4_16	7	4	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_yes_4_16	7	5	una	uno	di0fs0	indefinite	***
+ordenadores_yes_4_16	7	6	ati	ati	ncms000	common	***
+ordenadores_yes_4_16	7	7	radeon	radeon	vmis3p0	main	***
+ordenadores_yes_4_16	7	8	9200	9200	z	-	***
+ordenadores_yes_4_16	7	9	con	con	sps00	preposition	***
+ordenadores_yes_4_16	7	10	128	128	z	-	***
+ordenadores_yes_4_16	7	11	mb	mb	ncms000	common	***
+ordenadores_yes_4_16	7	12	,	,	fc	-	***
+ordenadores_yes_4_16	7	13	que	que	cs	subordinating	***
+ordenadores_yes_4_16	7	14	sobre	sobre	sps00	preposition	***
+ordenadores_yes_4_16	7	15	todo	todo	pi0ms000	indefinite	***
+ordenadores_yes_4_16	7	16	si	si	cs	subordinating	***
+ordenadores_yes_4_16	7	17	usas	usar	vmip2s0	main	***
+ordenadores_yes_4_16	7	18	el	el	da0ms0	article	***
+ordenadores_yes_4_16	7	19	ordenador	ordenador	ncms000	common	***
+ordenadores_yes_4_16	7	20	para	para	sps00	preposition	***
+ordenadores_yes_4_16	7	21	jugar	jugar	vmn0000	main	***
+ordenadores_yes_4_16	7	22	se	se	p00cn000	-	***
+ordenadores_yes_4_16	7	23	queda	quedar	vmip3s0	main	***
+ordenadores_yes_4_16	7	24	un	uno	di0ms0	indefinite	***
+ordenadores_yes_4_16	7	25	pelin	pelin	nc00000	common	***
+ordenadores_yes_4_16	7	26	corta	corto	aq0fs0	qualificative	***
+ordenadores_yes_4_16	7	27	,	,	fc	-	***
+ordenadores_yes_4_16	7	28	pero	pero	cc	coordinating	***
+ordenadores_yes_4_16	7	29	para	para	sps00	preposition	***
+ordenadores_yes_4_16	7	30	lo	el	da0ns0	article	***
+ordenadores_yes_4_16	7	31	demas	demas	ncmp000	common	***
+ordenadores_yes_4_16	7	32	va	ir	vmip3s0	main	***
+ordenadores_yes_4_16	7	33	bastante	bastante	rg	-	***
+ordenadores_yes_4_16	7	34	bien	bien	rg	-	***
+ordenadores_yes_4_16	7	35	,	,	fc	-	***
+ordenadores_yes_4_16	7	36	las	el	da0fp0	article	***
+ordenadores_yes_4_16	7	37	pelis	pelis	ncfn000	common	***
+ordenadores_yes_4_16	7	38	por_ejemplo	por_ejemplo	rg	-	***
+ordenadores_yes_4_16	7	39	se	se	p00cn000	-	***
+ordenadores_yes_4_16	7	40	ven	ver	vmip3p0	main	***
+ordenadores_yes_4_16	7	41	bien	bien	rg	-	***
+ordenadores_yes_4_16	7	42	.	.	fp	-	***
+
+ordenadores_yes_4_16	8	1	La	el	da0fs0	article	***
+ordenadores_yes_4_16	8	2	torre	torre	ncfs000	common	***
+ordenadores_yes_4_16	8	3	,	,	fc	-	***
+ordenadores_yes_4_16	8	4	la	el	da0fs0	article	***
+ordenadores_yes_4_16	8	5	verdad	verdad	ncfs000	common	***
+ordenadores_yes_4_16	8	6	y	y	cc	coordinating	***
+ordenadores_yes_4_16	8	7	para	para	sps00	preposition	***
+ordenadores_yes_4_16	8	8	ser	ser	vsn0000	semiauxiliary	***
+ordenadores_yes_4_16	8	9	sinceros	sincero	aq0mp0	qualificative	***
+ordenadores_yes_4_16	8	10	pesa	pesar	vmip3s0	main	***
+ordenadores_yes_4_16	8	11	un	uno	di0ms0	indefinite	***
+ordenadores_yes_4_16	8	12	poquito	poquito	aq0ms0	qualificative	***
+ordenadores_yes_4_16	8	13	,	,	fc	-	***
+ordenadores_yes_4_16	8	14	aunque	aunque	cc	coordinating	***
+ordenadores_yes_4_16	8	15	su	su	dp3cs0	possessive	***
+ordenadores_yes_4_16	8	16	diseño	diseño	ncms000	common	***
+ordenadores_yes_4_16	8	17	en	en	sps00	preposition	***
+ordenadores_yes_4_16	8	18	gris	gris	ncms000	common	***
+ordenadores_yes_4_16	8	19	y	y	cc	coordinating	***
+ordenadores_yes_4_16	8	20	su	su	dp3cs0	possessive	***
+ordenadores_yes_4_16	8	21	boton	boton	ncms000	common	***
+ordenadores_yes_4_16	8	22	en	en	sps00	preposition	***
+ordenadores_yes_4_16	8	23	iluminacion	iluminacion	ncms000	common	***
+ordenadores_yes_4_16	8	24	azul	azul	aq0cs0	qualificative	***
+ordenadores_yes_4_16	8	25	esta	este	dd0fs0	demonstrative	***
+ordenadores_yes_4_16	8	26	bastante	bastante	rg	-	***
+ordenadores_yes_4_16	8	27	bien	bien	rg	-	***
+ordenadores_yes_4_16	8	28	.	.	fp	-	***
+
+ordenadores_yes_4_16	9	1	No	no	rn	negative	No	-	-
+ordenadores_yes_4_16	9	2	trae	traer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	9	3	bluetooth	bluetooth	ncms000	common	-	-	-
+ordenadores_yes_4_16	9	4	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	9	5	si	si	cs	subordinating	-	-	-
+ordenadores_yes_4_16	9	6	bien	bien	rg	-	-	-	-
+ordenadores_yes_4_16	9	7	hoy	hoy	rg	-	-	-	-
+ordenadores_yes_4_16	9	8	en	en	sps00	preposition	-	-	-
+ordenadores_yes_4_16	9	9	dia	dia	ncfs000	common	-	-	-
+ordenadores_yes_4_16	9	10	se	se	p00cn000	-	-	-	-
+ordenadores_yes_4_16	9	11	puede	poder	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	9	12	poner	poner	vmn0000	main	-	-	-
+ordenadores_yes_4_16	9	13	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	9	14	muy	muy	rg	-	-	-	-
+ordenadores_yes_4_16	9	15	poquito	poquito	aq0ms0	qualificative	-	-	-
+ordenadores_yes_4_16	9	16	precio	precio	ncms000	common	-	-	-
+ordenadores_yes_4_16	9	17	ya_que	ya_que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	9	18	dispone	disponer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	9	19	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	9	20	6	6	z	-	-	-	-
+ordenadores_yes_4_16	9	21	entradas	entrada	ncfp000	common	-	-	-
+ordenadores_yes_4_16	9	22	para	para	sps00	preposition	-	-	-
+ordenadores_yes_4_16	9	23	usb	usb	ncms000	common	-	-	-
+ordenadores_yes_4_16	9	24	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	9	25	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	9	26	tanto	tanto	rg	-	-	-	-
+ordenadores_yes_4_16	9	27	supone	suponer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	9	28	mayora	mayora	rg	-	-	-	-
+ordenadores_yes_4_16	9	29	problema	problema	ncms000	common	-	-	-
+ordenadores_yes_4_16	9	30	.	.	fp	-	-	-	-
+
+ordenadores_yes_4_16	10	1	La	el	da0fs0	article	-	-	-
+ordenadores_yes_4_16	10	2	memoria	memoria	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	3	ram	ram	ncms000	common	-	-	-
+ordenadores_yes_4_16	10	4	yo	yo	pp1csn00	personal	-	-	-
+ordenadores_yes_4_16	10	5	creo	crear	vmip1s0	main	-	-	-
+ordenadores_yes_4_16	10	6	que	que	cs	subordinating	-	-	-
+ordenadores_yes_4_16	10	7	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_yes_4_16	10	8	su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	10	9	peor	peor	aq0cs0	qualificative	-	-	-
+ordenadores_yes_4_16	10	10	virtud	virtud	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	11	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	12	en	en	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	13	su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	10	14	dia	dia	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	15	hace	hacer	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	10	16	tres	3	z	-	-	-	-
+ordenadores_yes_4_16	10	17	años	año	ncmp000	common	-	-	-
+ordenadores_yes_4_16	10	18	512mb	512mb	z	-	-	-	-
+ordenadores_yes_4_16	10	19	estaba	estar	vaii1s0	auxiliary	-	-	-
+ordenadores_yes_4_16	10	20	bastante	bastante	rg	-	-	-	-
+ordenadores_yes_4_16	10	21	bien	bien	rg	-	-	-	-
+ordenadores_yes_4_16	10	22	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	23	pero	pero	cc	coordinating	-	-	-
+ordenadores_yes_4_16	10	24	hoy	hoy	rg	-	-	-	-
+ordenadores_yes_4_16	10	25	esa	ese	dd0fs0	demonstrative	-	-	-
+ordenadores_yes_4_16	10	26	memoria	memoria	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	27	ya	ya	rg	-	-	-	-
+ordenadores_yes_4_16	10	28	se	se	p00cn000	-	-	-	-
+ordenadores_yes_4_16	10	29	ha	haber	vaip3s0	auxiliary	-	-	-
+ordenadores_yes_4_16	10	30	quedado	quedar	vmp00sm	main	-	-	-
+ordenadores_yes_4_16	10	31	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_yes_4_16	10	32	pelin	pelin	nc00000	common	-	-	-
+ordenadores_yes_4_16	10	33	desfasada	desfasar	vmp00sf	main	-	-	-
+ordenadores_yes_4_16	10	34	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	35	esta	este	dd0fs0	demonstrative	-	-	-
+ordenadores_yes_4_16	10	36	seria	serio	aq0fs0	qualificative	-	-	-
+ordenadores_yes_4_16	10	37	su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	10	38	unica	unica	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	10	39	pega	pega	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	40	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	41	porque	porque	cs	subordinating	-	-	-
+ordenadores_yes_4_16	10	42	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	43	lo	el	da0ns0	article	-	-	-
+ordenadores_yes_4_16	10	44	demas	demas	ncmp000	common	-	-	-
+ordenadores_yes_4_16	10	45	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	10	46	equipo	equipo	ncms000	common	-	-	-
+ordenadores_yes_4_16	10	47	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_yes_4_16	10	48	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_4_16	10	49	pasada	pasar	vmp00sf	main	-	-	-
+ordenadores_yes_4_16	10	50	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	51	viene	venir	vmip3s0	main	-	-	-
+ordenadores_yes_4_16	10	52	bastante	bastante	rg	-	-	-	-
+ordenadores_yes_4_16	10	53	completo	completo	aq0ms0	qualificative	-	-	-
+ordenadores_yes_4_16	10	54	y	y	cc	coordinating	-	-	-
+ordenadores_yes_4_16	10	55	no	no	rn	negative	no	-	-
+ordenadores_yes_4_16	10	56	me	me	pp1cs000	personal	-	-	-
+ordenadores_yes_4_16	10	57	ha	haber	vaip3s0	auxiliary	-	-	-
+ordenadores_yes_4_16	10	58	dado	dar	vmp00sm	main	-	-	-
+ordenadores_yes_4_16	10	59	hasta	hasta	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	60	el	el	da0ms0	article	-	-	-
+ordenadores_yes_4_16	10	61	dia	dia	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	62	de	de	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	63	hoy	hoy	rg	-	-	-	-
+ordenadores_yes_4_16	10	64	ningun	ninguno	di0ms0	indefinite	ningun	-	-
+ordenadores_yes_4_16	10	65	fallo	fallo	ncms000	common	-	-	-
+ordenadores_yes_4_16	10	66	,	,	fc	-	-	-	-
+ordenadores_yes_4_16	10	67	siendo	ser	vsg0000	semiauxiliary	-	-	-
+ordenadores_yes_4_16	10	68	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_yes_4_16	10	69	compra	compra	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	70	muy	muy	rg	-	-	-	-
+ordenadores_yes_4_16	10	71	recomendable	recomendable	aq0cs0	qualificative	-	-	-
+ordenadores_yes_4_16	10	72	tanto	tanto	rg	-	-	-	-
+ordenadores_yes_4_16	10	73	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	74	su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	10	75	calidad	calidad	ncfs000	common	-	-	-
+ordenadores_yes_4_16	10	76	como	como	cs	subordinating	-	-	-
+ordenadores_yes_4_16	10	77	por	por	sps00	preposition	-	-	-
+ordenadores_yes_4_16	10	78	su	su	dp3cs0	possessive	-	-	-
+ordenadores_yes_4_16	10	79	precio	precio	ncms000	common	-	-	-
+ordenadores_yes_4_16	10	80	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	1	1	10/06/2002	[??:10/6/2002:??.??:??]	w	-	***
+
+ordenadores_no_1_9	2	1	Y	y	np00000	proper	***
+ordenadores_no_1_9	2	2	me	me	pp1cs000	personal	***
+ordenadores_no_1_9	2	3	ratifico	ratificar	vmip1s0	main	***
+ordenadores_no_1_9	2	4	.	.	fp	-	***
+
+ordenadores_no_1_9	3	1	Hoy	hoy	rg	-	***
+ordenadores_no_1_9	3	2	he	haber	vaip1s0	auxiliary	***
+ordenadores_no_1_9	3	3	empezado	empezar	vmp00sm	main	***
+ordenadores_no_1_9	3	4	a	a	sps00	preposition	***
+ordenadores_no_1_9	3	5	mirar	mirar	vmn0000	main	***
+ordenadores_no_1_9	3	6	diferentes	diferente	aq0cp0	qualificative	***
+ordenadores_no_1_9	3	7	ordenadores	ordenador	ncmp000	common	***
+ordenadores_no_1_9	3	8	por	por	sps00	preposition	***
+ordenadores_no_1_9	3	9	eso	ese	pd0ns000	demonstrative	***
+ordenadores_no_1_9	3	10	de	de	sps00	preposition	***
+ordenadores_no_1_9	3	11	que	que	cs	subordinating	***
+ordenadores_no_1_9	3	12	el	el	da0ms0	article	***
+ordenadores_no_1_9	3	13	mio	mio	ncms000	common	***
+ordenadores_no_1_9	3	14	va	ir	vmip3s0	main	***
+ordenadores_no_1_9	3	15	poco	poco	pi0ms000	indefinite	***
+ordenadores_no_1_9	3	16	menos	menos	rg	-	***
+ordenadores_no_1_9	3	17	que	que	cs	subordinating	***
+ordenadores_no_1_9	3	18	a	a	sps00	preposition	***
+ordenadores_no_1_9	3	19	pedales	pedal	ncmp000	common	***
+ordenadores_no_1_9	3	20	,	,	fc	-	***
+ordenadores_no_1_9	3	21	y	y	cc	coordinating	***
+ordenadores_no_1_9	3	22	se	se	p00cn000	-	***
+ordenadores_no_1_9	3	23	me	me	pp1cs000	personal	***
+ordenadores_no_1_9	3	24	han	haber	vaip3p0	auxiliary	***
+ordenadores_no_1_9	3	25	quedado	quedar	vmp00sm	main	***
+ordenadores_no_1_9	3	26	los	el	da0mp0	article	***
+ordenadores_no_1_9	3	27	pelos	pelo	ncmp000	common	***
+ordenadores_no_1_9	3	28	como	como	cs	subordinating	***
+ordenadores_no_1_9	3	29	escarpias	escarpia	ncfp000	common	***
+ordenadores_no_1_9	3	30	.	.	fp	-	***
+
+ordenadores_no_1_9	4	1	Por	por	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_9	4	2	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+ordenadores_no_1_9	4	3	Compaq	compaq	np00000	proper	-	-	-	-	-	-
+ordenadores_no_1_9	4	4	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_9	4	5	128	128	z	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	6	MB	mb	np00000	proper	-	-	-	-	-	-
+ordenadores_no_1_9	4	7	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_9	4	8	RAM,30	ram,30	z	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	9	GB_de_HD	gb_de_hd	np00000	proper	-	-	-	-	-	-
+ordenadores_no_1_9	4	10	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	11	sin	sin	sps00	preposition	sin	-	-	-	-	-
+ordenadores_no_1_9	4	12	grabadora	grabador	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_1_9	4	13	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_9	4	14	CD's	cs's	np00000	proper	-	-	-	-	-	-
+ordenadores_no_1_9	4	15	y	y	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_1_9	4	16	sin	sin	sps00	preposition	-	-	-	sin	-	-
+ordenadores_no_1_9	4	17	software	software	ncmn000	common	-	-	-	-	-	-
+ordenadores_no_1_9	4	18	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	19	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_no_1_9	4	20	querían	querer	vmii3p0	main	-	-	-	-	-	-
+ordenadores_no_1_9	4	21	clavar	clavar	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_1_9	4	22	más	más	rg	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	23	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_9	4	24	200.000	200000	z	-	-	-	-	-	-	-
+ordenadores_no_1_9	4	25	pelas	pela	ncfp000	common	-	-	-	-	-	-
+ordenadores_no_1_9	4	26	;	;	fx	-	-	-	-	-	-	-
+
+ordenadores_no_1_9	5	1	mientras_que	mientras_que	cs	subordinating	***
+ordenadores_no_1_9	5	2	por	por	sps00	preposition	***
+ordenadores_no_1_9	5	3	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	5	4	clónico	clónico	aq0ms0	qualificative	***
+ordenadores_no_1_9	5	5	P4	p4	z	-	***
+ordenadores_no_1_9	5	6	con	con	sps00	preposition	***
+ordenadores_no_1_9	5	7	256	256	z	-	***
+ordenadores_no_1_9	5	8	de	de	sps00	preposition	***
+ordenadores_no_1_9	5	9	RAM	ram	np00000	proper	***
+ordenadores_no_1_9	5	10	,	,	fc	-	***
+ordenadores_no_1_9	5	11	40	40	z	-	***
+ordenadores_no_1_9	5	12	de	de	sps00	preposition	***
+ordenadores_no_1_9	5	13	HD	hd	np00000	proper	***
+ordenadores_no_1_9	5	14	,	,	fc	-	***
+ordenadores_no_1_9	5	15	grabadora	grabador	ncfs000	common	***
+ordenadores_no_1_9	5	16	,	,	fc	-	***
+ordenadores_no_1_9	5	17	DVD	dvd	np00000	proper	***
+ordenadores_no_1_9	5	18	,	,	fc	-	***
+ordenadores_no_1_9	5	19	el	el	da0ms0	article	***
+ordenadores_no_1_9	5	20	Windows_XP	windows_xp	np00000	proper	***
+ordenadores_no_1_9	5	21	,	,	fc	-	***
+ordenadores_no_1_9	5	22	se	se	p00cn000	-	***
+ordenadores_no_1_9	5	23	quedaba	quedar	vmii3s0	main	***
+ordenadores_no_1_9	5	24	en	en	sps00	preposition	***
+ordenadores_no_1_9	5	25	180.000	180000	z	-	***
+ordenadores_no_1_9	5	26	pesetas	peseta	ncfp000	common	***
+ordenadores_no_1_9	5	27	.	.	fp	-	***
+
+ordenadores_no_1_9	6	1	Que	que	cs	subordinating	***
+ordenadores_no_1_9	6	2	les	le	pp3cpd00	personal	***
+ordenadores_no_1_9	6	3	maten	matar	vmsp3p0	main	***
+ordenadores_no_1_9	6	4	ya	ya	rg	-	***
+ordenadores_no_1_9	6	5	.	.	fp	-	***
+
+ordenadores_no_1_9	7	1	------------------------------------------------------	------------------------------------------------------	fz	-	***
+
+ordenadores_no_1_9	8	1	Esta	este	dd0fs0	demonstrative	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	2	opinión	opinión	ncfs000	common	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	3	no	no	rn	negative	no	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	4	debería	deber	vmic3s0	main	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	5	ir	ir	vmn0000	main	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	6	encuadrada	encuadrar	vmp00sf	main	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	7	aquí	aquí	rg	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	8	,	,	fc	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	9	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	10	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+ordenadores_no_1_9	8	11	he	haber	vaip1s0	auxiliary	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	12	encontrado	encontrar	vmp00sm	main	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	13	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	14	lugar	lugar	ncms000	common	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	15	o	o	cc	coordinating	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	16	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+ordenadores_no_1_9	8	17	existe	existir	vmip3s0	main	-	-	-	-	-	-	-	-	-
+ordenadores_no_1_9	8	18	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+ordenadores_no_1_9	9	1	Aunque	aunque	np00000	proper	-	-	-
+ordenadores_no_1_9	9	2	tampoco	tampoco	rg	-	tampoco	-	-
+ordenadores_no_1_9	9	3	viene	venir	vmip3s0	main	-	-	-
+ordenadores_no_1_9	9	4	del_todo	del_todo	rg	-	del_todo	-	-
+ordenadores_no_1_9	9	5	mal	mal	rg	-	-	-	-
+ordenadores_no_1_9	9	6	este	este	dd0ms0	demonstrative	-	-	-
+ordenadores_no_1_9	9	7	apartado	apartado	ncms000	common	-	-	-
+ordenadores_no_1_9	9	8	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	10	1	Los	el	da0mp0	article	***
+ordenadores_no_1_9	10	2	PC	pc	np00000	proper	***
+ordenadores_no_1_9	10	3	´	´	fz	-	***
+ordenadores_no_1_9	10	4	s	segundo	ncmn000	common	***
+ordenadores_no_1_9	10	5	de	de	sps00	preposition	***
+ordenadores_no_1_9	10	6	marca	marca	ncfs000	common	***
+ordenadores_no_1_9	10	7	(	(	fpa	-	***
+ordenadores_no_1_9	10	8	IBM	ibm	np00000	proper	***
+ordenadores_no_1_9	10	9	,	,	fc	-	***
+ordenadores_no_1_9	10	10	Compaq	compaq	np00000	proper	***
+ordenadores_no_1_9	10	11	,	,	fc	-	***
+ordenadores_no_1_9	10	12	HP	hp	np00000	proper	***
+ordenadores_no_1_9	10	13	...	...	fs	-	***
+ordenadores_no_1_9	10	14	)	)	fpt	-	***
+ordenadores_no_1_9	10	15	son	ser	vsip3p0	semiauxiliary	***
+ordenadores_no_1_9	10	16	como	como	cs	subordinating	***
+ordenadores_no_1_9	10	17	otros	otro	di0mp0	indefinite	***
+ordenadores_no_1_9	10	18	productos	producto	ncmp000	common	***
+ordenadores_no_1_9	10	19	de	de	sps00	preposition	***
+ordenadores_no_1_9	10	20	renombre	renombre	ncms000	common	***
+ordenadores_no_1_9	10	21	por	por	sps00	preposition	***
+ordenadores_no_1_9	10	22	la	el	da0fs0	article	***
+ordenadores_no_1_9	10	23	casa	casa	ncfs000	common	***
+ordenadores_no_1_9	10	24	que	que	pr0cn000	relative	***
+ordenadores_no_1_9	10	25	los	lo	pp3mpa00	personal	***
+ordenadores_no_1_9	10	26	fabrica	fabricar	vmip3s0	main	***
+ordenadores_no_1_9	10	27	:	:	fd	-	***
+
+ordenadores_no_1_9	11	1	generalmente	generalmente	rg	-	***
+ordenadores_no_1_9	11	2	sólo	sólo	rg	-	***
+ordenadores_no_1_9	11	3	se	se	p00cn000	-	***
+ordenadores_no_1_9	11	4	paga	pagar	vmip3s0	main	***
+ordenadores_no_1_9	11	5	la	el	da0fs0	article	***
+ordenadores_no_1_9	11	6	marca	marca	ncfs000	common	***
+ordenadores_no_1_9	11	7	,	,	fc	-	***
+ordenadores_no_1_9	11	8	porque	porque	cs	subordinating	***
+ordenadores_no_1_9	11	9	a	a	sps00	preposition	***
+ordenadores_no_1_9	11	10	la	el	da0fs0	article	***
+ordenadores_no_1_9	11	11	hora	hora	ncfs000	common	***
+ordenadores_no_1_9	11	12	de	de	sps00	preposition	***
+ordenadores_no_1_9	11	13	delimitar	delimitar	vmn0000	main	***
+ordenadores_no_1_9	11	14	las	el	da0fp0	article	***
+ordenadores_no_1_9	11	15	prestaciones	prestación	ncfp000	common	***
+ordenadores_no_1_9	11	16	,	,	fc	-	***
+ordenadores_no_1_9	11	17	con	con	sps00	preposition	***
+ordenadores_no_1_9	11	18	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	11	19	clónico	clónico	aq0ms0	qualificative	***
+ordenadores_no_1_9	11	20	puedes	poder	vmip2s0	main	***
+ordenadores_no_1_9	11	21	igualar	igualar	vmn0000	main	***
+ordenadores_no_1_9	11	22	e	y	cc	coordinating	***
+ordenadores_no_1_9	11	23	incluso	incluso	rg	-	***
+ordenadores_no_1_9	11	24	superar	superar	vmn0000	main	***
+ordenadores_no_1_9	11	25	lo	el	da0ns0	article	***
+ordenadores_no_1_9	11	26	que	que	pr0cn000	relative	***
+ordenadores_no_1_9	11	27	los	el	da0mp0	article	***
+ordenadores_no_1_9	11	28	primeros	1	ao0mp0	ordinal	***
+ordenadores_no_1_9	11	29	ofrecen	ofrecer	vmip3p0	main	***
+ordenadores_no_1_9	11	30	,	,	fc	-	***
+ordenadores_no_1_9	11	31	y	y	cc	coordinating	***
+ordenadores_no_1_9	11	32	encima	encima	rg	-	***
+ordenadores_no_1_9	11	33	por	por	sps00	preposition	***
+ordenadores_no_1_9	11	34	menos	menos	rg	-	***
+ordenadores_no_1_9	11	35	de	de	sps00	preposition	***
+ordenadores_no_1_9	11	36	la	el	da0fs0	article	***
+ordenadores_no_1_9	11	37	mitad	mitad	ncfs000	common	***
+ordenadores_no_1_9	11	38	de	de	sps00	preposition	***
+ordenadores_no_1_9	11	39	precio	precio	ncms000	common	***
+ordenadores_no_1_9	11	40	.	.	fp	-	***
+
+ordenadores_no_1_9	12	1	Me	me	pp1cs000	personal	***
+ordenadores_no_1_9	12	2	explico	explicar	vmip1s0	main	***
+ordenadores_no_1_9	12	3	:	:	fd	-	***
+
+ordenadores_no_1_9	13	1	Un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	13	2	PC	pc	np00000	proper	***
+ordenadores_no_1_9	13	3	de	de	sps00	preposition	***
+ordenadores_no_1_9	13	4	primeras	1	ao0fp0	ordinal	***
+ordenadores_no_1_9	13	5	marcas	marca	ncfp000	common	***
+ordenadores_no_1_9	13	6	tiene	tener	vmip3s0	main	***
+ordenadores_no_1_9	13	7	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	13	8	cierto	cierto	aq0ms0	qualificative	***
+ordenadores_no_1_9	13	9	prestigio	prestigio	ncms000	common	***
+ordenadores_no_1_9	13	10	que	que	pr0cn000	relative	***
+ordenadores_no_1_9	13	11	se	se	p00cn000	-	***
+ordenadores_no_1_9	13	12	paga	pagar	vmip3s0	main	***
+ordenadores_no_1_9	13	13	(	(	fpa	-	***
+ordenadores_no_1_9	13	14	salen	salir	vmip3p0	main	***
+ordenadores_no_1_9	13	15	por	por	sps00	preposition	***
+ordenadores_no_1_9	13	16	televisión	televisión	ncfs000	common	***
+ordenadores_no_1_9	13	17	,	,	fc	-	***
+ordenadores_no_1_9	13	18	¿	¿	fia	-	***
+ordenadores_no_1_9	13	19	no	no	rn	negative	***
+ordenadores_no_1_9	13	20	?	?	fit	-	***
+ordenadores_no_1_9	13	21	.	.	fp	-	***
+
+ordenadores_no_1_9	14	1	Eso	ese	pd0ns000	demonstrative	***
+ordenadores_no_1_9	14	2	se	se	p00cn000	-	***
+ordenadores_no_1_9	14	3	paga	pagar	vmip3s0	main	***
+ordenadores_no_1_9	14	4	)	)	fpt	-	***
+ordenadores_no_1_9	14	5	.	.	fp	-	***
+
+ordenadores_no_1_9	15	1	¿	¿	fia	-	***
+ordenadores_no_1_9	15	2	Alguien	alguien	pi0cs000	indefinite	***
+ordenadores_no_1_9	15	3	ha	haber	vaip3s0	auxiliary	***
+ordenadores_no_1_9	15	4	visto	ver	vmp00sm	main	***
+ordenadores_no_1_9	15	5	anunciantes	anunciante	nccp000	common	***
+ordenadores_no_1_9	15	6	televisivos	televisivo	aq0mp0	qualificative	***
+ordenadores_no_1_9	15	7	que	que	pr0cn000	relative	***
+ordenadores_no_1_9	15	8	promulguen	promulgar	vmsp3p0	main	***
+ordenadores_no_1_9	15	9	los	el	da0mp0	article	***
+ordenadores_no_1_9	15	10	beneficios	beneficio	ncmp000	common	***
+ordenadores_no_1_9	15	11	de	de	sps00	preposition	***
+ordenadores_no_1_9	15	12	algún	alguno	di0ms0	indefinite	***
+ordenadores_no_1_9	15	13	ordenador	ordenador	ncms000	common	***
+ordenadores_no_1_9	15	14	clónico	clónico	aq0ms0	qualificative	***
+ordenadores_no_1_9	15	15	?	?	fit	-	***
+ordenadores_no_1_9	15	16	.	.	fp	-	***
+
+ordenadores_no_1_9	16	1	Pues	pues	cs	subordinating	-	-	-
+ordenadores_no_1_9	16	2	mayormente	mayormente	rg	-	-	-	-
+ordenadores_no_1_9	16	3	no	no	rn	negative	no	-	-
+ordenadores_no_1_9	16	4	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	17	1	Luego	luego	np00000	proper	***
+ordenadores_no_1_9	17	2	está	estar	vaip3s0	auxiliary	***
+ordenadores_no_1_9	17	3	el	el	da0ms0	article	***
+ordenadores_no_1_9	17	4	tema	tema	ncms000	common	***
+ordenadores_no_1_9	17	5	de	de	sps00	preposition	***
+ordenadores_no_1_9	17	6	las	el	da0fp0	article	***
+ordenadores_no_1_9	17	7	ampliaciones	ampliación	ncfp000	common	***
+ordenadores_no_1_9	17	8	.	.	fp	-	***
+
+ordenadores_no_1_9	18	1	En	en	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	2	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_9	18	3	PC	pc	np00000	proper	-	-	-
+ordenadores_no_1_9	18	4	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	5	primeras	1	ao0fp0	ordinal	-	-	-
+ordenadores_no_1_9	18	6	marcas	marca	ncfp000	common	-	-	-
+ordenadores_no_1_9	18	7	no	no	rn	negative	no	-	-
+ordenadores_no_1_9	18	8	vale	valer	vmip3s0	main	-	-	-
+ordenadores_no_1_9	18	9	cualquier	cualquiera	di0cs0	indefinite	-	-	-
+ordenadores_no_1_9	18	10	clase	clase	ncfs000	common	-	-	-
+ordenadores_no_1_9	18	11	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	12	hardware	hardware	ncms000	common	-	-	-
+ordenadores_no_1_9	18	13	,	,	fc	-	-	-	-
+ordenadores_no_1_9	18	14	sino_que	sino_que	cc	coordinating	-	-	-
+ordenadores_no_1_9	18	15	tienen	tener	vmip3p0	main	-	-	-
+ordenadores_no_1_9	18	16	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_9	18	17	ser	ser	vsn0000	semiauxiliary	-	-	-
+ordenadores_no_1_9	18	18	específicos	específico	aq0mp0	qualificative	-	-	-
+ordenadores_no_1_9	18	19	no_sólo	no_sólo	cc	coordinating	-	-	-
+ordenadores_no_1_9	18	20	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	21	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	18	22	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_1_9	18	23	,	,	fc	-	-	-	-
+ordenadores_no_1_9	18	24	sino	sino	cc	coordinating	-	-	-
+ordenadores_no_1_9	18	25	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	26	el	el	da0ms0	article	-	-	-
+ordenadores_no_1_9	18	27	modelo	modelo	nccs000	common	-	-	-
+ordenadores_no_1_9	18	28	,	,	fc	-	-	-	-
+ordenadores_no_1_9	18	29	con	con	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	30	lo	el	da0ns0	article	-	-	-
+ordenadores_no_1_9	18	31	cual	cual	pr0cs000	relative	-	-	-
+ordenadores_no_1_9	18	32	el	el	da0ms0	article	-	-	-
+ordenadores_no_1_9	18	33	coste	coste	ncms000	common	-	-	-
+ordenadores_no_1_9	18	34	final	final	aq0cs0	qualificative	-	-	-
+ordenadores_no_1_9	18	35	se	se	p00cn000	-	-	-	-
+ordenadores_no_1_9	18	36	encarece	encarecer	vmip3s0	main	-	-	-
+ordenadores_no_1_9	18	37	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	18	38	sobremanera	sobremanera	rg	-	-	-	-
+ordenadores_no_1_9	18	39	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	19	1	¿	¿	fia	-	***
+ordenadores_no_1_9	19	2	Por	por	sps00	preposition	***
+ordenadores_no_1_9	19	3	qué	qué	pt0cn000	interrogative	***
+ordenadores_no_1_9	19	4	?	?	fit	-	***
+ordenadores_no_1_9	19	5	.	.	fp	-	***
+
+ordenadores_no_1_9	20	1	Pues	pues	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	2	porque	porque	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	3	sigues	seguir	vmip2s0	main	-	-	-
+ordenadores_no_1_9	20	4	pagando	pagar	vmg0000	main	-	-	-
+ordenadores_no_1_9	20	5	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	20	6	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	7	,	,	fc	-	-	-	-
+ordenadores_no_1_9	20	8	pero	pero	cc	coordinating	-	-	-
+ordenadores_no_1_9	20	9	eso	ese	pd0ns000	demonstrative	-	-	-
+ordenadores_no_1_9	20	10	sí	sí	pp3cno00	personal	-	-	-
+ordenadores_no_1_9	20	11	...	...	fs	-	-	-	-
+ordenadores_no_1_9	20	12	a	a	sps00	preposition	-	-	-
+ordenadores_no_1_9	20	13	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	20	14	hora	hora	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	15	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	20	16	estropear	estropear	vmn0000	main	-	-	-
+ordenadores_no_1_9	20	17	se	se	pp3cn000	personal	-	-	-
+ordenadores_no_1_9	20	18	se	se	p00cn000	-	-	-	-
+ordenadores_no_1_9	20	19	estropea	estropear	vmip3s0	main	-	-	-
+ordenadores_no_1_9	20	20	igual	igual	rg	-	-	-	-
+ordenadores_no_1_9	20	21	uno	uno	pi0ms000	indefinite	-	-	-
+ordenadores_no_1_9	20	22	clónico	clónico	aq0ms0	qualificative	-	-	-
+ordenadores_no_1_9	20	23	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_1_9	20	24	uno	uno	pi0ms000	indefinite	-	-	-
+ordenadores_no_1_9	20	25	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	20	26	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	27	,	,	fc	-	-	-	-
+ordenadores_no_1_9	20	28	solo	solo	aq0ms0	qualificative	-	-	-
+ordenadores_no_1_9	20	29	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	30	si	si	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	31	encima	encima	rg	-	-	-	-
+ordenadores_no_1_9	20	32	no	no	rn	negative	no	-	-
+ordenadores_no_1_9	20	33	está	estar	vmip3s0	main	-	-	-
+ordenadores_no_1_9	20	34	en	en	sps00	preposition	-	-	-
+ordenadores_no_1_9	20	35	garantía	garantía	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	36	te	te	pp2cs000	personal	-	-	-
+ordenadores_no_1_9	20	37	cobran	cobrar	vmip3p0	main	-	-	-
+ordenadores_no_1_9	20	38	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_9	20	39	ojo	ojo	ncms000	common	-	-	-
+ordenadores_no_1_9	20	40	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	20	41	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	20	42	caa	caa	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	43	porque	porque	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	44	claro	claro	rg	-	-	-	-
+ordenadores_no_1_9	20	45	,	,	fc	-	-	-	-
+ordenadores_no_1_9	20	46	lo	lo	pp3cna00	personal	-	-	-
+ordenadores_no_1_9	20	47	arregla	arreglar	vmip3s0	main	-	-	-
+ordenadores_no_1_9	20	48	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	20	49	casa	casa	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	50	HP	hp	np00000	proper	-	-	-
+ordenadores_no_1_9	20	51	,	,	fc	-	-	-	-
+ordenadores_no_1_9	20	52	o	o	cc	coordinating	-	-	-
+ordenadores_no_1_9	20	53	Compaq	compaq	np00000	proper	-	-	-
+ordenadores_no_1_9	20	54	o	o	cc	coordinating	-	-	-
+ordenadores_no_1_9	20	55	quien	quien	pr0cs000	relative	-	-	-
+ordenadores_no_1_9	20	56	sea	ser	vssp1s0	semiauxiliary	-	-	-
+ordenadores_no_1_9	20	57	,	,	fc	-	-	-	-
+ordenadores_no_1_9	20	58	y	y	cc	coordinating	-	-	-
+ordenadores_no_1_9	20	59	esa	ese	dd0fs0	demonstrative	-	-	-
+ordenadores_no_1_9	20	60	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_1_9	20	61	hay	haber	vmip3s0	main	-	-	-
+ordenadores_no_1_9	20	62	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_9	20	63	mantener	mantener	vmn0000	main	-	-	-
+ordenadores_no_1_9	20	64	la	lo	pp3fsa00	personal	-	-	-
+ordenadores_no_1_9	20	65	claro	claro	rg	-	-	-	-
+ordenadores_no_1_9	20	66	está	estar	vaip3s0	auxiliary	-	-	-
+ordenadores_no_1_9	20	67	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	21	1	El	el	da0ms0	article	-	-	-
+ordenadores_no_1_9	21	2	otro	otro	di0ms0	indefinite	-	-	-
+ordenadores_no_1_9	21	3	día	día	ncms000	common	-	-	-
+ordenadores_no_1_9	21	4	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_9	21	5	amigo	amigo	ncms000	common	-	-	-
+ordenadores_no_1_9	21	6	mío	mío	px1ms0s0	possessive	-	-	-
+ordenadores_no_1_9	21	7	quería	querer	vmii3s0	main	-	-	-
+ordenadores_no_1_9	21	8	ampliar	ampliar	vmn0000	main	-	-	-
+ordenadores_no_1_9	21	9	se	se	pp3cn000	personal	-	-	-
+ordenadores_no_1_9	21	10	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	21	11	memoria	memoria	ncfs000	common	-	-	-
+ordenadores_no_1_9	21	12	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	21	13	su	su	dp3cs0	possessive	-	-	-
+ordenadores_no_1_9	21	14	Compaq	compaq	np00000	proper	-	-	-
+ordenadores_no_1_9	21	15	unos	uno	di0mp0	indefinite	-	-	-
+ordenadores_no_1_9	21	16	tristes	triste	aq0cp0	qualificative	-	-	-
+ordenadores_no_1_9	21	17	32	32	z	-	-	-	-
+ordenadores_no_1_9	21	18	Mb	mb	np00000	proper	-	-	-
+ordenadores_no_1_9	21	19	más	más	rg	-	-	-	-
+ordenadores_no_1_9	21	20	,	,	fc	-	-	-	-
+ordenadores_no_1_9	21	21	y	y	cc	coordinating	-	-	-
+ordenadores_no_1_9	21	22	casi	casi	rg	-	-	-	-
+ordenadores_no_1_9	21	23	le	le	pp3csd00	personal	-	-	-
+ordenadores_no_1_9	21	24	salía	salir	vmii1s0	main	-	-	-
+ordenadores_no_1_9	21	25	a	a	sps00	preposition	-	-	-
+ordenadores_no_1_9	21	26	6,01	6.01	z	-	-	-	-
+ordenadores_no_1_9	21	27	Euros	euros	np00000	proper	-	-	-
+ordenadores_no_1_9	21	28	(	(	fpa	-	-	-	-
+ordenadores_no_1_9	21	29	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_1_9	21	30	hay	haber	vmip3s0	main	-	-	-
+ordenadores_no_1_9	21	31	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_9	21	32	ir	ir	vmn0000	main	-	-	-
+ordenadores_no_1_9	21	33	se	se	pp3cn000	personal	-	-	-
+ordenadores_no_1_9	21	34	acostumbrandooo	acostumbrandooo	ncms000	common	-	-	-
+ordenadores_no_1_9	21	35	)	)	fpt	-	-	-	-
+ordenadores_no_1_9	21	36	el	el	da0ms0	article	-	-	-
+ordenadores_no_1_9	21	37	Mb	mb	np00000	proper	-	-	-
+ordenadores_no_1_9	21	38	,	,	fc	-	-	-	-
+ordenadores_no_1_9	21	39	cuando	cuando	cs	subordinating	-	-	-
+ordenadores_no_1_9	21	40	128	128	z	-	-	-	-
+ordenadores_no_1_9	21	41	Mb	mb	np00000	proper	-	-	-
+ordenadores_no_1_9	21	42	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	21	43	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_no_1_9	21	44	memoria	memoria	ncfs000	common	-	-	-
+ordenadores_no_1_9	21	45	standard	standard	aq0cs0	qualificative	-	-	-
+ordenadores_no_1_9	21	46	te	tú	pp2cs000	personal	-	-	-
+ordenadores_no_1_9	21	47	cuesta	costar	vmip3s0	main	-	-	-
+ordenadores_no_1_9	21	48	no	no	rn	negative	no	-	-
+ordenadores_no_1_9	21	49	más	más	rg	-	-	-	-
+ordenadores_no_1_9	21	50	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	21	51	9000	9000	z	-	-	-	-
+ordenadores_no_1_9	21	52	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	22	1	Mirad	mirad	np00000	proper	***
+ordenadores_no_1_9	22	2	la	el	da0fs0	article	***
+ordenadores_no_1_9	22	3	diferencia	diferencia	ncfs000	common	***
+ordenadores_no_1_9	22	4	.	.	fp	-	***
+
+ordenadores_no_1_9	23	1	Es	ser	vsip3s0	semiauxiliary	***
+ordenadores_no_1_9	23	2	que	que	cs	subordinating	***
+ordenadores_no_1_9	23	3	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_no_1_9	23	4	para	para	sps00	preposition	***
+ordenadores_no_1_9	23	5	sabotear	sabotear	vmn0000	main	***
+ordenadores_no_1_9	23	6	les	le	pp3cpd00	personal	***
+ordenadores_no_1_9	23	7	a	a	sps00	preposition	***
+ordenadores_no_1_9	23	8	todos	todo	pi0mp000	indefinite	***
+ordenadores_no_1_9	23	9	.	.	fp	-	***
+
+ordenadores_no_1_9	24	1	Pues	pues	cs	subordinating	***
+ordenadores_no_1_9	24	2	lo	lo	pp3cna00	personal	***
+ordenadores_no_1_9	24	3	mismo	mismo	aq0ms0	qualificative	***
+ordenadores_no_1_9	24	4	pasa	pasar	vmip3s0	main	***
+ordenadores_no_1_9	24	5	con	con	sps00	preposition	***
+ordenadores_no_1_9	24	6	los	el	da0mp0	article	***
+ordenadores_no_1_9	24	7	discos	disco	ncmp000	common	***
+ordenadores_no_1_9	24	8	duros	duro	aq0mp0	qualificative	***
+ordenadores_no_1_9	24	9	,	,	fc	-	***
+ordenadores_no_1_9	24	10	tarjetas	tarjeta	ncfp000	common	***
+ordenadores_no_1_9	24	11	gráficas	gráfico	aq0fp0	qualificative	***
+ordenadores_no_1_9	24	12	,	,	fc	-	***
+ordenadores_no_1_9	24	13	controladores	controlador	ncmp000	common	***
+ordenadores_no_1_9	24	14	...	...	fs	-	***
+ordenadores_no_1_9	24	15	que	que	cs	subordinating	***
+ordenadores_no_1_9	24	16	asco	asco	ncms000	common	***
+ordenadores_no_1_9	24	17	.	.	fp	-	***
+
+ordenadores_no_1_9	25	1	En	en	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	2	cambio	cambio	ncms000	common	-	-	-
+ordenadores_no_1_9	25	3	,	,	fc	-	-	-	-
+ordenadores_no_1_9	25	4	los	el	da0mp0	article	-	-	-
+ordenadores_no_1_9	25	5	PC	pc	np00000	proper	-	-	-
+ordenadores_no_1_9	25	6	´	´	fz	-	-	-	-
+ordenadores_no_1_9	25	7	s	segundo	ncmn000	common	-	-	-
+ordenadores_no_1_9	25	8	clónicos	clónico	aq0mp0	qualificative	-	-	-
+ordenadores_no_1_9	25	9	puedes	poder	vmip2s0	main	-	-	-
+ordenadores_no_1_9	25	10	hacer	hacer	vmn0000	main	-	-	-
+ordenadores_no_1_9	25	11	los	lo	pp3mpa00	personal	-	-	-
+ordenadores_no_1_9	25	12	a	a	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	13	tu	tu	dp2css	possessive	-	-	-
+ordenadores_no_1_9	25	14	medida	medida	ncfs000	common	-	-	-
+ordenadores_no_1_9	25	15	,	,	fc	-	-	-	-
+ordenadores_no_1_9	25	16	configurártelos	configurártelos	ncmn000	common	-	-	-
+ordenadores_no_1_9	25	17	tú	tú	pp2csn00	personal	-	-	-
+ordenadores_no_1_9	25	18	mismo	mismo	aq0ms0	qualificative	-	-	-
+ordenadores_no_1_9	25	19	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	20	manera	manera	ncfs000	common	-	-	-
+ordenadores_no_1_9	25	21	muy	muy	rg	-	-	-	-
+ordenadores_no_1_9	25	22	sencilla	sencillo	aq0fs0	qualificative	-	-	-
+ordenadores_no_1_9	25	23	y	y	cc	coordinating	-	-	-
+ordenadores_no_1_9	25	24	sin	sin	sps00	preposition	sin	-	-
+ordenadores_no_1_9	25	25	comer	comer	vmn0000	main	-	-	-
+ordenadores_no_1_9	25	26	se	se	pp3cn000	personal	-	-	-
+ordenadores_no_1_9	25	27	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_9	25	28	cabeza	cabeza	ncfs000	common	-	-	-
+ordenadores_no_1_9	25	29	con	con	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	30	problemas	problema	ncmp000	common	-	-	-
+ordenadores_no_1_9	25	31	de	de	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	32	incompatibilidades	incompatibilidad	ncfp000	common	-	-	-
+ordenadores_no_1_9	25	33	,	,	fc	-	-	-	-
+ordenadores_no_1_9	25	34	por	por	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	35	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_9	25	36	precio	precio	ncms000	common	-	-	-
+ordenadores_no_1_9	25	37	más	más	rg	-	-	-	-
+ordenadores_no_1_9	25	38	o	o	cc	coordinating	-	-	-
+ordenadores_no_1_9	25	39	menos	menos	rg	-	-	-	-
+ordenadores_no_1_9	25	40	asequible	asequible	aq0cs0	qualificative	-	-	-
+ordenadores_no_1_9	25	41	(	(	fpa	-	-	-	-
+ordenadores_no_1_9	25	42	según	según	sps00	preposition	-	-	-
+ordenadores_no_1_9	25	43	lo	el	da0ns0	article	-	-	-
+ordenadores_no_1_9	25	44	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_1_9	25	45	pidas	pedir	vmsp2s0	main	-	-	-
+ordenadores_no_1_9	25	46	,	,	fc	-	-	-	-
+ordenadores_no_1_9	25	47	claro	claro	aq0ms0	qualificative	-	-	-
+ordenadores_no_1_9	25	48	está	estar	vaip3s0	auxiliary	-	-	-
+ordenadores_no_1_9	25	49	)	)	fpt	-	-	-	-
+ordenadores_no_1_9	25	50	.	.	fp	-	-	-	-
+
+ordenadores_no_1_9	26	1	Por_ejemplo	por_ejemplo	rg	-	***
+ordenadores_no_1_9	26	2	,	,	fc	-	***
+ordenadores_no_1_9	26	3	hoy	hoy	rg	-	***
+ordenadores_no_1_9	26	4	me	me	pp1cs000	personal	***
+ordenadores_no_1_9	26	5	he	haber	vaip1s0	auxiliary	***
+ordenadores_no_1_9	26	6	comprado	comprar	vmp00sm	main	***
+ordenadores_no_1_9	26	7	una	uno	di0fs0	indefinite	***
+ordenadores_no_1_9	26	8	aceleradora	acelerador	aq0fs0	qualificative	***
+ordenadores_no_1_9	26	9	TNT2	tnt2	z	-	***
+ordenadores_no_1_9	26	10	NVidia	nvidia	np00000	proper	***
+ordenadores_no_1_9	26	11	de	de	sps00	preposition	***
+ordenadores_no_1_9	26	12	32	32	z	-	***
+ordenadores_no_1_9	26	13	Mb	mb	np00000	proper	***
+ordenadores_no_1_9	26	14	por	por	sps00	preposition	***
+ordenadores_no_1_9	26	15	7000	7000	z	-	***
+ordenadores_no_1_9	26	16	pesetas	peseta	ncfp000	common	***
+ordenadores_no_1_9	26	17	(	(	fpa	-	***
+ordenadores_no_1_9	26	18	paso	paso	ncms000	common	***
+ordenadores_no_1_9	26	19	de	de	sps00	preposition	***
+ordenadores_no_1_9	26	20	hacer	hacer	vmn0000	main	***
+ordenadores_no_1_9	26	21	la	el	da0fs0	article	***
+ordenadores_no_1_9	26	22	cuenta	cuenta	ncfs000	common	***
+ordenadores_no_1_9	26	23	en	en	sps00	preposition	***
+ordenadores_no_1_9	26	24	euros	euro	ncmp000	common	***
+ordenadores_no_1_9	26	25	.	.	fp	-	***
+ordenadores_no_1_9	26	26	Retiro	retiro	ncms000	common	***
+ordenadores_no_1_9	26	27	lo	el	da0ns0	article	***
+ordenadores_no_1_9	26	28	anteriormente	anteriormente	rg	-	***
+ordenadores_no_1_9	26	29	dicho	decir	vmp00sm	main	***
+ordenadores_no_1_9	26	30	)	)	fpt	-	***
+ordenadores_no_1_9	26	31	,	,	fc	-	***
+ordenadores_no_1_9	26	32	mientras_que	mientras_que	cs	subordinating	***
+ordenadores_no_1_9	26	33	habría	haber	vmic1s0	main	***
+ordenadores_no_1_9	26	34	que	que	cs	subordinating	***
+ordenadores_no_1_9	26	35	imaginar	imaginar	vmn0000	main	***
+ordenadores_no_1_9	26	36	se	se	pp3cn000	personal	***
+ordenadores_no_1_9	26	37	lo	el	da0ns0	article	***
+ordenadores_no_1_9	26	38	que	que	pr0cn000	relative	***
+ordenadores_no_1_9	26	39	podría	poder	vmic3s0	main	***
+ordenadores_no_1_9	26	40	costar	costar	vmn0000	main	***
+ordenadores_no_1_9	26	41	una	uno	di0fs0	indefinite	***
+ordenadores_no_1_9	26	42	igual	igual	aq0cs0	qualificative	***
+ordenadores_no_1_9	26	43	o	o	cc	coordinating	***
+ordenadores_no_1_9	26	44	parecida	parecer	vmp00sf	main	***
+ordenadores_no_1_9	26	45	para	para	sps00	preposition	***
+ordenadores_no_1_9	26	46	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	26	47	PC	pc	np00000	proper	***
+ordenadores_no_1_9	26	48	de	de	sps00	preposition	***
+ordenadores_no_1_9	26	49	marca	marca	ncfs000	common	***
+ordenadores_no_1_9	26	50	.	.	fp	-	***
+
+ordenadores_no_1_9	27	1	Y	y	cc	coordinating	***
+ordenadores_no_1_9	27	2	ya	ya	rg	-	***
+ordenadores_no_1_9	27	3	por	por	sps00	preposition	***
+ordenadores_no_1_9	27	4	último	último	ao0ms0	ordinal	***
+ordenadores_no_1_9	27	5	,	,	fc	-	***
+ordenadores_no_1_9	27	6	desear	desear	vmn0000	main	***
+ordenadores_no_1_9	27	7	os	os	pp2cp000	personal	***
+ordenadores_no_1_9	27	8	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_9	27	9	feliz	feliz	aq0cs0	qualificative	***
+ordenadores_no_1_9	27	10	2002	2002	z	-	***
+ordenadores_no_1_9	27	11	.	.	fp	-	***
+
+ordenadores_no_1_9	28	1	La	el	da0fs0	article	***
+ordenadores_no_1_9	28	2	peseta	peseta	ncfs000	common	***
+ordenadores_no_1_9	28	3	ha	haber	vaip3s0	auxiliary	***
+ordenadores_no_1_9	28	4	muerto	morir	vmp00sm	main	***
+ordenadores_no_1_9	28	5	,	,	fc	-	***
+ordenadores_no_1_9	28	6	viva	vivo	aq0fs0	qualificative	***
+ordenadores_no_1_9	28	7	la	el	da0fs0	article	***
+ordenadores_no_1_9	28	8	peseta	peseta	ncfs000	common	***
+ordenadores_no_1_9	28	9	.	.	fp	-	***
+
+ordenadores_no_1_9	29	1	Besos	besos	np00000	proper	***
+ordenadores_no_1_9	29	2	y	y	cc	coordinating	***
+ordenadores_no_1_9	29	3	abrazos	abrazo	ncmp000	common	***
+ordenadores_no_1_9	29	4	.	.	fp	-	***
+
+ordenadores_no_1_10	1	1	No	no	rn	negative	No	-	-
+ordenadores_no_1_10	1	2	compreis	compreis	vmsi2p0	main	-	-	-
+ordenadores_no_1_10	1	3	nada	nada	pi0cs000	indefinite	nada	-	-
+ordenadores_no_1_10	1	4	en	en	sps00	preposition	-	-	-
+ordenadores_no_1_10	1	5	Deima	deima	np00000	proper	-	-	-
+ordenadores_no_1_10	1	6	,	,	fc	-	-	-	-
+ordenadores_no_1_10	1	7	son	ser	vsip3p0	semiauxiliary	-	-	-
+ordenadores_no_1_10	1	8	unos	uno	di0mp0	indefinite	-	-	-
+ordenadores_no_1_10	1	9	estafadores	estafador	ncmp000	common	-	-	-
+ordenadores_no_1_10	1	10	.	.	fp	-	-	-	-
+
+ordenadores_no_1_10	2	1	Puede	puede	np00000	proper	***
+ordenadores_no_1_10	2	2	que	que	cs	subordinating	***
+ordenadores_no_1_10	2	3	Deima	deima	np00000	proper	***
+ordenadores_no_1_10	2	4	sea	ser	vssp1s0	semiauxiliary	***
+ordenadores_no_1_10	2	5	una	uno	di0fs0	indefinite	***
+ordenadores_no_1_10	2	6	de	de	sps00	preposition	***
+ordenadores_no_1_10	2	7	las	el	da0fp0	article	***
+ordenadores_no_1_10	2	8	tiendas	tienda	ncfp000	common	***
+ordenadores_no_1_10	2	9	más	más	rg	-	***
+ordenadores_no_1_10	2	10	baratas	barato	aq0fp0	qualificative	***
+ordenadores_no_1_10	2	11	con_lo_que_respecta_a	con_lo_que_respecta_a	sps00	preposition	***
+ordenadores_no_1_10	2	12	el	el	da0ms0	article	***
+ordenadores_no_1_10	2	13	mundo	mundo	ncms000	common	***
+ordenadores_no_1_10	2	14	de	de	sps00	preposition	***
+ordenadores_no_1_10	2	15	la	el	da0fs0	article	***
+ordenadores_no_1_10	2	16	informatica	informatica	ncfs000	common	***
+ordenadores_no_1_10	2	17	,	,	fc	-	***
+ordenadores_no_1_10	2	18	pero	pero	cc	coordinating	***
+ordenadores_no_1_10	2	19	el	el	da0ms0	article	***
+ordenadores_no_1_10	2	20	trato	trato	ncms000	common	***
+ordenadores_no_1_10	2	21	que	que	pr0cn000	relative	***
+ordenadores_no_1_10	2	22	te	te	pp2cs000	personal	***
+ordenadores_no_1_10	2	23	dan	dar	vmip3p0	main	***
+ordenadores_no_1_10	2	24	puede	poder	vmip3s0	main	***
+ordenadores_no_1_10	2	25	que	que	cs	subordinating	***
+ordenadores_no_1_10	2	26	sea	ser	vssp1s0	semiauxiliary	***
+ordenadores_no_1_10	2	27	lo	el	da0ns0	article	***
+ordenadores_no_1_10	2	28	mas	mas	ncms000	common	***
+ordenadores_no_1_10	2	29	malo	malo	aq0ms0	qualificative	***
+ordenadores_no_1_10	2	30	que	que	pr0cn000	relative	***
+ordenadores_no_1_10	2	31	se	se	p00cn000	-	***
+ordenadores_no_1_10	2	32	pueda	poder	vmsp1s0	main	***
+ordenadores_no_1_10	2	33	ver	ver	vmn0000	main	***
+ordenadores_no_1_10	2	34	.	.	fp	-	***
+
+ordenadores_no_1_10	3	1	Os	os	pp2cp000	personal	***
+ordenadores_no_1_10	3	2	cuento	contar	vmip1s0	main	***
+ordenadores_no_1_10	3	3	mi	mi	dp1css	possessive	***
+ordenadores_no_1_10	3	4	caso	caso	ncms000	common	***
+ordenadores_no_1_10	3	5	,	,	fc	-	***
+ordenadores_no_1_10	3	6	Yo	yo	np00000	proper	***
+ordenadores_no_1_10	3	7	compre	comprar	vmsp3s0	main	***
+ordenadores_no_1_10	3	8	hace	hacer	vmip3s0	main	***
+ordenadores_no_1_10	3	9	unos	uno	di0mp0	indefinite	***
+ordenadores_no_1_10	3	10	años	año	ncmp000	common	***
+ordenadores_no_1_10	3	11	un	uno	di0ms0	indefinite	***
+ordenadores_no_1_10	3	12	Pentium	pentium	np00000	proper	***
+ordenadores_no_1_10	3	13	166	166	z	-	***
+ordenadores_no_1_10	3	14	en	en	sps00	preposition	***
+ordenadores_no_1_10	3	15	esta	este	dd0fs0	demonstrative	***
+ordenadores_no_1_10	3	16	tienda	tienda	ncfs000	common	***
+ordenadores_no_1_10	3	17	.	.	fp	-	***
+
+ordenadores_no_1_10	4	1	Cuando	cuando	cs	subordinating	-	-	-
+ordenadores_no_1_10	4	2	lo	lo	pp3cna00	personal	-	-	-
+ordenadores_no_1_10	4	3	encarge	encarge	vmip3s0	main	-	-	-
+ordenadores_no_1_10	4	4	les	le	pp3cpd00	personal	-	-	-
+ordenadores_no_1_10	4	5	pedí	pedir	vmis1s0	main	-	-	-
+ordenadores_no_1_10	4	6	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	4	7	150	150	z	-	-	-	-
+ordenadores_no_1_10	4	8	,	,	fc	-	-	-	-
+ordenadores_no_1_10	4	9	pero	pero	cc	coordinating	-	-	-
+ordenadores_no_1_10	4	10	el	el	da0ms0	article	-	-	-
+ordenadores_no_1_10	4	11	día	día	ncms000	common	-	-	-
+ordenadores_no_1_10	4	12	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_1_10	4	13	fui	ir	vmis1s0	main	-	-	-
+ordenadores_no_1_10	4	14	a	a	sps00	preposition	-	-	-
+ordenadores_no_1_10	4	15	recoger	recoger	vmn0000	main	-	-	-
+ordenadores_no_1_10	4	16	lo	lo	pp3cna00	personal	-	-	-
+ordenadores_no_1_10	4	17	me	me	pp1cs000	personal	-	-	-
+ordenadores_no_1_10	4	18	dijeron	decir	vmis3p0	main	-	-	-
+ordenadores_no_1_10	4	19	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_10	4	20	no	no	rn	negative	no	-	-
+ordenadores_no_1_10	4	21	les	le	pp3cpd00	personal	-	-	-
+ordenadores_no_1_10	4	22	había	haber	vaii3s0	auxiliary	-	-	-
+ordenadores_no_1_10	4	23	llegado	llegar	vmp00sm	main	-	-	-
+ordenadores_no_1_10	4	24	ese	ese	dd0ms0	demonstrative	-	-	-
+ordenadores_no_1_10	4	25	micro	micro	ncms000	common	-	-	-
+ordenadores_no_1_10	4	26	pero	pero	cc	coordinating	-	-	-
+ordenadores_no_1_10	4	27	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_10	4	28	por	por	sps00	preposition	-	-	-
+ordenadores_no_1_10	4	29	unas	uno	di0fp0	indefinite	-	-	-
+ordenadores_no_1_10	4	30	pesetillas	peseta	ncfp00d	common	-	-	-
+ordenadores_no_1_10	4	31	más	más	rg	-	-	-	-
+ordenadores_no_1_10	4	32	me	me	pp1cs000	personal	-	-	-
+ordenadores_no_1_10	4	33	montaban	montar	vmii3p0	main	-	-	-
+ordenadores_no_1_10	4	34	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	4	35	166	166	z	-	-	-	-
+ordenadores_no_1_10	4	36	.	.	fp	-	-	-	-
+
+ordenadores_no_1_10	5	1	La	el	da0fs0	article	***
+ordenadores_no_1_10	5	2	oferta	oferta	ncfs000	common	***
+ordenadores_no_1_10	5	3	era	ser	vsii1s0	semiauxiliary	***
+ordenadores_no_1_10	5	4	inrezachable	inrezachable	aq0cs0	qualificative	***
+ordenadores_no_1_10	5	5	y	y	cc	coordinating	***
+ordenadores_no_1_10	5	6	les	le	pp3cpd00	personal	***
+ordenadores_no_1_10	5	7	dije	decir	vmis1s0	main	***
+ordenadores_no_1_10	5	8	que	que	cs	subordinating	***
+ordenadores_no_1_10	5	9	si	si	cs	subordinating	***
+ordenadores_no_1_10	5	10	,	,	fc	-	***
+ordenadores_no_1_10	5	11	por	por	sps00	preposition	***
+ordenadores_no_1_10	5	12	las	el	da0fp0	article	***
+ordenadores_no_1_10	5	13	pelas	pela	ncfp000	common	***
+ordenadores_no_1_10	5	14	y	y	cc	coordinating	***
+ordenadores_no_1_10	5	15	porque	porque	cs	subordinating	***
+ordenadores_no_1_10	5	16	hasta	hasta	sps00	preposition	***
+ordenadores_no_1_10	5	17	que	que	cs	subordinating	***
+ordenadores_no_1_10	5	18	me	me	pp1cs000	personal	***
+ordenadores_no_1_10	5	19	lo	lo	pp3cna00	personal	***
+ordenadores_no_1_10	5	20	dieron	dar	vmis3p0	main	***
+ordenadores_no_1_10	5	21	pasaron	pasar	vmis3p0	main	***
+ordenadores_no_1_10	5	22	5	5	z	-	***
+ordenadores_no_1_10	5	23	semanas	semana	ncfp000	common	***
+ordenadores_no_1_10	5	24	.	.	fp	-	***
+
+ordenadores_no_1_10	6	1	Cuando	cuando	cs	subordinating	-	-	-	-	-	-
+ordenadores_no_1_10	6	2	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_no_1_10	6	3	dieron	dar	vmis3p0	main	-	-	-	-	-	-
+ordenadores_no_1_10	6	4	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_1_10	6	5	ordenador	ordenador	ncms000	common	-	-	-	-	-	-
+ordenadores_no_1_10	6	6	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_no_1_10	6	7	tenía	tener	vmii3s0	main	-	-	-	-	-	-
+ordenadores_no_1_10	6	8	ni	ni	rg	-	ni	-	-	-	-	-
+ordenadores_no_1_10	6	9	pajolera	pajolero	aq0fs0	qualificative	-	-	-	-	-	-
+ordenadores_no_1_10	6	10	idea	idea	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_1_10	6	11	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_10	6	12	nada	nada	pi0cs000	indefinite	-	-	-	nada	-	-
+ordenadores_no_1_10	6	13	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_1_10	6	14	pero	pero	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_1_10	6	15	poco_a_poco	poco_a_poco	rg	-	-	-	-	-	-	-
+ordenadores_no_1_10	6	16	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_no_1_10	6	17	fui	ir	vmis1s0	main	-	-	-	-	-	-
+ordenadores_no_1_10	6	18	haciendo	hacer	vmg0000	main	-	-	-	-	-	-
+ordenadores_no_1_10	6	19	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_1_10	6	20	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_1_10	6	21	.	.	fp	-	-	-	-	-	-	-
+
+ordenadores_no_1_10	7	1	El	el	da0ms0	article	***
+ordenadores_no_1_10	7	2	Pc	pc	np00000	proper	***
+ordenadores_no_1_10	7	3	me	me	pp1cs000	personal	***
+ordenadores_no_1_10	7	4	dio	dar	vmis3s0	main	***
+ordenadores_no_1_10	7	5	prblemas	prblemas	ncmp000	common	***
+ordenadores_no_1_10	7	6	con	con	sps00	preposition	***
+ordenadores_no_1_10	7	7	el	el	da0ms0	article	***
+ordenadores_no_1_10	7	8	cdrom	cd-rom	ncms000	common	***
+ordenadores_no_1_10	7	9	,	,	fc	-	***
+ordenadores_no_1_10	7	10	fui	ser	vsis1s0	semiauxiliary	***
+ordenadores_no_1_10	7	11	hasta	hasta	sps00	preposition	***
+ordenadores_no_1_10	7	12	la	el	da0fs0	article	***
+ordenadores_no_1_10	7	13	tienda	tienda	ncfs000	common	***
+ordenadores_no_1_10	7	14	como	como	cs	subordinating	***
+ordenadores_no_1_10	7	15	unas	uno	di0fp0	indefinite	***
+ordenadores_no_1_10	7	16	6	6	z	-	***
+ordenadores_no_1_10	7	17	veces	vez	ncfp000	common	***
+ordenadores_no_1_10	7	18	para	para	sps00	preposition	***
+ordenadores_no_1_10	7	19	que	que	pr0cn000	relative	***
+ordenadores_no_1_10	7	20	me	me	pp1cs000	personal	***
+ordenadores_no_1_10	7	21	cambiaran	cambiar	vmsi3p0	main	***
+ordenadores_no_1_10	7	22	el	el	da0ms0	article	***
+ordenadores_no_1_10	7	23	dichoso	dichoso	aq0ms0	qualificative	***
+ordenadores_no_1_10	7	24	cd	cd	ncfs000	common	***
+ordenadores_no_1_10	7	25	.	.	fp	-	***
+
+ordenadores_no_1_10	8	1	No	no	rn	negative	No	-	-
+ordenadores_no_1_10	8	2	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_no_1_10	8	3	muy	muy	rg	-	muy	-	-
+ordenadores_no_1_10	8	4	normal	normal	aq0cs0	qualificative	-	-	-
+ordenadores_no_1_10	8	5	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_10	8	6	te	te	pp2cs000	personal	-	-	-
+ordenadores_no_1_10	8	7	cambien	cambiar	vmsp3p0	main	-	-	-
+ordenadores_no_1_10	8	8	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	8	9	cd	cd	ncfs000	common	-	-	-
+ordenadores_no_1_10	8	10	3	3	z	-	-	-	-
+ordenadores_no_1_10	8	11	veces	vez	ncfp000	common	-	-	-
+ordenadores_no_1_10	8	12	.	.	fp	-	-	-	-
+
+ordenadores_no_1_10	9	1	Pero	pero	np00000	proper	***
+ordenadores_no_1_10	9	2	la	el	da0fs0	article	***
+ordenadores_no_1_10	9	3	traca	traca	ncfs000	common	***
+ordenadores_no_1_10	9	4	final	final	aq0cs0	qualificative	***
+ordenadores_no_1_10	9	5	venía	venir	vmii3s0	main	***
+ordenadores_no_1_10	9	6	cuando	cuando	cs	subordinating	***
+ordenadores_no_1_10	9	7	ya	ya	rg	-	***
+ordenadores_no_1_10	9	8	se	se	p00cn000	-	***
+ordenadores_no_1_10	9	9	había	haber	vaii1s0	auxiliary	***
+ordenadores_no_1_10	9	10	pasado	pasar	vmp00sm	main	***
+ordenadores_no_1_10	9	11	la	el	da0fs0	article	***
+ordenadores_no_1_10	9	12	garantía	garantía	ncfs000	common	***
+ordenadores_no_1_10	9	13	.	.	fp	-	***
+
+ordenadores_no_1_10	10	1	me	me	pp1cs000	personal	-	-	-
+ordenadores_no_1_10	10	2	di_cuenta	dar_cuenta	vmis1s0	main	-	-	-
+ordenadores_no_1_10	10	3	que	que	cs	subordinating	-	-	-
+ordenadores_no_1_10	10	4	no	no	rn	negative	no	-	-
+ordenadores_no_1_10	10	5	era	ser	vsii3s0	semiauxiliary	-	-	-
+ordenadores_no_1_10	10	6	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	10	7	micro	micro	ncms000	common	-	-	-
+ordenadores_no_1_10	10	8	166	166	z	-	-	-	-
+ordenadores_no_1_10	10	9	sino	sino	cc	coordinating	-	-	-
+ordenadores_no_1_10	10	10	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	10	11	486	486	z	-	-	-	-
+ordenadores_no_1_10	10	12	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_1_10	10	13	le	le	pp3csd00	personal	-	-	-
+ordenadores_no_1_10	10	14	habían	haber	vaii3p0	auxiliary	-	-	-
+ordenadores_no_1_10	10	15	instalado	instalar	vmp00sm	main	-	-	-
+ordenadores_no_1_10	10	16	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_1_10	10	17	overdrive	overdrive	ncms000	common	-	-	-
+ordenadores_no_1_10	10	18	para	para	sps00	preposition	-	-	-
+ordenadores_no_1_10	10	19	aumentar	aumentar	vmn0000	main	-	-	-
+ordenadores_no_1_10	10	20	le	le	pp3csd00	personal	-	-	-
+ordenadores_no_1_10	10	21	la	el	da0fs0	article	-	-	-
+ordenadores_no_1_10	10	22	velocidad	velocidad	ncfs000	common	-	-	-
+ordenadores_no_1_10	10	23	.	.	fp	-	-	-	-
+
+ordenadores_no_1_10	11	1	eso	ese	pd0ns000	demonstrative	***
+ordenadores_no_1_10	11	2	creo	crear	vmip1s0	main	***
+ordenadores_no_1_10	11	3	que	que	cs	subordinating	***
+ordenadores_no_1_10	11	4	se	se	p00cn000	-	***
+ordenadores_no_1_10	11	5	llama	llamar	vmip3s0	main	***
+ordenadores_no_1_10	11	6	estafa	estafa	ncfs000	common	***
+ordenadores_no_1_10	11	7	.	.	fp	-	***
+
+ordenadores_no_1_10	12	1	Bueno	bueno	aq0ms0	qualificative	-	-	-
+ordenadores_no_1_10	12	2	en	en	sps00	preposition	-	-	-
+ordenadores_no_1_10	12	3	resumen	resumen	ncms000	common	-	-	-
+ordenadores_no_1_10	12	4	no	no	rn	negative	no	-	-
+ordenadores_no_1_10	12	5	compreis	compreis	vmsi2p0	main	-	-	-
+ordenadores_no_1_10	12	6	en	en	sps00	preposition	-	-	-
+
+ordenadores_no_2_5	1	1	En	en	sps00	preposition	***
+ordenadores_no_2_5	1	2	junio	[??:??/6/??:??.??:??]	w	-	***
+ordenadores_no_2_5	1	3	me	me	pp1cs000	personal	***
+ordenadores_no_2_5	1	4	compré	comprar	vmis1s0	main	***
+ordenadores_no_2_5	1	5	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_5	1	6	ordenador	ordenador	ncms000	common	***
+ordenadores_no_2_5	1	7	de	de	sps00	preposition	***
+ordenadores_no_2_5	1	8	sobremesa	sobremesa	ncfs000	common	***
+ordenadores_no_2_5	1	9	de	de	sps00	preposition	***
+ordenadores_no_2_5	1	10	esta	este	dd0fs0	demonstrative	***
+ordenadores_no_2_5	1	11	marca	marca	ncfs000	common	***
+ordenadores_no_2_5	1	12	por	por	sps00	preposition	***
+ordenadores_no_2_5	1	13	una	uno	di0fs0	indefinite	***
+ordenadores_no_2_5	1	14	oferta	oferta	ncfs000	common	***
+ordenadores_no_2_5	1	15	en	en	sps00	preposition	***
+ordenadores_no_2_5	1	16	Hipercor	hipercor	np00000	proper	***
+ordenadores_no_2_5	1	17	/	/	fh	-	***
+ordenadores_no_2_5	1	18	El_Corte_Inglés	el_corte_inglés	np00000	proper	***
+ordenadores_no_2_5	1	19	(	(	fpa	-	***
+ordenadores_no_2_5	1	20	799	799	z	-	***
+ordenadores_no_2_5	1	21	euros	euro	ncmp000	common	***
+ordenadores_no_2_5	1	22	-	-	fg	-	***
+ordenadores_no_2_5	1	23	luego	luego	rg	-	***
+ordenadores_no_2_5	1	24	vi	ver	vmis1s0	main	***
+ordenadores_no_2_5	1	25	que	que	cs	subordinating	***
+ordenadores_no_2_5	1	26	se	se	p00cn000	-	***
+ordenadores_no_2_5	1	27	vendía	vender	vmii3s0	main	***
+ordenadores_no_2_5	1	28	por	por	sps00	preposition	***
+ordenadores_no_2_5	1	29	menos	menos	rg	-	***
+ordenadores_no_2_5	1	30	que	que	cs	subordinating	***
+ordenadores_no_2_5	1	31	eso	ese	pd0ns000	demonstrative	***
+ordenadores_no_2_5	1	32	en	en	sps00	preposition	***
+ordenadores_no_2_5	1	33	otros	otro	di0mp0	indefinite	***
+ordenadores_no_2_5	1	34	sitios	sitio	ncmp000	common	***
+ordenadores_no_2_5	1	35	)	)	fpt	-	***
+ordenadores_no_2_5	1	36	.	.	fp	-	***
+
+ordenadores_no_2_5	2	1	Venía	venir	vmii3s0	main	***
+ordenadores_no_2_5	2	2	con	con	sps00	preposition	***
+ordenadores_no_2_5	2	3	una	uno	di0fs0	indefinite	***
+ordenadores_no_2_5	2	4	pantalla	pantalla	ncfs000	common	***
+ordenadores_no_2_5	2	5	de	de	sps00	preposition	***
+ordenadores_no_2_5	2	6	19	19	z	-	***
+ordenadores_no_2_5	2	7	"	"	fe	-	***
+ordenadores_no_2_5	2	8	apaisada	apaisado	aq0fs0	qualificative	***
+ordenadores_no_2_5	2	9	muy	muy	rg	-	***
+ordenadores_no_2_5	2	10	buena	bueno	aq0fs0	qualificative	***
+ordenadores_no_2_5	2	11	.	.	fp	-	***
+
+ordenadores_no_2_5	3	1	Quería	querer	vmii3s0	main	***
+ordenadores_no_2_5	3	2	sustituir	sustituir	vmn0000	main	***
+ordenadores_no_2_5	3	3	mi	mi	dp1css	possessive	***
+ordenadores_no_2_5	3	4	Dell	dell	np00000	proper	***
+ordenadores_no_2_5	3	5	que	que	cs	subordinating	***
+ordenadores_no_2_5	3	6	tantos	tanto	di0mp0	indefinite	***
+ordenadores_no_2_5	3	7	disgustos	disgusto	ncmp000	common	***
+ordenadores_no_2_5	3	8	me	me	pp1cs000	personal	***
+ordenadores_no_2_5	3	9	había	haber	vaii1s0	auxiliary	***
+ordenadores_no_2_5	3	10	dado	dar	vmp00sm	main	***
+ordenadores_no_2_5	3	11	,	,	fc	-	***
+ordenadores_no_2_5	3	12	y	y	cc	coordinating	***
+ordenadores_no_2_5	3	13	parecía	parecer	vmii3s0	main	***
+ordenadores_no_2_5	3	14	que	que	cs	subordinating	***
+ordenadores_no_2_5	3	15	había	haber	vaii1s0	auxiliary	***
+ordenadores_no_2_5	3	16	encontrado	encontrar	vmp00sm	main	***
+ordenadores_no_2_5	3	17	un	uno	di0ms0	indefinite	***
+ordenadores_no_2_5	3	18	buen	bueno	aq0ms0	qualificative	***
+ordenadores_no_2_5	3	19	ordenador	ordenador	ncms000	common	***
+ordenadores_no_2_5	3	20	,	,	fc	-	***
+ordenadores_no_2_5	3	21	pues	pues	cs	subordinating	***
+ordenadores_no_2_5	3	22	la	el	da0fs0	article	***
+ordenadores_no_2_5	3	23	velocidad	velocidad	ncfs000	common	***
+ordenadores_no_2_5	3	24	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_no_2_5	3	25	alta	alto	aq0fs0	qualificative	***
+ordenadores_no_2_5	3	26	y	y	cc	coordinating	***
+ordenadores_no_2_5	3	27	hace	hacer	vmip3s0	main	***
+ordenadores_no_2_5	3	28	poco	poco	di0ms0	indefinite	***
+ordenadores_no_2_5	3	29	ruido	ruido	ncms000	common	***
+ordenadores_no_2_5	3	30	por	por	sps00	preposition	***
+ordenadores_no_2_5	3	31	ahora	ahora	rg	-	***
+ordenadores_no_2_5	3	32	.	.	fp	-	***
+
+ordenadores_no_2_5	4	1	Pero	pero	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_5	4	2	la	el	da0fs0	article	-	-	-	-	-	-
+ordenadores_no_2_5	4	3	alegría	alegría	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	4	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_no_2_5	4	5	duró	durar	vmis3s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	6	mucho	mucho	di0ms0	indefinite	mucho	-	-	-	-	-
+ordenadores_no_2_5	4	7	tiempo	tiempo	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	8	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	9	pues	pues	cs	subordinating	-	-	-	-	-	-
+ordenadores_no_2_5	4	10	tras	tras	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	11	instalar	instalar	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	12	varios	varios	di0mp0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_5	4	13	programas	programa	ncmp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	14	empezaron	empezar	vmis3p0	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	15	a	a	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	16	aparecer	aparecer	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	17	los	el	da0mp0	article	-	-	-	-	-	-
+ordenadores_no_2_5	4	18	primeros	1	ao0mp0	ordinal	-	-	-	-	-	-
+ordenadores_no_2_5	4	19	fallos	fallo	ncmp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	20	por	por	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	21	la	el	da0fs0	article	-	-	-	-	-	-
+ordenadores_no_2_5	4	22	incompatibilidad	incompatibilidad	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	23	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	24	Windows_Vista	windows_vista	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	4	25	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	26	dichos	decir	vmp00pm	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	27	programas	programa	ncmp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	28	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	29	y	y	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_5	4	30	no_sólo	no_sólo	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_5	4	31	eso	ese	pd0ns000	demonstrative	-	-	-	-	-	-
+ordenadores_no_2_5	4	32	:	:	fd	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	33	especialmente	especialmente	rg	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	34	¡	¡	faa	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	35	no	no	rn	negative	-	-	-	no	-	-
+ordenadores_no_2_5	4	36	parecía	parecer	vmii3s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	4	37	ser	ser	vsn0000	semiauxiliary	-	-	-	-	-	-
+ordenadores_no_2_5	4	38	compatible	compatible	aq0cs0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_5	4	39	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	40	Explorer	explorer	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	4	41	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	4	42	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_no_2_5	4	43	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+ordenadores_no_2_5	4	44	parte	parte	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_5	4	45	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	4	46	Windows	windows	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	4	47	!	!	fat	-	-	-	-	-	-	-
+
+ordenadores_no_2_5	5	1	A	a	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	2	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	3	dos	2	z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	4	semanas	semana	ncfp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	5	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	6	fallos	fallo	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	7	aumentaron	aumentar	vmis3p0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	8	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	9	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	10	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	11	servía	servir	vmii3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	12	desinstalar	desinstalar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	13	algún	alguno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	14	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	15	otro	otro	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	16	programa	programa	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	17	o	o	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	18	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	19	reinstalar	reinstalar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	20	los	lo	pp3mpa00	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	21	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	22	pues	pues	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	23	contínuamente	contínuamente	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	24	aparecieron	aparecer	vmis3p0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	25	pantallas	pantalla	ncfp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	26	azules	azul	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	27	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	28	fallo	fallo	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	29	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	30	sistema	sistema	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	31	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	32	reinicios	reinicio	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	33	automáticos	automático	aq0mp0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	34	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	35	avisos	aviso	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	36	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	37	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	38	de_repente	de_repente	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	39	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	40	copia	copia	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	41	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	42	Windows	windows	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	43	no	no	rn	negative	-	-	-	no	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	44	era	ser	vsii3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	45	original	original	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	46	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	47	solicitando	solicitar	vmg0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	48	código	código	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	49	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	50	licencia	licencia	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	51	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	52	al	al	spcms	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	53	cual	cual	pr0cs000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	54	no	no	rn	negative	-	-	-	-	-	-	no	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	55	reconocía	reconocer	vmii3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	56	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	57	pidiendo	pedir	vmg0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	58	códigos	código	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	59	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	60	validación	validación	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	61	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	62	Microsoft	microsoft	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	63	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	64	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	65	tampoco	tampoco	rg	-	-	-	-	-	-	-	-	-	-	tampoco	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	66	reconocía	reconocer	vmii3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	67	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	68	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	69	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	70	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	71	final	final	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	72	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	73	tras	tras	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	74	intentar	intentar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	75	lo	lo	pp3cna00	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	76	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	77	restauración	restauración	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	78	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	79	sistema	sistema	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	80	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	81	reinstalar	reinstalar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	82	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	83	sistema	sistema	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	84	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	85	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	86	quedó	quedar	vmis3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	87	colgado	colgar	vmp00sm	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	88	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	89	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	90	reinicio	reinicio	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	91	sin	sin	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	sin	-	-	-	-	-
+ordenadores_no_2_5	5	92	poder	poder	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	93	entrar	entrar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	94	ya	ya	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	95	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	96	ningún	ninguno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	ningún	-	-
+ordenadores_no_2_5	5	97	programa	programa	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+ordenadores_no_2_5	5	98	.	.	fp	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+ordenadores_no_2_5	6	1	Hay	hay	np00000	proper	-	-	-
+ordenadores_no_2_5	6	2	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_5	6	3	decir	decir	vmn0000	main	-	-	-
+ordenadores_no_2_5	6	4	también	también	rg	-	-	-	-
+ordenadores_no_2_5	6	5	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_5	6	6	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	6	7	ordenador	ordenador	ncms000	common	-	-	-
+ordenadores_no_2_5	6	8	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	6	9	viene	venir	vmip3s0	main	-	-	-
+ordenadores_no_2_5	6	10	con	con	sps00	preposition	-	-	-
+ordenadores_no_2_5	6	11	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	6	12	CD	cd	np00000	proper	-	-	-
+ordenadores_no_2_5	6	13	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_5	6	14	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	6	15	sistema	sistema	ncms000	common	-	-	-
+ordenadores_no_2_5	6	16	operativo	operativo	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_5	6	17	,	,	fc	-	-	-	-
+ordenadores_no_2_5	6	18	sino	sino	cc	coordinating	-	-	-
+ordenadores_no_2_5	6	19	éste	este	pd0ms000	demonstrative	-	-	-
+ordenadores_no_2_5	6	20	está	estar	vmip3s0	main	-	-	-
+ordenadores_no_2_5	6	21	preinstalado	preinstalar	vmp00sm	main	-	-	-
+ordenadores_no_2_5	6	22	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	7	1	Tras	tras	sps00	preposition	***
+ordenadores_no_2_5	7	2	la	el	da0fs0	article	***
+ordenadores_no_2_5	7	3	reparación	reparación	ncfs000	common	***
+ordenadores_no_2_5	7	4	,	,	fc	-	***
+ordenadores_no_2_5	7	5	que	que	pr0cn000	relative	***
+ordenadores_no_2_5	7	6	tardó	tardar	vmis3s0	main	***
+ordenadores_no_2_5	7	7	unas	uno	di0fp0	indefinite	***
+ordenadores_no_2_5	7	8	semanas	semana	ncfp000	common	***
+ordenadores_no_2_5	7	9	,	,	fc	-	***
+ordenadores_no_2_5	7	10	indicaron	indicar	vmis3p0	main	***
+ordenadores_no_2_5	7	11	que	que	cs	subordinating	***
+ordenadores_no_2_5	7	12	hubo	haber	vmis3s0	main	***
+ordenadores_no_2_5	7	13	que	que	cs	subordinating	***
+ordenadores_no_2_5	7	14	cambiar	cambiar	vmn0000	main	***
+ordenadores_no_2_5	7	15	la	el	da0fs0	article	***
+ordenadores_no_2_5	7	16	placa	placa	ncfs000	common	***
+ordenadores_no_2_5	7	17	base	base	nccs000	common	***
+ordenadores_no_2_5	7	18	y	y	cc	coordinating	***
+ordenadores_no_2_5	7	19	el	el	da0ms0	article	***
+ordenadores_no_2_5	7	20	módulo	módulo	ncms000	common	***
+ordenadores_no_2_5	7	21	de	de	sps00	preposition	***
+ordenadores_no_2_5	7	22	memoria	memoria	ncfs000	common	***
+ordenadores_no_2_5	7	23	.	.	fp	-	***
+
+ordenadores_no_2_5	8	1	No	no	rn	negative	No	-	-
+ordenadores_no_2_5	8	2	me	yo	pp1cs000	personal	-	-	-
+ordenadores_no_2_5	8	3	suministraron	suministrar	vmis3p0	main	-	-	-
+ordenadores_no_2_5	8	4	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	8	5	CD	cd	np00000	proper	-	-	-
+ordenadores_no_2_5	8	6	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_5	8	7	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	8	8	sistema	sistema	ncms000	common	-	-	-
+ordenadores_no_2_5	8	9	operativo	operativo	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_5	8	10	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	9	1	Ahora	ahora	np00000	proper	***
+ordenadores_no_2_5	9	2	parece	parecer	vmip3s0	main	***
+ordenadores_no_2_5	9	3	que	que	cs	subordinating	***
+ordenadores_no_2_5	9	4	funciona	funcionar	vmip3s0	main	***
+ordenadores_no_2_5	9	5	,	,	fc	-	***
+ordenadores_no_2_5	9	6	espero	esperar	vmip1s0	main	***
+ordenadores_no_2_5	9	7	que	que	cs	subordinating	***
+ordenadores_no_2_5	9	8	siga	seguir	vmsp3s0	main	***
+ordenadores_no_2_5	9	9	así	así	rg	-	***
+ordenadores_no_2_5	9	10	.	.	fp	-	***
+
+ordenadores_no_2_5	10	1	Una	uno	di0fs0	indefinite	-	-	-
+ordenadores_no_2_5	10	2	desilusión	desilusión	ncfs000	common	-	-	-
+ordenadores_no_2_5	10	3	grande	grande	aq0cs0	qualificative	-	-	-
+ordenadores_no_2_5	10	4	,	,	fc	-	-	-	-
+ordenadores_no_2_5	10	5	porque	porque	cs	subordinating	-	-	-
+ordenadores_no_2_5	10	6	confiaba	confiar	vmii3s0	main	-	-	-
+ordenadores_no_2_5	10	7	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_5	10	8	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_5	10	9	marca	marca	ncfs000	common	-	-	-
+ordenadores_no_2_5	10	10	Acer	acer	np00000	proper	-	-	-
+ordenadores_no_2_5	10	11	de	de	sps00	preposition	-	-	-
+ordenadores_no_2_5	10	12	la	el	da0fs0	article	-	-	-
+ordenadores_no_2_5	10	13	que	que	pr0cn000	relative	-	-	-
+ordenadores_no_2_5	10	14	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	10	15	he	haber	vaip1s0	auxiliary	-	-	-
+ordenadores_no_2_5	10	16	oído	oír	vmp00sm	main	-	-	-
+ordenadores_no_2_5	10	17	nada	nada	pi0cs000	indefinite	nada	-	-
+ordenadores_no_2_5	10	18	malo	malo	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_5	10	19	hasta	hasta	sps00	preposition	-	-	-
+ordenadores_no_2_5	10	20	ahora	ahora	rg	-	-	-	-
+ordenadores_no_2_5	10	21	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	11	1	Evidentgemente	evidentemente	rg	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	2	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_no_2_5	11	3	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-
+ordenadores_no_2_5	11	4	sólo	sólo	rg	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	5	por	por	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	11	6	culpa	culpa	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_5	11	7	del	del	spcms	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	11	8	Windows_Vista	windows_vista	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	11	9	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	10	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_no_2_5	11	11	pienso	pensar	vmip1s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	12	sustituir	sustituir	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	13	por	por	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	11	14	XP	xp	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	11	15	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	16	ya_que	ya_que	cs	subordinating	-	-	-	-	-	-
+ordenadores_no_2_5	11	17	gente	gente	ncfs000	common	-	-	-	-	-	-
+ordenadores_no_2_5	11	18	más	más	rg	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	19	experta	experto	aq0fs0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_5	11	20	me	me	pp1cs000	personal	-	-	-	-	-	-
+ordenadores_no_2_5	11	21	ha	haber	vaip3s0	auxiliary	-	-	-	-	-	-
+ordenadores_no_2_5	11	22	dicho	decir	vmp00sm	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	23	que	que	cs	subordinating	-	-	-	-	-	-
+ordenadores_no_2_5	11	24	Vista	vista	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	11	25	plantea	plantear	vmip3s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	26	muchísimos	mucho	di0mp0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_5	11	27	problemas	problema	ncmp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	11	28	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	11	29	incompatibilidades	incompatibilidad	ncfp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	11	30	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	31	y	y	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_5	11	32	así	así	rg	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	33	no	no	rn	negative	-	-	-	no	-	-
+ordenadores_no_2_5	11	34	se	se	p00cn000	-	-	-	-	-	-	-
+ordenadores_no_2_5	11	35	puede	poder	vmip3s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	36	trabajar	trabajar	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_2_5	11	37	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	11	38	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_2_5	11	39	ordenador	ordenador	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_5	11	40	.	.	fp	-	-	-	-	-	-	-
+
+ordenadores_no_2_5	12	1	A	a	np00000	proper	-	-	-
+ordenadores_no_2_5	12	2	el	el	da0ms0	article	-	-	-
+ordenadores_no_2_5	12	3	final	final	ncfs000	common	-	-	-
+ordenadores_no_2_5	12	4	,	,	fc	-	-	-	-
+ordenadores_no_2_5	12	5	las	el	da0fp0	article	-	-	-
+ordenadores_no_2_5	12	6	ofertas	oferta	ncfp000	common	-	-	-
+ordenadores_no_2_5	12	7	se	se	p00cn000	-	-	-	-
+ordenadores_no_2_5	12	8	pagan	pagar	vmip3p0	main	-	-	-
+ordenadores_no_2_5	12	9	caras	cara	ncfp000	common	-	-	-
+ordenadores_no_2_5	12	10	,	,	fc	-	-	-	-
+ordenadores_no_2_5	12	11	me	me	pp1cs000	personal	-	-	-
+ordenadores_no_2_5	12	12	parece	parecer	vmip3s0	main	-	-	-
+ordenadores_no_2_5	12	13	,	,	fc	-	-	-	-
+ordenadores_no_2_5	12	14	más	más	rg	-	-	-	-
+ordenadores_no_2_5	12	15	me	me	pp1cs000	personal	-	-	-
+ordenadores_no_2_5	12	16	valdría	valer	vmic3s0	main	-	-	-
+ordenadores_no_2_5	12	17	haber	haber	van0000	auxiliary	-	-	-
+ordenadores_no_2_5	12	18	comprado	comprar	vmp00sm	main	-	-	-
+ordenadores_no_2_5	12	19	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_2_5	12	20	Hewlett-Packard	hewlett-packard	np00000	proper	-	-	-
+ordenadores_no_2_5	12	21	por	por	sps00	preposition	-	-	-
+ordenadores_no_2_5	12	22	1000	1000	z	-	-	-	-
+ordenadores_no_2_5	12	23	euros	euro	ncmp000	common	-	-	-
+ordenadores_no_2_5	12	24	,	,	fc	-	-	-	-
+ordenadores_no_2_5	12	25	seguramente	seguramente	rg	-	-	-	-
+ordenadores_no_2_5	12	26	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	12	27	daría	dar	vmic3s0	main	-	-	-
+ordenadores_no_2_5	12	28	esos	ese	dd0mp0	demonstrative	-	-	-
+ordenadores_no_2_5	12	29	problemas	problema	ncmp000	common	-	-	-
+ordenadores_no_2_5	12	30	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	13	1	Cierto	cierto	np00000	proper	-	-	-
+ordenadores_no_2_5	13	2	es	ser	vsip3s0	semiauxiliary	-	-	-
+ordenadores_no_2_5	13	3	también	también	rg	-	-	-	-
+ordenadores_no_2_5	13	4	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_5	13	5	este	este	dd0ms0	demonstrative	-	-	-
+ordenadores_no_2_5	13	6	ordenador	ordenador	ncms000	common	-	-	-
+ordenadores_no_2_5	13	7	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	13	8	viene	venir	vmip3s0	main	-	-	-
+ordenadores_no_2_5	13	9	con	con	sps00	preposition	-	-	-
+ordenadores_no_2_5	13	10	altavoces	altavoz	ncmp000	common	-	-	-
+ordenadores_no_2_5	13	11	,	,	fc	-	-	-	-
+ordenadores_no_2_5	13	12	los	lo	pp3mpa00	personal	-	-	-
+ordenadores_no_2_5	13	13	tuve	tener	vmis1s0	main	-	-	-
+ordenadores_no_2_5	13	14	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_5	13	15	comprar	comprar	vmn0000	main	-	-	-
+ordenadores_no_2_5	13	16	aparte	aparte	rg	-	-	-	-
+ordenadores_no_2_5	13	17	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	14	1	Windows_Vista	windows_vista	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	14	2	no	no	rn	negative	no	-	-	-	-	-
+ordenadores_no_2_5	14	3	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+ordenadores_no_2_5	14	4	compatible	compatible	aq0cs0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_5	14	5	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	14	6	mi	mi	dp1css	possessive	-	-	-	-	-	-
+ordenadores_no_2_5	14	7	router	router	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_5	14	8	de	de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	14	9	Telefónica	telefónica	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	14	10	,	,	fc	-	-	-	-	-	-	-
+ordenadores_no_2_5	14	11	problema	problema	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_5	14	12	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_no_2_5	14	13	solucioné	solucionar	vmis1s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	14	14	con	con	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	14	15	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_2_5	14	16	Apple_Airport_Base_Station	apple_airport_base_station	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	14	17	a_través_de	a_través_de	sps00	preposition	-	-	-	-	-	-
+ordenadores_no_2_5	14	18	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_2_5	14	19	cual	cual	pr0cs000	relative	-	-	-	-	-	-
+ordenadores_no_2_5	14	20	puedo	poder	vmip1s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	14	21	conectar	conectar	vmn0000	main	-	-	-	-	-	-
+ordenadores_no_2_5	14	22	todos	todo	di0mp0	indefinite	-	-	-	-	-	-
+ordenadores_no_2_5	14	23	mis	mi	dp1cps	possessive	-	-	-	-	-	-
+ordenadores_no_2_5	14	24	ordenadores	ordenador	ncmp000	common	-	-	-	-	-	-
+ordenadores_no_2_5	14	25	Mac	mac	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	14	26	y	y	cc	coordinating	-	-	-	-	-	-
+ordenadores_no_2_5	14	27	PC	pc	np00000	proper	-	-	-	-	-	-
+ordenadores_no_2_5	14	28	sin	sin	sps00	preposition	-	-	-	sin	-	-
+ordenadores_no_2_5	14	29	que	que	pr0cn000	relative	-	-	-	-	-	-
+ordenadores_no_2_5	14	30	importe	importar	vmsp3s0	main	-	-	-	-	-	-
+ordenadores_no_2_5	14	31	el	el	da0ms0	article	-	-	-	-	-	-
+ordenadores_no_2_5	14	32	sistema	sistema	ncms000	common	-	-	-	-	-	-
+ordenadores_no_2_5	14	33	operativo	operativo	aq0ms0	qualificative	-	-	-	-	-	-
+ordenadores_no_2_5	14	34	.	.	fp	-	-	-	-	-	-	-
+
+ordenadores_no_2_5	15	1	Lo	el	da0ns0	article	***
+ordenadores_no_2_5	15	2	que	que	pr0cn000	relative	***
+ordenadores_no_2_5	15	3	sí	sí	pp3cno00	personal	***
+ordenadores_no_2_5	15	4	me	me	pp1cs000	personal	***
+ordenadores_no_2_5	15	5	consuela	consolar	vmip3s0	main	***
+ordenadores_no_2_5	15	6	uin	uin	aq0cs0	qualificative	***
+ordenadores_no_2_5	15	7	poco	poco	rg	-	***
+ordenadores_no_2_5	15	8	es	ser	vsip3s0	semiauxiliary	***
+ordenadores_no_2_5	15	9	la	el	da0fs0	article	***
+ordenadores_no_2_5	15	10	pantalla	pantalla	ncfs000	common	***
+ordenadores_no_2_5	15	11	apaisada	apaisado	aq0fs0	qualificative	***
+ordenadores_no_2_5	15	12	de	de	sps00	preposition	***
+ordenadores_no_2_5	15	13	Acer	acer	np00000	proper	***
+ordenadores_no_2_5	15	14	,	,	fc	-	***
+ordenadores_no_2_5	15	15	mucho	mucho	rg	-	***
+ordenadores_no_2_5	15	16	mejor	mejor	aq0cs0	qualificative	***
+ordenadores_no_2_5	15	17	que	que	cs	subordinating	***
+ordenadores_no_2_5	15	18	la	el	da0fs0	article	***
+ordenadores_no_2_5	15	19	que	que	pr0cn000	relative	***
+ordenadores_no_2_5	15	20	tengo	tener	vmip1s0	main	***
+ordenadores_no_2_5	15	21	de	de	sps00	preposition	***
+ordenadores_no_2_5	15	22	Dell	dell	np00000	proper	***
+ordenadores_no_2_5	15	23	.	.	fp	-	***
+
+ordenadores_no_2_5	16	1	Y	y	cc	coordinating	-	-	-
+ordenadores_no_2_5	16	2	por_si_acaso	por_si_acaso	rg	-	-	-	-
+ordenadores_no_2_5	16	3	compré	comprar	vmis1s0	main	-	-	-
+ordenadores_no_2_5	16	4	también	también	rg	-	-	-	-
+ordenadores_no_2_5	16	5	un	uno	di0ms0	indefinite	-	-	-
+ordenadores_no_2_5	16	6	disco	disco	ncms000	common	-	-	-
+ordenadores_no_2_5	16	7	duro	duro	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_5	16	8	externo	externo	aq0ms0	qualificative	-	-	-
+ordenadores_no_2_5	16	9	,	,	fc	-	-	-	-
+ordenadores_no_2_5	16	10	pues	pues	cs	subordinating	-	-	-
+ordenadores_no_2_5	16	11	visto	ver	vmp00sm	main	-	-	-
+ordenadores_no_2_5	16	12	lo	el	da0ns0	article	-	-	-
+ordenadores_no_2_5	16	13	visto	ver	vmp00sm	main	-	-	-
+ordenadores_no_2_5	16	14	,	,	fc	-	-	-	-
+ordenadores_no_2_5	16	15	uno	uno	pi0ms000	indefinite	-	-	-
+ordenadores_no_2_5	16	16	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	16	17	se	se	p00cn000	-	-	-	-
+ordenadores_no_2_5	16	18	puede	poder	vmip3s0	main	-	-	-
+ordenadores_no_2_5	16	19	fiar	fiar	vmn0000	main	-	-	-
+ordenadores_no_2_5	16	20	y	y	cc	coordinating	-	-	-
+ordenadores_no_2_5	16	21	hay	haber	vmip3s0	main	-	-	-
+ordenadores_no_2_5	16	22	que	que	cs	subordinating	-	-	-
+ordenadores_no_2_5	16	23	salvar	salvar	vmn0000	main	-	-	-
+ordenadores_no_2_5	16	24	todo	todo	pi0ms000	indefinite	-	-	-
+ordenadores_no_2_5	16	25	en	en	sps00	preposition	-	-	-
+ordenadores_no_2_5	16	26	una	uno	di0fs0	indefinite	-	-	-
+ordenadores_no_2_5	16	27	copia	copia	ncfs000	common	-	-	-
+ordenadores_no_2_5	16	28	externa	externo	aq0fs0	qualificative	-	-	-
+ordenadores_no_2_5	16	29	.	.	fp	-	-	-	-
+
+ordenadores_no_2_5	17	1	Actualizaré	actualizar	vmif1s0	main	***
+ordenadores_no_2_5	17	2	mi	mi	dp1css	possessive	***
+ordenadores_no_2_5	17	3	opinión	opinión	ncfs000	common	***
+ordenadores_no_2_5	17	4	cuando	cuando	cs	subordinating	***
+ordenadores_no_2_5	17	5	sepa	saber	vmsp3s0	main	***
+ordenadores_no_2_5	17	6	más	más	rg	-	***
+ordenadores_no_2_5	17	7	sobre	sobre	sps00	preposition	***
+ordenadores_no_2_5	17	8	el	el	da0ms0	article	***
+ordenadores_no_2_5	17	9	comportamiento	comportamiento	ncms000	common	***
+ordenadores_no_2_5	17	10	de	de	sps00	preposition	***
+ordenadores_no_2_5	17	11	este	este	dd0ms0	demonstrative	***
+ordenadores_no_2_5	17	12	ordenador	ordenador	ncms000	common	***
+ordenadores_no_2_5	17	13	.	.	fp	-	***
+
+ordenadores_no_2_5	18	1	Mientras	mientras	cs	subordinating	-	-	-
+ordenadores_no_2_5	18	2	tanto	tanto	rg	-	-	-	-
+ordenadores_no_2_5	18	3	no	no	rn	negative	no	-	-
+ordenadores_no_2_5	18	4	lo	él	pp3cna00	personal	-	-	-
+ordenadores_no_2_5	18	5	recomendaré	recomendar	vmif1s0	main	-	-	-
+ordenadores_no_2_5	18	6	.	.	fp	-	-	-	-
+

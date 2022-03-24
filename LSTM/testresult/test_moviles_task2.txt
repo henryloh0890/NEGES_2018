@@ -1,0 +1,2618 @@
+moviles_yes_5_19	1	1	Hola	hola	i	-	***
+moviles_yes_5_19	1	2	!	!	fat	-	***
+
+moviles_yes_5_19	2	1	Mi	mi	dp1css	possessive	***
+moviles_yes_5_19	2	2	nombre	nombre	ncms000	common	***
+moviles_yes_5_19	2	3	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_19	2	4	Alexandru	alexandru	np00000	proper	***
+moviles_yes_5_19	2	5	e	y	cc	coordinating	***
+moviles_yes_5_19	2	6	i	i	ncfs000	common	***
+moviles_yes_5_19	2	7	'	'	fe	-	***
+moviles_yes_5_19	2	8	m	metro	ncmn000	common	***
+moviles_yes_5_19	2	9	de	de	sps00	preposition	***
+moviles_yes_5_19	2	10	Rumania	rumania	np00000	proper	***
+moviles_yes_5_19	2	11	.	.	fp	-	***
+
+moviles_yes_5_19	3	1	Tengo	tener	vmip1s0	main	***
+moviles_yes_5_19	3	2	este	este	dd0ms0	demonstrative	***
+moviles_yes_5_19	3	3	teléfono	teléfono	ncms000	common	***
+moviles_yes_5_19	3	4	,	,	fc	-	***
+moviles_yes_5_19	3	5	Samsung_SGH	samsung_sgh	np00000	proper	***
+moviles_yes_5_19	3	6	-	-	fg	-	***
+moviles_yes_5_19	3	7	X	x	ncfs000	common	***
+moviles_yes_5_19	3	8	530	530	z	-	***
+moviles_yes_5_19	3	9	.	.	fp	-	***
+
+moviles_yes_5_19	4	1	Tengo	tener	vmip1s0	main	***
+moviles_yes_5_19	4	2	gusto	gusto	ncms000	common	***
+moviles_yes_5_19	4	3	en	en	sps00	preposition	***
+moviles_yes_5_19	4	4	este	este	dd0ms0	demonstrative	***
+moviles_yes_5_19	4	5	teléfono	teléfono	ncms000	common	***
+moviles_yes_5_19	4	6	de	de	sps00	preposition	***
+moviles_yes_5_19	4	7	la	el	da0fs0	article	***
+moviles_yes_5_19	4	8	calidad	calidad	ncfs000	common	***
+moviles_yes_5_19	4	9	de	de	sps00	preposition	***
+moviles_yes_5_19	4	10	las	el	da0fp0	article	***
+moviles_yes_5_19	4	11	fotos	foto	ncfp000	common	***
+moviles_yes_5_19	4	12	,	,	fc	-	***
+moviles_yes_5_19	4	13	de	de	sps00	preposition	***
+moviles_yes_5_19	4	14	el	el	da0ms0	article	***
+moviles_yes_5_19	4	15	juego	juego	ncms000	common	***
+moviles_yes_5_19	4	16	de	de	sps00	preposition	***
+moviles_yes_5_19	4	17	el	el	da0ms0	article	***
+moviles_yes_5_19	4	18	snowball	snowball	ncms000	common	***
+moviles_yes_5_19	4	19	,	,	fc	-	***
+moviles_yes_5_19	4	20	de	de	sps00	preposition	***
+moviles_yes_5_19	4	21	la	el	da0fs0	article	***
+moviles_yes_5_19	4	22	lista	lista	ncfs000	common	***
+moviles_yes_5_19	4	23	grande	grande	aq0cs0	qualificative	***
+moviles_yes_5_19	4	24	de	de	sps00	preposition	***
+moviles_yes_5_19	4	25	las	el	da0fp0	article	***
+moviles_yes_5_19	4	26	llamadas	llamada	ncfp000	common	***
+moviles_yes_5_19	4	27	,	,	fc	-	***
+moviles_yes_5_19	4	28	de	de	sps00	preposition	***
+moviles_yes_5_19	4	29	la	el	da0fs0	article	***
+moviles_yes_5_19	4	30	diapositiva	diapositiva	ncfs000	common	***
+moviles_yes_5_19	4	31	simple	simple	aq0cs0	qualificative	***
+moviles_yes_5_19	4	32	y	y	cc	coordinating	***
+moviles_yes_5_19	4	33	de	de	sps00	preposition	***
+moviles_yes_5_19	4	34	el	el	da0ms0	article	***
+moviles_yes_5_19	4	35	sonido	sonido	ncms000	common	***
+moviles_yes_5_19	4	36	.	.	fp	-	***
+
+moviles_yes_5_19	5	1	I	i	np00000	proper	***
+moviles_yes_5_19	5	2	didn't	didn't	va00000	auxiliary	***
+moviles_yes_5_19	5	3	tiene	tener	vmip3s0	main	***
+moviles_yes_5_19	5	4	gusto	gusto	ncms000	common	***
+moviles_yes_5_19	5	5	en	en	sps00	preposition	***
+moviles_yes_5_19	5	6	este	este	dd0ms0	demonstrative	***
+moviles_yes_5_19	5	7	teléfono	teléfono	ncms000	common	***
+moviles_yes_5_19	5	8	de	de	sps00	preposition	***
+moviles_yes_5_19	5	9	la	el	da0fs0	article	***
+moviles_yes_5_19	5	10	memoria	memoria	ncfs000	common	***
+moviles_yes_5_19	5	11	pequeña	pequeño	aq0fs0	qualificative	***
+moviles_yes_5_19	5	12	(	(	fpa	-	***
+moviles_yes_5_19	5	13	2	2	z	-	***
+moviles_yes_5_19	5	14	octetos	octeto	ncmp000	common	***
+moviles_yes_5_19	5	15	mega	mega	aq0cn0	qualificative	***
+moviles_yes_5_19	5	16	para	para	sps00	preposition	***
+moviles_yes_5_19	5	17	las	el	da0fp0	article	***
+moviles_yes_5_19	5	18	fotos	foto	ncfp000	common	***
+moviles_yes_5_19	5	19	,	,	fc	-	***
+moviles_yes_5_19	5	20	de	de	sps00	preposition	***
+moviles_yes_5_19	5	21	512	512	z	-	***
+moviles_yes_5_19	5	22	kilos	kilo	ncmp000	common	***
+moviles_yes_5_19	5	23	para	para	sps00	preposition	***
+moviles_yes_5_19	5	24	los	el	da0mp0	article	***
+moviles_yes_5_19	5	25	juegos	juego	ncmp000	common	***
+moviles_yes_5_19	5	26	y	y	cc	coordinating	***
+moviles_yes_5_19	5	27	de	de	sps00	preposition	***
+moviles_yes_5_19	5	28	1	1	z	-	***
+moviles_yes_5_19	5	29	octeto	octeto	ncms000	common	***
+moviles_yes_5_19	5	30	mega	mega	aq0cn0	qualificative	***
+moviles_yes_5_19	5	31	para	para	sps00	preposition	***
+moviles_yes_5_19	5	32	los	el	da0mp0	article	***
+moviles_yes_5_19	5	33	sonidos	sonido	ncmp000	common	***
+moviles_yes_5_19	5	34	y	y	cc	coordinating	***
+moviles_yes_5_19	5	35	las	el	da0fp0	article	***
+moviles_yes_5_19	5	36	imágenes	imagen	ncfp000	common	***
+moviles_yes_5_19	5	37	)	)	fpt	-	***
+moviles_yes_5_19	5	38	.	.	fp	-	***
+
+moviles_yes_5_19	6	1	El	el	da0ms0	article	***
+moviles_yes_5_19	6	2	navegador	navegador	ncms000	common	***
+moviles_yes_5_19	6	3	en	en	sps00	preposition	***
+moviles_yes_5_19	6	4	los	el	da0mp0	article	***
+moviles_yes_5_19	6	5	sitios	sitio	ncmp000	common	***
+moviles_yes_5_19	6	6	de	de	sps00	preposition	***
+moviles_yes_5_19	6	7	el	el	da0ms0	article	***
+moviles_yes_5_19	6	8	wap	wap	ncms000	common	***
+moviles_yes_5_19	6	9	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_19	6	10	muy	muy	rg	-	***
+moviles_yes_5_19	6	11	simple	simple	aq0cs0	qualificative	***
+moviles_yes_5_19	6	12	.	.	fp	-	***
+
+moviles_yes_5_19	7	1	Odio	odio	np00000	proper	***
+moviles_yes_5_19	7	2	el	el	da0ms0	article	***
+moviles_yes_5_19	7	3	hecho	hecho	ncms000	common	***
+moviles_yes_5_19	7	4	simple	simple	aq0cs0	qualificative	***
+moviles_yes_5_19	7	5	:	:	fd	-	***
+
+moviles_yes_5_19	8	1	ninguna	ninguno	di0fs0	indefinite	ninguna	-	-
+moviles_yes_5_19	8	2	tarjeta	tarjeta	ncfs000	common	-	-	-
+moviles_yes_5_19	8	3	de	de	sps00	preposition	-	-	-
+moviles_yes_5_19	8	4	memoria	memoria	ncfs000	common	-	-	-
+moviles_yes_5_19	8	5	para	para	sps00	preposition	-	-	-
+moviles_yes_5_19	8	6	este	este	dd0ms0	demonstrative	-	-	-
+moviles_yes_5_19	8	7	teléfono	teléfono	ncms000	common	-	-	-
+moviles_yes_5_19	8	8	.	.	fp	-	-	-	-
+
+moviles_yes_5_19	9	1	un	uno	di0ms0	indefinite	***
+moviles_yes_5_19	9	2	datos	dato	ncmp000	common	***
+moviles_yes_5_19	9	3	de	de	sps00	preposition	***
+moviles_yes_5_19	9	4	el	el	da0ms0	article	***
+moviles_yes_5_19	9	5	cable	cable	ncms000	common	***
+moviles_yes_5_19	9	6	.	.	fp	-	***
+moviles_yes_5_19	9	7	.	.	fp	-	***
+moviles_yes_5_19	9	8	cómo	cómo	pt000000	interrogative	***
+moviles_yes_5_19	9	9	el	el	da0ms0	article	***
+moviles_yes_5_19	9	10	fósforo	fósforo	ncms000	common	***
+moviles_yes_5_19	9	11	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_19	9	12	él	él	pp3ms000	personal	***
+moviles_yes_5_19	9	13	?	?	fit	-	***
+moviles_yes_5_19	9	14	deseo	desear	vmip1s0	main	***
+moviles_yes_5_19	9	15	ahorrar	ahorrar	vmn0000	main	***
+moviles_yes_5_19	9	16	mis	mi	dp1cps	possessive	***
+moviles_yes_5_19	9	17	fotos	foto	ncfp000	common	***
+moviles_yes_5_19	9	18	...	...	fs	-	***
+moviles_yes_5_19	9	19	mi	mi	dp1css	possessive	***
+moviles_yes_5_19	9	20	teléfono	teléfono	ncms000	common	***
+moviles_yes_5_19	9	21	puede	poder	vmip3s0	main	***
+moviles_yes_5_19	9	22	encontrar	encontrar	vmn0000	main	***
+moviles_yes_5_19	9	23	la	el	da0fs0	article	***
+moviles_yes_5_19	9	24	señal	señal	ncfs000	common	***
+moviles_yes_5_19	9	25	,	,	fc	-	***
+moviles_yes_5_19	9	26	yo	yo	pp1csn00	personal	***
+moviles_yes_5_19	9	27	debe	deber	vmip3s0	main	***
+moviles_yes_5_19	9	28	recomenzar	recomenzar	vmn0000	main	***
+moviles_yes_5_19	9	29	la	lo	pp3fsa00	personal	***
+moviles_yes_5_19	9	30	para	para	sps00	preposition	***
+moviles_yes_5_19	9	31	la	el	da0fs0	article	***
+moviles_yes_5_19	9	32	multa	multa	ncfs000	common	***
+moviles_yes_5_19	9	33	de	de	sps00	preposition	***
+moviles_yes_5_19	9	34	el	el	da0ms0	article	***
+moviles_yes_5_19	9	35	workin	workin	ncms000	common	***
+moviles_yes_5_19	9	36	!	!	fat	-	***
+moviles_yes_5_19	9	37	tanques	tanque	ncmp000	common	***
+moviles_yes_5_19	9	38	!	!	fat	-	***
+moviles_yes_5_19	9	39	un	uno	di0ms0	indefinite	***
+moviles_yes_5_19	9	40	buen	bueno	aq0ms0	qualificative	***
+moviles_yes_5_19	9	41	teléfono	teléfono	ncms000	common	***
+moviles_yes_5_19	9	42	!	!	fat	-	***
+
+moviles_yes_4_10	1	1	hace	hacer	vmip3s0	main	***
+moviles_yes_4_10	1	2	una	uno	di0fs0	indefinite	***
+moviles_yes_4_10	1	3	semana	semana	ncfs000	common	***
+moviles_yes_4_10	1	4	k	k	ncfs000	common	***
+moviles_yes_4_10	1	5	tengo	tener	vmip1s0	main	***
+moviles_yes_4_10	1	6	este	este	dd0ms0	demonstrative	***
+moviles_yes_4_10	1	7	movil	movil	ncms000	common	***
+moviles_yes_4_10	1	8	.	.	fp	-	***
+
+moviles_yes_4_10	2	1	yo	yo	pp1csn00	personal	-	-	-
+moviles_yes_4_10	2	2	a	a	sps00	preposition	-	-	-
+moviles_yes_4_10	2	3	el	el	da0ms0	article	-	-	-
+moviles_yes_4_10	2	4	principio	principio	ncms000	common	-	-	-
+moviles_yes_4_10	2	5	keria	keria	ncfs000	common	-	-	-
+moviles_yes_4_10	2	6	el	el	da0ms0	article	-	-	-
+moviles_yes_4_10	2	7	PEBL	pebl	np00000	proper	-	-	-
+moviles_yes_4_10	2	8	U6	u6	z	-	-	-	-
+moviles_yes_4_10	2	9	negro	negro	ncms000	common	-	-	-
+moviles_yes_4_10	2	10	pero	pero	cc	coordinating	-	-	-
+moviles_yes_4_10	2	11	era	ser	vsii1s0	semiauxiliary	-	-	-
+moviles_yes_4_10	2	12	demasiado	demasiado	rg	-	-	-	-
+moviles_yes_4_10	2	13	caro	caro	aq0ms0	qualificative	-	-	-
+moviles_yes_4_10	2	14	y	y	cc	coordinating	-	-	-
+moviles_yes_4_10	2	15	no	no	rn	negative	no	-	-
+moviles_yes_4_10	2	16	estaba	estar	vaii1s0	auxiliary	-	-	-
+moviles_yes_4_10	2	17	en	en	sps00	preposition	-	-	-
+moviles_yes_4_10	2	18	el	el	da0ms0	article	-	-	-
+moviles_yes_4_10	2	19	pack	pack	ncms000	common	-	-	-
+moviles_yes_4_10	2	20	activa	activo	aq0fs0	qualificative	-	-	-
+moviles_yes_4_10	2	21	de	de	sps00	preposition	-	-	-
+moviles_yes_4_10	2	22	movistar	movistar	vmn0000	main	-	-	-
+moviles_yes_4_10	2	23	.	.	fp	-	-	-	-
+moviles_yes_4_10	2	24	.	.	fp	-	-	-	-
+moviles_yes_4_10	2	25	xD	xd	ncfs000	common	-	-	-
+moviles_yes_4_10	2	26	.	.	fp	-	-	-	-
+
+moviles_yes_4_10	3	1	Pero	pero	cc	coordinating	***
+moviles_yes_4_10	3	2	ahora	ahora	rg	-	***
+moviles_yes_4_10	3	3	en	en	sps00	preposition	***
+moviles_yes_4_10	3	4	cambio	cambio	ncms000	common	***
+moviles_yes_4_10	3	5	me	me	pp1cs000	personal	***
+moviles_yes_4_10	3	6	gusta	gustar	vmip3s0	main	***
+moviles_yes_4_10	3	7	mas	mas	cc	coordinating	***
+moviles_yes_4_10	3	8	el	el	da0ms0	article	***
+moviles_yes_4_10	3	9	motorola	motorola	ncfs000	common	***
+moviles_yes_4_10	3	10	v360	v360	z	-	***
+moviles_yes_4_10	3	11	,	,	fc	-	***
+moviles_yes_4_10	3	12	yo	yo	pp1csn00	personal	***
+moviles_yes_4_10	3	13	lo	lo	pp3cna00	personal	***
+moviles_yes_4_10	3	14	tengo	tener	vmip1s0	main	***
+moviles_yes_4_10	3	15	azul	azul	aq0cs0	qualificative	***
+moviles_yes_4_10	3	16	pero	pero	cc	coordinating	***
+moviles_yes_4_10	3	17	lo	lo	pp3cna00	personal	***
+moviles_yes_4_10	3	18	e	y	cc	coordinating	***
+moviles_yes_4_10	3	19	visto	ver	vmp00sm	main	***
+moviles_yes_4_10	3	20	en	en	sps00	preposition	***
+moviles_yes_4_10	3	21	negro	negro	aq0ms0	qualificative	***
+moviles_yes_4_10	3	22	y	y	cc	coordinating	***
+moviles_yes_4_10	3	23	gris	gris	aq0cs0	qualificative	***
+moviles_yes_4_10	3	24	.	.	fp	-	***
+
+moviles_yes_4_10	4	1	Y	y	cc	coordinating	***
+moviles_yes_4_10	4	2	bueno	bueno	aq0ms0	qualificative	***
+moviles_yes_4_10	4	3	,	,	fc	-	***
+moviles_yes_4_10	4	4	que	que	pr0cn000	relative	***
+moviles_yes_4_10	4	5	me	me	pp1cs000	personal	***
+moviles_yes_4_10	4	6	encanta	encantar	vmip3s0	main	***
+moviles_yes_4_10	4	7	,	,	fc	-	***
+moviles_yes_4_10	4	8	tambien	tambien	rg	-	***
+moviles_yes_4_10	4	9	me	me	pp1cs000	personal	***
+moviles_yes_4_10	4	10	habian	habian	vmip3p0	main	***
+moviles_yes_4_10	4	11	gustado	gustar	vmp00sm	main	***
+moviles_yes_4_10	4	12	otros	otro	di0mp0	indefinite	***
+moviles_yes_4_10	4	13	modelos	modelo	nccp000	common	***
+moviles_yes_4_10	4	14	como	como	cs	subordinating	***
+moviles_yes_4_10	4	15	el	el	da0ms0	article	***
+moviles_yes_4_10	4	16	nokia	nokia	ncfs000	common	***
+moviles_yes_4_10	4	17	5200	5200	z	-	***
+moviles_yes_4_10	4	18	o	o	cc	coordinating	***
+moviles_yes_4_10	4	19	el	el	da0ms0	article	***
+moviles_yes_4_10	4	20	6103	6103	z	-	***
+moviles_yes_4_10	4	21	o	o	cc	coordinating	***
+moviles_yes_4_10	4	22	el	el	da0ms0	article	***
+moviles_yes_4_10	4	23	6101	6101	z	-	***
+moviles_yes_4_10	4	24	o	o	cc	coordinating	***
+moviles_yes_4_10	4	25	el	el	da0ms0	article	***
+moviles_yes_4_10	4	26	3220	3220	z	-	***
+moviles_yes_4_10	4	27	.	.	fp	-	***
+
+moviles_yes_4_10	5	1	A	a	sps00	preposition	***
+moviles_yes_4_10	5	2	todos	todo	di0mp0	indefinite	***
+moviles_yes_4_10	5	3	mis	mi	dp1cps	possessive	***
+moviles_yes_4_10	5	4	amigos	amigo	ncmp000	common	***
+moviles_yes_4_10	5	5	les	le	pp3cpd00	personal	***
+moviles_yes_4_10	5	6	encanta	encantar	vmip3s0	main	***
+moviles_yes_4_10	5	7	mi	mi	dp1css	possessive	***
+moviles_yes_4_10	5	8	movil	movil	ncms000	common	***
+moviles_yes_4_10	5	9	y	y	cc	coordinating	***
+moviles_yes_4_10	5	10	ahora	ahora	rg	-	***
+moviles_yes_4_10	5	11	estan	estan	vmip3p0	main	***
+moviles_yes_4_10	5	12	pensando	pensar	vmg0000	main	***
+moviles_yes_4_10	5	13	en	en	sps00	preposition	***
+moviles_yes_4_10	5	14	comprar	comprar	vmn0000	main	***
+moviles_yes_4_10	5	15	se	se	pp3cn000	personal	***
+moviles_yes_4_10	5	16	lo	lo	pp3cna00	personal	***
+moviles_yes_4_10	5	17	ellos	ellos	pp3mp000	personal	***
+moviles_yes_4_10	5	18	tambien	tambien	rg	-	***
+moviles_yes_4_10	5	19	,	,	fc	-	***
+moviles_yes_4_10	5	20	bueno	bueno	i	-	***
+moviles_yes_4_10	5	21	os	os	pp2cp000	personal	***
+moviles_yes_4_10	5	22	dejo	dejar	vmip1s0	main	***
+moviles_yes_4_10	5	23	amigos	amigo	ncmp000	common	***
+moviles_yes_4_10	5	24	de	de	sps00	preposition	***
+moviles_yes_4_10	5	25	Ciao	ciao	np00000	proper	***
+moviles_yes_4_10	5	26	!	!	fat	-	***
+moviles_yes_4_10	5	27	!	!	fat	-	***
+
+moviles_no_1_11	1	1	PROBLEMAS	problema	ncmp000	common	***
+moviles_no_1_11	1	2	CON	con	sps00	preposition	***
+moviles_no_1_11	1	3	LA	el	da0fs0	article	***
+moviles_no_1_11	1	4	GARANTÍA	garantía	ncfs000	common	***
+
+moviles_no_1_11	2	1	Con	con	sps00	preposition	***
+moviles_no_1_11	2	2	apenas	apenas	rg	-	***
+moviles_no_1_11	2	3	DOS	2	z	-	***
+moviles_no_1_11	2	4	MESES	mes	ncmp000	common	***
+moviles_no_1_11	2	5	DE	de	sps00	preposition	***
+moviles_no_1_11	2	6	USO	uso	ncms000	common	***
+moviles_no_1_11	2	7	se	se	p00cn000	-	***
+moviles_no_1_11	2	8	desprendió	desprender	vmis3s0	main	***
+moviles_no_1_11	2	9	el	el	da0ms0	article	***
+moviles_no_1_11	2	10	conector	conector	ncms000	common	***
+moviles_no_1_11	2	11	USB	usb	np00000	proper	***
+moviles_no_1_11	2	12	por	por	sps00	preposition	***
+moviles_no_1_11	2	13	el	el	da0ms0	article	***
+moviles_no_1_11	2	14	que	que	pr0cn000	relative	***
+moviles_no_1_11	2	15	se	se	p00cn000	-	***
+moviles_no_1_11	2	16	carga	cargar	vmip3s0	main	***
+moviles_no_1_11	2	17	la	el	da0fs0	article	***
+moviles_no_1_11	2	18	batería	batería	nccs000	common	***
+moviles_no_1_11	2	19	si	si	cs	subordinating	***
+moviles_no_1_11	2	20	el	el	da0ms0	article	***
+moviles_no_1_11	2	21	cual	cual	pr0cs000	relative	***
+moviles_no_1_11	2	22	la	el	da0fs0	article	***
+moviles_no_1_11	2	23	PDA	pda	np00000	proper	***
+moviles_no_1_11	2	24	resulta	resultar	vmip3s0	main	***
+moviles_no_1_11	2	25	inservible	inservible	aq0cs0	qualificative	***
+moviles_no_1_11	2	26	.	.	fp	-	***
+
+moviles_no_1_11	3	1	La	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_1_11	3	2	garantía	garantía	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_11	3	3	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_1_11	3	4	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_no_1_11	3	5	cubre	cubrir	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_11	3	6	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_11	3	7	dice	decir	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_11	3	8	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_11	3	9	ese	ese	dd0ms0	demonstrative	-	-	-	-	-	-
+moviles_no_1_11	3	10	tipo	tipo	ncms000	common	-	-	-	-	-	-
+moviles_no_1_11	3	11	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_11	3	12	averías	avería	ncfp000	common	-	-	-	-	-	-
+moviles_no_1_11	3	13	son	ser	vsip3p0	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_11	3	14	por_cuenta_de	por_cuenta_de	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_11	3	15	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_1_11	3	16	usuario	usuario	ncms000	common	-	-	-	-	-	-
+moviles_no_1_11	3	17	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_11	3	18	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_11	3	19	son	ser	vsip3p0	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_11	3	20	ellos	ellos	pp3mp000	personal	-	-	-	-	-	-
+moviles_no_1_11	3	21	lo	el	da0ns0	article	-	-	-	-	-	-
+moviles_no_1_11	3	22	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_1_11	3	23	determinan	determinar	vmip3p0	main	-	-	-	-	-	-
+moviles_no_1_11	3	24	lo	el	da0ns0	article	-	-	-	-	-	-
+moviles_no_1_11	3	25	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_1_11	3	26	cubre	cubrir	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_11	3	27	o	o	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_11	3	28	no	no	rn	negative	-	-	-	no	-	-
+moviles_no_1_11	3	29	cubre	cubrir	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_11	3	30	la	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_1_11	3	31	garantía	garantía	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_11	3	32	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_11	3	33	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_no_1_11	3	34	quieren	querer	vmip3p0	main	-	-	-	-	-	-
+moviles_no_1_11	3	35	cobrar	cobrar	vmn0000	main	-	-	-	-	-	-
+moviles_no_1_11	3	36	322	322	z	-	-	-	-	-	-	-
+moviles_no_1_11	3	37	ERUROS	eruros	np00000	proper	-	-	-	-	-	-
+moviles_no_1_11	3	38	por	por	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_11	3	39	su	su	dp3cs0	possessive	-	-	-	-	-	-
+moviles_no_1_11	3	40	reparación	reparación	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_11	3	41	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_11	3	42	CASI	casi	rg	-	-	-	-	-	-	-
+moviles_no_1_11	3	43	TANTO	tanto	pi0ms000	indefinite	-	-	-	-	-	-
+moviles_no_1_11	3	44	COMO	como	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_11	3	45	NUEVA	nuevo	aq0fs0	qualificative	-	-	-	-	-	-
+moviles_no_1_11	3	46	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_1_11	4	1	PARA	para	sps00	preposition	-	-	-
+moviles_no_1_11	4	2	RECUPERARLA	recuperar	vmn0000	main	-	-	-
+moviles_no_1_11	4	3	(	(	fpa	-	-	-	-
+moviles_no_1_11	4	4	sin	sin	sps00	preposition	sin	-	-
+moviles_no_1_11	4	5	reparar	reparar	vmn0000	main	-	-	-
+moviles_no_1_11	4	6	)	)	fpt	-	-	-	-
+moviles_no_1_11	4	7	DEBO	deber	vmip1s0	main	-	-	-
+moviles_no_1_11	4	8	PAGAR	pagar	vmn0000	main	-	-	-
+moviles_no_1_11	4	9	60	60	z	-	-	-	-
+moviles_no_1_11	4	10	EUROS	euro	zm	currency	-	-	-
+moviles_no_1_11	4	11	.	.	fp	-	-	-	-
+
+moviles_no_1_11	5	1	La	el	da0fs0	article	-	-	-
+moviles_no_1_11	5	2	PDA	pda	np00000	proper	-	-	-
+moviles_no_1_11	5	3	está	estar	vaip3s0	auxiliary	-	-	-
+moviles_no_1_11	5	4	bién	bién	rg	-	-	-	-
+moviles_no_1_11	5	5	pero	pero	cc	coordinating	-	-	-
+moviles_no_1_11	5	6	la	el	da0fs0	article	-	-	-
+moviles_no_1_11	5	7	garantía	garantía	ncfs000	common	-	-	-
+moviles_no_1_11	5	8	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_11	5	9	ha	haber	vaip3s0	auxiliary	-	-	-
+moviles_no_1_11	5	10	decepcionado	decepcionar	vmp00sm	main	-	-	-
+moviles_no_1_11	5	11	,	,	fc	-	-	-	-
+moviles_no_1_11	5	12	aparte	aparte	rg	-	-	-	-
+moviles_no_1_11	5	13	que	que	cs	subordinating	-	-	-
+moviles_no_1_11	5	14	en	en	sps00	preposition	-	-	-
+moviles_no_1_11	5	15	España	españa	np00000	proper	-	-	-
+moviles_no_1_11	5	16	no	no	rn	negative	no	-	-
+moviles_no_1_11	5	17	tienen	tener	vmip3p0	main	-	-	-
+moviles_no_1_11	5	18	servicio	servicio	ncms000	common	-	-	-
+moviles_no_1_11	5	19	técnico	técnico	aq0ms0	qualificative	-	-	-
+moviles_no_1_11	5	20	y	y	cc	coordinating	-	-	-
+moviles_no_1_11	5	21	la	lo	pp3fsa00	personal	-	-	-
+moviles_no_1_11	5	22	tienen	tener	vmip3p0	main	-	-	-
+moviles_no_1_11	5	23	que	que	cs	subordinating	-	-	-
+moviles_no_1_11	5	24	mandar	mandar	vmn0000	main	-	-	-
+moviles_no_1_11	5	25	a	a	sps00	preposition	-	-	-
+moviles_no_1_11	5	26	Portugal	portugal	np00000	proper	-	-	-
+moviles_no_1_11	5	27	.	.	fp	-	-	-	-
+
+moviles_no_1_11	6	1	Ójala	ójala	np00000	proper	-	-	-
+moviles_no_1_11	6	2	alguien	alguien	pi0cs000	indefinite	-	-	-
+moviles_no_1_11	6	3	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_11	6	4	hubiese	haber	vasi1s0	auxiliary	-	-	-
+moviles_no_1_11	6	5	dado	dar	vmp00sm	main	-	-	-
+moviles_no_1_11	6	6	esta	este	dd0fs0	demonstrative	-	-	-
+moviles_no_1_11	6	7	información	información	ncfs000	common	-	-	-
+moviles_no_1_11	6	8	y	y	cc	coordinating	-	-	-
+moviles_no_1_11	6	9	no	no	rn	negative	no	-	-
+moviles_no_1_11	6	10	hubiese	haber	vasi1s0	auxiliary	-	-	-
+moviles_no_1_11	6	11	comprado	comprar	vmp00sm	main	-	-	-
+moviles_no_1_11	6	12	ASUS	asus	np00000	proper	-	-	-
+moviles_no_1_11	6	13	.	.	fp	-	-	-	-
+
+moviles_no_1_11	7	1	Si	si	np00000	proper	***
+moviles_no_1_11	7	2	alguien	alguien	pi0cs000	indefinite	***
+moviles_no_1_11	7	3	quiere	querer	vmip3s0	main	***
+moviles_no_1_11	7	4	más	más	rg	-	***
+moviles_no_1_11	7	5	información	información	ncfs000	common	***
+moviles_no_1_11	7	6	fgrruiz@gmail.com	fgrruiz@gmail.com	ncms000	common	***
+
+moviles_yes_5_2	1	1	El	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_2	1	2	otro	otro	di0ms0	indefinite	-	-	-	-	-	-
+moviles_yes_5_2	1	3	día	día	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	4	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_yes_5_2	1	5	puse_en_contacto	poner_en_contacto	vmis1s0	main	-	-	-	-	-	-
+moviles_yes_5_2	1	6	con	con	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	1	7	mi	mi	dp1css	possessive	-	-	-	-	-	-
+moviles_yes_5_2	1	8	operador	operador	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	9	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	1	10	telefonía	telefonía	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	11	móvil	móvil	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	1	12	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	1	13	quería	querer	vmii3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	1	14	renovar	renovar	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_2	1	15	mi	mi	dp1css	possessive	-	-	-	-	-	-
+moviles_yes_5_2	1	16	teléfono	teléfono	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	17	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	1	18	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_yes_5_2	1	19	no	no	rn	negative	no	-	-	-	-	-
+moviles_yes_5_2	1	20	quería	querer	vmii3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	1	21	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-
+moviles_yes_5_2	1	22	complicado	complicar	vmp00sm	main	-	-	-	-	-	-
+moviles_yes_5_2	1	23	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	1	24	simplemente	simplemente	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	1	25	quería	querer	vmii3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	1	26	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_yes_5_2	1	27	teléfono	teléfono	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	28	móvil	móvil	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	1	29	para	para	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	1	30	"	"	fe	-	-	-	-	-	-	-
+moviles_yes_5_2	1	31	hablar	hablar	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_2	1	32	"	"	fe	-	-	-	-	-	-	-
+moviles_yes_5_2	1	33	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	1	34	aunque	aunque	cc	coordinating	-	-	-	-	-	-
+moviles_yes_5_2	1	35	parezca	parecer	vmsp3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	1	36	mentira	mentira	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	37	esto	este	pd0ns000	demonstrative	-	-	-	-	-	-
+moviles_yes_5_2	1	38	no	no	rn	negative	-	-	-	no	-	-
+moviles_yes_5_2	1	39	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_2	1	40	habitual	habitual	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	1	41	hoy	hoy	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	42	en	en	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	1	43	día	día	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	1	44	,	,	fc	-	-	-	-	-	-	-
+
+moviles_yes_5_2	2	1	me	me	pp1cs000	personal	-	-	-
+moviles_yes_5_2	2	2	ofrecieron	ofrecer	vmis3p0	main	-	-	-
+moviles_yes_5_2	2	3	varios	varios	di0mp0	indefinite	-	-	-
+moviles_yes_5_2	2	4	teléfonos	teléfono	ncmp000	common	-	-	-
+moviles_yes_5_2	2	5	a	a	sps00	preposition	-	-	-
+moviles_yes_5_2	2	6	distintos	distinto	aq0mp0	qualificative	-	-	-
+moviles_yes_5_2	2	7	precios	precio	ncmp000	common	-	-	-
+moviles_yes_5_2	2	8	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	9	dentro_de	dentro_de	sps00	preposition	-	-	-
+moviles_yes_5_2	2	10	los	el	da0mp0	article	-	-	-
+moviles_yes_5_2	2	11	2	2	z	-	-	-	-
+moviles_yes_5_2	2	12	más	más	rg	-	-	-	-
+moviles_yes_5_2	2	13	económicos	económico	aq0mp0	qualificative	-	-	-
+moviles_yes_5_2	2	14	que	que	pr0cn000	relative	-	-	-
+moviles_yes_5_2	2	15	me	me	pp1cs000	personal	-	-	-
+moviles_yes_5_2	2	16	ofrecieron	ofrecer	vmis3p0	main	-	-	-
+moviles_yes_5_2	2	17	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	18	seleccioné	seleccionar	vmis1s0	main	-	-	-
+moviles_yes_5_2	2	19	este	este	dd0ms0	demonstrative	-	-	-
+moviles_yes_5_2	2	20	simplemente	simplemente	rg	-	-	-	-
+moviles_yes_5_2	2	21	por	por	sps00	preposition	-	-	-
+moviles_yes_5_2	2	22	el	el	da0ms0	article	-	-	-
+moviles_yes_5_2	2	23	hecho	hecho	ncms000	common	-	-	-
+moviles_yes_5_2	2	24	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	2	25	ser	ser	vsn0000	semiauxiliary	-	-	-
+moviles_yes_5_2	2	26	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	2	27	la	el	da0fs0	article	-	-	-
+moviles_yes_5_2	2	28	marca	marca	ncfs000	common	-	-	-
+moviles_yes_5_2	2	29	Nokia	nokia	np00000	proper	-	-	-
+moviles_yes_5_2	2	30	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	31	aunque	aunque	cc	coordinating	-	-	-
+moviles_yes_5_2	2	32	no	no	rn	negative	no	-	-
+moviles_yes_5_2	2	33	había	haber	vaii1s0	auxiliary	-	-	-
+moviles_yes_5_2	2	34	escuchado	escuchar	vmp00sm	main	-	-	-
+moviles_yes_5_2	2	35	hablar	hablar	vmn0000	main	-	-	-
+moviles_yes_5_2	2	36	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	2	37	este	este	dd0ms0	demonstrative	-	-	-
+moviles_yes_5_2	2	38	modelo	modelo	nccs000	common	-	-	-
+moviles_yes_5_2	2	39	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	40	la	el	da0fs0	article	-	-	-
+moviles_yes_5_2	2	41	teleoperadora	teleoperadora	ncfs000	common	-	-	-
+moviles_yes_5_2	2	42	me	me	pp1cs000	personal	-	-	-
+moviles_yes_5_2	2	43	dijo	decir	vmis3s0	main	-	-	-
+moviles_yes_5_2	2	44	que	que	cs	subordinating	-	-	-
+moviles_yes_5_2	2	45	era	ser	vsii1s0	semiauxiliary	-	-	-
+moviles_yes_5_2	2	46	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	2	47	gama	gama	ncfs000	common	-	-	-
+moviles_yes_5_2	2	48	baja	bajo	aq0fs0	qualificative	-	-	-
+moviles_yes_5_2	2	49	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	50	sí	sí	rg	-	-	-	-
+moviles_yes_5_2	2	51	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	52	gama	gama	ncfs000	common	-	-	-
+moviles_yes_5_2	2	53	baja	bajo	aq0fs0	qualificative	-	-	-
+moviles_yes_5_2	2	54	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	55	pero	pero	cc	coordinating	-	-	-
+moviles_yes_5_2	2	56	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_yes_5_2	2	57	nokia	nokia	aq0fs0	qualificative	-	-	-
+moviles_yes_5_2	2	58	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	59	completamente	completamente	rg	-	-	-	-
+moviles_yes_5_2	2	60	personalizable	personalizable	aq0cs0	qualificative	-	-	-
+moviles_yes_5_2	2	61	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	62	temas	tema	ncmp000	common	-	-	-
+moviles_yes_5_2	2	63	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	64	fondos	fondo	ncmp000	common	-	-	-
+moviles_yes_5_2	2	65	mp3	mp3	z	-	-	-	-
+moviles_yes_5_2	2	66	,	,	fc	-	-	-	-
+moviles_yes_5_2	2	67	etc.	etcétera	fs	-	-	-	-
+
+moviles_yes_5_2	3	1	a	a	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	2	esto	este	pd0ns000	demonstrative	-	-	-	-	-	-
+moviles_yes_5_2	3	3	hay	haber	vmip3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	3	4	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_2	3	5	añadir	añadir	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_2	3	6	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_2	3	7	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_2	3	8	extremadamente	extremadamente	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	3	9	fino	fino	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	3	10	a_la_vez_que	a_la_vez_que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_2	3	11	robusto	robusto	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	3	12	bajo	bajo	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	13	mi	mi	dp1css	possessive	-	-	-	-	-	-
+moviles_yes_5_2	3	14	punto	punto	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	15	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	16	vista	vista	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	17	(	(	fpa	-	-	-	-	-	-	-
+moviles_yes_5_2	3	18	evidente	evidente	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	3	19	mente	mente	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	20	todavía	todavía	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	3	21	no	no	rn	negative	no	-	-	-	-	-
+moviles_yes_5_2	3	22	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_yes_5_2	3	23	he	haber	vaip1s0	auxiliary	-	-	-	-	-	-
+moviles_yes_5_2	3	24	tirado	tirar	vmp00sm	main	-	-	-	-	-	-
+moviles_yes_5_2	3	25	a	a	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	26	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_2	3	27	suelo	suelo	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	28	ni	ni	cc	coordinating	-	-	-	ni	-	-
+moviles_yes_5_2	3	29	cosas	cosa	ncfp000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	30	por	por	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	31	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_2	3	32	estilo	estilo	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	3	33	para	para	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	3	34	comprobar	comprobar	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_2	3	35	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_yes_5_2	3	36	)	)	fpt	-	-	-	-	-	-	-
+moviles_yes_5_2	3	37	,	,	fc	-	-	-	-	-	-	-
+
+moviles_yes_5_2	4	1	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_2	4	2	detalle	detalle	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	4	3	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_2	4	4	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_2	4	5	no	no	rn	negative	no	-	-	-	-	-
+moviles_yes_5_2	4	6	tenga	tener	vmsp1s0	main	-	-	-	-	-	-
+moviles_yes_5_2	4	7	pantallas	pantalla	ncfp000	common	-	-	-	-	-	-
+moviles_yes_5_2	4	8	deslizante	deslizante	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	4	9	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	4	10	tapa	tapa	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	4	11	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	4	12	etc	etcétera	fs	-	-	-	-	-	-	-
+moviles_yes_5_2	4	13	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	4	14	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_yes_5_2	4	15	inspira	inspirar	vmip3s0	main	-	-	-	-	-	-
+moviles_yes_5_2	4	16	más	más	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	4	17	fiabilidad	fiabilidad	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_2	4	18	todavía	todavía	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	4	19	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_2	4	20	sin	sin	sps00	preposition	-	-	-	sin	-	-
+moviles_yes_5_2	4	21	olvidar	olvidar	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_2	4	22	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_yes_5_2	4	23	diseño	diseño	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_2	4	24	bastante	bastante	rg	-	-	-	-	-	-	-
+moviles_yes_5_2	4	25	atractivo	atractivo	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_yes_5_2	4	26	,	,	fc	-	-	-	-	-	-	-
+
+moviles_yes_5_2	5	1	por	por	sps00	preposition	***
+moviles_yes_5_2	5	2	último	último	ao0ms0	ordinal	***
+moviles_yes_5_2	5	3	indicar	indicar	vmn0000	main	***
+moviles_yes_5_2	5	4	una	uno	di0fs0	indefinite	***
+moviles_yes_5_2	5	5	duración	duración	ncfs000	common	***
+moviles_yes_5_2	5	6	de	de	sps00	preposition	***
+moviles_yes_5_2	5	7	batería	batería	nccs000	common	***
+moviles_yes_5_2	5	8	algo	algo	rg	-	***
+moviles_yes_5_2	5	9	superior	superior	aq0cs0	qualificative	***
+moviles_yes_5_2	5	10	a	a	sps00	preposition	***
+moviles_yes_5_2	5	11	la	el	da0fs0	article	***
+moviles_yes_5_2	5	12	media	medio	aq0fs0	qualificative	***
+moviles_yes_5_2	5	13	,	,	fc	-	***
+moviles_yes_5_2	5	14	incluso	incluso	rg	-	***
+moviles_yes_5_2	5	15	con	con	sps00	preposition	***
+moviles_yes_5_2	5	16	el	el	da0ms0	article	***
+moviles_yes_5_2	5	17	bluetooth	bluetooth	ncms000	common	***
+moviles_yes_5_2	5	18	activado	activar	vmp00sm	main	***
+moviles_yes_5_2	5	19	y	y	cc	coordinating	***
+moviles_yes_5_2	5	20	el	el	da0ms0	article	***
+moviles_yes_5_2	5	21	cargador	cargador	ncms000	common	***
+moviles_yes_5_2	5	22	de	de	sps00	preposition	***
+moviles_yes_5_2	5	23	nokia	nokia	ncfs000	common	***
+moviles_yes_5_2	5	24	"	"	fe	-	***
+moviles_yes_5_2	5	25	lento	lento	aq0ms0	qualificative	***
+moviles_yes_5_2	5	26	"	"	fe	-	***
+moviles_yes_5_2	5	27	que	que	pr0cn000	relative	***
+moviles_yes_5_2	5	28	trae	traer	vmip3s0	main	***
+moviles_yes_5_2	5	29	consigue	conseguir	vmip3s0	main	***
+moviles_yes_5_2	5	30	que	que	cs	subordinating	***
+moviles_yes_5_2	5	31	la	el	da0fs0	article	***
+moviles_yes_5_2	5	32	batería	batería	nccs000	common	***
+moviles_yes_5_2	5	33	sufra	sufra	ncfs000	common	***
+moviles_yes_5_2	5	34	menos	menos	rg	-	***
+moviles_yes_5_2	5	35	aumentando	aumentar	vmg0000	main	***
+moviles_yes_5_2	5	36	considerablemente	considerablemente	rg	-	***
+moviles_yes_5_2	5	37	la	el	da0fs0	article	***
+moviles_yes_5_2	5	38	vida	vida	ncfs000	common	***
+moviles_yes_5_2	5	39	de	de	sps00	preposition	***
+moviles_yes_5_2	5	40	la	el	da0fs0	article	***
+moviles_yes_5_2	5	41	misma	mismo	aq0fs0	qualificative	***
+moviles_yes_5_2	5	42	.	.	fp	-	***
+
+moviles_yes_5_2	6	1	En_resumidas_cuentas	en_resumidas_cuentas	rg	-	***
+moviles_yes_5_2	6	2	nos	nos	pp1cp000	personal	***
+moviles_yes_5_2	6	3	encontramos	encontrar	vmip1p0	main	***
+moviles_yes_5_2	6	4	ante	ante	sps00	preposition	***
+moviles_yes_5_2	6	5	un	uno	di0ms0	indefinite	***
+moviles_yes_5_2	6	6	terminal	terminal	nccs000	common	***
+moviles_yes_5_2	6	7	que	que	pr0cn000	relative	***
+moviles_yes_5_2	6	8	aún	aun	rg	-	***
+moviles_yes_5_2	6	9	siendo	ser	vsg0000	semiauxiliary	***
+moviles_yes_5_2	6	10	de	de	sps00	preposition	***
+moviles_yes_5_2	6	11	gama	gama	ncfs000	common	***
+moviles_yes_5_2	6	12	baja	bajo	aq0fs0	qualificative	***
+moviles_yes_5_2	6	13	,	,	fc	-	***
+moviles_yes_5_2	6	14	o	o	cc	coordinating	***
+moviles_yes_5_2	6	15	gracias_a	gracias_a	sps00	preposition	***
+moviles_yes_5_2	6	16	esto	este	pd0ns000	demonstrative	***
+moviles_yes_5_2	6	17	,	,	fc	-	***
+moviles_yes_5_2	6	18	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_2	6	19	muy	muy	rg	-	***
+moviles_yes_5_2	6	20	robusto	robusto	aq0ms0	qualificative	***
+moviles_yes_5_2	6	21	,	,	fc	-	***
+moviles_yes_5_2	6	22	fácil	fácil	aq0cs0	qualificative	***
+moviles_yes_5_2	6	23	de	de	sps00	preposition	***
+moviles_yes_5_2	6	24	utilizar	utilizar	vmn0000	main	***
+moviles_yes_5_2	6	25	,	,	fc	-	***
+moviles_yes_5_2	6	26	tiene	tener	vmip3s0	main	***
+moviles_yes_5_2	6	27	una	uno	di0fs0	indefinite	***
+moviles_yes_5_2	6	28	batería	batería	nccs000	common	***
+moviles_yes_5_2	6	29	de	de	sps00	preposition	***
+moviles_yes_5_2	6	30	larga	largo	aq0fs0	qualificative	***
+moviles_yes_5_2	6	31	duración	duración	ncfs000	common	***
+moviles_yes_5_2	6	32	y	y	cc	coordinating	***
+moviles_yes_5_2	6	33	larga	largo	aq0fs0	qualificative	***
+moviles_yes_5_2	6	34	vida	vida	ncfs000	common	***
+moviles_yes_5_2	6	35	útil	útil	aq0cs0	qualificative	***
+moviles_yes_5_2	6	36	(	(	fpa	-	***
+moviles_yes_5_2	6	37	presumiblemente	presumiblemente	rg	-	***
+moviles_yes_5_2	6	38	)	)	fpt	-	***
+moviles_yes_5_2	6	39	,	,	fc	-	***
+moviles_yes_5_2	6	40	a	a	sps00	preposition	***
+moviles_yes_5_2	6	41	un	uno	di0ms0	indefinite	***
+moviles_yes_5_2	6	42	precio	precio	ncms000	common	***
+moviles_yes_5_2	6	43	muy	muy	rg	-	***
+moviles_yes_5_2	6	44	económico	económico	aq0ms0	qualificative	***
+moviles_yes_5_2	6	45	.	.	fp	-	***
+
+moviles_yes_5_2	7	1	También	también	rg	-	-	-	-
+moviles_yes_5_2	7	2	tiene	tener	vmip3s0	main	-	-	-
+moviles_yes_5_2	7	3	algunos	alguno	di0mp0	indefinite	-	-	-
+moviles_yes_5_2	7	4	inconvenientes	inconveniente	ncmp000	common	-	-	-
+moviles_yes_5_2	7	5	,	,	fc	-	-	-	-
+moviles_yes_5_2	7	6	la	el	da0fs0	article	-	-	-
+moviles_yes_5_2	7	7	cámara	cámara	ncfs000	common	-	-	-
+moviles_yes_5_2	7	8	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_yes_5_2	7	9	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	7	10	el	el	da0ms0	article	-	-	-
+moviles_yes_5_2	7	11	tipo	tipo	ncms000	common	-	-	-
+moviles_yes_5_2	7	12	VGA	vga	np00000	proper	-	-	-
+moviles_yes_5_2	7	13	,	,	fc	-	-	-	-
+moviles_yes_5_2	7	14	no	no	rn	negative	no	-	-
+moviles_yes_5_2	7	15	trae	traer	vmip3s0	main	-	-	-
+moviles_yes_5_2	7	16	tarjeta	tarjeta	ncfs000	common	-	-	-
+moviles_yes_5_2	7	17	de	de	sps00	preposition	-	-	-
+moviles_yes_5_2	7	18	memoria	memoria	ncfs000	common	-	-	-
+moviles_yes_5_2	7	19	,	,	fc	-	-	-	-
+moviles_yes_5_2	7	20	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_yes_5_2	7	21	dual	dual	aq0cs0	qualificative	-	-	-
+moviles_yes_5_2	7	22	(	(	fpa	-	-	-	-
+moviles_yes_5_2	7	23	esto	este	pd0ns000	demonstrative	-	-	-
+moviles_yes_5_2	7	24	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_yes_5_2	7	25	un	uno	di0ms0	indefinite	-	-	-
+moviles_yes_5_2	7	26	inconveniente	inconveniente	ncms000	common	-	-	-
+moviles_yes_5_2	7	27	si	si	cs	subordinating	-	-	-
+moviles_yes_5_2	7	28	se	se	p00cn000	-	-	-	-
+moviles_yes_5_2	7	29	viaja	viajar	vmip3s0	main	-	-	-
+moviles_yes_5_2	7	30	fuera_de	fuera_de	sps00	preposition	-	-	-
+moviles_yes_5_2	7	31	Europa	europa	np00000	proper	-	-	-
+moviles_yes_5_2	7	32	)	)	fpt	-	-	-	-
+
+moviles_yes_5_2	8	1	Tiene	tener	vmip3s0	main	-	-	-
+moviles_yes_5_2	8	2	una	uno	di0fs0	indefinite	-	-	-
+moviles_yes_5_2	8	3	buena	bueno	aq0fs0	qualificative	-	-	-
+moviles_yes_5_2	8	4	relación	relación	ncfs000	common	-	-	-
+moviles_yes_5_2	8	5	Calidad	calidad	np00000	proper	-	-	-
+moviles_yes_5_2	8	6	/	/	fh	-	-	-	-
+moviles_yes_5_2	8	7	Precio	precio	np00000	proper	-	-	-
+moviles_yes_5_2	8	8	aunque	aunque	cc	coordinating	-	-	-
+moviles_yes_5_2	8	9	no	no	rn	negative	no	-	-
+moviles_yes_5_2	8	10	tanto	tanto	rg	-	-	-	-
+moviles_yes_5_2	8	11	en	en	sps00	preposition	-	-	-
+moviles_yes_5_2	8	12	el	el	da0ms0	article	-	-	-
+moviles_yes_5_2	8	13	tema	tema	ncms000	common	-	-	-
+moviles_yes_5_2	8	14	"	"	fe	-	-	-	-
+moviles_yes_5_2	8	15	cantidad	cantidad	ncfs000	common	-	-	-
+moviles_yes_5_2	8	16	"	"	fe	-	-	-	-
+moviles_yes_5_2	8	17	/	/	fh	-	-	-	-
+moviles_yes_5_2	8	18	Precio	precio	np00000	proper	-	-	-
+moviles_yes_5_2	8	19	.	.	fp	-	-	-	-
+
+moviles_no_2_24	1	1	De	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	1	2	diseño	diseño	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	1	3	relativamente	relativamente	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	4	atractivo	atractivo	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_no_2_24	1	5	,	,	fc	-	-	-	-	-	-	-
+moviles_no_2_24	1	6	con	con	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	1	7	tapita	tapa	ncfs00d	common	-	-	-	-	-	-
+moviles_no_2_24	1	8	para	para	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	1	9	tapar	tapar	vmn0000	main	-	-	-	-	-	-
+moviles_no_2_24	1	10	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_2_24	1	11	teclado	teclado	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	1	12	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	1	13	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_2_24	1	14	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_2_24	1	15	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_2_24	1	16	active	activar	vmsp3s0	main	-	-	-	-	-	-
+moviles_no_2_24	1	17	(	(	fpa	-	-	-	-	-	-	-
+moviles_no_2_24	1	18	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_2_24	1	19	sólo	sólo	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	20	llama	llamar	vmip3s0	main	-	-	-	-	-	-
+moviles_no_2_24	1	21	la	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_2_24	1	22	atención	atención	ncfs000	common	-	-	-	-	-	-
+moviles_no_2_24	1	23	pq	pq	nc00000	common	-	-	-	-	-	-
+moviles_no_2_24	1	24	luego	luego	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	25	tampoco	tampoco	rg	-	-	-	-	tampoco	-	-
+moviles_no_2_24	1	26	protege	proteger	vmip3s0	main	-	-	-	-	-	-
+moviles_no_2_24	1	27	tan	tan	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	28	bien	bien	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	29	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_2_24	1	30	teclado	teclado	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	1	31	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	1	32	además	además	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	33	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_no_2_24	1	34	han	haber	vaip3p0	auxiliary	-	-	-	-	-	-
+moviles_no_2_24	1	35	comentado	comentar	vmp00sm	main	-	-	-	-	-	-
+moviles_no_2_24	1	36	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_2_24	1	37	en_seguida	en_seguida	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	38	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_2_24	1	39	rompe	romper	vmip3s0	main	-	-	-	-	-	-
+moviles_no_2_24	1	40	,	,	fc	-	-	-	-	-	-	-
+moviles_no_2_24	1	41	como	como	cs	subordinating	-	-	-	-	-	-
+moviles_no_2_24	1	42	la	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_2_24	1	43	antena	antena	ncfs000	common	-	-	-	-	-	-
+moviles_no_2_24	1	44	,	,	fc	-	-	-	-	-	-	-
+moviles_no_2_24	1	45	ya	ya	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	46	veremos	ver	vmif1p0	main	-	-	-	-	-	-
+moviles_no_2_24	1	47	cuanto	cuanto	rg	-	-	-	-	-	-	-
+moviles_no_2_24	1	48	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_no_2_24	1	49	dura	duro	aq0fs0	qualificative	-	-	-	-	-	-
+moviles_no_2_24	1	50	)	)	fpt	-	-	-	-	-	-	-
+moviles_no_2_24	1	51	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_2_24	2	1	Buscaba	buscar	vmii3s0	main	***
+moviles_no_2_24	2	2	un	uno	di0ms0	indefinite	***
+moviles_no_2_24	2	3	móvil	móvil	ncms000	common	***
+moviles_no_2_24	2	4	que	que	pr0cn000	relative	***
+moviles_no_2_24	2	5	a	a	sps00	preposition	***
+moviles_no_2_24	2	6	el	el	da0ms0	article	***
+moviles_no_2_24	2	7	menos	menos	rg	-	***
+moviles_no_2_24	2	8	me	me	pp1cs000	personal	***
+moviles_no_2_24	2	9	trajese	traer	vmsi3s0	main	***
+moviles_no_2_24	2	10	vibrador	vibrador	aq0ms0	qualificative	***
+moviles_no_2_24	2	11	(	(	fpa	-	***
+moviles_no_2_24	2	12	este	este	dd0ms0	demonstrative	***
+moviles_no_2_24	2	13	lo	lo	pp3cna00	personal	***
+moviles_no_2_24	2	14	tiene	tener	vmip3s0	main	***
+moviles_no_2_24	2	15	)	)	fpt	-	***
+moviles_no_2_24	2	16	y	y	cc	coordinating	***
+moviles_no_2_24	2	17	poco	poco	rg	-	***
+moviles_no_2_24	2	18	más	más	rg	-	***
+moviles_no_2_24	2	19	.	.	fp	-	***
+
+moviles_no_2_24	3	1	Tiene	tener	vmip3s0	main	-	-	-
+moviles_no_2_24	3	2	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	3	3	menú	menú	ncms000	common	-	-	-
+moviles_no_2_24	3	4	bastante	bastante	rg	-	-	-	-
+moviles_no_2_24	3	5	aceptable	aceptable	aq0cs0	qualificative	-	-	-
+moviles_no_2_24	3	6	(	(	fpa	-	-	-	-
+moviles_no_2_24	3	7	como	como	cs	subordinating	-	-	-
+moviles_no_2_24	3	8	todos	todo	di0mp0	indefinite	-	-	-
+moviles_no_2_24	3	9	los	el	da0mp0	article	-	-	-
+moviles_no_2_24	3	10	móviles	móvil	ncmp000	common	-	-	-
+moviles_no_2_24	3	11	,	,	fc	-	-	-	-
+moviles_no_2_24	3	12	lo	el	da0ns0	article	-	-	-
+moviles_no_2_24	3	13	único	único	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	3	14	curioso	curioso	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	3	15	que	que	pr0cn000	relative	-	-	-
+moviles_no_2_24	3	16	he	haber	vaip1s0	auxiliary	-	-	-
+moviles_no_2_24	3	17	encontrado	encontrar	vmp00sm	main	-	-	-
+moviles_no_2_24	3	18	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_no_2_24	3	19	el	el	da0ms0	article	-	-	-
+moviles_no_2_24	3	20	poder	poder	ncms000	common	-	-	-
+moviles_no_2_24	3	21	enviar	enviar	vmn0000	main	-	-	-
+moviles_no_2_24	3	22	sms	sms	ncmp000	common	-	-	-
+moviles_no_2_24	3	23	a	a	sps00	preposition	-	-	-
+moviles_no_2_24	3	24	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	3	25	e-mail	e-mail	ncms000	common	-	-	-
+moviles_no_2_24	3	26	,	,	fc	-	-	-	-
+moviles_no_2_24	3	27	que	que	cs	subordinating	-	-	-
+moviles_no_2_24	3	28	no	no	rn	negative	no	-	-
+moviles_no_2_24	3	29	sé	saber	vmip1s0	main	-	-	-
+moviles_no_2_24	3	30	si	si	cs	subordinating	-	-	-
+moviles_no_2_24	3	31	lo	lo	pp3cna00	personal	-	-	-
+moviles_no_2_24	3	32	proporcionarán	proporcionar	vmif3p0	main	-	-	-
+moviles_no_2_24	3	33	muchos	mucho	di0mp0	indefinite	-	-	-
+moviles_no_2_24	3	34	móviles	móvil	ncmp000	common	-	-	-
+moviles_no_2_24	3	35	)	)	fpt	-	-	-	-
+moviles_no_2_24	3	36	y	y	cc	coordinating	-	-	-
+moviles_no_2_24	3	37	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	3	38	bloqueo	bloqueo	ncms000	common	-	-	-
+moviles_no_2_24	3	39	automático	automático	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	3	40	(	(	fpa	-	-	-	-
+moviles_no_2_24	3	41	hubiese	haber	vasi1s0	auxiliary	-	-	-
+moviles_no_2_24	3	42	preferido	preferir	vmp00sm	main	-	-	-
+moviles_no_2_24	3	43	bloqueo	bloqueo	ncms000	common	-	-	-
+moviles_no_2_24	3	44	manual	manual	aq0cs0	qualificative	-	-	-
+moviles_no_2_24	3	45	,	,	fc	-	-	-	-
+moviles_no_2_24	3	46	pero	pero	cc	coordinating	-	-	-
+moviles_no_2_24	3	47	bueno	bueno	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	3	48	;	;	fx	-	-	-	-
+moviles_no_2_24	3	49	por	por	sps00	preposition	-	-	-
+moviles_no_2_24	3	50	cierto	cierto	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	3	51	,	,	fc	-	-	-	-
+moviles_no_2_24	3	52	a	a	sps00	preposition	-	-	-
+moviles_no_2_24	3	53	el	el	da0ms0	article	-	-	-
+moviles_no_2_24	3	54	principio	principio	ncms000	common	-	-	-
+moviles_no_2_24	3	55	pensé	pensar	vmis1s0	main	-	-	-
+moviles_no_2_24	3	56	¿	¿	fia	-	-	-	-
+moviles_no_2_24	3	57	para	para	sps00	preposition	-	-	-
+moviles_no_2_24	3	58	que	que	pr0cn000	relative	-	-	-
+moviles_no_2_24	3	59	quiero	querer	vmip1s0	main	-	-	-
+moviles_no_2_24	3	60	el	el	da0ms0	article	-	-	-
+moviles_no_2_24	3	61	bloqueo	bloqueo	ncms000	common	-	-	-
+moviles_no_2_24	3	62	si	si	cs	subordinating	-	-	-
+moviles_no_2_24	3	63	tiene	tener	vmip3s0	main	-	-	-
+moviles_no_2_24	3	64	tapa	tapa	ncfs000	common	-	-	-
+moviles_no_2_24	3	65	?	?	fit	-	-	-	-
+moviles_no_2_24	3	66	pues	pues	cs	subordinating	-	-	-
+moviles_no_2_24	3	67	ahora	ahora	rg	-	-	-	-
+moviles_no_2_24	3	68	siempre	siempre	rg	-	-	-	-
+moviles_no_2_24	3	69	lo	lo	pp3cna00	personal	-	-	-
+moviles_no_2_24	3	70	tengo	tener	vmip1s0	main	-	-	-
+moviles_no_2_24	3	71	activado	activar	vmp00sm	main	-	-	-
+moviles_no_2_24	3	72	)	)	fpt	-	-	-	-
+moviles_no_2_24	3	73	.	.	fp	-	-	-	-
+
+moviles_no_2_24	4	1	Pero	pero	cc	coordinating	***
+moviles_no_2_24	4	2	poco	poco	rg	-	***
+moviles_no_2_24	4	3	después_de	después_de	sps00	preposition	***
+moviles_no_2_24	4	4	comprármelo	comprármelo	ncms000	common	***
+moviles_no_2_24	4	5	ya	ya	rg	-	***
+moviles_no_2_24	4	6	empezó	empezar	vmis3s0	main	***
+moviles_no_2_24	4	7	a	a	sps00	preposition	***
+moviles_no_2_24	4	8	decepcionar	decepcionar	vmn0000	main	***
+moviles_no_2_24	4	9	me	me	pp1cs000	personal	***
+moviles_no_2_24	4	10	.	.	fp	-	***
+
+moviles_no_2_24	5	1	La	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_2_24	5	2	batería	batería	nccs000	common	-	-	-	-	-	-
+moviles_no_2_24	5	3	dura	duro	aq0fs0	qualificative	-	-	-	-	-	-
+moviles_no_2_24	5	4	poco	poco	rg	-	-	-	-	-	-	-
+moviles_no_2_24	5	5	(	(	fpa	-	-	-	-	-	-	-
+moviles_no_2_24	5	6	tres	3	z	-	-	-	-	-	-	-
+moviles_no_2_24	5	7	días	día	ncmp000	common	-	-	-	-	-	-
+moviles_no_2_24	5	8	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_no_2_24	5	9	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_2_24	5	10	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_no_2_24	5	11	usas	usar	vmip2s0	main	-	-	-	-	-	-
+moviles_no_2_24	5	12	a_menudo	a_menudo	rg	-	-	-	-	-	-	-
+moviles_no_2_24	5	13	,	,	fc	-	-	-	-	-	-	-
+moviles_no_2_24	5	14	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	5	15	a	a	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	5	16	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_2_24	5	17	menos	menos	rg	-	-	-	-	-	-	-
+moviles_no_2_24	5	18	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_2_24	5	19	recarga	recargar	vmip3s0	main	-	-	-	-	-	-
+moviles_no_2_24	5	20	rápido	rápido	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_no_2_24	5	21	)	)	fpt	-	-	-	-	-	-	-
+moviles_no_2_24	5	22	,	,	fc	-	-	-	-	-	-	-
+moviles_no_2_24	5	23	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	5	24	a	a	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	5	25	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_2_24	5	26	poco	poco	pi0ms000	indefinite	-	-	-	-	-	-
+moviles_no_2_24	5	27	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	5	28	comprármelo	comprármelo	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	5	29	la	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_2_24	5	30	misma	mismo	aq0fs0	qualificative	-	-	-	-	-	-
+moviles_no_2_24	5	31	dejó	dejar	vmis3s0	main	-	-	-	-	-	-
+moviles_no_2_24	5	32	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	5	33	hacer	hacer	vmn0000	main	-	-	-	-	-	-
+moviles_no_2_24	5	34	contacto	contacto	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	5	35	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	5	36	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_2_24	5	37	móvil	móvil	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	5	38	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_2_24	5	39	apagaba	apagar	vmii3s0	main	-	-	-	-	-	-
+moviles_no_2_24	5	40	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	5	41	he	haber	vaip1s0	auxiliary	-	-	-	-	-	-
+moviles_no_2_24	5	42	tenido	tener	vmp00sm	main	-	-	-	-	-	-
+moviles_no_2_24	5	43	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_2_24	5	44	poner	poner	vmn0000	main	-	-	-	-	-	-
+moviles_no_2_24	5	45	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_no_2_24	5	46	papel	papel	ncms000	common	-	-	-	-	-	-
+moviles_no_2_24	5	47	para	para	sps00	preposition	-	-	-	-	-	-
+moviles_no_2_24	5	48	hacer	hacer	vmn0000	main	-	-	-	-	-	-
+moviles_no_2_24	5	49	palanca	palanca	ncfs000	common	-	-	-	-	-	-
+moviles_no_2_24	5	50	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_2_24	5	51	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_2_24	5	52	no	no	rn	negative	-	-	-	no	-	-
+moviles_no_2_24	5	53	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_2_24	5	54	apague	apagar	vmsp3s0	main	-	-	-	-	-	-
+moviles_no_2_24	5	55	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_2_24	6	1	Dentro_de	dentro_de	sps00	preposition	-	-	-
+moviles_no_2_24	6	2	lo	el	da0ns0	article	-	-	-
+moviles_no_2_24	6	3	que	que	pr0cn000	relative	-	-	-
+moviles_no_2_24	6	4	cabe	caber	vmip3s0	main	-	-	-
+moviles_no_2_24	6	5	el	el	da0ms0	article	-	-	-
+moviles_no_2_24	6	6	menú	menú	ncms000	common	-	-	-
+moviles_no_2_24	6	7	no	no	rn	negative	no	-	-
+moviles_no_2_24	6	8	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_no_2_24	6	9	complejo	complejo	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	6	10	(	(	fpa	-	-	-	-
+moviles_no_2_24	6	11	pero	pero	cc	coordinating	-	-	-
+moviles_no_2_24	6	12	bueno	bueno	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	6	13	,	,	fc	-	-	-	-
+moviles_no_2_24	6	14	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_no_2_24	6	15	lo	el	da0ns0	article	-	-	-
+moviles_no_2_24	6	16	único	único	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	6	17	que	que	pr0cn000	relative	-	-	-
+moviles_no_2_24	6	18	nos	nos	pp1cp000	personal	-	-	-
+moviles_no_2_24	6	19	faltaba	faltar	vmii3s0	main	-	-	-
+moviles_no_2_24	6	20	,	,	fc	-	-	-	-
+moviles_no_2_24	6	21	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	6	22	menú	menú	ncms000	common	-	-	-
+moviles_no_2_24	6	23	de	de	sps00	preposition	-	-	-
+moviles_no_2_24	6	24	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	6	25	móvil	móvil	ncms000	common	-	-	-
+moviles_no_2_24	6	26	complejo	complejo	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	6	27	)	)	fpt	-	-	-	-
+moviles_no_2_24	6	28	.	.	fp	-	-	-	-
+
+moviles_no_2_24	7	1	El	el	da0ms0	article	-	-	-
+moviles_no_2_24	7	2	teclado	teclado	ncms000	common	-	-	-
+moviles_no_2_24	7	3	es	ser	vsip3s0	semiauxiliary	-	-	-
+moviles_no_2_24	7	4	relativamente	relativamente	rg	-	-	-	-
+moviles_no_2_24	7	5	incómodo	incómodo	aq0ms0	qualificative	-	-	-
+moviles_no_2_24	7	6	(	(	fpa	-	-	-	-
+moviles_no_2_24	7	7	sobre	sobre	sps00	preposition	-	-	-
+moviles_no_2_24	7	8	todo	todo	pi0ms000	indefinite	-	-	-
+moviles_no_2_24	7	9	por	por	sps00	preposition	-	-	-
+moviles_no_2_24	7	10	la	el	da0fs0	article	-	-	-
+moviles_no_2_24	7	11	tapa	tapa	ncfs000	common	-	-	-
+moviles_no_2_24	7	12	y	y	cc	coordinating	-	-	-
+moviles_no_2_24	7	13	pq	pq	nc00000	common	-	-	-
+moviles_no_2_24	7	14	las	el	da0fp0	article	-	-	-
+moviles_no_2_24	7	15	teclas	tecla	ncfp000	common	-	-	-
+moviles_no_2_24	7	16	están	estar	vaip3p0	auxiliary	-	-	-
+moviles_no_2_24	7	17	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_2_24	7	18	poco	poco	rg	-	-	-	-
+moviles_no_2_24	7	19	duras	duro	aq0fp0	qualificative	-	-	-
+moviles_no_2_24	7	20	;	;	fx	-	-	-	-
+moviles_no_2_24	7	21	no	no	rn	negative	no	-	-
+moviles_no_2_24	7	22	me	me	pp1cs000	personal	-	-	-
+moviles_no_2_24	7	23	agrada	agradar	vmip3s0	main	-	-	-
+moviles_no_2_24	7	24	escribir	escribir	vmn0000	main	-	-	-
+moviles_no_2_24	7	25	sms	sms	ncmp000	common	-	-	-
+moviles_no_2_24	7	26	en	en	sps00	preposition	-	-	-
+moviles_no_2_24	7	27	el	el	da0ms0	article	-	-	-
+moviles_no_2_24	7	28	móvil	móvil	ncms000	common	-	-	-
+moviles_no_2_24	7	29	)	)	fpt	-	-	-	-
+moviles_no_2_24	7	30	.	.	fp	-	-	-	-
+
+moviles_no_2_24	8	1	Seguiré	seguir	vmif1s0	main	***
+moviles_no_2_24	8	2	viendo	ver	vmg0000	main	***
+moviles_no_2_24	8	3	que	que	cs	subordinating	***
+moviles_no_2_24	8	4	tal	tal	pd0cs000	demonstrative	***
+moviles_no_2_24	8	5	resulta	resultar	vmip3s0	main	***
+moviles_no_2_24	8	6	y	y	cc	coordinating	***
+moviles_no_2_24	8	7	si	si	cs	subordinating	***
+moviles_no_2_24	8	8	tengo	tener	vmip1s0	main	***
+moviles_no_2_24	8	9	que	que	cs	subordinating	***
+moviles_no_2_24	8	10	cambiar	cambiar	vmn0000	main	***
+moviles_no_2_24	8	11	algo	algo	pi0cs000	indefinite	***
+moviles_no_2_24	8	12	de	de	sps00	preposition	***
+moviles_no_2_24	8	13	el	el	da0ms0	article	***
+moviles_no_2_24	8	14	comentario	comentario	ncms000	common	***
+moviles_no_2_24	8	15	,	,	fc	-	***
+moviles_no_2_24	8	16	lo	lo	pp3cna00	personal	***
+moviles_no_2_24	8	17	haré	hacer	vmif1s0	main	***
+moviles_no_2_24	8	18	.	.	fp	-	***
+
+moviles_no_1_2	1	1	Soy	ser	vsip1s0	semiauxiliary	***
+moviles_no_1_2	1	2	responsable	responsable	aq0cs0	qualificative	***
+moviles_no_1_2	1	3	de	de	sps00	preposition	***
+moviles_no_1_2	1	4	telefonia	telefonia	ncfs000	common	***
+moviles_no_1_2	1	5	y	y	cc	coordinating	***
+moviles_no_1_2	1	6	hace	hacer	vmip3s0	main	***
+moviles_no_1_2	1	7	poco	poco	di0ms0	indefinite	***
+moviles_no_1_2	1	8	tiempo	tiempo	ncms000	common	***
+moviles_no_1_2	1	9	tras	tras	sps00	preposition	***
+moviles_no_1_2	1	10	arduas	arduo	aq0fp0	qualificative	***
+moviles_no_1_2	1	11	negociaciones	negociación	ncfp000	common	***
+moviles_no_1_2	1	12	me	me	pp1cs000	personal	***
+moviles_no_1_2	1	13	pase	pasar	vmsp3s0	main	***
+moviles_no_1_2	1	14	de	de	sps00	preposition	***
+moviles_no_1_2	1	15	Vodafone	vodafone	np00000	proper	***
+moviles_no_1_2	1	16	a	a	sps00	preposition	***
+moviles_no_1_2	1	17	Movistar	movistar	np00000	proper	***
+moviles_no_1_2	1	18	.	.	fp	-	***
+
+moviles_no_1_2	2	1	Por	por	sps00	preposition	***
+moviles_no_1_2	2	2	13	13	z	-	***
+moviles_no_1_2	2	3	lineas	linear	vmip2s0	main	***
+moviles_no_1_2	2	4	me	me	pp1cs000	personal	***
+moviles_no_1_2	2	5	dieron	dar	vmis3p0	main	***
+moviles_no_1_2	2	6	3	3	z	-	***
+moviles_no_1_2	2	7	moviles	moviles	ncmp000	common	***
+moviles_no_1_2	2	8	de	de	sps00	preposition	***
+moviles_no_1_2	2	9	alta	alto	aq0fs0	qualificative	***
+moviles_no_1_2	2	10	gama	gama	ncfs000	common	***
+moviles_no_1_2	2	11	y	y	cc	coordinating	***
+moviles_no_1_2	2	12	luego	luego	rg	-	***
+moviles_no_1_2	2	13	los	el	da0mp0	article	***
+moviles_no_1_2	2	14	2630	2630	z	-	***
+moviles_no_1_2	2	15	,	,	fc	-	***
+moviles_no_1_2	2	16	en	en	sps00	preposition	***
+moviles_no_1_2	2	17	que	que	pr0cn000	relative	***
+moviles_no_1_2	2	18	hora	hora	ncfs000	common	***
+moviles_no_1_2	2	19	acepte	aceptar	vmsp3s0	main	***
+moviles_no_1_2	2	20	esos	ese	dd0mp0	demonstrative	***
+moviles_no_1_2	2	21	cacharros	cacharro	ncmp000	common	***
+moviles_no_1_2	2	22	!	!	fat	-	***
+moviles_no_1_2	2	23	!	!	fat	-	***
+moviles_no_1_2	2	24	!	!	fat	-	***
+
+moviles_no_1_2	3	1	Yo	yo	pp1csn00	personal	***
+moviles_no_1_2	3	2	ya	ya	rg	-	***
+moviles_no_1_2	3	3	le	le	pp3csd00	personal	***
+moviles_no_1_2	3	4	habia	habia	ncfs000	common	***
+moviles_no_1_2	3	5	visto	ver	vmp00sm	main	***
+moviles_no_1_2	3	6	ese	ese	dd0ms0	demonstrative	***
+moviles_no_1_2	3	7	movil	movil	ncms000	common	***
+moviles_no_1_2	3	8	a	a	sps00	preposition	***
+moviles_no_1_2	3	9	un	uno	di0ms0	indefinite	***
+moviles_no_1_2	3	10	primo	primo	aq0ms0	qualificative	***
+moviles_no_1_2	3	11	mio	mio	ncms000	common	***
+moviles_no_1_2	3	12	y	y	cc	coordinating	***
+moviles_no_1_2	3	13	sabia	sabio	ncfs000	common	***
+moviles_no_1_2	3	14	que	que	pr0cn000	relative	***
+moviles_no_1_2	3	15	daba	dar	vmii3s0	main	***
+moviles_no_1_2	3	16	problemas	problema	ncmp000	common	***
+moviles_no_1_2	3	17	,	,	fc	-	***
+moviles_no_1_2	3	18	pero	pero	cc	coordinating	***
+moviles_no_1_2	3	19	me	me	pp1cs000	personal	***
+moviles_no_1_2	3	20	pensaba	pensar	vmii3s0	main	***
+moviles_no_1_2	3	21	que	que	cs	subordinating	***
+moviles_no_1_2	3	22	era	ser	vsii1s0	semiauxiliary	***
+moviles_no_1_2	3	23	un	uno	di0ms0	indefinite	***
+moviles_no_1_2	3	24	caso	caso	ncms000	common	***
+moviles_no_1_2	3	25	excepcional	excepcional	aq0cs0	qualificative	***
+moviles_no_1_2	3	26	.	.	fp	-	***
+
+moviles_no_1_2	4	1	Pues	pues	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	2	no	no	rn	negative	no	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	3	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	4	resulta	resultar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	5	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	6	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+moviles_no_1_2	4	7	hay	haber	vmip3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	8	dia	dia	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	9	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	10	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	11	comerciales	comercial	nccp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	12	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+moviles_no_1_2	4	13	vengan	venir	vmsp3p0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	14	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	15	dar	dar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	16	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	17	quejas	queja	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	18	sobre	sobre	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	19	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	20	cacharro	cacharro	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	21	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	22	hare	hare	vmsp3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	23	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	24	resumen	resumen	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_2	4	25	;	;	fx	-	-	-	-	-	-	-	-	-	-
+
+moviles_no_1_2	5	1	-	-	fg	-	***
+moviles_no_1_2	5	2	malisima	malisima	aqsfs0	qualificative	***
+moviles_no_1_2	5	3	cobertura	cobertura	ncfs000	common	***
+
+moviles_no_1_2	6	1	-	-	fg	-	***
+moviles_no_1_2	6	2	peor	peor	aq0cs0	qualificative	***
+moviles_no_1_2	6	3	aun	aun	cs	subordinating	***
+moviles_no_1_2	6	4	calidad	calidad	ncfs000	common	***
+moviles_no_1_2	6	5	de	de	sps00	preposition	***
+moviles_no_1_2	6	6	sonido	sonido	ncms000	common	***
+
+moviles_no_1_2	7	1	-	-	fg	-	-	-	-
+moviles_no_1_2	7	2	la	el	da0fs0	article	-	-	-
+moviles_no_1_2	7	3	bateria	bateria	ncfs000	common	-	-	-
+moviles_no_1_2	7	4	dura	duro	aq0fs0	qualificative	-	-	-
+moviles_no_1_2	7	5	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_1_2	7	6	suspiro	suspiro	ncms000	common	-	-	-
+moviles_no_1_2	7	7	(	(	fpa	-	-	-	-
+moviles_no_1_2	7	8	no	no	rn	negative	no	-	-
+moviles_no_1_2	7	9	llega	llegar	vmip3s0	main	-	-	-
+moviles_no_1_2	7	10	ni	ni	cc	coordinating	ni	-	-
+moviles_no_1_2	7	11	a	a	sps00	preposition	-	-	-
+moviles_no_1_2	7	12	el	el	da0ms0	article	-	-	-
+moviles_no_1_2	7	13	dia	dia	ncfs000	common	-	-	-
+moviles_no_1_2	7	14	)	)	fpt	-	-	-	-
+
+moviles_no_1_2	8	1	-	-	fg	-	***
+moviles_no_1_2	8	2	se	se	p00cn000	-	***
+moviles_no_1_2	8	3	bloquea	bloquear	vmip3s0	main	***
+moviles_no_1_2	8	4	cada_dos_por_tres	cada_dos_por_tres	rg	-	***
+
+moviles_no_1_2	9	1	-	-	fg	-	-	-	-
+moviles_no_1_2	9	2	no	no	rn	negative	no	-	-
+moviles_no_1_2	9	3	recibe	recibir	vmip3s0	main	-	-	-
+moviles_no_1_2	9	4	los	el	da0mp0	article	-	-	-
+moviles_no_1_2	9	5	mensajes	mensaje	ncmp000	common	-	-	-
+
+moviles_no_1_2	10	1	-	-	fg	-	-	-	-	-	-	-
+moviles_no_1_2	10	2	total	total	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_no_1_2	10	3	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_2	10	4	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_1_2	10	5	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_1_2	10	6	hay	haber	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_2	10	7	defecto	defecto	ncms000	common	-	-	-	-	-	-
+moviles_no_1_2	10	8	que	que	pr0cn000	relative	-	-	-	-	-	-
+moviles_no_1_2	10	9	no	no	rn	negative	-	-	-	no	-	-
+moviles_no_1_2	10	10	tenga	tener	vmsp3s0	main	-	-	-	-	-	-
+moviles_no_1_2	10	11	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_1_2	10	12	dichoso	dichoso	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_no_1_2	10	13	movil	movil	ncms000	common	-	-	-	-	-	-
+
+moviles_no_1_2	11	1	Desde_luego	desde_luego	np00000	proper	-	-	-
+moviles_no_1_2	11	2	yo	yo	pp1csn00	personal	-	-	-
+moviles_no_1_2	11	3	tengo	tener	vmip1s0	main	-	-	-
+moviles_no_1_2	11	4	diez	10	z	-	-	-	-
+moviles_no_1_2	11	5	2630	2630	z	-	-	-	-
+moviles_no_1_2	11	6	y	y	cc	coordinating	-	-	-
+moviles_no_1_2	11	7	todos	todo	pi0mp000	indefinite	-	-	-
+moviles_no_1_2	11	8	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_2	11	9	han	haber	vaip3p0	auxiliary	-	-	-
+moviles_no_1_2	11	10	salido	salir	vmp00sm	main	-	-	-
+moviles_no_1_2	11	11	malos	malo	aq0mp0	qualificative	-	-	-
+moviles_no_1_2	11	12	,	,	fc	-	-	-	-
+moviles_no_1_2	11	13	por_supuesto	por_supuesto	rg	-	-	-	-
+moviles_no_1_2	11	14	voy	ir	vmip1s0	main	-	-	-
+moviles_no_1_2	11	15	a	a	sps00	preposition	-	-	-
+moviles_no_1_2	11	16	reclamar	reclamar	vmn0000	main	-	-	-
+moviles_no_1_2	11	17	a	a	sps00	preposition	-	-	-
+moviles_no_1_2	11	18	Vodafone	vodafone	np00000	proper	-	-	-
+moviles_no_1_2	11	19	,	,	fc	-	-	-	-
+moviles_no_1_2	11	20	pero	pero	cc	coordinating	-	-	-
+moviles_no_1_2	11	21	no	no	rn	negative	no	-	-
+moviles_no_1_2	11	22	creo	creer	vmip1s0	main	-	-	-
+moviles_no_1_2	11	23	que	que	cs	subordinating	-	-	-
+moviles_no_1_2	11	24	sirva	servir	vmsp3s0	main	-	-	-
+moviles_no_1_2	11	25	de	de	sps00	preposition	-	-	-
+moviles_no_1_2	11	26	mucho	mucho	pi3ms000	indefinite	-	-	-
+moviles_no_1_2	11	27	....	....	fz	-	-	-	-
+
+moviles_no_1_2	12	1	-	-	fg	-	***
+
+moviles_yes_4_5	1	1	Mi	mi	dp1css	possessive	-	-	-
+moviles_yes_4_5	1	2	experiencia	experiencia	ncfs000	common	-	-	-
+moviles_yes_4_5	1	3	con	con	sps00	preposition	-	-	-
+moviles_yes_4_5	1	4	este	este	dd0ms0	demonstrative	-	-	-
+moviles_yes_4_5	1	5	móvil	móvil	ncms000	common	-	-	-
+moviles_yes_4_5	1	6	no	no	rn	negative	no	-	-
+moviles_yes_4_5	1	7	puede	poder	vmip3s0	main	-	-	-
+moviles_yes_4_5	1	8	ser	ser	vsn0000	semiauxiliary	-	-	-
+moviles_yes_4_5	1	9	mejor	mejor	aq0cs0	qualificative	-	-	-
+moviles_yes_4_5	1	10	.	.	fp	-	-	-	-
+
+moviles_yes_4_5	2	1	Lo	lo	np00000	proper	***
+moviles_yes_4_5	2	2	tengo	tener	vmip1s0	main	***
+moviles_yes_4_5	2	3	desde	desde	sps00	preposition	***
+moviles_yes_4_5	2	4	hace	hacer	vmip3s0	main	***
+moviles_yes_4_5	2	5	una	uno	di0fs0	indefinite	***
+moviles_yes_4_5	2	6	semana	semana	ncfs000	common	***
+moviles_yes_4_5	2	7	y	y	cc	coordinating	***
+moviles_yes_4_5	2	8	genial	genial	aq0cs0	qualificative	***
+moviles_yes_4_5	2	9	.	.	fp	-	***
+
+moviles_yes_4_5	3	1	Tengo	tener	vmip1s0	main	***
+moviles_yes_4_5	3	2	dos	2	z	-	***
+moviles_yes_4_5	3	3	numeros	numeros	ncmp000	common	***
+moviles_yes_4_5	3	4	de	de	sps00	preposition	***
+moviles_yes_4_5	3	5	telefono	telefono	ncms000	common	***
+moviles_yes_4_5	3	6	en	en	sps00	preposition	***
+moviles_yes_4_5	3	7	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	3	8	solo	solo	aq0ms0	qualificative	***
+moviles_yes_4_5	3	9	movil	movil	ncms000	common	***
+moviles_yes_4_5	3	10	y	y	cc	coordinating	***
+moviles_yes_4_5	3	11	ademas	adema	ncfp000	common	***
+moviles_yes_4_5	3	12	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_4_5	3	13	muy	muy	rg	-	***
+moviles_yes_4_5	3	14	facil	facil	aq0cs0	qualificative	***
+moviles_yes_4_5	3	15	de	de	sps00	preposition	***
+moviles_yes_4_5	3	16	usar	usar	vmn0000	main	***
+moviles_yes_4_5	3	17	.	.	fp	-	***
+
+moviles_yes_4_5	4	1	Para	para	sps00	preposition	***
+moviles_yes_4_5	4	2	empezar	empezar	vmn0000	main	***
+moviles_yes_4_5	4	3	te	te	pp2cs000	personal	***
+moviles_yes_4_5	4	4	deja	dejar	vmip3s0	main	***
+moviles_yes_4_5	4	5	poner	poner	vmn0000	main	***
+moviles_yes_4_5	4	6	le	le	pp3csd00	personal	***
+moviles_yes_4_5	4	7	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	4	8	nombre	nombre	ncms000	common	***
+moviles_yes_4_5	4	9	a	a	sps00	preposition	***
+moviles_yes_4_5	4	10	cada	cada	di0cs0	indefinite	***
+moviles_yes_4_5	4	11	tarjeta	tarjeta	ncfs000	common	***
+moviles_yes_4_5	4	12	y	y	cc	coordinating	***
+moviles_yes_4_5	4	13	te	te	pp2cs000	personal	***
+moviles_yes_4_5	4	14	permite	permitir	vmip3s0	main	***
+moviles_yes_4_5	4	15	diferenciar	diferenciar	vmn0000	main	***
+moviles_yes_4_5	4	16	si	si	cs	subordinating	***
+moviles_yes_4_5	4	17	una	uno	di0fs0	indefinite	***
+moviles_yes_4_5	4	18	llamada	llamada	ncfs000	common	***
+moviles_yes_4_5	4	19	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_4_5	4	20	a	a	sps00	preposition	***
+moviles_yes_4_5	4	21	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	4	22	número	número	ncms000	common	***
+moviles_yes_4_5	4	23	o	o	cc	coordinating	***
+moviles_yes_4_5	4	24	a	a	sps00	preposition	***
+moviles_yes_4_5	4	25	el	el	da0ms0	article	***
+moviles_yes_4_5	4	26	otro	otro	pi0ms000	indefinite	***
+moviles_yes_4_5	4	27	.	.	fp	-	***
+
+moviles_yes_4_5	5	1	Para	para	sps00	preposition	***
+moviles_yes_4_5	5	2	llamar	llamar	vmn0000	main	***
+moviles_yes_4_5	5	3	tienes	tener	vmip2s0	main	***
+moviles_yes_4_5	5	4	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	5	5	número	número	ncms000	common	***
+moviles_yes_4_5	5	6	principal	principal	aq0cs0	qualificative	***
+moviles_yes_4_5	5	7	y	y	cc	coordinating	***
+moviles_yes_4_5	5	8	puedes	poder	vmip2s0	main	***
+moviles_yes_4_5	5	9	cambiar	cambiar	vmn0000	main	***
+moviles_yes_4_5	5	10	a	a	sps00	preposition	***
+moviles_yes_4_5	5	11	el	el	da0ms0	article	***
+moviles_yes_4_5	5	12	otro	otro	pi0ms000	indefinite	***
+moviles_yes_4_5	5	13	con	con	sps00	preposition	***
+moviles_yes_4_5	5	14	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	5	15	botón	botón	ncms000	common	***
+moviles_yes_4_5	5	16	situado	situar	vmp00sm	main	***
+moviles_yes_4_5	5	17	en	en	sps00	preposition	***
+moviles_yes_4_5	5	18	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	5	19	lateral	lateral	ncms000	common	***
+moviles_yes_4_5	5	20	.	.	fp	-	***
+
+moviles_yes_4_5	6	1	Además	además	rg	-	***
+moviles_yes_4_5	6	2	,	,	fc	-	***
+moviles_yes_4_5	6	3	también	también	rg	-	***
+moviles_yes_4_5	6	4	tiene	tener	vmip3s0	main	***
+moviles_yes_4_5	6	5	dos	2	z	-	***
+moviles_yes_4_5	6	6	agendas	agenda	ncfp000	common	***
+moviles_yes_4_5	6	7	diferenciadas	diferenciar	vmp00pf	main	***
+moviles_yes_4_5	6	8	(	(	fpa	-	***
+moviles_yes_4_5	6	9	bueno	bueno	i	-	***
+moviles_yes_4_5	6	10	yo	yo	pp1csn00	personal	***
+moviles_yes_4_5	6	11	tengo	tener	vmip1s0	main	***
+moviles_yes_4_5	6	12	los	el	da0mp0	article	***
+moviles_yes_4_5	6	13	números	número	ncmp000	common	***
+moviles_yes_4_5	6	14	en	en	sps00	preposition	***
+moviles_yes_4_5	6	15	las	el	da0fp0	article	***
+moviles_yes_4_5	6	16	tarjetas	tarjeta	ncfp000	common	***
+moviles_yes_4_5	6	17	y	y	cc	coordinating	***
+moviles_yes_4_5	6	18	aparece	aparecer	vmip3s0	main	***
+moviles_yes_4_5	6	19	así	así	rg	-	***
+moviles_yes_4_5	6	20	)	)	fpt	-	***
+moviles_yes_4_5	6	21	.	.	fp	-	***
+
+moviles_yes_4_5	7	1	La	el	da0fs0	article	-	-	-
+moviles_yes_4_5	7	2	batería	batería	nccs000	common	-	-	-
+moviles_yes_4_5	7	3	de	de	sps00	preposition	-	-	-
+moviles_yes_4_5	7	4	el	el	da0ms0	article	-	-	-
+moviles_yes_4_5	7	5	teléfono	teléfono	ncms000	common	-	-	-
+moviles_yes_4_5	7	6	dura	duro	aq0fs0	qualificative	-	-	-
+moviles_yes_4_5	7	7	unos	uno	di0mp0	indefinite	-	-	-
+moviles_yes_4_5	7	8	3	3	z	-	-	-	-
+moviles_yes_4_5	7	9	días	día	ncmp000	common	-	-	-
+moviles_yes_4_5	7	10	que	que	pr0cn000	relative	-	-	-
+moviles_yes_4_5	7	11	no	no	rn	negative	no	-	-
+moviles_yes_4_5	7	12	está	estar	vaip3s0	auxiliary	-	-	-
+moviles_yes_4_5	7	13	mal	mal	rg	-	-	-	-
+moviles_yes_4_5	7	14	y	y	cc	coordinating	-	-	-
+moviles_yes_4_5	7	15	además	además	rg	-	-	-	-
+moviles_yes_4_5	7	16	lo	lo	pp3cna00	personal	-	-	-
+moviles_yes_4_5	7	17	puedes	poder	vmip2s0	main	-	-	-
+moviles_yes_4_5	7	18	cargar	cargar	vmn0000	main	-	-	-
+moviles_yes_4_5	7	19	por	por	sps00	preposition	-	-	-
+moviles_yes_4_5	7	20	usb	usb	ncms000	common	-	-	-
+moviles_yes_4_5	7	21	.	.	fp	-	-	-	-
+
+moviles_yes_4_5	8	1	Por	por	sps00	preposition	***
+moviles_yes_4_5	8	2	cierto	cierto	aq0ms0	qualificative	***
+moviles_yes_4_5	8	3	el	el	da0ms0	article	***
+moviles_yes_4_5	8	4	móvil	móvil	ncms000	common	***
+moviles_yes_4_5	8	5	trae	traer	vmip3s0	main	***
+moviles_yes_4_5	8	6	un	uno	di0ms0	indefinite	***
+moviles_yes_4_5	8	7	cable	cable	ncms000	common	***
+moviles_yes_4_5	8	8	de	de	sps00	preposition	***
+moviles_yes_4_5	8	9	datos	dato	ncmp000	common	***
+moviles_yes_4_5	8	10	y	y	cc	coordinating	***
+moviles_yes_4_5	8	11	unos	uno	di0mp0	indefinite	***
+moviles_yes_4_5	8	12	auriculares	auricular	ncmp000	common	***
+moviles_yes_4_5	8	13	.	.	fp	-	***
+
+moviles_yes_4_5	9	1	Yo	yo	pp1csn00	personal	***
+moviles_yes_4_5	9	2	lo	lo	pp3cna00	personal	***
+moviles_yes_4_5	9	3	compré	comprar	vmis1s0	main	***
+moviles_yes_4_5	9	4	en	en	sps00	preposition	***
+moviles_yes_4_5	9	5	color	color	ncms000	common	***
+moviles_yes_4_5	9	6	plata	plata	ncfs000	common	***
+moviles_yes_4_5	9	7	y	y	cc	coordinating	***
+moviles_yes_4_5	9	8	me	me	pp1cs000	personal	***
+moviles_yes_4_5	9	9	parece	parecer	vmip3s0	main	***
+moviles_yes_4_5	9	10	más	más	rg	-	***
+moviles_yes_4_5	9	11	bonito	bonito	aq0ms0	qualificative	***
+moviles_yes_4_5	9	12	que	que	cs	subordinating	***
+moviles_yes_4_5	9	13	el	el	da0ms0	article	***
+moviles_yes_4_5	9	14	negro	negro	ncms000	common	***
+moviles_yes_4_5	9	15	.	.	fp	-	***
+
+moviles_yes_4_5	10	1	Lo	lo	pp3cna00	personal	***
+moviles_yes_4_5	10	2	iba	ir	vmii3s0	main	***
+moviles_yes_4_5	10	3	a	a	sps00	preposition	***
+moviles_yes_4_5	10	4	comprar	comprar	vmn0000	main	***
+moviles_yes_4_5	10	5	en	en	sps00	preposition	***
+moviles_yes_4_5	10	6	negro	negro	ncms000	common	***
+moviles_yes_4_5	10	7	porque	porque	cs	subordinating	***
+moviles_yes_4_5	10	8	estaba	estar	vaii1s0	auxiliary	***
+moviles_yes_4_5	10	9	de	de	sps00	preposition	***
+moviles_yes_4_5	10	10	oferta	oferta	ncfs000	common	***
+moviles_yes_4_5	10	11	pero	pero	cc	coordinating	***
+moviles_yes_4_5	10	12	a	a	sps00	preposition	***
+moviles_yes_4_5	10	13	el	el	da0ms0	article	***
+moviles_yes_4_5	10	14	final	final	ncfs000	common	***
+moviles_yes_4_5	10	15	se	se	p00cn000	-	***
+moviles_yes_4_5	10	16	les	le	pp3cpd00	personal	***
+moviles_yes_4_5	10	17	habían	haber	vaii3p0	auxiliary	***
+moviles_yes_4_5	10	18	agotado	agotar	vmp00sm	main	***
+moviles_yes_4_5	10	19	y	y	cc	coordinating	***
+moviles_yes_4_5	10	20	me	me	pp1cs000	personal	***
+moviles_yes_4_5	10	21	dijeron	decir	vmis3p0	main	***
+moviles_yes_4_5	10	22	si	si	cs	subordinating	***
+moviles_yes_4_5	10	23	quería	querer	vmii3s0	main	***
+moviles_yes_4_5	10	24	el	el	da0ms0	article	***
+moviles_yes_4_5	10	25	plata	plata	ncfs000	common	***
+moviles_yes_4_5	10	26	y	y	cc	coordinating	***
+moviles_yes_4_5	10	27	me	me	pp1cs000	personal	***
+moviles_yes_4_5	10	28	lo	lo	pp3cna00	personal	***
+moviles_yes_4_5	10	29	pusieron	poner	vmis3p0	main	***
+moviles_yes_4_5	10	30	a	a	sps00	preposition	***
+moviles_yes_4_5	10	31	el	el	da0ms0	article	***
+moviles_yes_4_5	10	32	precio	precio	ncms000	common	***
+moviles_yes_4_5	10	33	de	de	sps00	preposition	***
+moviles_yes_4_5	10	34	oferta	oferta	ncfs000	common	***
+moviles_yes_4_5	10	35	de	de	sps00	preposition	***
+moviles_yes_4_5	10	36	el	el	da0ms0	article	***
+moviles_yes_4_5	10	37	negro	negro	ncms000	common	***
+moviles_yes_4_5	10	38	.	.	fp	-	***
+
+moviles_yes_4_5	11	1	Decir	decir	vmn0000	main	***
+moviles_yes_4_5	11	2	que	que	cs	subordinating	***
+moviles_yes_4_5	11	3	lo	lo	pp3cna00	personal	***
+moviles_yes_4_5	11	4	compré	comprar	vmis1s0	main	***
+moviles_yes_4_5	11	5	en	en	sps00	preposition	***
+moviles_yes_4_5	11	6	movil21.com	movil21.com	z	-	***
+moviles_yes_4_5	11	7	y	y	cc	coordinating	***
+moviles_yes_4_5	11	8	todo	todo	pi0ms000	indefinite	***
+moviles_yes_4_5	11	9	ha	haber	vaip3s0	auxiliary	***
+moviles_yes_4_5	11	10	ido	ir	vmp00sm	main	***
+moviles_yes_4_5	11	11	perfecto	perfecto	aq0ms0	qualificative	***
+moviles_yes_4_5	11	12	y	y	cc	coordinating	***
+moviles_yes_4_5	11	13	muy	muy	rg	-	***
+moviles_yes_4_5	11	14	rápido	rápido	aq0ms0	qualificative	***
+moviles_yes_4_5	11	15	.	.	fp	-	***
+
+moviles_yes_4_5	12	1	Edito	editar	vmip1s0	main	-	-	-	-	-	-
+moviles_yes_4_5	12	2	para	para	sps00	preposition	-	-	-	-	-	-
+moviles_yes_4_5	12	3	decir	decir	vmn0000	main	-	-	-	-	-	-
+moviles_yes_4_5	12	4	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_4_5	12	5	quería	querer	vmii3s0	main	-	-	-	-	-	-
+moviles_yes_4_5	12	6	poner	poner	vmn0000	main	-	-	-	-	-	-
+moviles_yes_4_5	12	7	una	uno	di0fs0	indefinite	-	-	-	-	-	-
+moviles_yes_4_5	12	8	foto	foto	ncfs000	common	-	-	-	-	-	-
+moviles_yes_4_5	12	9	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_4_5	12	10	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_4_5	12	11	teléfono	teléfono	ncms000	common	-	-	-	-	-	-
+moviles_yes_4_5	12	12	ya_que	ya_que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_4_5	12	13	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_yes_4_5	12	14	parece	parecer	vmip3s0	main	-	-	-	-	-	-
+moviles_yes_4_5	12	15	muy	muy	rg	-	-	-	-	-	-	-
+moviles_yes_4_5	12	16	bonito	bonito	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_yes_4_5	12	17	en	en	sps00	preposition	-	-	-	-	-	-
+moviles_yes_4_5	12	18	color	color	ncms000	common	-	-	-	-	-	-
+moviles_yes_4_5	12	19	plata	plata	ncfs000	common	-	-	-	-	-	-
+moviles_yes_4_5	12	20	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_yes_4_5	12	21	nunca	nunca	rg	-	nunca	-	-	-	-	-
+moviles_yes_4_5	12	22	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_yes_4_5	12	23	había	haber	vaii1s0	auxiliary	-	-	-	-	-	-
+moviles_yes_4_5	12	24	visto	ver	vmp00sm	main	-	-	-	-	-	-
+moviles_yes_4_5	12	25	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_yes_4_5	12	26	no	no	rn	negative	-	-	-	no	-	-
+moviles_yes_4_5	12	27	se	saber	vmip1s0	main	-	-	-	-	-	-
+moviles_yes_4_5	12	28	como	como	cs	subordinating	-	-	-	-	-	-
+moviles_yes_4_5	12	29	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_yes_4_5	12	30	hace	hacer	vmip3s0	main	-	-	-	-	-	-
+moviles_yes_4_5	12	31	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_1_22	1	1	Hola	hola	i	-	***
+moviles_no_1_22	1	2	,	,	fc	-	***
+moviles_no_1_22	1	3	os	os	pp2cp000	personal	***
+moviles_no_1_22	1	4	quería	querer	vmii3s0	main	***
+moviles_no_1_22	1	5	dar	dar	vmn0000	main	***
+moviles_no_1_22	1	6	mis	mi	dp1cps	possessive	***
+moviles_no_1_22	1	7	impresiones	impresión	ncfp000	common	***
+moviles_no_1_22	1	8	sobre	sobre	sps00	preposition	***
+moviles_no_1_22	1	9	este	este	dd0ms0	demonstrative	***
+moviles_no_1_22	1	10	móvil	móvil	ncms000	common	***
+moviles_no_1_22	1	11	.	.	fp	-	***
+
+moviles_no_1_22	2	1	Adquiri	adquiri	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	2	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	3	movil	movil	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	4	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	5	traves	traves	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	6	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	7	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	8	portabilidad	portabilidad	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	9	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	10	vodafone	vodafone	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	11	hacia	hacia	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	12	orange	orange	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	13	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	14	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	15	principio	principio	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	16	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	17	atrajo	atraer	vmis3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	18	su	su	dp3cs0	possessive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	19	diseño	diseño	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	20	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	21	poco	poco	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	22	peso	peso	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	23	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	24	asi	asi	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	25	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	26	nada_mas	nada_más	rg	-	nada_mas	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	27	recibir	recibir	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	28	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	29	movil	movil	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	30	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	31	dispuse	disponer	vmis1s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	32	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	33	cacharrearlo	cacharrearlo	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	34	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	35	harias	harias	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	36	todos	todo	pi0mp000	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	37	vosotros	vosotros	pp2mp000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	38	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	39	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	40	primero	1	ao0ms0	ordinal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	41	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	42	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	43	llamo	llamar	vmip1s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	44	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	45	atención	atención	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	46	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	47	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	48	desembalar	desembalar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	49	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	50	caja	caja	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	51	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	52	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	53	viene	venir	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	54	sin	sin	sps00	preposition	-	-	-	sin	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	55	cable	cable	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	56	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	57	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	58	pc	pc	nc00000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	59	ni	ni	cc	coordinating	-	-	-	-	-	-	ni	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	60	auriculares	auricular	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	61	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	62	así	así	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	63	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	64	si	si	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	65	no	no	rn	negative	-	-	-	-	-	-	-	-	-	no	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	66	tienes	tener	vmip2s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	67	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	68	adaptador	adaptador	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	69	bluetooth	bluetooth	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	70	no	no	rn	negative	-	-	-	-	-	-	-	-	-	-	-	-	no	-	-	-	-	-
+moviles_no_1_22	2	71	podras	poder	vmif2s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	72	acceder	acceder	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	73	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	74	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	75	móvil	móvil	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	76	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	77	recuperar	recuperar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	78	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	79	fotos	foto	ncfp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	80	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	81	demás	demás	di0cp0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	82	cosas	cosa	ncfp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	83	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	84	por_supuesto	por_supuesto	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	85	sin	sin	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	sin	-	-
+moviles_no_1_22	2	86	auriculares	auricular	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	87	olvídate	olvídate	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	88	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	89	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	90	escuchar	escuchar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	2	91	mp3	mp3	z	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+moviles_no_1_22	3	1	Bien	bien	np00000	proper	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	2	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	3	después_de	después_de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	4	encender	encender	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	5	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	6	mirar	mirar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	7	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	8	diferentes	diferente	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	9	opciones	opción	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	10	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	11	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	12	ofrecía	ofrecer	vmii3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	13	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	14	móvil	móvil	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	15	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	16	veo	ver	vmip1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	17	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	18	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	19	batería	batería	nccs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	20	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	21	descarga	descargar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	22	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	23	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	24	forma	forma	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	25	muy	muy	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	26	rápida	rápido	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	27	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	28	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	29	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	30	supuse	suponer	vmis1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	31	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	32	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	33	problema	problema	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	34	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	35	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	36	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	37	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	38	nuevo	nuevo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	39	no	no	rn	negative	no	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	40	tenia	tener	vmii1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	41	bien	bien	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	42	cargada	cargar	vmp00sf	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	43	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	44	baterio	baterio	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	45	asi	asi	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	46	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	47	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	48	dispuse	disponer	vmis1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	49	ha	haber	vaip3s0	auxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	50	dejar	dejar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	51	la	lo	pp3fsa00	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	52	8	8	z	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	53	horas	hora	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	54	cargando	cargar	vmg0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	55	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	56	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	57	recomendaron	recomendar	vmis3p0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	58	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	59	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	60	tienda	tienda	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	61	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	62	pues_bien	pues_bien	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	63	cual	cual	pr0cs000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	64	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	65	mi	mi	dp1css	possessive	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	66	sorpresa	sorpresa	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	67	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	68	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	69	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	70	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	71	intentar	intentar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	72	volver	volver	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	73	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	74	encender	encender	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	75	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	76	movil	movil	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	77	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+moviles_no_1_22	3	78	puedo	poder	vmip1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	79	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	80	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	81	iluminaba	iluminar	vmii3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	82	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	83	pantalla	pantalla	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	84	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	85	pitaba	pitar	vmii3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	86	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	87	par	par	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	88	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	89	veces	vez	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	90	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	91	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	92	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	93	volvía	volver	vmii3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	94	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	95	apagar	apagar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	96	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	97	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	98	casualidad	casualidad	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	99	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	100	leo	leer	vmip1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	101	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	102	opinion	opinion	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	103	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	104	varias	varios	di0fp0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	105	personas	persona	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	106	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	107	les	le	pp3cpd00	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	108	habia	habia	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	109	pasado	pasar	vmp00sm	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	110	justo	justo	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	111	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	112	mismo	mismo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	113	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	114	asi	asi	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	115	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	116	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	117	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	118	fallo	fallo	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	119	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	120	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	121	suele	soler	vmip3s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	122	dar	dar	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	123	mucho	mucho	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	124	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	125	estos	este	dd0mp0	demonstrative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	126	moviles	moviles	ncmp000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	127	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	128	asi	asi	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	129	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	130	cuidado	cuidado	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	131	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+moviles_no_1_22	3	132	te	te	pp2cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	133	toque	tocar	vmsp1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	134	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	135	piedra	piedra	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	136	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	137	así	así	rg	-	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	138	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	139	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	140	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	141	mismas	mismo	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	142	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	143	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	144	día	día	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	145	siguiente	siguiente	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	146	lo	lo	pp3cna00	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	147	llevo	llevar	vmip1s0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	148	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	149	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	150	tienda	tienda	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	151	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	152	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	153	dan	dar	vmip3p0	main	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	154	otro	otro	pi0ms000	indefinite	-	-	-	-	-	-	-	-	-
+moviles_no_1_22	3	155	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+moviles_no_1_22	4	1	Esta	este	dd0fs0	demonstrative	-	-	-
+moviles_no_1_22	4	2	vez	vez	ncfs000	common	-	-	-
+moviles_no_1_22	4	3	enciende	encender	vmip3s0	main	-	-	-
+moviles_no_1_22	4	4	y	y	cc	coordinating	-	-	-
+moviles_no_1_22	4	5	apaga	apagar	vmip3s0	main	-	-	-
+moviles_no_1_22	4	6	bien	bien	rg	-	-	-	-
+moviles_no_1_22	4	7	,	,	fc	-	-	-	-
+moviles_no_1_22	4	8	pero	pero	cc	coordinating	-	-	-
+moviles_no_1_22	4	9	con	con	sps00	preposition	-	-	-
+moviles_no_1_22	4	10	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	4	11	paso	paso	ncms000	common	-	-	-
+moviles_no_1_22	4	12	de	de	sps00	preposition	-	-	-
+moviles_no_1_22	4	13	los	el	da0mp0	article	-	-	-
+moviles_no_1_22	4	14	días	día	ncmp000	common	-	-	-
+moviles_no_1_22	4	15	compruebo	comprobar	vmip1s0	main	-	-	-
+moviles_no_1_22	4	16	la	el	da0fs0	article	-	-	-
+moviles_no_1_22	4	17	batería	batería	nccs000	common	-	-	-
+moviles_no_1_22	4	18	a	a	sps00	preposition	-	-	-
+moviles_no_1_22	4	19	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	4	20	ser	ser	ncms000	common	-	-	-
+moviles_no_1_22	4	21	de	de	sps00	preposition	-	-	-
+moviles_no_1_22	4	22	750	750	z	-	-	-	-
+moviles_no_1_22	4	23	no	no	ncms000	common	no	-	-
+moviles_no_1_22	4	24	dura	durar	vmip3s0	main	-	-	-
+moviles_no_1_22	4	25	mas	más	rg	-	-	-	-
+moviles_no_1_22	4	26	de	de	sps00	preposition	-	-	-
+moviles_no_1_22	4	27	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_1_22	4	28	día	día	ncms000	common	-	-	-
+moviles_no_1_22	4	29	y	y	cc	coordinating	-	-	-
+moviles_no_1_22	4	30	medio	medio	rg	-	-	-	-
+moviles_no_1_22	4	31	y	y	cc	coordinating	-	-	-
+moviles_no_1_22	4	32	si	si	cs	subordinating	-	-	-
+moviles_no_1_22	4	33	ya	ya	rg	-	-	-	-
+moviles_no_1_22	4	34	te	te	pp2cs000	personal	-	-	-
+moviles_no_1_22	4	35	pones	poner	vmip2s0	main	-	-	-
+moviles_no_1_22	4	36	a	a	sps00	preposition	-	-	-
+moviles_no_1_22	4	37	jugar	jugar	vmn0000	main	-	-	-
+moviles_no_1_22	4	38	o	o	cc	coordinating	-	-	-
+moviles_no_1_22	4	39	activas	activo	aq0fp0	qualificative	-	-	-
+moviles_no_1_22	4	40	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	4	41	bluetooth	bluetooth	ncms000	common	-	-	-
+moviles_no_1_22	4	42	menos	menos	rg	-	-	-	-
+moviles_no_1_22	4	43	aun	aun	rg	-	-	-	-
+moviles_no_1_22	4	44	,	,	fc	-	-	-	-
+moviles_no_1_22	4	45	muy	muy	rg	-	-	-	-
+moviles_no_1_22	4	46	mal	mal	rg	-	-	-	-
+moviles_no_1_22	4	47	en	en	sps00	preposition	-	-	-
+moviles_no_1_22	4	48	este	este	dd0ms0	demonstrative	-	-	-
+moviles_no_1_22	4	49	aspecto	aspecto	ncms000	common	-	-	-
+moviles_no_1_22	4	50	.	.	fp	-	-	-	-
+
+moviles_no_1_22	5	1	Con	con	sps00	preposition	-	-	-
+moviles_no_1_22	5	2	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	5	3	tiempo	tiempo	ncms000	common	-	-	-
+moviles_no_1_22	5	4	la	el	da0fs0	article	-	-	-
+moviles_no_1_22	5	5	carcasa	carcasa	ncfs000	common	-	-	-
+moviles_no_1_22	5	6	se	se	p00cn000	-	-	-	-
+moviles_no_1_22	5	7	ha	haber	vaip3s0	auxiliary	-	-	-
+moviles_no_1_22	5	8	ido	ir	vmp00sm	main	-	-	-
+moviles_no_1_22	5	9	deteriorando	deteriorar	vmg0000	main	-	-	-
+moviles_no_1_22	5	10	y	y	cc	coordinating	-	-	-
+moviles_no_1_22	5	11	se	se	p00cn000	-	-	-	-
+moviles_no_1_22	5	12	ha	haber	vaip3s0	auxiliary	-	-	-
+moviles_no_1_22	5	13	abollado	abollar	vmp00sm	main	-	-	-
+moviles_no_1_22	5	14	así	así	rg	-	-	-	-
+moviles_no_1_22	5	15	que	que	cs	subordinating	-	-	-
+moviles_no_1_22	5	16	no	no	rn	negative	no	-	-
+moviles_no_1_22	5	17	suele	soler	vmip3s0	main	-	-	-
+moviles_no_1_22	5	18	resistir	resistir	vmn0000	main	-	-	-
+moviles_no_1_22	5	19	golpes	golpe	ncmp000	common	-	-	-
+moviles_no_1_22	5	20	por	por	sps00	preposition	-	-	-
+moviles_no_1_22	5	21	pequeños	pequeño	aq0mp0	qualificative	-	-	-
+moviles_no_1_22	5	22	que	que	cs	subordinating	-	-	-
+moviles_no_1_22	5	23	sean	ser	vssp3p0	semiauxiliary	-	-	-
+moviles_no_1_22	5	24	.	.	fp	-	-	-	-
+
+moviles_no_1_22	6	1	La	el	da0fs0	article	-	-	-	-	-	-
+moviles_no_1_22	6	2	cámara	cámara	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_22	6	3	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_22	6	4	fotos	foto	ncfp000	common	-	-	-	-	-	-
+moviles_no_1_22	6	5	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_22	6	6	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_22	6	7	1.3	1.3	z	-	-	-	-	-	-	-
+moviles_no_1_22	6	8	megapixel	megapixel	ncms000	common	-	-	-	-	-	-
+moviles_no_1_22	6	9	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_22	6	10	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_1_22	6	11	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_22	6	12	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-
+moviles_no_1_22	6	13	del_otro_mundo	del_otro_mundo	aq0cn0	qualificative	-	-	-	-	-	-
+moviles_no_1_22	6	14	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_22	6	15	mas	mas	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_22	6	16	cosas	cosa	ncfp000	common	-	-	-	-	-	-
+moviles_no_1_22	6	17	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_22	6	18	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_no_1_22	6	19	móvil	móvil	ncms000	common	-	-	-	-	-	-
+moviles_no_1_22	6	20	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_no_1_22	6	21	apaga	apagar	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_22	6	22	o	o	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_22	6	23	bloquea	bloquear	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_22	6	24	cuando	cuando	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_22	6	25	le	le	pp3csd00	personal	-	-	-	-	-	-
+moviles_no_1_22	6	26	viene	venir	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_22	6	27	en	en	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_22	6	28	gana	gana	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_22	6	29	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_22	6	30	así	así	rg	-	-	-	-	-	-	-
+moviles_no_1_22	6	31	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_22	6	32	como	como	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_22	6	33	conclusión	conclusión	ncfs000	common	-	-	-	-	-	-
+moviles_no_1_22	6	34	parece	parecer	vmip3s0	main	-	-	-	-	-	-
+moviles_no_1_22	6	35	ser	ser	vsn0000	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_22	6	36	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_no_1_22	6	37	movil	movil	ncms000	common	-	-	-	-	-	-
+moviles_no_1_22	6	38	atractivo	atractivo	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_no_1_22	6	39	en	en	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_22	6	40	diseño	diseño	ncms000	common	-	-	-	-	-	-
+moviles_no_1_22	6	41	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_22	6	42	nada	nada	pi0cs000	indefinite	-	-	-	nada	-	-
+moviles_no_1_22	6	43	mas	mas	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_22	6	44	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_1_22	7	1	No	no	rn	negative	No	-	-
+moviles_no_1_22	7	2	paso	pasar	vmip1s0	main	-	-	-
+moviles_no_1_22	7	3	a	a	sps00	preposition	-	-	-
+moviles_no_1_22	7	4	calificar	calificar	vmn0000	main	-	-	-
+moviles_no_1_22	7	5	las	el	da0fp0	article	-	-	-
+moviles_no_1_22	7	6	prestaciones	prestación	ncfp000	common	-	-	-
+moviles_no_1_22	7	7	y	y	cc	coordinating	-	-	-
+moviles_no_1_22	7	8	caracteristicas	caracteristicas	ncfp000	common	-	-	-
+moviles_no_1_22	7	9	de	de	sps00	preposition	-	-	-
+moviles_no_1_22	7	10	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	7	11	movil	movil	ncms000	common	-	-	-
+moviles_no_1_22	7	12	por	por	sps00	preposition	-	-	-
+moviles_no_1_22	7	13	que	que	pr0cn000	relative	-	-	-
+moviles_no_1_22	7	14	te	te	pp2cs000	personal	-	-	-
+moviles_no_1_22	7	15	estaria	estaria	aq0fs0	qualificative	-	-	-
+moviles_no_1_22	7	16	haciendo	hacer	vmg0000	main	-	-	-
+moviles_no_1_22	7	17	perder	perder	vmn0000	main	-	-	-
+moviles_no_1_22	7	18	el	el	da0ms0	article	-	-	-
+moviles_no_1_22	7	19	tiempo	tiempo	ncms000	common	-	-	-
+moviles_no_1_22	7	20	.	.	fp	-	-	-	-
+
+moviles_no_1_22	8	1	No	no	rn	negative	No	-	-
+moviles_no_1_22	8	2	aconsejo	aconsejar	vmip1s0	main	-	-	-
+moviles_no_1_22	8	3	su	su	dp3cs0	possessive	-	-	-
+moviles_no_1_22	8	4	compra	compra	ncfs000	common	-	-	-
+
+moviles_no_1_8	1	1	Hola	hola	i	-	***
+moviles_no_1_8	1	2	amigos	amigo	ncmp000	common	***
+moviles_no_1_8	1	3	de	de	sps00	preposition	***
+moviles_no_1_8	1	4	Ciao	ciao	np00000	proper	***
+moviles_no_1_8	1	5	.	.	fp	-	***
+
+moviles_no_1_8	2	1	Yo	yo	pp1csn00	personal	***
+moviles_no_1_8	2	2	estoy	estar	vaip1s0	auxiliary	***
+moviles_no_1_8	2	3	teniendo	tener	vmg0000	main	***
+moviles_no_1_8	2	4	una	uno	di0fs0	indefinite	***
+moviles_no_1_8	2	5	mala	malo	aq0fs0	qualificative	***
+moviles_no_1_8	2	6	experiencia	experiencia	ncfs000	common	***
+moviles_no_1_8	2	7	con	con	sps00	preposition	***
+moviles_no_1_8	2	8	un	uno	di0ms0	indefinite	***
+moviles_no_1_8	2	9	Nokia	nokia	np00000	proper	***
+moviles_no_1_8	2	10	6131	6131	z	-	***
+moviles_no_1_8	2	11	comprado	comprar	vmp00sm	main	***
+moviles_no_1_8	2	12	en	en	sps00	preposition	***
+moviles_no_1_8	2	13	una	uno	di0fs0	indefinite	***
+moviles_no_1_8	2	14	tienda	tienda	ncfs000	common	***
+moviles_no_1_8	2	15	de	de	sps00	preposition	***
+moviles_no_1_8	2	16	Telefonica	telefonica	np00000	proper	***
+moviles_no_1_8	2	17	en	en	sps00	preposition	***
+moviles_no_1_8	2	18	Amposta	amposta	np00000	proper	***
+moviles_no_1_8	2	19	(	(	fpa	-	***
+moviles_no_1_8	2	20	Tarragona	tarragona	np00000	proper	***
+moviles_no_1_8	2	21	)	)	fpt	-	***
+moviles_no_1_8	2	22	.	.	fp	-	***
+
+moviles_no_1_8	3	1	Compré	comprar	vmis1s0	main	***
+moviles_no_1_8	3	2	el	el	da0ms0	article	***
+moviles_no_1_8	3	3	telefono	telefono	ncms000	common	***
+moviles_no_1_8	3	4	en	en	sps00	preposition	***
+moviles_no_1_8	3	5	abril_del_2007	[??:??/4/2007:??.??:??]	w	-	***
+moviles_no_1_8	3	6	y	y	cc	coordinating	***
+moviles_no_1_8	3	7	en	en	sps00	preposition	***
+moviles_no_1_8	3	8	septiembre_del_2007	[??:??/9/2007:??.??:??]	w	-	***
+moviles_no_1_8	3	9	empezaron	empezar	vmis3p0	main	***
+moviles_no_1_8	3	10	los	el	da0mp0	article	***
+moviles_no_1_8	3	11	problemas	problema	ncmp000	common	***
+moviles_no_1_8	3	12	.	.	fp	-	***
+
+moviles_no_1_8	4	1	Cuando	cuando	cs	subordinating	***
+moviles_no_1_8	4	2	abres	abrir	vmip2s0	main	***
+moviles_no_1_8	4	3	la	el	da0fs0	article	***
+moviles_no_1_8	4	4	pantalla	pantalla	ncfs000	common	***
+moviles_no_1_8	4	5	se	se	p00cn000	-	***
+moviles_no_1_8	4	6	queda	quedar	vmip3s0	main	***
+moviles_no_1_8	4	7	toda	todo	di0fs0	indefinite	***
+moviles_no_1_8	4	8	negra	negro	ncfs000	common	***
+moviles_no_1_8	4	9	y	y	cc	coordinating	***
+moviles_no_1_8	4	10	la	el	da0fs0	article	***
+moviles_no_1_8	4	11	bateria	bateria	ncfs000	common	***
+moviles_no_1_8	4	12	duraba	durar	vmii3s0	main	***
+moviles_no_1_8	4	13	menos	menos	rg	-	***
+moviles_no_1_8	4	14	de	de	sps00	preposition	***
+moviles_no_1_8	4	15	20	20	z	-	***
+moviles_no_1_8	4	16	horas	hora	ncfp000	common	***
+moviles_no_1_8	4	17	en	en	sps00	preposition	***
+moviles_no_1_8	4	18	espera	espera	ncfs000	common	***
+moviles_no_1_8	4	19	.	.	fp	-	***
+
+moviles_no_1_8	5	1	Fuí	fuí	np00000	proper	***
+moviles_no_1_8	5	2	a	a	sps00	preposition	***
+moviles_no_1_8	5	3	la	el	da0fs0	article	***
+moviles_no_1_8	5	4	tienda	tienda	ncfs000	common	***
+moviles_no_1_8	5	5	y	y	cc	coordinating	***
+moviles_no_1_8	5	6	lo	lo	pp3cna00	personal	***
+moviles_no_1_8	5	7	enviaron	enviar	vmis3p0	main	***
+moviles_no_1_8	5	8	a	a	sps00	preposition	***
+moviles_no_1_8	5	9	reparar	reparar	vmn0000	main	***
+moviles_no_1_8	5	10	.	.	fp	-	***
+
+moviles_no_1_8	6	1	Después_de	después_de	sps00	preposition	***
+moviles_no_1_8	6	2	un	uno	di0ms0	indefinite	***
+moviles_no_1_8	6	3	més	més	ncms000	common	***
+moviles_no_1_8	6	4	me	me	pp1cs000	personal	***
+moviles_no_1_8	6	5	devuelven	devolver	vmip3p0	main	***
+moviles_no_1_8	6	6	el	el	da0ms0	article	***
+moviles_no_1_8	6	7	telefono	telefono	ncms000	common	***
+moviles_no_1_8	6	8	reparado	reparar	vmp00sm	main	***
+moviles_no_1_8	6	9	(	(	fpa	-	***
+moviles_no_1_8	6	10	eso	ese	pd0ns000	demonstrative	***
+moviles_no_1_8	6	11	dicen	decir	vmip3p0	main	***
+moviles_no_1_8	6	12	)	)	fpt	-	***
+moviles_no_1_8	6	13	.	.	fp	-	***
+
+moviles_no_1_8	7	1	Tenia	tenia	np00000	proper	***
+moviles_no_1_8	7	2	exactamente	exactamente	rg	-	***
+moviles_no_1_8	7	3	el	el	da0ms0	article	***
+moviles_no_1_8	7	4	mismo	mismo	aq0ms0	qualificative	***
+moviles_no_1_8	7	5	problema	problema	ncms000	common	***
+moviles_no_1_8	7	6	.	.	fp	-	***
+
+moviles_no_1_8	8	1	Lo	lo	pp3cna00	personal	***
+moviles_no_1_8	8	2	llevo	llevar	vmip1s0	main	***
+moviles_no_1_8	8	3	por	por	sps00	preposition	***
+moviles_no_1_8	8	4	segunda	2	ao0fs0	ordinal	***
+moviles_no_1_8	8	5	vez	vez	ncfs000	common	***
+moviles_no_1_8	8	6	.	.	fp	-	***
+
+moviles_no_1_8	9	1	Otro	otro	di0ms0	indefinite	***
+moviles_no_1_8	9	2	mes	mes	ncms000	common	***
+moviles_no_1_8	9	3	de	de	sps00	preposition	***
+moviles_no_1_8	9	4	espera	espera	ncfs000	common	***
+moviles_no_1_8	9	5	y	y	cc	coordinating	***
+moviles_no_1_8	9	6	cuando	cuando	cs	subordinating	***
+moviles_no_1_8	9	7	me	me	pp1cs000	personal	***
+moviles_no_1_8	9	8	lo	lo	pp3cna00	personal	***
+moviles_no_1_8	9	9	devuelven	devolver	vmip3p0	main	***
+moviles_no_1_8	9	10	sigue	seguir	vmip3s0	main	***
+moviles_no_1_8	9	11	haciendo	hacer	vmg0000	main	***
+moviles_no_1_8	9	12	lo	el	da0ns0	article	***
+moviles_no_1_8	9	13	mismo	mismo	aq0ms0	qualificative	***
+moviles_no_1_8	9	14	.	.	fp	-	***
+
+moviles_no_1_8	10	1	Pido	pedir	vmip1s0	main	-	-	-
+moviles_no_1_8	10	2	que	que	cs	subordinating	-	-	-
+moviles_no_1_8	10	3	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_8	10	4	lo	lo	pp3cna00	personal	-	-	-
+moviles_no_1_8	10	5	canvien	canvien	vmsp3p0	main	-	-	-
+moviles_no_1_8	10	6	y	y	cc	coordinating	-	-	-
+moviles_no_1_8	10	7	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_8	10	8	dicen	decir	vmip3p0	main	-	-	-
+moviles_no_1_8	10	9	que	que	cs	subordinating	-	-	-
+moviles_no_1_8	10	10	no	no	rn	negative	no	-	-
+moviles_no_1_8	10	11	,	,	fc	-	-	-	-
+moviles_no_1_8	10	12	que	que	pr0cn000	relative	-	-	-
+moviles_no_1_8	10	13	hay	haber	vmip3s0	main	-	-	-
+moviles_no_1_8	10	14	que	que	cs	subordinating	-	-	-
+moviles_no_1_8	10	15	llevar	llevar	vmn0000	main	-	-	-
+moviles_no_1_8	10	16	lo	lo	pp3cna00	personal	-	-	-
+moviles_no_1_8	10	17	a	a	sps00	preposition	-	-	-
+moviles_no_1_8	10	18	reparar	reparar	vmn0000	main	-	-	-
+moviles_no_1_8	10	19	por_lo_menos	por_lo_menos	rg	-	-	-	-
+moviles_no_1_8	10	20	tres	3	z	-	-	-	-
+moviles_no_1_8	10	21	veces	vez	ncfp000	common	-	-	-
+moviles_no_1_8	10	22	antes_de	antes_de	sps00	preposition	-	-	-
+moviles_no_1_8	10	23	canviarlo	canviarlo	ncms000	common	-	-	-
+moviles_no_1_8	10	24	.	.	fp	-	-	-	-
+
+moviles_no_1_8	11	1	Se	se	p00cn000	-	***
+moviles_no_1_8	11	2	envia	envia	ncfs000	common	***
+moviles_no_1_8	11	3	una_tercera	1/3	zp	percentage	***
+moviles_no_1_8	11	4	vez	vez	ncfs000	common	***
+moviles_no_1_8	11	5	y	y	cc	coordinating	***
+moviles_no_1_8	11	6	sorpresa	sorpresa	ncfs000	common	***
+moviles_no_1_8	11	7	!	!	fat	-	***
+moviles_no_1_8	11	8	!	!	fat	-	***
+moviles_no_1_8	11	9	!	!	fat	-	***
+moviles_no_1_8	11	10	!	!	fat	-	***
+moviles_no_1_8	11	11	me	me	pp1cs000	personal	***
+moviles_no_1_8	11	12	lo	lo	pp3cna00	personal	***
+moviles_no_1_8	11	13	devuelven	devolver	vmip3p0	main	***
+moviles_no_1_8	11	14	a_el_cabo_de	al_cabo_de	sps00	preposition	***
+moviles_no_1_8	11	15	otro	otro	di0ms0	indefinite	***
+moviles_no_1_8	11	16	mes	mes	ncms000	common	***
+moviles_no_1_8	11	17	exactamente	exactamente	rg	-	***
+moviles_no_1_8	11	18	igual	igual	aq0cs0	qualificative	***
+moviles_no_1_8	11	19	.	.	fp	-	***
+
+moviles_no_1_8	12	1	Con	con	sps00	preposition	***
+moviles_no_1_8	12	2	tanto	tanto	rg	-	***
+moviles_no_1_8	12	3	ir	ir	vmn0000	main	***
+moviles_no_1_8	12	4	i	i	ncfs000	common	***
+moviles_no_1_8	12	5	venir	venir	vmn0000	main	***
+moviles_no_1_8	12	6	ya	ya	rg	-	***
+moviles_no_1_8	12	7	estamos	estar	vaip1p0	auxiliary	***
+moviles_no_1_8	12	8	en	en	sps00	preposition	***
+moviles_no_1_8	12	9	diciembre_del_2007	[??:??/12/2007:??.??:??]	w	-	***
+moviles_no_1_8	12	10	.	.	fp	-	***
+
+moviles_no_1_8	13	1	Cuando	cuando	cs	subordinating	***
+moviles_no_1_8	13	2	vuelvo	volver	vmip1s0	main	***
+moviles_no_1_8	13	3	a	a	sps00	preposition	***
+moviles_no_1_8	13	4	la	el	da0fs0	article	***
+moviles_no_1_8	13	5	tienda	tienda	ncfs000	common	***
+moviles_no_1_8	13	6	por	por	sps00	preposition	***
+moviles_no_1_8	13	7	cuarta	4	ao0fs0	ordinal	***
+moviles_no_1_8	13	8	vez	vez	ncfs000	common	***
+moviles_no_1_8	13	9	me	me	pp1cs000	personal	***
+moviles_no_1_8	13	10	aconsejan	aconsejar	vmip3p0	main	***
+moviles_no_1_8	13	11	volver	volver	vmn0000	main	***
+moviles_no_1_8	13	12	lo	lo	pp3cna00	personal	***
+moviles_no_1_8	13	13	a	a	sps00	preposition	***
+moviles_no_1_8	13	14	enviar	enviar	vmn0000	main	***
+moviles_no_1_8	13	15	a	a	sps00	preposition	***
+moviles_no_1_8	13	16	el	el	da0ms0	article	***
+moviles_no_1_8	13	17	servicio	servicio	ncms000	common	***
+moviles_no_1_8	13	18	tecnico	tecnico	aq0ms0	qualificative	***
+moviles_no_1_8	13	19	,	,	fc	-	***
+moviles_no_1_8	13	20	porque	porque	cs	subordinating	***
+moviles_no_1_8	13	21	me	me	pp1cs000	personal	***
+moviles_no_1_8	13	22	dicen	decir	vmip3p0	main	***
+moviles_no_1_8	13	23	que	que	cs	subordinating	***
+moviles_no_1_8	13	24	ahora	ahora	rg	-	***
+moviles_no_1_8	13	25	lo	lo	pp3cna00	personal	***
+moviles_no_1_8	13	26	han	haber	vaip3p0	auxiliary	***
+moviles_no_1_8	13	27	canviado	canviado	vmp00sm	main	***
+moviles_no_1_8	13	28	y	y	cc	coordinating	***
+moviles_no_1_8	13	29	que	que	cs	subordinating	***
+moviles_no_1_8	13	30	es	ser	vsip3s0	semiauxiliary	***
+moviles_no_1_8	13	31	mejor	mejor	aq0cs0	qualificative	***
+moviles_no_1_8	13	32	.	.	fp	-	***
+
+moviles_no_1_8	14	1	Se	se	p00cn000	-	***
+moviles_no_1_8	14	2	envia	envia	ncfs000	common	***
+moviles_no_1_8	14	3	el	el	da0ms0	article	***
+moviles_no_1_8	14	4	telefono	telefono	ncms000	common	***
+moviles_no_1_8	14	5	por	por	sps00	preposition	***
+moviles_no_1_8	14	6	cuarta	4	ao0fs0	ordinal	***
+moviles_no_1_8	14	7	vez	vez	ncfs000	common	***
+moviles_no_1_8	14	8	a	a	sps00	preposition	***
+moviles_no_1_8	14	9	reparar	reparar	vmn0000	main	***
+moviles_no_1_8	14	10	y	y	cc	coordinating	***
+moviles_no_1_8	14	11	un	uno	di0ms0	indefinite	***
+moviles_no_1_8	14	12	mes	mes	ncms000	common	***
+moviles_no_1_8	14	13	mas	mas	cc	coordinating	***
+moviles_no_1_8	14	14	tarde	tarde	rg	-	***
+moviles_no_1_8	14	15	me	me	pp1cs000	personal	***
+moviles_no_1_8	14	16	llega	llegar	vmip3s0	main	***
+moviles_no_1_8	14	17	con	con	sps00	preposition	***
+moviles_no_1_8	14	18	una	uno	di0fs0	indefinite	***
+moviles_no_1_8	14	19	nota	nota	ncfs000	common	***
+moviles_no_1_8	14	20	de	de	sps00	preposition	***
+moviles_no_1_8	14	21	el	el	da0ms0	article	***
+moviles_no_1_8	14	22	servicio	servicio	ncms000	common	***
+moviles_no_1_8	14	23	tecnico	tecnico	aq0ms0	qualificative	***
+moviles_no_1_8	14	24	que	que	pr0cn000	relative	***
+moviles_no_1_8	14	25	dice	decir	vmip3s0	main	***
+moviles_no_1_8	14	26	que	que	cs	subordinating	***
+moviles_no_1_8	14	27	el	el	da0ms0	article	***
+moviles_no_1_8	14	28	movil	movil	ncms000	common	***
+moviles_no_1_8	14	29	es	ser	vsip3s0	semiauxiliary	***
+moviles_no_1_8	14	30	irreparable	irreparable	aq0cs0	qualificative	***
+moviles_no_1_8	14	31	.	.	fp	-	***
+
+moviles_no_1_8	15	1	IRREPARABLE	irreparable	np00000	proper	***
+moviles_no_1_8	15	2	UN	un	np00000	proper	***
+moviles_no_1_8	15	3	MOVIL	movil	np00000	proper	***
+moviles_no_1_8	15	4	QUE	que	np00000	proper	***
+moviles_no_1_8	15	5	SE	se	np00000	proper	***
+moviles_no_1_8	15	6	HA	ha	np00000	proper	***
+moviles_no_1_8	15	7	PASADO	pasado	np00000	proper	***
+moviles_no_1_8	15	8	CUATRO	4	z	-	***
+moviles_no_1_8	15	9	MESES	meses	np00000	proper	***
+moviles_no_1_8	15	10	YENDO	yendo	np00000	proper	***
+moviles_no_1_8	15	11	Y	y	np00000	proper	***
+moviles_no_1_8	15	12	VINIENDO	viniendo	np00000	proper	***
+moviles_no_1_8	15	13	DEL	del	np00000	proper	***
+moviles_no_1_8	15	14	SERVICIO	servicio	np00000	proper	***
+moviles_no_1_8	15	15	TECNICO	tecnico	np00000	proper	***
+moviles_no_1_8	15	16	A	a	np00000	proper	***
+moviles_no_1_8	15	17	LA	la	np00000	proper	***
+moviles_no_1_8	15	18	TIENDA	tienda	np00000	proper	***
+moviles_no_1_8	15	19	!	!	fat	-	***
+moviles_no_1_8	15	20	!	!	fat	-	***
+moviles_no_1_8	15	21	!	!	fat	-	***
+moviles_no_1_8	15	22	!	!	fat	-	***
+
+moviles_no_1_8	16	1	Ahora	ahora	rg	-	***
+moviles_no_1_8	16	2	me	me	pp1cs000	personal	***
+moviles_no_1_8	16	3	han	haber	vaip3p0	auxiliary	***
+moviles_no_1_8	16	4	dicho	decir	vmp00sm	main	***
+moviles_no_1_8	16	5	que	que	cs	subordinating	***
+moviles_no_1_8	16	6	enviaran	enviar	vmsi3p0	main	***
+moviles_no_1_8	16	7	un	uno	di0ms0	indefinite	***
+moviles_no_1_8	16	8	comunicado	comunicado	ncms000	common	***
+moviles_no_1_8	16	9	a	a	sps00	preposition	***
+moviles_no_1_8	16	10	telefónica	telefónico	aq0fs0	qualificative	***
+moviles_no_1_8	16	11	para	para	sps00	preposition	***
+moviles_no_1_8	16	12	que	que	pr0cn000	relative	***
+moviles_no_1_8	16	13	nos	nos	pp1cp000	personal	***
+moviles_no_1_8	16	14	den	dar	vmsp3p0	main	***
+moviles_no_1_8	16	15	una	uno	di0fs0	indefinite	***
+moviles_no_1_8	16	16	solución	solución	ncfs000	common	***
+moviles_no_1_8	16	17	.	.	fp	-	***
+
+moviles_no_1_8	17	1	Han	haber	vaip3p0	auxiliary	-	-	-	-	-	-
+moviles_no_1_8	17	2	pasado	pasar	vmp00sm	main	-	-	-	-	-	-
+moviles_no_1_8	17	3	tres	3	z	-	-	-	-	-	-	-
+moviles_no_1_8	17	4	semanas	semana	ncfp000	common	-	-	-	-	-	-
+moviles_no_1_8	17	5	mas	mas	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_8	17	6	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_no_1_8	17	7	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_8	17	8	no	no	rn	negative	no	-	-	-	-	-
+moviles_no_1_8	17	9	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_no_1_8	17	10	lo	lo	pp3cna00	personal	-	-	-	-	-	-
+moviles_no_1_8	17	11	dices	decir	vmip2s0	main	-	-	-	-	-	-
+moviles_no_1_8	17	12	TÚ	tú	np00000	proper	-	-	-	-	-	-
+moviles_no_1_8	17	13	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_no_1_8	17	14	estas	estar	vmip2s0	semiauxiliary	-	-	-	-	-	-
+moviles_no_1_8	17	15	leyendo	leer	vmg0000	main	-	-	-	-	-	-
+moviles_no_1_8	17	16	estas	este	dd0fp0	demonstrative	-	-	-	-	-	-
+moviles_no_1_8	17	17	palabras	palabra	ncfp000	common	-	-	-	-	-	-
+moviles_no_1_8	17	18	,	,	fc	-	-	-	-	-	-	-
+moviles_no_1_8	17	19	yo	yo	pp1csn00	personal	-	-	-	-	-	-
+moviles_no_1_8	17	20	no	no	rn	negative	-	-	-	no	-	-
+moviles_no_1_8	17	21	se	saber	vmip1s0	main	-	-	-	-	-	-
+moviles_no_1_8	17	22	nada	nada	pi0cs000	indefinite	-	-	-	nada	-	-
+moviles_no_1_8	17	23	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_no_1_8	17	24	él	él	pp3ms000	personal	-	-	-	-	-	-
+moviles_no_1_8	17	25	.	.	fp	-	-	-	-	-	-	-
+
+moviles_no_1_8	18	1	En	en	np00000	proper	***
+moviles_no_1_8	18	2	la	el	da0fs0	article	***
+moviles_no_1_8	18	3	tienda	tienda	ncfs000	common	***
+moviles_no_1_8	18	4	me	me	pp1cs000	personal	***
+moviles_no_1_8	18	5	ha	haber	vaip3s0	auxiliary	***
+moviles_no_1_8	18	6	dicho	decir	vmp00sm	main	***
+moviles_no_1_8	18	7	un	uno	di0ms0	indefinite	***
+moviles_no_1_8	18	8	técnico	técnico	ncms000	common	***
+moviles_no_1_8	18	9	que	que	pr0cn000	relative	***
+moviles_no_1_8	18	10	esta	este	dd0fs0	demonstrative	***
+moviles_no_1_8	18	11	marca	marca	ncfs000	common	***
+moviles_no_1_8	18	12	tiene	tener	vmip3s0	main	***
+moviles_no_1_8	18	13	mucha	mucho	di0fs0	indefinite	***
+moviles_no_1_8	18	14	fama	fama	ncfs000	common	***
+moviles_no_1_8	18	15	pero	pero	cc	coordinating	***
+moviles_no_1_8	18	16	que	que	cs	subordinating	***
+moviles_no_1_8	18	17	el	el	da0ms0	article	***
+moviles_no_1_8	18	18	servicio	servicio	ncms000	common	***
+moviles_no_1_8	18	19	tecnico	tecnico	aq0ms0	qualificative	***
+moviles_no_1_8	18	20	es	ser	vsip3s0	semiauxiliary	***
+moviles_no_1_8	18	21	una	uno	di0fs0	indefinite	***
+moviles_no_1_8	18	22	MIERD	mierd	np00000	proper	***
+moviles_no_1_8	18	23	........	........	fz	-	***
+
+moviles_no_1_8	19	1	Asi	asi	np00000	proper	-	-	-
+moviles_no_1_8	19	2	que	que	pr0cn000	relative	-	-	-
+moviles_no_1_8	19	3	ya	ya	rg	-	-	-	-
+moviles_no_1_8	19	4	veis	ver	vmip2p0	main	-	-	-
+moviles_no_1_8	19	5	,	,	fc	-	-	-	-
+moviles_no_1_8	19	6	todo	todo	pi0ms000	indefinite	-	-	-
+moviles_no_1_8	19	7	son	ser	vsip3p0	semiauxiliary	-	-	-
+moviles_no_1_8	19	8	grandes	grande	aq0cp0	qualificative	-	-	-
+moviles_no_1_8	19	9	marcas	marca	ncfp000	common	-	-	-
+moviles_no_1_8	19	10	TELEFONICA	telefonica	np00000	proper	-	-	-
+moviles_no_1_8	19	11	,	,	fc	-	-	-	-
+moviles_no_1_8	19	12	NOKIA	nokia	np00000	proper	-	-	-
+moviles_no_1_8	19	13	....	....	fz	-	-	-	-
+moviles_no_1_8	19	14	pero	pero	cc	coordinating	-	-	-
+moviles_no_1_8	19	15	yo	yo	pp1csn00	personal	-	-	-
+moviles_no_1_8	19	16	llevo	llevar	vmip1s0	main	-	-	-
+moviles_no_1_8	19	17	desde	desde	sps00	preposition	-	-	-
+moviles_no_1_8	19	18	septiembre_del_2007	[??:??/9/2007:??.??:??]	w	-	-	-	-
+moviles_no_1_8	19	19	hasta	hasta	sps00	preposition	-	-	-
+moviles_no_1_8	19	20	hoy	hoy	rg	-	-	-	-
+moviles_no_1_8	19	21	19_de_marzo_del_2008	[??:19/3/2008:??.??:??]	w	-	-	-	-
+moviles_no_1_8	19	22	sin	sin	sps00	preposition	sin	-	-
+moviles_no_1_8	19	23	un	uno	di0ms0	indefinite	-	-	-
+moviles_no_1_8	19	24	telefono	telefono	ncms000	common	-	-	-
+moviles_no_1_8	19	25	que	que	pr0cn000	relative	-	-	-
+moviles_no_1_8	19	26	me	me	pp1cs000	personal	-	-	-
+moviles_no_1_8	19	27	costó	costar	vmis3s0	main	-	-	-
+moviles_no_1_8	19	28	180	180	z	-	-	-	-
+moviles_no_1_8	19	29	euros	euro	ncmp000	common	-	-	-
+moviles_no_1_8	19	30	i	i	ncfs000	common	-	-	-
+moviles_no_1_8	19	31	no_sé_cuantos	no_saber_cuanto	di0mp00	indefinite	-	-	-
+moviles_no_1_8	19	32	miles	mil	ncmp000	common	-	-	-
+moviles_no_1_8	19	33	de	de	sps00	preposition	-	-	-
+moviles_no_1_8	19	34	puntos	punto	ncmp000	common	-	-	-
+moviles_no_1_8	19	35	y	y	cc	coordinating	-	-	-
+moviles_no_1_8	19	36	ademas	adema	ncfp000	common	-	-	-
+moviles_no_1_8	19	37	pagando	pagar	vmg0000	main	-	-	-
+moviles_no_1_8	19	38	cada	cada	di0cs0	indefinite	-	-	-
+moviles_no_1_8	19	39	mes	mes	ncms000	common	-	-	-
+moviles_no_1_8	19	40	la	el	da0fs0	article	-	-	-
+moviles_no_1_8	19	41	cuota	cuota	ncfs000	common	-	-	-
+moviles_no_1_8	19	42	minima	minima	aq0fs0	qualificative	-	-	-
+moviles_no_1_8	19	43	.	.	fp	-	-	-	-
+
+moviles_no_1_8	20	1	Estoy	estar	vaip1s0	auxiliary	***
+moviles_no_1_8	20	2	la	el	da0fs0	article	***
+moviles_no_1_8	20	3	mar	mar	nccs000	common	***
+moviles_no_1_8	20	4	de	de	sps00	preposition	***
+moviles_no_1_8	20	5	contento	contento	ncms000	common	***
+moviles_no_1_8	20	6	de	de	sps00	preposition	***
+moviles_no_1_8	20	7	el	el	da0ms0	article	***
+moviles_no_1_8	20	8	movil	movil	ncms000	common	***
+moviles_no_1_8	20	9	,	,	fc	-	***
+moviles_no_1_8	20	10	de	de	sps00	preposition	***
+moviles_no_1_8	20	11	la	el	da0fs0	article	***
+moviles_no_1_8	20	12	tienda	tienda	ncfs000	common	***
+moviles_no_1_8	20	13	y	y	cc	coordinating	***
+moviles_no_1_8	20	14	de	de	sps00	preposition	***
+moviles_no_1_8	20	15	telefonica	telefonica	ncfs000	common	***
+moviles_no_1_8	20	16	.	.	fp	-	***
+
+moviles_no_1_8	21	1	Ya	ya	rg	-	***
+moviles_no_1_8	21	2	os	os	pp2cp000	personal	***
+moviles_no_1_8	21	3	contaré	contar	vmif1s0	main	***
+moviles_no_1_8	21	4	como	como	cs	subordinating	***
+moviles_no_1_8	21	5	acaba	acabar	vmip3s0	main	***
+moviles_no_1_8	21	6	la	el	da0fs0	article	***
+moviles_no_1_8	21	7	historia	historia	ncfs000	common	***
+moviles_no_1_8	21	8	.	.	fp	-	***
+
+moviles_no_1_8	22	1	Gracias	gracias	np00000	proper	***
+moviles_no_1_8	22	2	por	por	sps00	preposition	***
+moviles_no_1_8	22	3	vuestra	vuestro	dp2fsp	possessive	***
+moviles_no_1_8	22	4	paciencia	paciencia	ncfs000	common	***
+moviles_no_1_8	22	5	.	.	fp	-	***
+
+moviles_yes_5_7	1	1	hace	hacer	vmip3s0	main	***
+moviles_yes_5_7	1	2	cosa	cosa	ncfs000	common	***
+moviles_yes_5_7	1	3	de	de	sps00	preposition	***
+moviles_yes_5_7	1	4	un	uno	di0ms0	indefinite	***
+moviles_yes_5_7	1	5	mes	mes	ncms000	common	***
+moviles_yes_5_7	1	6	me	me	pp1cs000	personal	***
+moviles_yes_5_7	1	7	he	haber	vaip1s0	auxiliary	***
+moviles_yes_5_7	1	8	comprado	comprar	vmp00sm	main	***
+moviles_yes_5_7	1	9	este	este	dd0ms0	demonstrative	***
+moviles_yes_5_7	1	10	móvil	móvil	ncms000	common	***
+moviles_yes_5_7	1	11	,	,	fc	-	***
+moviles_yes_5_7	1	12	ya	ya	rg	-	***
+moviles_yes_5_7	1	13	no	no	rn	negative	***
+moviles_yes_5_7	1	14	solo	solo	rg	-	***
+moviles_yes_5_7	1	15	por	por	sps00	preposition	***
+moviles_yes_5_7	1	16	las	el	da0fp0	article	***
+moviles_yes_5_7	1	17	prestaciones	prestación	ncfp000	common	***
+moviles_yes_5_7	1	18	que	que	pr0cn000	relative	***
+moviles_yes_5_7	1	19	en	en	sps00	preposition	***
+moviles_yes_5_7	1	20	la	el	da0fs0	article	***
+moviles_yes_5_7	1	21	web	web	ncfs000	common	***
+moviles_yes_5_7	1	22	había	haber	vaii1s0	auxiliary	***
+moviles_yes_5_7	1	23	leido	leido	vmp00sm	main	***
+moviles_yes_5_7	1	24	que	que	cs	subordinating	***
+moviles_yes_5_7	1	25	poseia	poseia	ncfs000	common	***
+moviles_yes_5_7	1	26	,	,	fc	-	***
+moviles_yes_5_7	1	27	sino	sino	cc	coordinating	***
+moviles_yes_5_7	1	28	por	por	sps00	preposition	***
+moviles_yes_5_7	1	29	el	el	da0ms0	article	***
+moviles_yes_5_7	1	30	diseño	diseño	ncms000	common	***
+moviles_yes_5_7	1	31	vanguardista	vanguardista	aq0cs0	qualificative	***
+moviles_yes_5_7	1	32	que	que	pr0cn000	relative	***
+moviles_yes_5_7	1	33	tiene	tener	vmip3s0	main	***
+moviles_yes_5_7	1	34	,	,	fc	-	***
+moviles_yes_5_7	1	35	formas	forma	ncfp000	common	***
+moviles_yes_5_7	1	36	geometricas	geometricas	aq0fp0	qualificative	***
+moviles_yes_5_7	1	37	,	,	fc	-	***
+moviles_yes_5_7	1	38	el	el	da0ms0	article	***
+moviles_yes_5_7	1	39	teclado	teclado	ncms000	common	***
+moviles_yes_5_7	1	40	con	con	sps00	preposition	***
+moviles_yes_5_7	1	41	formas	forma	ncfp000	common	***
+moviles_yes_5_7	1	42	triangulares	triangular	aq0cp0	qualificative	***
+moviles_yes_5_7	1	43	,	,	fc	-	***
+moviles_yes_5_7	1	44	la	el	da0fs0	article	***
+moviles_yes_5_7	1	45	camara	camara	ncfs000	common	***
+moviles_yes_5_7	1	46	con	con	sps00	preposition	***
+moviles_yes_5_7	1	47	forma	forma	ncfs000	common	***
+moviles_yes_5_7	1	48	de	de	sps00	preposition	***
+moviles_yes_5_7	1	49	rombo	rombo	ncms000	common	***
+moviles_yes_5_7	1	50	y	y	cc	coordinating	***
+moviles_yes_5_7	1	51	ese	ese	dd0ms0	demonstrative	***
+moviles_yes_5_7	1	52	flash	flash	ncms000	common	***
+moviles_yes_5_7	1	53	y	y	cc	coordinating	***
+moviles_yes_5_7	1	54	altavoces	altavoz	ncmp000	common	***
+moviles_yes_5_7	1	55	tan	tan	rg	-	***
+moviles_yes_5_7	1	56	discretamente	discretamente	rg	-	***
+moviles_yes_5_7	1	57	colocados	colocar	vmp00pm	main	***
+moviles_yes_5_7	1	58	.	.	fp	-	***
+
+moviles_yes_5_7	2	1	Todo	todo	di0ms0	indefinite	***
+moviles_yes_5_7	2	2	ello	ello	pd0ns000	demonstrative	***
+moviles_yes_5_7	2	3	hace	hacer	vmip3s0	main	***
+moviles_yes_5_7	2	4	que	que	cs	subordinating	***
+moviles_yes_5_7	2	5	la	el	da0fs0	article	***
+moviles_yes_5_7	2	6	gente	gente	ncfs000	common	***
+moviles_yes_5_7	2	7	se	se	p00cn000	-	***
+moviles_yes_5_7	2	8	quede	quedar	vmsp1s0	main	***
+moviles_yes_5_7	2	9	a	a	sps00	preposition	***
+moviles_yes_5_7	2	10	veces	vez	ncfp000	common	***
+moviles_yes_5_7	2	11	asombrada	asombrar	vmp00sf	main	***
+moviles_yes_5_7	2	12	y	y	cc	coordinating	***
+moviles_yes_5_7	2	13	haga	hacer	vmsp1s0	main	***
+moviles_yes_5_7	2	14	comentarios	comentario	ncmp000	common	***
+moviles_yes_5_7	2	15	en	en	sps00	preposition	***
+moviles_yes_5_7	2	16	plan	plan	ncms000	common	***
+moviles_yes_5_7	2	17	:	:	fd	-	***
+moviles_yes_5_7	2	18	vaya	ir	vmm03s0	main	***
+moviles_yes_5_7	2	19	movil	movil	aq0cs0	qualificative	***
+moviles_yes_5_7	2	20	que	que	pr0cn000	relative	***
+moviles_yes_5_7	2	21	te	te	pp2cs000	personal	***
+moviles_yes_5_7	2	22	gastas	gastar	vmip2s0	main	***
+moviles_yes_5_7	2	23	!	!	fat	-	***
+moviles_yes_5_7	2	24	!	!	fat	-	***
+
+moviles_yes_5_7	3	1	en_cuanto_a	en_cuanto_a	sps00	preposition	***
+moviles_yes_5_7	3	2	las	el	da0fp0	article	***
+moviles_yes_5_7	3	3	buenas	bueno	aq0fp0	qualificative	***
+moviles_yes_5_7	3	4	cualidades	cualidad	ncfp000	common	***
+moviles_yes_5_7	3	5	que	que	pr0cn000	relative	***
+moviles_yes_5_7	3	6	resalto	resaltar	vmip1s0	main	***
+moviles_yes_5_7	3	7	:	:	fd	-	***
+
+moviles_yes_5_7	4	1	sin	sin	sps00	preposition	sin	-	-	-	-	-
+moviles_yes_5_7	4	2	duda	duda	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	3	una	uno	di0fs0	indefinite	-	-	-	-	-	-
+moviles_yes_5_7	4	4	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	5	ellas	ellos	pp3fp000	personal	-	-	-	-	-	-
+moviles_yes_5_7	4	6	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_7	4	7	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_7	4	8	reproductor	reproductor	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	9	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	10	música	música	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	11	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	12	suena	sonar	vmip3s0	main	-	-	-	-	-	-
+moviles_yes_5_7	4	13	como	como	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	14	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	15	fuera	ser	vssi1s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_7	4	16	real	real	aq0cs0	qualificative	-	-	-	-	-	-
+moviles_yes_5_7	4	17	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	18	tuve	tener	vmis1s0	main	-	-	-	-	-	-
+moviles_yes_5_7	4	19	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_yes_5_7	4	20	movil	movil	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	21	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	22	otra	otro	di0fs0	indefinite	-	-	-	-	-	-
+moviles_yes_5_7	4	23	marca	marca	ncfs000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	24	(	(	fpa	-	-	-	-	-	-	-
+moviles_yes_5_7	4	25	sony	sony	i	-	-	-	-	-	-	-
+moviles_yes_5_7	4	26	)	)	fpt	-	-	-	-	-	-	-
+moviles_yes_5_7	4	27	y	y	cc	coordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	28	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	29	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	30	el	el	da0ms0	article	-	-	-	-	-	-
+moviles_yes_5_7	4	31	sonido	sonido	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	32	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_7	4	33	bueno	bueno	aq0ms0	qualificative	-	-	-	-	-	-
+moviles_yes_5_7	4	34	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	35	pero	pero	cc	coordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	36	a	a	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	37	ver	ver	vmn0000	main	-	-	-	-	-	-
+moviles_yes_5_7	4	38	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	39	me	me	pp1cs000	personal	-	-	-	-	-	-
+moviles_yes_5_7	4	40	entendeis	entendeis	vmsi2p0	main	-	-	-	-	-	-
+moviles_yes_5_7	4	41	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	42	se	se	p00cn000	-	-	-	-	-	-	-
+moviles_yes_5_7	4	43	"	"	fe	-	-	-	-	-	-	-
+moviles_yes_5_7	4	44	notaba	notar	vmii3s0	main	-	-	-	-	-	-
+moviles_yes_5_7	4	45	que	que	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	46	era	ser	vsii1s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_7	4	47	de	de	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	48	movil	movil	ncms000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	49	"	"	fe	-	-	-	-	-	-	-
+moviles_yes_5_7	4	50	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+moviles_yes_5_7	4	51	sin_embargo	sin_embargo	rg	-	-	-	-	-	-	-
+moviles_yes_5_7	4	52	no	no	rn	negative	-	-	-	no	-	-
+moviles_yes_5_7	4	53	,	,	fc	-	-	-	-	-	-	-
+moviles_yes_5_7	4	54	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+moviles_yes_5_7	4	55	como	como	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	56	si	si	cs	subordinating	-	-	-	-	-	-
+moviles_yes_5_7	4	57	escuchases	escuchar	vmsi2s0	main	-	-	-	-	-	-
+moviles_yes_5_7	4	58	directamente	directamente	rg	-	-	-	-	-	-	-
+moviles_yes_5_7	4	59	desde	desde	sps00	preposition	-	-	-	-	-	-
+moviles_yes_5_7	4	60	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+moviles_yes_5_7	4	61	pc	pc	nc00000	common	-	-	-	-	-	-
+moviles_yes_5_7	4	62	.	.	fp	-	-	-	-	-	-	-
+
+moviles_yes_5_7	5	1	Otra	otro	pi0fs000	indefinite	***
+moviles_yes_5_7	5	2	de	de	sps00	preposition	***
+moviles_yes_5_7	5	3	las	el	da0fp0	article	***
+moviles_yes_5_7	5	4	caracteristicas	caracteristicas	ncfp000	common	***
+moviles_yes_5_7	5	5	importantes	importante	aq0cp0	qualificative	***
+moviles_yes_5_7	5	6	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_7	5	7	el	el	da0ms0	article	***
+moviles_yes_5_7	5	8	flash	flash	ncms000	common	***
+moviles_yes_5_7	5	9	!	!	fat	-	***
+
+moviles_yes_5_7	6	1	cuantas	cuanto	di0fp0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	2	veces	vez	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	3	nos	nos	pp1cp000	personal	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	4	hemos	haber	vaip1p0	auxiliary	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	5	quedado	quedar	vmp00sm	main	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	6	sin	sin	sps00	preposition	sin	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	7	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	8	buena	bueno	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	9	foto	foto	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	10	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	11	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	12	discoteca	discoteca	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	13	o	o	cc	coordinating	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	14	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	15	cualquier	cualquiera	di0cs0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	16	sitio	sitio	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	17	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	18	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	19	noche	noche	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	20	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	21	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+moviles_yes_5_7	6	22	tener	tener	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	23	camara	camara	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	24	digital	digital	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	25	o	o	cc	coordinating	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	26	porque	porque	cs	subordinating	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	27	nuestro	nuestro	dp1msp	possessive	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	28	movil	movil	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	29	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	30	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	31	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	32	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+moviles_yes_5_7	6	33	tener	tener	vmn0000	main	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	34	flash	flash	ncms000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	35	,	,	fc	-	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	36	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	37	unico	unico	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	38	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	39	conseguimos	conseguir	vmis1p0	main	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	40	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	41	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	42	foto	foto	ncfs000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	43	negra	negro	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	44	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	45	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	46	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	47	apenas	apenas	rg	-	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	48	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	49	diferencian	diferenciar	vmip3p0	main	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	50	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	51	siluetas	silueta	ncfp000	common	-	-	-	-	-	-	-	-	-
+moviles_yes_5_7	6	52	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+moviles_yes_5_7	7	1	Otra	otra	np00000	proper	***
+moviles_yes_5_7	7	2	(	(	fpa	-	***
+moviles_yes_5_7	7	3	y	y	cc	coordinating	***
+moviles_yes_5_7	7	4	la	lo	pp3fsa00	personal	***
+moviles_yes_5_7	7	5	ultima	ultimar	vmip3s0	main	***
+moviles_yes_5_7	7	6	porque	porque	cs	subordinating	***
+moviles_yes_5_7	7	7	podría	poder	vmic3s0	main	***
+moviles_yes_5_7	7	8	enumerar	enumerar	vmn0000	main	***
+moviles_yes_5_7	7	9	muuuchas	muuuchas	ncfp000	common	***
+moviles_yes_5_7	7	10	)	)	fpt	-	***
+moviles_yes_5_7	7	11	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_7	7	12	que	que	cs	subordinating	***
+moviles_yes_5_7	7	13	viene	venir	vmip3s0	main	***
+moviles_yes_5_7	7	14	con	con	sps00	preposition	***
+moviles_yes_5_7	7	15	una	uno	di0fs0	indefinite	***
+moviles_yes_5_7	7	16	tarjeta	tarjeta	ncfs000	common	***
+moviles_yes_5_7	7	17	de	de	sps00	preposition	***
+moviles_yes_5_7	7	18	memoria	memoria	ncfs000	common	***
+moviles_yes_5_7	7	19	de	de	sps00	preposition	***
+moviles_yes_5_7	7	20	medio	medio	aq0ms0	qualificative	***
+moviles_yes_5_7	7	21	giga	giga	ncms000	common	***
+moviles_yes_5_7	7	22	!	!	fat	-	***
+moviles_yes_5_7	7	23	caray	caray	i	-	***
+moviles_yes_5_7	7	24	!	!	fat	-	***
+moviles_yes_5_7	7	25	medio	medio	rg	-	***
+moviles_yes_5_7	7	26	giga	giga	aq0cn0	qualificative	***
+moviles_yes_5_7	7	27	es	ser	vsip3s0	semiauxiliary	***
+moviles_yes_5_7	7	28	medio	medio	aq0ms0	qualificative	***
+moviles_yes_5_7	7	29	giga	giga	ncms000	common	***
+moviles_yes_5_7	7	30	!	!	fat	-	***
+moviles_yes_5_7	7	31	os	os	pp2cp000	personal	***
+moviles_yes_5_7	7	32	aseguro	asegurar	vmip1s0	main	***
+moviles_yes_5_7	7	33	que	que	cs	subordinating	***
+moviles_yes_5_7	7	34	tengo	tener	vmip1s0	main	***
+moviles_yes_5_7	7	35	canciones	canción	ncfp000	common	***
+moviles_yes_5_7	7	36	y	y	cc	coordinating	***
+moviles_yes_5_7	7	37	canciones	canción	ncfp000	common	***
+moviles_yes_5_7	7	38	y	y	cc	coordinating	***
+moviles_yes_5_7	7	39	fotos	foto	ncfp000	common	***
+moviles_yes_5_7	7	40	y	y	cc	coordinating	***
+moviles_yes_5_7	7	41	fotos	foto	ncfp000	common	***
+moviles_yes_5_7	7	42	,	,	fc	-	***
+moviles_yes_5_7	7	43	y	y	cc	coordinating	***
+moviles_yes_5_7	7	44	llenar	llenar	vmn0000	main	***
+moviles_yes_5_7	7	45	medio	medio	aq0ms0	qualificative	***
+moviles_yes_5_7	7	46	giga	giga	ncms000	common	***
+moviles_yes_5_7	7	47	....	....	fz	-	***
+moviles_yes_5_7	7	48	telita	tela	ncfs00d	common	***
+moviles_yes_5_7	7	49	....	....	fz	-	***
+
+moviles_yes_5_7	8	1	en_cuanto_a	en_cuanto_a	sps00	preposition	-	-	-
+moviles_yes_5_7	8	2	las	el	da0fp0	article	-	-	-
+moviles_yes_5_7	8	3	desventajas	desventaja	ncfp000	common	-	-	-
+moviles_yes_5_7	8	4	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	5	siendo	ser	vsg0000	semiauxiliary	-	-	-
+moviles_yes_5_7	8	6	sincero	sincero	aq0ms0	qualificative	-	-	-
+moviles_yes_5_7	8	7	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	8	si	si	cs	subordinating	-	-	-
+moviles_yes_5_7	8	9	pasas	paso	aq0fp0	qualificative	-	-	-
+moviles_yes_5_7	8	10	fotos	foto	ncfp000	common	-	-	-
+moviles_yes_5_7	8	11	de	de	sps00	preposition	-	-	-
+moviles_yes_5_7	8	12	el	el	da0ms0	article	-	-	-
+moviles_yes_5_7	8	13	pc	pc	nc00000	common	-	-	-
+moviles_yes_5_7	8	14	a	a	sps00	preposition	-	-	-
+moviles_yes_5_7	8	15	el	el	da0ms0	article	-	-	-
+moviles_yes_5_7	8	16	movil	movil	ncms000	common	-	-	-
+moviles_yes_5_7	8	17	(	(	fpa	-	-	-	-
+moviles_yes_5_7	8	18	con	con	sps00	preposition	-	-	-
+moviles_yes_5_7	8	19	el	el	da0ms0	article	-	-	-
+moviles_yes_5_7	8	20	cable	cable	ncms000	common	-	-	-
+moviles_yes_5_7	8	21	adecuado	adecuar	vmp00sm	main	-	-	-
+moviles_yes_5_7	8	22	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	23	o_bien	o_bien	cc	coordinating	-	-	-
+moviles_yes_5_7	8	24	via	via	ncfs000	common	-	-	-
+moviles_yes_5_7	8	25	bluetooth	bluetooth	ncms000	common	-	-	-
+moviles_yes_5_7	8	26	)	)	fpt	-	-	-	-
+moviles_yes_5_7	8	27	y	y	cc	coordinating	-	-	-
+moviles_yes_5_7	8	28	estas	este	dd0fp0	demonstrative	-	-	-
+moviles_yes_5_7	8	29	fotos	foto	ncfp000	common	-	-	-
+moviles_yes_5_7	8	30	tienen	tener	vmip3p0	main	-	-	-
+moviles_yes_5_7	8	31	una	uno	di0fs0	indefinite	-	-	-
+moviles_yes_5_7	8	32	resolucion	resolucion	ncms000	common	-	-	-
+moviles_yes_5_7	8	33	demasiado	demasiado	rg	-	-	-	-
+moviles_yes_5_7	8	34	alta	alto	aq0fs0	qualificative	-	-	-
+moviles_yes_5_7	8	35	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	36	el	el	da0ms0	article	-	-	-
+moviles_yes_5_7	8	37	movil	movil	ncms000	common	-	-	-
+moviles_yes_5_7	8	38	tarda	tardar	vmip3s0	main	-	-	-
+moviles_yes_5_7	8	39	muuucho	muuucho	rg	-	-	-	-
+moviles_yes_5_7	8	40	en	en	sps00	preposition	-	-	-
+moviles_yes_5_7	8	41	abrir	abrir	vmn0000	main	-	-	-
+moviles_yes_5_7	8	42	las	lo	pp3fpa00	personal	-	-	-
+moviles_yes_5_7	8	43	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	44	pero	pero	cc	coordinating	-	-	-
+moviles_yes_5_7	8	45	bueno	bueno	i	-	-	-	-
+moviles_yes_5_7	8	46	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	47	recordemos	recordar	vmsp1p0	main	-	-	-
+moviles_yes_5_7	8	48	que	que	cs	subordinating	-	-	-
+moviles_yes_5_7	8	49	se	se	p00cn000	-	-	-	-
+moviles_yes_5_7	8	50	trata	tratar	vmip3s0	main	-	-	-
+moviles_yes_5_7	8	51	de	de	sps00	preposition	-	-	-
+moviles_yes_5_7	8	52	un	uno	di0ms0	indefinite	-	-	-
+moviles_yes_5_7	8	53	movil	movil	ncms000	common	-	-	-
+moviles_yes_5_7	8	54	y	y	cc	coordinating	-	-	-
+moviles_yes_5_7	8	55	no	no	rn	negative	no	-	-
+moviles_yes_5_7	8	56	de	de	sps00	preposition	-	-	-
+moviles_yes_5_7	8	57	un	uno	di0ms0	indefinite	-	-	-
+moviles_yes_5_7	8	58	ordenador	ordenador	ncms000	common	-	-	-
+moviles_yes_5_7	8	59	,	,	fc	-	-	-	-
+moviles_yes_5_7	8	60	asi	asi	ncms000	common	-	-	-
+moviles_yes_5_7	8	61	que	que	pr0cn000	relative	-	-	-
+moviles_yes_5_7	8	62	bastante	bastante	rg	-	-	-	-
+moviles_yes_5_7	8	63	hace	hacer	vmip3s0	main	-	-	-
+moviles_yes_5_7	8	64	!	!	fat	-	-	-	-
+moviles_yes_5_7	8	65	!	!	fat	-	-	-	-
+
+moviles_yes_5_7	9	1	un	uno	di0ms0	indefinite	***
+moviles_yes_5_7	9	2	saludo	saludo	ncms000	common	***
+moviles_yes_5_7	9	3	!	!	fat	-	***
+moviles_yes_5_7	9	4	!	!	fat	-	***
+

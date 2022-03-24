@@ -1,0 +1,3054 @@
+coches_no_2_20	1	1	Lo	el	da0ns0	article	***
+coches_no_2_20	1	2	barato	barato	aq0ms0	qualificative	***
+coches_no_2_20	1	3	sale	salir	vmip3s0	main	***
+coches_no_2_20	1	4	caro	caro	aq0ms0	qualificative	***
+coches_no_2_20	1	5	.	.	fp	-	***
+
+coches_no_2_20	2	1	Compré	comprar	vmis1s0	main	***
+coches_no_2_20	2	2	ste	ste	aq0cs0	qualificative	***
+coches_no_2_20	2	3	coche	coche	ncms000	common	***
+coches_no_2_20	2	4	porque	porque	cs	subordinating	***
+coches_no_2_20	2	5	era	ser	vsii1s0	semiauxiliary	***
+coches_no_2_20	2	6	barato	barato	aq0ms0	qualificative	***
+coches_no_2_20	2	7	y	y	cc	coordinating	***
+coches_no_2_20	2	8	a	a	sps00	preposition	***
+coches_no_2_20	2	9	simple	simple	aq0cs0	qualificative	***
+coches_no_2_20	2	10	vista	vista	ncfs000	common	***
+coches_no_2_20	2	11	tenía	tener	vmii3s0	main	***
+coches_no_2_20	2	12	buenas	bueno	aq0fp0	qualificative	***
+coches_no_2_20	2	13	prestaciones	prestación	ncfp000	common	***
+coches_no_2_20	2	14	pero	pero	cc	coordinating	***
+coches_no_2_20	2	15	me	me	pp1cs000	personal	***
+coches_no_2_20	2	16	salió	salir	vmis3s0	main	***
+coches_no_2_20	2	17	caro	caro	aq0ms0	qualificative	***
+coches_no_2_20	2	18	porque	porque	cs	subordinating	***
+coches_no_2_20	2	19	me	me	pp1cs000	personal	***
+coches_no_2_20	2	20	ha	haber	vaip3s0	auxiliary	***
+coches_no_2_20	2	21	dado	dar	vmp00sm	main	***
+coches_no_2_20	2	22	muchos	mucho	di0mp0	indefinite	***
+coches_no_2_20	2	23	problemas	problema	ncmp000	common	***
+coches_no_2_20	2	24	en	en	sps00	preposition	***
+coches_no_2_20	2	25	el	el	da0ms0	article	***
+coches_no_2_20	2	26	eje	eje	ncms000	common	***
+coches_no_2_20	2	27	trasero	trasero	aq0ms0	qualificative	***
+coches_no_2_20	2	28	.	.	fp	-	***
+
+coches_no_2_20	3	1	En	en	sps00	preposition	-	-	-
+coches_no_2_20	3	2	el	el	da0ms0	article	-	-	-
+coches_no_2_20	3	3	primer	1	ao0ms0	ordinal	-	-	-
+coches_no_2_20	3	4	año	año	ncms000	common	-	-	-
+coches_no_2_20	3	5	lo	lo	pp3cna00	personal	-	-	-
+coches_no_2_20	3	6	tuve	tener	vmis1s0	main	-	-	-
+coches_no_2_20	3	7	que	que	cs	subordinating	-	-	-
+coches_no_2_20	3	8	llevar	llevar	vmn0000	main	-	-	-
+coches_no_2_20	3	9	4	4	z	-	-	-	-
+coches_no_2_20	3	10	veces	vez	ncfp000	common	-	-	-
+coches_no_2_20	3	11	a	a	sps00	preposition	-	-	-
+coches_no_2_20	3	12	el	el	da0ms0	article	-	-	-
+coches_no_2_20	3	13	taller	taller	ncms000	common	-	-	-
+coches_no_2_20	3	14	y	y	cc	coordinating	-	-	-
+coches_no_2_20	3	15	cada	cada	di0cs0	indefinite	-	-	-
+coches_no_2_20	3	16	vez	vez	ncfs000	common	-	-	-
+coches_no_2_20	3	17	que	que	pr0cn000	relative	-	-	-
+coches_no_2_20	3	18	lo	lo	pp3cna00	personal	-	-	-
+coches_no_2_20	3	19	llevé	llevar	vmis1s0	main	-	-	-
+coches_no_2_20	3	20	me	me	pp1cs000	personal	-	-	-
+coches_no_2_20	3	21	quedé	quedar	vmis1s0	main	-	-	-
+coches_no_2_20	3	22	15	15	z	-	-	-	-
+coches_no_2_20	3	23	días	día	ncmp000	common	-	-	-
+coches_no_2_20	3	24	sin	sin	sps00	preposition	sin	-	-
+coches_no_2_20	3	25	coche	coche	ncms000	common	-	-	-
+coches_no_2_20	3	26	.	.	fp	-	-	-	-
+
+coches_no_2_20	4	1	Primero	primero	rg	-	***
+coches_no_2_20	4	2	decían	decir	vmii3p0	main	***
+coches_no_2_20	4	3	una	uno	di0fs0	indefinite	***
+coches_no_2_20	4	4	cosa	cosa	ncfs000	common	***
+coches_no_2_20	4	5	y	y	cc	coordinating	***
+coches_no_2_20	4	6	luego	luego	rg	-	***
+coches_no_2_20	4	7	otra	otro	pi0fs000	indefinite	***
+coches_no_2_20	4	8	y	y	cc	coordinating	***
+coches_no_2_20	4	9	finalnte	finalnte	rg	-	***
+coches_no_2_20	4	10	me	me	pp1cs000	personal	***
+coches_no_2_20	4	11	tuvieron	tener	vmis3p0	main	***
+coches_no_2_20	4	12	que	que	cs	subordinating	***
+coches_no_2_20	4	13	cambiar	cambiar	vmn0000	main	***
+coches_no_2_20	4	14	todo	todo	di0ms0	indefinite	***
+coches_no_2_20	4	15	el	el	da0ms0	article	***
+coches_no_2_20	4	16	eje	eje	ncms000	common	***
+coches_no_2_20	4	17	trasero	trasero	aq0ms0	qualificative	***
+coches_no_2_20	4	18	.	.	fp	-	***
+
+coches_no_2_20	5	1	Las	el	da0fp0	article	-	-	-
+coches_no_2_20	5	2	ruedas	rueda	ncfp000	common	-	-	-
+coches_no_2_20	5	3	a	a	sps00	preposition	-	-	-
+coches_no_2_20	5	4	los	el	da0mp0	article	-	-	-
+coches_no_2_20	5	5	15000	15000	z	-	-	-	-
+coches_no_2_20	5	6	kms	kms	ncmp000	common	-	-	-
+coches_no_2_20	5	7	las	lo	pp3fpa00	personal	-	-	-
+coches_no_2_20	5	8	tuve	tener	vmis1s0	main	-	-	-
+coches_no_2_20	5	9	que	que	cs	subordinating	-	-	-
+coches_no_2_20	5	10	cambiar	cambiar	vmn0000	main	-	-	-
+coches_no_2_20	5	11	,	,	fc	-	-	-	-
+coches_no_2_20	5	12	todas	todo	pi0fp000	indefinite	-	-	-
+coches_no_2_20	5	13	,	,	fc	-	-	-	-
+coches_no_2_20	5	14	las	el	da0fp0	article	-	-	-
+coches_no_2_20	5	15	cuatro	4	z	-	-	-	-
+coches_no_2_20	5	16	,	,	fc	-	-	-	-
+coches_no_2_20	5	17	por	por	sps00	preposition	-	-	-
+coches_no_2_20	5	18	ser	ser	vsn0000	semiauxiliary	-	-	-
+coches_no_2_20	5	19	de	de	sps00	preposition	-	-	-
+coches_no_2_20	5	20	una	uno	di0fs0	indefinite	-	-	-
+coches_no_2_20	5	21	marca	marca	ncfs000	common	-	-	-
+coches_no_2_20	5	22	coreana	coreano	aq0fs0	qualificative	-	-	-
+coches_no_2_20	5	23	,	,	fc	-	-	-	-
+coches_no_2_20	5	24	que	que	pr0cn000	relative	-	-	-
+coches_no_2_20	5	25	no	no	rn	negative	no	-	-
+coches_no_2_20	5	26	da	dar	vmip3s0	main	-	-	-
+coches_no_2_20	5	27	mucho	mucho	di0ms0	indefinite	mucho	-	-
+coches_no_2_20	5	28	resultado	resultado	ncms000	common	-	-	-
+coches_no_2_20	5	29	.	.	fp	-	-	-	-
+
+coches_no_2_20	6	1	Hoy	hoy	rg	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	2	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	3	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	4	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	5	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	6	cuatro	4	z	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	7	años	año	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	8	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	9	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	10	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	11	eje	eje	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	12	no	no	rn	negative	no	-	-	-	-	-	-	-	-
+coches_no_2_20	6	13	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	14	da	dar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	15	problemas	problema	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	16	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	17	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	18	ruedas	rueda	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	19	las	lo	pp3fpa00	personal	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	20	sigue	seguir	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	21	desastando	desastando	vmg0000	main	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	22	mucho	mucho	rg	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	23	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	24	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	25	no	no	vsip3s0	semiauxiliary	-	-	-	no	-	-	-	-	-
+coches_no_2_20	6	26	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	27	cosa	cosa	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	28	del	del	spcms	preposition	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	29	paralelo	paralelo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	30	ni	ni	cc	coordinating	-	-	-	-	-	-	ni	-	-
+coches_no_2_20	6	31	del	del	spcms	preposition	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	32	equilibrado	equilibrado	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_no_2_20	6	33	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+coches_no_2_20	7	1	Lo	lo	np00000	proper	***
+coches_no_2_20	7	2	que	que	pr0cn000	relative	***
+coches_no_2_20	7	3	mejor	mejor	rg	-	***
+coches_no_2_20	7	4	funciona	funcionar	vmip3s0	main	***
+coches_no_2_20	7	5	es	ser	vsip3s0	semiauxiliary	***
+coches_no_2_20	7	6	el	el	da0ms0	article	***
+coches_no_2_20	7	7	aire	aire	ncms000	common	***
+coches_no_2_20	7	8	acondicionado	acondicionar	vmp00sm	main	***
+coches_no_2_20	7	9	.	.	fp	-	***
+
+coches_no_2_20	8	1	De	de	sps00	preposition	-	-	-
+coches_no_2_20	8	2	el	el	da0ms0	article	-	-	-
+coches_no_2_20	8	3	cassette	cassette	ncfs000	common	-	-	-
+coches_no_2_20	8	4	también	también	rg	-	-	-	-
+coches_no_2_20	8	5	se	se	p00cn000	-	-	-	-
+coches_no_2_20	8	6	rompio	rompio	aq0ms0	qualificative	-	-	-
+coches_no_2_20	8	7	ellector	ellector	ncms000	common	-	-	-
+coches_no_2_20	8	8	a	a	sps00	preposition	-	-	-
+coches_no_2_20	8	9	los	el	da0mp0	article	-	-	-
+coches_no_2_20	8	10	6	6	z	-	-	-	-
+coches_no_2_20	8	11	meses	mes	ncmp000	common	-	-	-
+coches_no_2_20	8	12	y	y	cc	coordinating	-	-	-
+coches_no_2_20	8	13	no	no	rn	negative	no	-	-
+coches_no_2_20	8	14	lo	lo	pp3cna00	personal	-	-	-
+coches_no_2_20	8	15	cubre	cubrir	vmip3s0	main	-	-	-
+coches_no_2_20	8	16	la	el	da0fs0	article	-	-	-
+coches_no_2_20	8	17	garantia	garantia	ncfs000	common	-	-	-
+coches_no_2_20	8	18	.	.	fp	-	-	-	-
+
+coches_yes_4_9	1	1	Lo	el	da0ns0	article	***
+coches_yes_4_9	1	2	primero	1	ao0ms0	ordinal	***
+coches_yes_4_9	1	3	que	que	pr0cn000	relative	***
+coches_yes_4_9	1	4	debo	deber	vmip1s0	main	***
+coches_yes_4_9	1	5	destacar	destacar	vmn0000	main	***
+coches_yes_4_9	1	6	de	de	sps00	preposition	***
+coches_yes_4_9	1	7	este	este	dd0ms0	demonstrative	***
+coches_yes_4_9	1	8	coche	coche	ncms000	common	***
+coches_yes_4_9	1	9	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	1	10	lo	el	da0ns0	article	***
+coches_yes_4_9	1	11	atractivo	atractivo	ncms000	common	***
+coches_yes_4_9	1	12	de	de	sps00	preposition	***
+coches_yes_4_9	1	13	su	su	dp3cs0	possessive	***
+coches_yes_4_9	1	14	diseño	diseño	ncms000	common	***
+coches_yes_4_9	1	15	,	,	fc	-	***
+coches_yes_4_9	1	16	compacto	compacto	ncms000	common	***
+coches_yes_4_9	1	17	por	por	sps00	preposition	***
+coches_yes_4_9	1	18	fuera	fuera	rg	-	***
+coches_yes_4_9	1	19	y	y	cc	coordinating	***
+coches_yes_4_9	1	20	amplio	amplio	aq0ms0	qualificative	***
+coches_yes_4_9	1	21	por	por	sps00	preposition	***
+coches_yes_4_9	1	22	dentro	dentro	rg	-	***
+coches_yes_4_9	1	23	,	,	fc	-	***
+coches_yes_4_9	1	24	llama	llamar	vmip3s0	main	***
+coches_yes_4_9	1	25	la	el	da0fs0	article	***
+coches_yes_4_9	1	26	atención	atención	ncfs000	common	***
+coches_yes_4_9	1	27	que	que	pr0cn000	relative	***
+coches_yes_4_9	1	28	aún	aun	rg	-	***
+coches_yes_4_9	1	29	tratándose	tratándose	vmsi3s0	main	***
+coches_yes_4_9	1	30	de	de	sps00	preposition	***
+coches_yes_4_9	1	31	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	1	32	coche	coche	ncms000	common	***
+coches_yes_4_9	1	33	de	de	sps00	preposition	***
+coches_yes_4_9	1	34	tres	3	z	-	***
+coches_yes_4_9	1	35	puertas	puerta	ncfp000	common	***
+coches_yes_4_9	1	36	el	el	da0ms0	article	***
+coches_yes_4_9	1	37	habitáculo	habitáculo	ncms000	common	***
+coches_yes_4_9	1	38	posterior	posterior	aq0cs0	qualificative	***
+coches_yes_4_9	1	39	goce	goce	ncms000	common	***
+coches_yes_4_9	1	40	de	de	sps00	preposition	***
+coches_yes_4_9	1	41	una	uno	di0fs0	indefinite	***
+coches_yes_4_9	1	42	amplitud	amplitud	ncfs000	common	***
+coches_yes_4_9	1	43	envidiada	envidiar	vmp00sf	main	***
+coches_yes_4_9	1	44	en	en	sps00	preposition	***
+coches_yes_4_9	1	45	otros	otro	di0mp0	indefinite	***
+coches_yes_4_9	1	46	turismos	turismo	ncmp000	common	***
+coches_yes_4_9	1	47	de	de	sps00	preposition	***
+coches_yes_4_9	1	48	categoría	categoría	ncfs000	common	***
+coches_yes_4_9	1	49	superior	superior	aq0cs0	qualificative	***
+coches_yes_4_9	1	50	y	y	cc	coordinating	***
+coches_yes_4_9	1	51	cinco	5	z	-	***
+coches_yes_4_9	1	52	puertas	puerta	ncfp000	common	***
+coches_yes_4_9	1	53	.	.	fp	-	***
+
+coches_yes_4_9	2	1	Para	para	sps00	preposition	***
+coches_yes_4_9	2	2	saber	saber	vmn0000	main	***
+coches_yes_4_9	2	3	que	que	cs	subordinating	***
+coches_yes_4_9	2	4	se	se	p00cn000	-	***
+coches_yes_4_9	2	5	trata	tratar	vmip3s0	main	***
+coches_yes_4_9	2	6	de	de	sps00	preposition	***
+coches_yes_4_9	2	7	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	2	8	coche	coche	ncms000	common	***
+coches_yes_4_9	2	9	que	que	pr0cn000	relative	***
+coches_yes_4_9	2	10	cumple	cumplir	vmip3s0	main	***
+coches_yes_4_9	2	11	con	con	sps00	preposition	***
+coches_yes_4_9	2	12	las	el	da0fp0	article	***
+coches_yes_4_9	2	13	características	característica	ncfp000	common	***
+coches_yes_4_9	2	14	que	que	pr0cn000	relative	***
+coches_yes_4_9	2	15	requieren	requerir	vmip3p0	main	***
+coches_yes_4_9	2	16	los	el	da0mp0	article	***
+coches_yes_4_9	2	17	clientes	cliente	nccp000	common	***
+coches_yes_4_9	2	18	de	de	sps00	preposition	***
+coches_yes_4_9	2	19	el	el	da0ms0	article	***
+coches_yes_4_9	2	20	sector	sector	ncms000	common	***
+coches_yes_4_9	2	21	en	en	sps00	preposition	***
+coches_yes_4_9	2	22	el	el	da0ms0	article	***
+coches_yes_4_9	2	23	que	que	pr0cn000	relative	***
+coches_yes_4_9	2	24	se	se	p00cn000	-	***
+coches_yes_4_9	2	25	mueve	mover	vmip3s0	main	***
+coches_yes_4_9	2	26	,	,	fc	-	***
+coches_yes_4_9	2	27	solo	solo	rg	-	***
+coches_yes_4_9	2	28	hace	hacer	vmip3s0	main	***
+coches_yes_4_9	2	29	falta	falta	ncfs000	common	***
+coches_yes_4_9	2	30	ver	ver	vmn0000	main	***
+coches_yes_4_9	2	31	que	que	cs	subordinating	***
+coches_yes_4_9	2	32	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	2	33	líder	líder	nccs000	common	***
+coches_yes_4_9	2	34	de	de	sps00	preposition	***
+coches_yes_4_9	2	35	su	su	dp3cs0	possessive	***
+coches_yes_4_9	2	36	sector	sector	ncms000	common	***
+coches_yes_4_9	2	37	,	,	fc	-	***
+coches_yes_4_9	2	38	junto_con	junto_con	sps00	preposition	***
+coches_yes_4_9	2	39	el	el	da0ms0	article	***
+coches_yes_4_9	2	40	Citroen_Xantia	citroen_xantia	np00000	proper	***
+coches_yes_4_9	2	41	,	,	fc	-	***
+coches_yes_4_9	2	42	se	se	p00cn000	-	***
+coches_yes_4_9	2	43	trata	tratar	vmip3s0	main	***
+coches_yes_4_9	2	44	de	de	sps00	preposition	***
+coches_yes_4_9	2	45	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	2	46	coche	coche	ncms000	common	***
+coches_yes_4_9	2	47	barato	barato	aq0ms0	qualificative	***
+coches_yes_4_9	2	48	,	,	fc	-	***
+coches_yes_4_9	2	49	amplio	amplio	aq0ms0	qualificative	***
+coches_yes_4_9	2	50	,	,	fc	-	***
+coches_yes_4_9	2	51	con	con	sps00	preposition	***
+coches_yes_4_9	2	52	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	2	53	consumo	consumo	ncms000	common	***
+coches_yes_4_9	2	54	de	de	sps00	preposition	***
+coches_yes_4_9	2	55	gasolina	gasolina	ncfs000	common	***
+coches_yes_4_9	2	56	ajustado	ajustar	vmp00sm	main	***
+coches_yes_4_9	2	57	y	y	cc	coordinating	***
+coches_yes_4_9	2	58	que	que	pr0cn000	relative	***
+coches_yes_4_9	2	59	cumple	cumplir	vmip3s0	main	***
+coches_yes_4_9	2	60	perfectamente	perfectamente	rg	-	***
+coches_yes_4_9	2	61	con	con	sps00	preposition	***
+coches_yes_4_9	2	62	lo	el	da0ns0	article	***
+coches_yes_4_9	2	63	que	que	pr0cn000	relative	***
+coches_yes_4_9	2	64	se	se	p00cn000	-	***
+coches_yes_4_9	2	65	le	le	pp3csd00	personal	***
+coches_yes_4_9	2	66	pide	pedir	vmip3s0	main	***
+coches_yes_4_9	2	67	tanto	tanto	rg	-	***
+coches_yes_4_9	2	68	en	en	sps00	preposition	***
+coches_yes_4_9	2	69	ciudad	ciudad	ncfs000	common	***
+coches_yes_4_9	2	70	como	como	cs	subordinating	***
+coches_yes_4_9	2	71	en	en	sps00	preposition	***
+coches_yes_4_9	2	72	carretera	carretera	ncfs000	common	***
+coches_yes_4_9	2	73	y	y	cc	coordinating	***
+coches_yes_4_9	2	74	en	en	sps00	preposition	***
+coches_yes_4_9	2	75	todo	todo	di0ms0	indefinite	***
+coches_yes_4_9	2	76	tipo	tipo	ncms000	common	***
+coches_yes_4_9	2	77	de	de	sps00	preposition	***
+coches_yes_4_9	2	78	condiciones	condición	ncfp000	common	***
+coches_yes_4_9	2	79	,	,	fc	-	***
+coches_yes_4_9	2	80	pero	pero	cc	coordinating	***
+coches_yes_4_9	2	81	vamos	ir	vmip1p0	main	***
+coches_yes_4_9	2	82	a	a	sps00	preposition	***
+coches_yes_4_9	2	83	hacer	hacer	vmn0000	main	***
+coches_yes_4_9	2	84	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	2	85	análisis	análisis	ncmn000	common	***
+coches_yes_4_9	2	86	más	más	rg	-	***
+coches_yes_4_9	2	87	detallado	detallar	vmp00sm	main	***
+coches_yes_4_9	2	88	de	de	sps00	preposition	***
+coches_yes_4_9	2	89	las	el	da0fp0	article	***
+coches_yes_4_9	2	90	características	característica	ncfp000	common	***
+coches_yes_4_9	2	91	de	de	sps00	preposition	***
+coches_yes_4_9	2	92	este	este	dd0ms0	demonstrative	***
+coches_yes_4_9	2	93	turismo	turismo	ncms000	common	***
+coches_yes_4_9	2	94	de	de	sps00	preposition	***
+coches_yes_4_9	2	95	clase	clase	ncfs000	common	***
+coches_yes_4_9	2	96	media	medio	aq0fs0	qualificative	***
+coches_yes_4_9	2	97	.	.	fp	-	***
+
+coches_yes_4_9	3	1	En	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	2	primer	1	ao0ms0	ordinal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	3	lugar	lugar	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	4	llama	llamar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	5	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	6	atención	atención	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	7	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	8	sencillez	sencillez	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	9	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	10	su	su	dp3cs0	possessive	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	11	diseño	diseño	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	12	exterior	exterior	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	13	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	14	sin	sin	sps00	preposition	sin	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	15	grandes	grande	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	16	adornos	adorno	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	17	ni	ni	cc	coordinating	-	-	-	ni	-	-	-	-	-
+coches_yes_4_9	3	18	formas	forma	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	19	extrañas	extraño	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	20	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	21	requiera	requerir	vmsp3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	22	cualquier	cualquiera	di0cs0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	23	examen	examen	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	24	aerodinámico	aerodinámico	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	25	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	26	este	este	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	27	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	28	tiene	tener	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	29	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	30	diseño	diseño	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	31	sencillo	sencillo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	32	a_la_vez_que	a_la_vez_que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	33	atractivo	atractivo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	34	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	35	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	36	podría	poder	vmic3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	37	decir	decir	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	38	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	39	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	40	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	41	vehículo	vehículo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	42	agradable	agradable	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	43	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	44	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	45	vista	vista	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	46	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	47	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	48	formas	forma	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	49	redondeadas	redondear	vmp00pf	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	50	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	51	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	52	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	53	detalle	detalle	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	54	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	55	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	56	espejos	espejo	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	57	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	58	parachoques	parachoques	ncmn000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	59	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	60	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	61	color	color	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	62	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	63	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	64	carrocería	carrocería	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	65	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	66	dan	dar	vmip3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	67	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	68	sensación	sensación	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	69	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	70	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	71	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	72	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	73	forma	forma	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	74	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	75	todo	todo	pi0ms000	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	76	completo	completo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	77	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	78	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+coches_yes_4_9	3	79	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	80	otros	otro	di0mp0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	81	vehículos	vehículo	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	82	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	83	parece	parecer	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	84	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	85	están	estar	vaip3p0	auxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	86	hechos	hacer	vmp00pm	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	87	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	88	piezas	pieza	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	89	separadas	separar	vmp00pf	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	90	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	91	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	92	tener	tener	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	93	espejos	espejo	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	94	parachoques	parachoques	ncmn000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	95	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	96	demás	demás	di0cp0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	97	elementos	elemento	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	98	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	99	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	100	color	color	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	101	distinto	distinto	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	102	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	103	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	104	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	105	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	106	carrocería	carrocería	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	107	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	108	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	109	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	110	mi	mi	dp1css	possessive	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	111	opinión	opinión	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	112	resulta	resultar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	113	totalmente	totalmente	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	114	antiestético	antiestético	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	3	115	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+coches_yes_4_9	4	1	De	de	sps00	preposition	***
+coches_yes_4_9	4	2	el	el	da0ms0	article	***
+coches_yes_4_9	4	3	exterior	exterior	ncms000	common	***
+coches_yes_4_9	4	4	también	también	rg	-	***
+coches_yes_4_9	4	5	debemos	deber	vmip1p0	main	***
+coches_yes_4_9	4	6	destacar	destacar	vmn0000	main	***
+coches_yes_4_9	4	7	la	el	da0fs0	article	***
+coches_yes_4_9	4	8	gran	gran	aq0cs0	qualificative	***
+coches_yes_4_9	4	9	luna	luna	ncfs000	common	***
+coches_yes_4_9	4	10	delantera	delantero	aq0fs0	qualificative	***
+coches_yes_4_9	4	11	que	que	cs	subordinating	***
+coches_yes_4_9	4	12	quizá	quizá	rg	-	***
+coches_yes_4_9	4	13	este	este	pd0ms000	demonstrative	***
+coches_yes_4_9	4	14	demasiado	demasiado	rg	-	***
+coches_yes_4_9	4	15	baja	bajo	aq0fs0	qualificative	***
+coches_yes_4_9	4	16	para	para	sps00	preposition	***
+coches_yes_4_9	4	17	mi	mi	dp1css	possessive	***
+coches_yes_4_9	4	18	gusto	gusto	ncms000	common	***
+coches_yes_4_9	4	19	pero	pero	cc	coordinating	***
+coches_yes_4_9	4	20	que	que	pr0cn000	relative	***
+coches_yes_4_9	4	21	permite	permitir	vmip3s0	main	***
+coches_yes_4_9	4	22	una	uno	di0fs0	indefinite	***
+coches_yes_4_9	4	23	muy	muy	rg	-	***
+coches_yes_4_9	4	24	buena	bueno	aq0fs0	qualificative	***
+coches_yes_4_9	4	25	visibilidad	visibilidad	ncfs000	common	***
+coches_yes_4_9	4	26	hacia	hacia	sps00	preposition	***
+coches_yes_4_9	4	27	el	el	da0ms0	article	***
+coches_yes_4_9	4	28	exterior	exterior	ncms000	common	***
+coches_yes_4_9	4	29	y	y	cc	coordinating	***
+coches_yes_4_9	4	30	que	que	pr0cn000	relative	***
+coches_yes_4_9	4	31	le	le	pp3csd00	personal	***
+coches_yes_4_9	4	32	da	dar	vmip3s0	main	***
+coches_yes_4_9	4	33	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	4	34	ligero	ligero	aq0ms0	qualificative	***
+coches_yes_4_9	4	35	aspecto	aspecto	ncms000	common	***
+coches_yes_4_9	4	36	de	de	sps00	preposition	***
+coches_yes_4_9	4	37	coche	coche	ncms000	common	***
+coches_yes_4_9	4	38	deportivo	deportivo	aq0ms0	qualificative	***
+coches_yes_4_9	4	39	desde	desde	sps00	preposition	***
+coches_yes_4_9	4	40	el	el	da0ms0	article	***
+coches_yes_4_9	4	41	exterior	exterior	ncms000	common	***
+coches_yes_4_9	4	42	.	.	fp	-	***
+
+coches_yes_4_9	5	1	La	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	2	entrada	entrada	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	3	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	4	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	5	habitáculo	habitáculo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	6	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	7	ve	ver	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	8	muy	muy	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	9	simplificada	simplificar	vmp00sf	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	10	por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	11	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	12	grandes	grande	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	13	puertas	puerta	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	14	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	15	lleva	llevar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	16	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	17	modelo	modelo	nccs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	18	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	19	tres	3	z	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	20	puertas	puerta	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	21	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	22	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	23	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	24	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	25	yo	yo	pp1csn00	personal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	26	tengo	tener	vmip1s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	27	oportunidad	oportunidad	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	28	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	29	conocer	conocer	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	30	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	31	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	32	grandes	grande	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	33	puertas	puerta	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	34	delanteras	delantero	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	35	permiten	permitir	vmip3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	36	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	37	paso	paso	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	38	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	39	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	40	plazas	plaza	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	41	traseras	trasero	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	42	sin	sin	sps00	preposition	sin	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	43	grandes	grande	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	44	contorsionismos	contorsionismo	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	45	ni	ni	cc	coordinating	-	-	-	ni	-	-	-	-	-
+coches_yes_4_9	5	46	aspavientos	aspaviento	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	47	extraños	extraño	aq0mp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	48	propios	propio	aq0mp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	49	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	50	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	51	persona	persona	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	52	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	53	quiere	querer	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	54	entrar	entrar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	55	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	56	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	57	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	58	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	59	tres	3	z	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	60	puertas	puerta	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	61	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	62	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	63	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	64	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	65	diseñadores	diseñador	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	66	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	67	olvidaron	olvidar	vmis3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	68	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	69	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	70	también	también	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	71	debían	deber	vmii3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	72	facilitar	facilitar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	73	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	74	paso	paso	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	75	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	76	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	77	personas	persona	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	78	q	q	ncfn000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	79	viajan	viajar	vmip3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	80	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	81	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	82	parte	parte	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	83	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	84	atrás	atrás	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	85	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	86	hemos	haber	vmip1p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	87	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	88	decir	decir	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	89	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	90	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+coches_yes_4_9	5	91	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	92	este	este	pd0ms000	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	93	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	94	caso	caso	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	95	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	96	este	este	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	97	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	98	viene	venir	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	99	dotado	dotar	vmp00sm	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	100	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	101	esas	ese	dd0fp0	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	102	grandes	grande	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	103	puertas	puerta	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	104	delanteras	delantero	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	105	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	106	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	107	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	108	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	109	une	unir	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	110	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	111	facilidad	facilidad	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	112	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	113	movimiento	movimiento	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	114	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	115	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	116	asientos	asiento	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	117	delanteros	delantero	aq0mp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	118	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	119	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	120	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	121	desplazan	desplazar	vmip3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	122	dejando	dejar	vmg0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	123	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	124	cantidad	cantidad	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	125	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	126	espacio	espacio	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	127	suficiente	suficiente	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	128	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	129	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	130	permitir	permitir	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	131	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	132	holgada	holgar	vmp00sf	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	133	entrada	entrada	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	134	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	135	salida	salida	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	136	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	137	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	138	habitáculo	habitáculo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	139	posterior	posterior	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	5	140	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+coches_yes_4_9	6	1	Una	uno	di0fs0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	6	2	vez	vez	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	6	3	sentado	sentar	vmp00sm	main	-	-	-	-	-	-
+coches_yes_4_9	6	4	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	5	las	el	da0fp0	article	-	-	-	-	-	-
+coches_yes_4_9	6	6	plazas	plaza	ncfp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	7	traseras	trasero	aq0fp0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	8	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	6	9	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	10	destacar	destacar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	6	11	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	6	12	amplitud	amplitud	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	6	13	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	14	tanto	tanto	rg	-	-	-	-	-	-	-
+coches_yes_4_9	6	15	hacia	hacia	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	16	delante	delante	rg	-	-	-	-	-	-	-
+coches_yes_4_9	6	17	como	como	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	6	18	hacia	hacia	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	19	los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	6	20	lados	lado	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	21	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	22	permite	permitir	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	6	23	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	6	24	viajen	viajar	vmsp3p0	main	-	-	-	-	-	-
+coches_yes_4_9	6	25	tres	3	z	-	-	-	-	-	-	-
+coches_yes_4_9	6	26	persona	persona	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	6	27	perfectamente	perfectamente	rg	-	-	-	-	-	-	-
+coches_yes_4_9	6	28	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	29	sin	sin	sps00	preposition	sin	-	-	-	-	-
+coches_yes_4_9	6	30	mayores	mayor	aq0cp0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	31	esfuerzos	esfuerzo	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	32	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	33	aspecto	aspecto	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	6	34	a	a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	35	destacar	destacar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	6	36	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	37	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	6	38	vehículo	vehículo	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	6	39	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	40	tres	3	z	-	-	-	-	-	-	-
+coches_yes_4_9	6	41	puertas	puerta	ncfp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	42	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	43	ya_que	ya_que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	6	44	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	45	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	6	46	resto	resto	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	6	47	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	48	vehículos	vehículo	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	49	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	50	su	su	dp3cs0	possessive	-	-	-	-	-	-
+coches_yes_4_9	6	51	estilo	estilo	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	6	52	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	53	lo	el	da0ns0	article	-	-	-	-	-	-
+coches_yes_4_9	6	54	más	más	rg	-	-	-	-	-	-	-
+coches_yes_4_9	6	55	destacable	destacable	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	56	no	no	rn	negative	-	-	-	no	-	-
+coches_yes_4_9	6	57	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	6	58	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	6	59	comodidad	comodidad	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	6	60	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	61	los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	6	62	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_4_9	6	63	viajan	viajar	vmip3p0	main	-	-	-	-	-	-
+coches_yes_4_9	6	64	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	65	los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	6	66	asientos	asiento	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	67	traseros	trasero	aq0mp0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	68	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	69	más_bien	más_bien	rg	-	-	-	-	-	-	-
+coches_yes_4_9	6	70	todo	todo	r	-	-	-	-	-	-	-
+coches_yes_4_9	6	71	lo	el	da0cn0	article	-	-	-	-	-	-
+coches_yes_4_9	6	72	contrario	contrario	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	73	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	6	74	suele	soler	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	6	75	ser	ser	vsn0000	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	6	76	uno	uno	pi0ms000	indefinite	-	-	-	-	-	-
+coches_yes_4_9	6	77	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	78	los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	6	79	aspectos	aspecto	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	80	negativos	negativo	aq0mp0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	6	81	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	6	82	estos	este	dd0mp0	demonstrative	-	-	-	-	-	-
+coches_yes_4_9	6	83	modelos	modelo	nccp000	common	-	-	-	-	-	-
+coches_yes_4_9	6	84	.	.	fp	-	-	-	-	-	-	-
+
+coches_yes_4_9	7	1	La	el	da0fs0	article	***
+coches_yes_4_9	7	2	estructura	estructura	ncfs000	common	***
+coches_yes_4_9	7	3	de	de	sps00	preposition	***
+coches_yes_4_9	7	4	el	el	da0ms0	article	***
+coches_yes_4_9	7	5	vehículo	vehículo	ncms000	common	***
+coches_yes_4_9	7	6	parece	parecer	vmip3s0	main	***
+coches_yes_4_9	7	7	mas	mas	ncms000	common	***
+coches_yes_4_9	7	8	endeble	endeble	aq0cs0	qualificative	***
+coches_yes_4_9	7	9	e	y	cc	coordinating	***
+coches_yes_4_9	7	10	insegura	inseguro	aq0fs0	qualificative	***
+coches_yes_4_9	7	11	de	de	sps00	preposition	***
+coches_yes_4_9	7	12	lo	el	da0ns0	article	***
+coches_yes_4_9	7	13	que	que	pr0cn000	relative	***
+coches_yes_4_9	7	14	debiera	deber	vmsi3s0	main	***
+coches_yes_4_9	7	15	,	,	fc	-	***
+coches_yes_4_9	7	16	en	en	sps00	preposition	***
+coches_yes_4_9	7	17	realidad	realidad	ncfs000	common	***
+coches_yes_4_9	7	18	sería	ser	vsic1s0	semiauxiliary	***
+coches_yes_4_9	7	19	de	de	sps00	preposition	***
+coches_yes_4_9	7	20	agradecer	agradecer	vmn0000	main	***
+coches_yes_4_9	7	21	una	uno	di0fs0	indefinite	***
+coches_yes_4_9	7	22	estructura	estructura	ncfs000	common	***
+coches_yes_4_9	7	23	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	7	24	poco	poco	pi0ms000	indefinite	***
+coches_yes_4_9	7	25	más	más	rg	-	***
+coches_yes_4_9	7	26	sólida	sólido	aq0fs0	qualificative	***
+coches_yes_4_9	7	27	,	,	fc	-	***
+coches_yes_4_9	7	28	esto	este	pd0ns000	demonstrative	***
+coches_yes_4_9	7	29	se	se	p00cn000	-	***
+coches_yes_4_9	7	30	nota	notar	vmip3s0	main	***
+coches_yes_4_9	7	31	sobre	sobre	sps00	preposition	***
+coches_yes_4_9	7	32	todo	todo	pi0ms000	indefinite	***
+coches_yes_4_9	7	33	cuando	cuando	cs	subordinating	***
+coches_yes_4_9	7	34	abres	abrir	vmip2s0	main	***
+coches_yes_4_9	7	35	las	el	da0fp0	article	***
+coches_yes_4_9	7	36	puertas	puerta	ncfp000	common	***
+coches_yes_4_9	7	37	,	,	fc	-	***
+coches_yes_4_9	7	38	se	se	p00cn000	-	***
+coches_yes_4_9	7	39	ve	ver	vmip3s0	main	***
+coches_yes_4_9	7	40	que	que	cs	subordinating	***
+coches_yes_4_9	7	41	son	ser	vsip3p0	semiauxiliary	***
+coches_yes_4_9	7	42	realemente	realemente	rg	-	***
+coches_yes_4_9	7	43	muy	muy	rg	-	***
+coches_yes_4_9	7	44	delgadas	delgado	aq0fp0	qualificative	***
+coches_yes_4_9	7	45	y	y	cc	coordinating	***
+coches_yes_4_9	7	46	poco	poco	rg	-	***
+coches_yes_4_9	7	47	sólidas	sólido	aq0fp0	qualificative	***
+coches_yes_4_9	7	48	a_el_igual_que	al_igual_que	cs	subordinating	***
+coches_yes_4_9	7	49	el	el	da0ms0	article	***
+coches_yes_4_9	7	50	resto	resto	ncms000	common	***
+coches_yes_4_9	7	51	de	de	sps00	preposition	***
+coches_yes_4_9	7	52	la	el	da0fs0	article	***
+coches_yes_4_9	7	53	estructura	estructura	ncfs000	common	***
+coches_yes_4_9	7	54	.	.	fp	-	***
+
+coches_yes_4_9	8	1	Esto	este	pd0ns000	demonstrative	***
+coches_yes_4_9	8	2	,	,	fc	-	***
+coches_yes_4_9	8	3	que	que	cs	subordinating	***
+coches_yes_4_9	8	4	para	para	sps00	preposition	***
+coches_yes_4_9	8	5	mi	mi	dp1css	possessive	***
+coches_yes_4_9	8	6	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	8	7	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	8	8	defecto	defecto	ncms000	common	***
+coches_yes_4_9	8	9	bastante	bastante	rg	-	***
+coches_yes_4_9	8	10	grave	grave	aq0cs0	qualificative	***
+coches_yes_4_9	8	11	de	de	sps00	preposition	***
+coches_yes_4_9	8	12	seguridad	seguridad	ncfs000	common	***
+coches_yes_4_9	8	13	,	,	fc	-	***
+coches_yes_4_9	8	14	se	se	p00cn000	-	***
+coches_yes_4_9	8	15	ve	ver	vmip3s0	main	***
+coches_yes_4_9	8	16	compensado	compensar	vmp00sm	main	***
+coches_yes_4_9	8	17	por	por	sps00	preposition	***
+coches_yes_4_9	8	18	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	8	19	morro	morro	ncms000	common	***
+coches_yes_4_9	8	20	bajo	bajo	aq0ms0	qualificative	***
+coches_yes_4_9	8	21	y	y	cc	coordinating	***
+coches_yes_4_9	8	22	los	el	da0mp0	article	***
+coches_yes_4_9	8	23	cuatro	4	z	-	***
+coches_yes_4_9	8	24	airbags	airbag	ncmp000	common	***
+coches_yes_4_9	8	25	que	que	pr0cn000	relative	***
+coches_yes_4_9	8	26	de	de	sps00	preposition	***
+coches_yes_4_9	8	27	los	el	da0mp0	article	***
+coches_yes_4_9	8	28	que	que	pr0cn000	relative	***
+coches_yes_4_9	8	29	viene	venir	vmip3s0	main	***
+coches_yes_4_9	8	30	dotado	dotar	vmp00sm	main	***
+coches_yes_4_9	8	31	el	el	da0ms0	article	***
+coches_yes_4_9	8	32	vehículo	vehículo	ncms000	common	***
+coches_yes_4_9	8	33	.	.	fp	-	***
+
+coches_yes_4_9	9	1	El	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	2	confort	confort	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	3	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	4	marcha	marcha	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	5	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	6	bastante	bastante	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	7	bueno	bueno	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	8	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	9	no	no	rn	negative	no	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	10	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	11	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	12	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	13	más	más	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	14	destaca	destacar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	15	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	16	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	17	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	18	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	19	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	20	estable	estable	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	21	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	22	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	23	curvas	curva	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	24	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	25	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	26	firme	firme	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	27	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	28	mal	mal	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	29	estado	estado	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	30	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	31	hace	hacer	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	32	notar	notar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	33	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	34	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	35	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	36	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	37	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	38	agarre	agarre	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	39	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	40	condiciones	condición	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	41	climatológicas	climatológico	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	42	adversas	adverso	aq0fp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	43	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+coches_yes_4_9	9	44	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	45	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	46	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	47	mejor	mejor	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	48	q	q	ncfn000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	49	tiene	tener	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	50	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	51	eso	ese	pd0ns000	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	52	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	53	cuestión	cuestión	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	54	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	55	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	56	ruedas	rueda	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	57	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	58	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	59	diseño	diseño	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	60	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	61	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	62	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	63	optimiza	optimizar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	64	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	65	recursos	recurso	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	66	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	67	conseguir	conseguir	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	68	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	69	máxima	máximo	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	70	estabilidad	estabilidad	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	71	posible	posible	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	72	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	73	las	el	da0fp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	74	ruedas	rueda	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	75	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	76	serie	serie	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	77	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+coches_yes_4_9	9	78	hacen	hacer	vmip3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	79	todo	todo	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	80	lo	lo	pp3cna00	personal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	81	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	82	debieran	deber	vmsi3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	83	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	84	aprovechar	aprovechar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	85	todos	todo	di0mp0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	86	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	87	recursos	recurso	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	88	q	q	ncfn000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	89	los	el	da0mp0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	90	ingenieros	ingeniero	ncmp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	91	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	92	Opel	opel	np00000	proper	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	93	pusieron	poner	vmis3p0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	94	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	95	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	96	alcance	alcance	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	97	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	98	este	este	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	99	vehículo	vehículo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	100	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	101	todo	todo	pi0ms000	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	102	será	ser	vsif3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	103	cuestión	cuestión	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	104	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	105	cambiar	cambiar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	106	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	107	ruedas	rueda	ncfp000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	108	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	109	poner	poner	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	110	unas	uno	di0fp0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	111	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	112	poco	poco	pi0ms000	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	113	más	más	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	114	decentes	decente	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	9	115	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+coches_yes_4_9	10	1	En_cuanto_a	en_cuanto_a	sps00	preposition	***
+coches_yes_4_9	10	2	la	el	da0fs0	article	***
+coches_yes_4_9	10	3	conducción	conducción	ncfs000	common	***
+coches_yes_4_9	10	4	hay	haber	vmip3s0	main	***
+coches_yes_4_9	10	5	que	que	cs	subordinating	***
+coches_yes_4_9	10	6	destacar	destacar	vmn0000	main	***
+coches_yes_4_9	10	7	que	que	cs	subordinating	***
+coches_yes_4_9	10	8	la	el	da0fs0	article	***
+coches_yes_4_9	10	9	posición	posición	ncfs000	common	***
+coches_yes_4_9	10	10	de	de	sps00	preposition	***
+coches_yes_4_9	10	11	el	el	da0ms0	article	***
+coches_yes_4_9	10	12	conductor	conductor	ncms000	common	***
+coches_yes_4_9	10	13	resulta	resultar	vmip3s0	main	***
+coches_yes_4_9	10	14	especialmente	especialmente	rg	-	***
+coches_yes_4_9	10	15	cómoda	cómodo	aq0fs0	qualificative	***
+coches_yes_4_9	10	16	,	,	fc	-	***
+coches_yes_4_9	10	17	el	el	da0ms0	article	***
+coches_yes_4_9	10	18	asiento	asiento	ncms000	common	***
+coches_yes_4_9	10	19	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	10	20	regulable	regulable	aq0cs0	qualificative	***
+coches_yes_4_9	10	21	en	en	sps00	preposition	***
+coches_yes_4_9	10	22	altura	altura	ncfs000	common	***
+coches_yes_4_9	10	23	y	y	cc	coordinating	***
+coches_yes_4_9	10	24	profundidad	profundidad	ncfs000	common	***
+coches_yes_4_9	10	25	así_como	así_como	cc	coordinating	***
+coches_yes_4_9	10	26	el	el	da0ms0	article	***
+coches_yes_4_9	10	27	volante	volante	ncms000	common	***
+coches_yes_4_9	10	28	lo	el	da0ns0	article	***
+coches_yes_4_9	10	29	que	que	pr0cn000	relative	***
+coches_yes_4_9	10	30	permite	permitir	vmip3s0	main	***
+coches_yes_4_9	10	31	una	uno	di0fs0	indefinite	***
+coches_yes_4_9	10	32	perfecta	perfecto	aq0fs0	qualificative	***
+coches_yes_4_9	10	33	adaptabilidad	adaptabilidad	ncfs000	common	***
+coches_yes_4_9	10	34	.	.	fp	-	***
+
+coches_yes_4_9	11	1	Los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	11	2	mandos	mando	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	3	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	4	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	11	5	panel	panel	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	6	central	central	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	7	no	no	rn	negative	no	-	-	-	-	-
+coches_yes_4_9	11	8	son	ser	vsip3p0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	9	todo	todo	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	11	10	lo	el	da0ns0	article	-	-	-	-	-	-
+coches_yes_4_9	11	11	sencillos	sencillo	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	12	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	13	rápidos	rápido	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	14	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	15	manejar	manejar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	16	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	11	17	podrían	poder	vmic3p0	main	-	-	-	-	-	-
+coches_yes_4_9	11	18	ser	ser	vsn0000	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	19	pero	pero	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	20	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	11	21	diseño	diseño	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	22	está	estar	vaip3s0	auxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	23	trabajado	trabajar	vmp00sm	main	-	-	-	-	-	-
+coches_yes_4_9	11	24	para	para	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	25	permitir	permitir	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	26	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	11	27	máxima	máximo	aq0fs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	28	funcionalidad	funcionalidad	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	29	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	30	comodidad	comodidad	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	31	posible	posible	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	32	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	11	33	resolviéndose	resolviéndose	vmsi3s0	main	-	-	-	-	-	-
+coches_yes_4_9	11	34	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	35	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	11	36	panel	panel	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	37	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	38	mandos	mando	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	39	escueto	escueto	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	40	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	41	sencillo	sencillo	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	42	con	con	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	43	las	el	da0fp0	article	-	-	-	-	-	-
+coches_yes_4_9	11	44	típicas	típico	aq0fp0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	45	rosquitas	rosca	ncfp00d	common	-	-	-	-	-	-
+coches_yes_4_9	11	46	para	para	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	47	manejar	manejar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	48	a	a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	49	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	11	50	aire	aire	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	51	acondicionado	acondicionar	vmp00sm	main	-	-	-	-	-	-
+coches_yes_4_9	11	52	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	53	una	uno	di0fs0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	11	54	radio	radio	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	55	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_4_9	11	56	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	57	lo	el	da0ns0	article	-	-	-	-	-	-
+coches_yes_4_9	11	58	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_4_9	11	59	se	se	p00cn000	-	-	-	-	-	-	-
+coches_yes_4_9	11	60	le	le	pp3csd00	personal	-	-	-	-	-	-
+coches_yes_4_9	11	61	puede	poder	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	11	62	pedir	pedir	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	63	a	a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	64	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	11	65	coche	coche	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	66	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	67	su	su	dp3cs0	possessive	-	-	-	-	-	-
+coches_yes_4_9	11	68	categoría	categoría	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	69	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	11	70	nadie	nadie	pi0cs000	indefinite	-	-	-	nadie	-	-
+coches_yes_4_9	11	71	da	dar	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	11	72	duros	duro	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	73	a	a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	74	cuatro	4	z	-	-	-	-	-	-	-
+coches_yes_4_9	11	75	pesetas	peseta	ncfp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	76	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	77	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	78	este	este	dd0ms0	demonstrative	-	-	-	-	-	-
+coches_yes_4_9	11	79	coche	coche	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	80	pagas	paga	ncfp000	common	-	-	-	-	-	-
+coches_yes_4_9	11	81	lo	el	da0ns0	article	-	-	-	-	-	-
+coches_yes_4_9	11	82	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_4_9	11	83	recibes	recibir	vmip2s0	main	-	-	-	-	-	-
+coches_yes_4_9	11	84	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	85	en_cuanto_a	en_cuanto_a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	86	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	11	87	radio	radio	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	88	sólo	sólo	rg	-	-	-	-	-	-	-
+coches_yes_4_9	11	89	decir	decir	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	90	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	11	91	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	92	un	uno	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	11	93	coche	coche	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	94	barato	barato	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	95	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	11	96	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	11	97	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	98	destacar	destacar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	99	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	11	100	te	te	pp2cs000	personal	-	-	-	-	-	-
+coches_yes_4_9	11	101	informa	informar	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	11	102	en	en	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	103	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	11	104	parte	parte	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	105	superior	superior	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	106	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	107	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	11	108	panel	panel	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	11	109	central	central	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	110	sobre	sobre	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	11	111	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	11	112	temperatura	temperatura	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	113	exterior	exterior	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	11	114	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	11	115	la	el	da0fs0	article	-	-	-	-	-	-
+coches_yes_4_9	11	116	emisora	emisora	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	11	117	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	11	118	estas	este	pd0fp000	demonstrative	-	-	-	-	-	-
+coches_yes_4_9	11	119	escuchando	escuchar	vmg0000	main	-	-	-	-	-	-
+coches_yes_4_9	11	120	.	.	fp	-	-	-	-	-	-	-
+
+coches_yes_4_9	12	1	En_cuanto_a	en_cuanto_a	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	12	2	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	12	3	resto	resto	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	12	4	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	12	5	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	12	6	salpicadero	salpicadero	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	12	7	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-
+coches_yes_4_9	12	8	que	que	cs	subordinating	-	-	-	-	-	-
+coches_yes_4_9	12	9	reseñar	reseñar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	12	10	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	12	11	el	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_4_9	12	12	panel	panel	ncms000	common	-	-	-	-	-	-
+coches_yes_4_9	12	13	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	12	14	relojes	reloj	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	12	15	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	12	16	bastante	bastante	rg	-	-	-	-	-	-	-
+coches_yes_4_9	12	17	sencillo	sencillo	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	12	18	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	12	19	permite	permitir	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	12	20	una	uno	di0fs0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	12	21	lectura	lectura	ncfs000	common	-	-	-	-	-	-
+coches_yes_4_9	12	22	clara	claro	aq0fs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	12	23	y	y	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	12	24	rápida	rápido	aq0fs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	12	25	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	12	26	todo	todo	di0ms0	indefinite	-	-	-	-	-	-
+coches_yes_4_9	12	27	los	el	da0mp0	article	-	-	-	-	-	-
+coches_yes_4_9	12	28	datos	dato	ncmp000	common	-	-	-	-	-	-
+coches_yes_4_9	12	29	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_4_9	12	30	nos	nos	pp1cp000	personal	-	-	-	-	-	-
+coches_yes_4_9	12	31	indica	indicar	vmip3s0	main	-	-	-	-	-	-
+coches_yes_4_9	12	32	,	,	fc	-	-	-	-	-	-	-
+coches_yes_4_9	12	33	podría	poder	vmic3s0	main	-	-	-	-	-	-
+coches_yes_4_9	12	34	estar	estar	van0000	auxiliary	-	-	-	-	-	-
+coches_yes_4_9	12	35	mejor	mejor	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_4_9	12	36	pero	pero	cc	coordinating	-	-	-	-	-	-
+coches_yes_4_9	12	37	tampoco	tampoco	rg	-	-	-	-	tampoco	-	-
+coches_yes_4_9	12	38	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_4_9	12	39	para	para	sps00	preposition	-	-	-	-	-	-
+coches_yes_4_9	12	40	quejar	quejar	vmn0000	main	-	-	-	-	-	-
+coches_yes_4_9	12	41	se	se	pp3cn000	personal	-	-	-	-	-	-
+coches_yes_4_9	12	42	.	.	fp	-	-	-	-	-	-	-
+
+coches_yes_4_9	13	1	Por	por	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	2	último	último	ao0ms0	ordinal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	3	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	4	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	5	volante	volante	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	6	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	7	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	8	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	9	decir	decir	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	10	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	11	él	él	pp3ms000	personal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	12	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	13	sencillo	sencillo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	14	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	15	cómodo	cómodo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	16	no	no	rn	negative	-	-	-	no	-	-	-	-	-
+coches_yes_4_9	13	17	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	18	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	19	piel	piel	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	20	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	21	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	22	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	23	plástico	plástico	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	24	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	25	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	26	malo	malo	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	27	como	como	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	28	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	29	resto	resto	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	30	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	31	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	32	salpicadero	salpicadero	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	33	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	34	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	35	verdad	verdad	ncfs000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	36	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	37	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	38	cuesta	costar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	39	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	40	triunfo	triunfo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	41	limpiar	limpiar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	42	lo	lo	pp3cna00	personal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	43	si	si	cs	subordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	44	no	no	rn	negative	-	-	-	-	-	-	no	-	-
+coches_yes_4_9	13	45	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	46	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	47	algún	alguno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	48	producto	producto	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	49	abrillantador	abrillantador	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	50	,	,	fc	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	51	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	52	le	le	pp3csd00	personal	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	53	incrusta	incrustar	vmip3s0	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	54	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	55	polvo	polvo	ncms000	common	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	56	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	57	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	58	casi	casi	rg	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	59	imposible	imposible	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	60	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	61	quitar	quitar	vmn0000	main	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	13	62	.	.	fp	-	-	-	-	-	-	-	-	-	-
+
+coches_yes_4_9	14	1	Por_otro_lado	por_otro_lado	rg	-	***
+coches_yes_4_9	14	2	,	,	fc	-	***
+coches_yes_4_9	14	3	debemos	deber	vmip1p0	main	***
+coches_yes_4_9	14	4	hablar	hablar	vmn0000	main	***
+coches_yes_4_9	14	5	de	de	sps00	preposition	***
+coches_yes_4_9	14	6	el	el	da0ms0	article	***
+coches_yes_4_9	14	7	aspecto	aspecto	ncms000	common	***
+coches_yes_4_9	14	8	más	más	rg	-	***
+coches_yes_4_9	14	9	importante	importante	aq0cs0	qualificative	***
+coches_yes_4_9	14	10	de	de	sps00	preposition	***
+coches_yes_4_9	14	11	el	el	da0ms0	article	***
+coches_yes_4_9	14	12	coche	coche	ncms000	common	***
+coches_yes_4_9	14	13	,	,	fc	-	***
+coches_yes_4_9	14	14	el	el	da0ms0	article	***
+coches_yes_4_9	14	15	confort	confort	ncms000	common	***
+coches_yes_4_9	14	16	de	de	sps00	preposition	***
+coches_yes_4_9	14	17	quien	quien	pr0cs000	relative	***
+coches_yes_4_9	14	18	lo	lo	pp3cna00	personal	***
+coches_yes_4_9	14	19	conduce	conducir	vmip3s0	main	***
+coches_yes_4_9	14	20	,	,	fc	-	***
+coches_yes_4_9	14	21	y	y	cc	coordinating	***
+coches_yes_4_9	14	22	en	en	sps00	preposition	***
+coches_yes_4_9	14	23	este	este	dd0ms0	demonstrative	***
+coches_yes_4_9	14	24	caso	caso	ncms000	common	***
+coches_yes_4_9	14	25	hay	haber	vmip3s0	main	***
+coches_yes_4_9	14	26	que	que	cs	subordinating	***
+coches_yes_4_9	14	27	decir	decir	vmn0000	main	***
+coches_yes_4_9	14	28	que	que	cs	subordinating	***
+coches_yes_4_9	14	29	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	14	30	realmente	realmente	rg	-	***
+coches_yes_4_9	14	31	cómodo	cómodo	aq0ms0	qualificative	***
+coches_yes_4_9	14	32	y	y	cc	coordinating	***
+coches_yes_4_9	14	33	fácil	fácil	aq0cs0	qualificative	***
+coches_yes_4_9	14	34	de	de	sps00	preposition	***
+coches_yes_4_9	14	35	conducir	conducir	vmn0000	main	***
+coches_yes_4_9	14	36	,	,	fc	-	***
+coches_yes_4_9	14	37	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	14	38	embrague	embrague	ncms000	common	***
+coches_yes_4_9	14	39	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	14	40	poco	poco	rg	-	***
+coches_yes_4_9	14	41	blando	blando	aq0ms0	qualificative	***
+coches_yes_4_9	14	42	hasta	hasta	sps00	preposition	***
+coches_yes_4_9	14	43	que	que	pr0cn000	relative	***
+coches_yes_4_9	14	44	te	te	pp2cs000	personal	***
+coches_yes_4_9	14	45	acostumbras	acostumbrar	vmip2s0	main	***
+coches_yes_4_9	14	46	(	(	fpa	-	***
+coches_yes_4_9	14	47	como	como	cs	subordinating	***
+coches_yes_4_9	14	48	todos	todo	di0mp0	indefinite	***
+coches_yes_4_9	14	49	los	el	da0mp0	article	***
+coches_yes_4_9	14	50	coches	coche	ncmp000	common	***
+coches_yes_4_9	14	51	de	de	sps00	preposition	***
+coches_yes_4_9	14	52	gasolina	gasolina	ncfs000	common	***
+coches_yes_4_9	14	53	)	)	fpt	-	***
+coches_yes_4_9	14	54	,	,	fc	-	***
+coches_yes_4_9	14	55	pero	pero	cc	coordinating	***
+coches_yes_4_9	14	56	esto	este	pd0ns000	demonstrative	***
+coches_yes_4_9	14	57	queda	quedar	vmip3s0	main	***
+coches_yes_4_9	14	58	compensando	compensar	vmg0000	main	***
+coches_yes_4_9	14	59	con	con	sps00	preposition	***
+coches_yes_4_9	14	60	una	uno	di0fs0	indefinite	***
+coches_yes_4_9	14	61	palanca	palanca	ncfs000	common	***
+coches_yes_4_9	14	62	de	de	sps00	preposition	***
+coches_yes_4_9	14	63	cambios	cambio	ncmp000	common	***
+coches_yes_4_9	14	64	de	de	sps00	preposition	***
+coches_yes_4_9	14	65	un	uno	di0ms0	indefinite	***
+coches_yes_4_9	14	66	tacto	tacto	ncms000	common	***
+coches_yes_4_9	14	67	y	y	cc	coordinating	***
+coches_yes_4_9	14	68	suavidad	suavidad	ncfs000	common	***
+coches_yes_4_9	14	69	de	de	sps00	preposition	***
+coches_yes_4_9	14	70	manejo	manejo	ncms000	common	***
+coches_yes_4_9	14	71	deliciosos	delicioso	aq0mp0	qualificative	***
+coches_yes_4_9	14	72	,	,	fc	-	***
+coches_yes_4_9	14	73	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_9	14	74	casi	casi	rg	-	***
+coches_yes_4_9	14	75	lo	el	da0ns0	article	***
+coches_yes_4_9	14	76	que	que	pr0cn000	relative	***
+coches_yes_4_9	14	77	más	más	rg	-	***
+coches_yes_4_9	14	78	destaco	destacar	vmip1s0	main	***
+coches_yes_4_9	14	79	de	de	sps00	preposition	***
+coches_yes_4_9	14	80	el	el	da0ms0	article	***
+coches_yes_4_9	14	81	coche	coche	ncms000	common	***
+coches_yes_4_9	14	82	,	,	fc	-	***
+coches_yes_4_9	14	83	junto_con	junto_con	sps00	preposition	***
+coches_yes_4_9	14	84	la	el	da0fs0	article	***
+coches_yes_4_9	14	85	amplitud	amplitud	ncfs000	common	***
+coches_yes_4_9	14	86	de	de	sps00	preposition	***
+coches_yes_4_9	14	87	las	el	da0fp0	article	***
+coches_yes_4_9	14	88	plazas	plaza	ncfp000	common	***
+coches_yes_4_9	14	89	traseras	trasero	aq0fp0	qualificative	***
+coches_yes_4_9	14	90	y	y	cc	coordinating	***
+coches_yes_4_9	14	91	lo	el	da0ns0	article	***
+coches_yes_4_9	14	92	sencillo	sencillo	aq0ms0	qualificative	***
+coches_yes_4_9	14	93	de	de	sps00	preposition	***
+coches_yes_4_9	14	94	su	su	dp3cs0	possessive	***
+coches_yes_4_9	14	95	acceso	acceso	ncms000	common	***
+coches_yes_4_9	14	96	a	a	sps00	preposition	***
+coches_yes_4_9	14	97	ellas	ellos	pp3fp000	personal	***
+coches_yes_4_9	14	98	.	.	fp	-	***
+
+coches_yes_4_9	15	1	A	a	sps00	preposition	-	-	-
+coches_yes_4_9	15	2	el	el	da0ms0	article	-	-	-
+coches_yes_4_9	15	3	motor	motor	ncms000	common	-	-	-
+coches_yes_4_9	15	4	y	y	cc	coordinating	-	-	-
+coches_yes_4_9	15	5	su	su	dp3cs0	possessive	-	-	-
+coches_yes_4_9	15	6	potencia	potencia	ncfs000	common	-	-	-
+coches_yes_4_9	15	7	le	le	pp3csd00	personal	-	-	-
+coches_yes_4_9	15	8	pasa	pasar	vmip3s0	main	-	-	-
+coches_yes_4_9	15	9	lo	el	da0ns0	article	-	-	-
+coches_yes_4_9	15	10	mismo	mismo	aq0ms0	qualificative	-	-	-
+coches_yes_4_9	15	11	que	que	cs	subordinating	-	-	-
+coches_yes_4_9	15	12	a	a	sps00	preposition	-	-	-
+coches_yes_4_9	15	13	la	el	da0fs0	article	-	-	-
+coches_yes_4_9	15	14	radio	radio	ncfs000	common	-	-	-
+coches_yes_4_9	15	15	,	,	fc	-	-	-	-
+coches_yes_4_9	15	16	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_4_9	15	17	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_4_9	15	18	coche	coche	ncms000	common	-	-	-
+coches_yes_4_9	15	19	barato	barato	aq0ms0	qualificative	-	-	-
+coches_yes_4_9	15	20	,	,	fc	-	-	-	-
+coches_yes_4_9	15	21	con	con	sps00	preposition	-	-	-
+coches_yes_4_9	15	22	eso	ese	pd0ns000	demonstrative	-	-	-
+coches_yes_4_9	15	23	queda	quedar	vmip3s0	main	-	-	-
+coches_yes_4_9	15	24	todo	todo	pi0ms000	indefinite	-	-	-
+coches_yes_4_9	15	25	dicho	decir	vmp00sm	main	-	-	-
+coches_yes_4_9	15	26	,	,	fc	-	-	-	-
+coches_yes_4_9	15	27	le	le	pp3csd00	personal	-	-	-
+coches_yes_4_9	15	28	pides	pedir	vmip2s0	main	-	-	-
+coches_yes_4_9	15	29	potencia	potencia	ncfs000	common	-	-	-
+coches_yes_4_9	15	30	y	y	cc	coordinating	-	-	-
+coches_yes_4_9	15	31	te	te	pp2cs000	personal	-	-	-
+coches_yes_4_9	15	32	da	dar	vmip3s0	main	-	-	-
+coches_yes_4_9	15	33	lo	el	da0ns0	article	-	-	-
+coches_yes_4_9	15	34	que	que	pr0cn000	relative	-	-	-
+coches_yes_4_9	15	35	puede	poder	vmip3s0	main	-	-	-
+coches_yes_4_9	15	36	que	que	pr0cn000	relative	-	-	-
+coches_yes_4_9	15	37	no	no	rn	negative	no	-	-
+coches_yes_4_9	15	38	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_4_9	15	39	poco	poco	rg	-	-	-	-
+coches_yes_4_9	15	40	,	,	fc	-	-	-	-
+coches_yes_4_9	15	41	pero	pero	cc	coordinating	-	-	-
+coches_yes_4_9	15	42	bueno	bueno	i	-	-	-	-
+coches_yes_4_9	15	43	,	,	fc	-	-	-	-
+coches_yes_4_9	15	44	siempre	siempre	rg	-	-	-	-
+coches_yes_4_9	15	45	te	te	pp2cs000	personal	-	-	-
+coches_yes_4_9	15	46	queda	quedar	vmip3s0	main	-	-	-
+coches_yes_4_9	15	47	la	el	da0fs0	article	-	-	-
+coches_yes_4_9	15	48	pena	pena	ncfs000	common	-	-	-
+coches_yes_4_9	15	49	de	de	sps00	preposition	-	-	-
+coches_yes_4_9	15	50	que	que	pr0cn000	relative	-	-	-
+coches_yes_4_9	15	51	podría	poder	vmic3s0	main	-	-	-
+coches_yes_4_9	15	52	ser	ser	vsn0000	semiauxiliary	-	-	-
+coches_yes_4_9	15	53	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_4_9	15	54	poco	poco	pi0ms000	indefinite	-	-	-
+coches_yes_4_9	15	55	más	más	rg	-	-	-	-
+coches_yes_4_9	15	56	.	.	fp	-	-	-	-
+
+coches_yes_4_9	16	1	En_todo_caso	en_todo_caso	rg	-	-	-	-
+coches_yes_4_9	16	2	,	,	fc	-	-	-	-
+coches_yes_4_9	16	3	no	no	rn	negative	no	-	-
+coches_yes_4_9	16	4	se	se	p00cn000	-	-	-	-
+coches_yes_4_9	16	5	queda	quedar	vmip3s0	main	-	-	-
+coches_yes_4_9	16	6	corto	corto	aq0ms0	qualificative	-	-	-
+coches_yes_4_9	16	7	ni	ni	cc	coordinating	ni	-	-
+coches_yes_4_9	16	8	en	en	sps00	preposition	-	-	-
+coches_yes_4_9	16	9	carretera	carretera	ncfs000	common	-	-	-
+coches_yes_4_9	16	10	ni	ni	cc	coordinating	ni	-	-
+coches_yes_4_9	16	11	en	en	sps00	preposition	-	-	-
+coches_yes_4_9	16	12	ciudad	ciudad	ncfs000	common	-	-	-
+coches_yes_4_9	16	13	,	,	fc	-	-	-	-
+coches_yes_4_9	16	14	responde	responder	vmip3s0	main	-	-	-
+coches_yes_4_9	16	15	bien	bien	rg	-	-	-	-
+coches_yes_4_9	16	16	en	en	sps00	preposition	-	-	-
+coches_yes_4_9	16	17	ambas	ambos	di0fp0	indefinite	-	-	-
+coches_yes_4_9	16	18	circunstancias	circunstancia	ncfp000	common	-	-	-
+coches_yes_4_9	16	19	,	,	fc	-	-	-	-
+coches_yes_4_9	16	20	con	con	sps00	preposition	-	-	-
+coches_yes_4_9	16	21	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_4_9	16	22	consumo	consumo	ncms000	common	-	-	-
+coches_yes_4_9	16	23	de	de	sps00	preposition	-	-	-
+coches_yes_4_9	16	24	gasolina	gasolina	ncfs000	common	-	-	-
+coches_yes_4_9	16	25	bastante	bastante	rg	-	-	-	-
+coches_yes_4_9	16	26	ajustado	ajustar	vmp00sm	main	-	-	-
+coches_yes_4_9	16	27	,	,	fc	-	-	-	-
+coches_yes_4_9	16	28	y	y	cc	coordinating	-	-	-
+coches_yes_4_9	16	29	como	como	cs	subordinating	-	-	-
+coches_yes_4_9	16	30	todos	todo	di0mp0	indefinite	-	-	-
+coches_yes_4_9	16	31	los	el	da0mp0	article	-	-	-
+coches_yes_4_9	16	32	Opel	opel	np00000	proper	-	-	-
+coches_yes_4_9	16	33	con	con	sps00	preposition	-	-	-
+coches_yes_4_9	16	34	catalizador	catalizador	ncms000	common	-	-	-
+coches_yes_4_9	16	35	,	,	fc	-	-	-	-
+coches_yes_4_9	16	36	que	que	cs	subordinating	-	-	-
+coches_yes_4_9	16	37	bueno	bueno	i	-	-	-	-
+coches_yes_4_9	16	38	,	,	fc	-	-	-	-
+coches_yes_4_9	16	39	siempre	siempre	rg	-	-	-	-
+coches_yes_4_9	16	40	está	estar	vaip3s0	auxiliary	-	-	-
+coches_yes_4_9	16	41	bien	bien	rg	-	-	-	-
+coches_yes_4_9	16	42	que	que	cs	subordinating	-	-	-
+coches_yes_4_9	16	43	cuide	cuidar	vmsp3s0	main	-	-	-
+coches_yes_4_9	16	44	el	el	da0ms0	article	-	-	-
+coches_yes_4_9	16	45	medio	medio	aq0ms0	qualificative	-	-	-
+coches_yes_4_9	16	46	ambiente	ambiente	ncms000	common	-	-	-
+coches_yes_4_9	16	47	,	,	fc	-	-	-	-
+coches_yes_4_9	16	48	si	si	cs	subordinating	-	-	-
+coches_yes_4_9	16	49	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_4_9	16	50	que	que	cs	subordinating	-	-	-
+coches_yes_4_9	16	51	el	el	da0ms0	article	-	-	-
+coches_yes_4_9	16	52	catalizador	catalizador	ncms000	common	-	-	-
+coches_yes_4_9	16	53	sirve	servir	vmip3s0	main	-	-	-
+coches_yes_4_9	16	54	para	para	sps00	preposition	-	-	-
+coches_yes_4_9	16	55	algo	algo	pi0cs000	indefinite	-	-	-
+coches_yes_4_9	16	56	.	.	fp	-	-	-	-
+
+coches_yes_4_9	17	1	Como	como	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	2	conclusión	conclusión	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	3	decir	decir	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	4	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	5	se	se	p00cn000	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	6	trata	tratar	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	7	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	8	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	9	buen	bueno	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	10	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	11	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	12	teniendo_en_cuenta	tener_en_cuenta	vmg0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	13	claro	claro	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	14	está	estar	vaip3s0	auxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	15	su	su	dp3cs0	possessive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	16	precio	precio	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	17	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	18	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	19	marca	marca	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	20	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	21	no	no	rn	negative	no	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	22	tengo	tener	vmip1s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	23	nada	nada	pi0cs000	indefinite	nada	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	24	en_contra_de	en_contra_de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	25	Opel	opel	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	26	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	27	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	28	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	29	verdad	verdad	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	30	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	31	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	32	tampoco	tampoco	rg	-	-	-	-	tampoco	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	33	tengo	tener	vmip1s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	34	nada	nada	pi0cs000	indefinite	-	-	-	nada	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	35	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	36	favor	favor	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	37	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	38	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	39	mi	mi	dp1css	possessive	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	40	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	41	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	42	marca	marca	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	43	más	más	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	44	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	45	pasa	pasar	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	46	desapercibida	desapercibido	aq0fs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	47	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	48	hasta	hasta	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	49	ahora	ahora	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	50	no	no	rn	negative	-	-	-	-	-	-	no	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	51	han	haber	vaip3p0	auxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	52	sido	ser	vsp00sm	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	53	capaces	capaz	aq0cp0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	54	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	55	diseñar	diseñar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	56	ningún	ninguno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	ningún	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	57	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	58	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	59	me	me	pp1cs000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	60	apasione	apasionar	vmsp3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	61	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	62	pero	pero	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	63	bueno	bueno	i	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	64	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	65	todavía	todavía	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	66	está	estar	vaip3s0	auxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	67	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	68	tiempo	tiempo	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	69	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	70	más	más	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	71	éxito	éxito	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	72	tiene	tener	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	73	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	74	Citroen_Xsara	citroen_xsara	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	75	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	76	ese	ese	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	77	si	si	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	78	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	79	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	80	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	81	dar	dar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	82	le	le	pp3csd00	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	83	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	84	comer	comer	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	85	aparte	aparte	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	86	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	87	ese	ese	dd0ms0	demonstrative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	88	éxito	éxito	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	89	deja	dejar	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	90	claro	claro	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	91	una	uno	di0fs0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	92	cosa	cosa	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	93	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	94	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	95	aunque	aunque	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	96	la	el	da0fs0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	97	gente	gente	ncfs000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	98	tiene	tener	vmip3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	99	dinero	dinero	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	100	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	101	comprar	comprar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	102	se	se	pp3cn000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	103	coches	coche	ncmp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	104	hoy	hoy	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	105	más	más	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	106	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	107	nunca	nunca	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	nunca	-	-	-	-	-
+coches_yes_4_9	17	108	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	109	todavía	todavía	rg	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	110	no	no	rn	negative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	no	-	-
+coches_yes_4_9	17	111	tienen	tener	vmip3p0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	112	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	113	suficiente	suficiente	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	114	para	para	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	115	comprar	comprar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	116	se	se	pp3cn000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	117	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	118	buen	bueno	aq0ms0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	119	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	120	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	121	esto	este	pd0ns000	demonstrative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	122	fue	ser	vsis3s0	semiauxiliary	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	123	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	124	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	125	le	le	pp3csd00	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	126	pasó	pasar	vmis3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	127	a	a	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	128	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	129	propietario	propietario	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	130	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	131	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	132	Astra	astra	np00000	proper	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	133	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	134	el	el	da0ms0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	135	que	que	pr0cn000	relative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	136	hablo	hablar	vmip1s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	137	,	,	fc	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	138	necesitaba	necesitar	vmii3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	139	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	140	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	141	y	y	cc	coordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	142	a_falta_de	a_falta_de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	143	un	uno	di0ms0	indefinite	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	144	coche	coche	ncms000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	145	en	en	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	146	condiciones	condición	ncfp000	common	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	147	tuvo	tener	vmis3s0	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	148	que	que	cs	subordinating	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	149	conformar	conformar	vmn0000	main	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	150	se	se	pp3cn000	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	151	con	con	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	152	lo	lo	pp3cna00	personal	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	153	mejor	mejor	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	154	de	de	sps00	preposition	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	155	lo	el	da0ns0	article	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	156	normal	normal	aq0cs0	qualificative	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+coches_yes_4_9	17	157	.	.	fp	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+
+coches_no_1_15	1	1	Desde_luego	desde_luego	rg	-	-	-	-
+coches_no_1_15	1	2	que	que	cs	subordinating	-	-	-
+coches_no_1_15	1	3	la	el	da0fs0	article	-	-	-
+coches_no_1_15	1	4	Voyager	voyager	np00000	proper	-	-	-
+coches_no_1_15	1	5	ha	haber	vaip3s0	auxiliary	-	-	-
+coches_no_1_15	1	6	sido	ser	vsp00sm	semiauxiliary	-	-	-
+coches_no_1_15	1	7	y	y	cc	coordinating	-	-	-
+coches_no_1_15	1	8	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_no_1_15	1	9	un	uno	di0ms0	indefinite	-	-	-
+coches_no_1_15	1	10	exito	exito	ncms000	common	-	-	-
+coches_no_1_15	1	11	de	de	sps00	preposition	-	-	-
+coches_no_1_15	1	12	ventas	venta	ncfp000	common	-	-	-
+coches_no_1_15	1	13	no	no	rn	negative	no	-	-
+coches_no_1_15	1	14	se	se	p00cn000	-	-	-	-
+coches_no_1_15	1	15	puede	poder	vmip3s0	main	-	-	-
+coches_no_1_15	1	16	discutir	discutir	vmn0000	main	-	-	-
+coches_no_1_15	1	17	.	.	fp	-	-	-	-
+
+coches_no_1_15	2	1	Pero	pero	cc	coordinating	***
+coches_no_1_15	2	2	yo	yo	pp1csn00	personal	***
+coches_no_1_15	2	3	me	me	pp1cs000	personal	***
+coches_no_1_15	2	4	deshice	deshacer	vmis1s0	main	***
+coches_no_1_15	2	5	de	de	sps00	preposition	***
+coches_no_1_15	2	6	ella	él	pp3fs000	personal	***
+coches_no_1_15	2	7	en_menos_de	en_menos_de	sps00	preposition	***
+coches_no_1_15	2	8	dos	2	z	-	***
+coches_no_1_15	2	9	años	año	ncmp000	common	***
+coches_no_1_15	2	10	.	.	fp	-	***
+
+coches_no_1_15	3	1	Patetico	patetico	np00000	proper	***
+coches_no_1_15	3	2	servicio	servicio	ncms000	common	***
+coches_no_1_15	3	3	a	a	sps00	preposition	***
+coches_no_1_15	3	4	el	el	da0ms0	article	***
+coches_no_1_15	3	5	cliente	cliente	nccs000	common	***
+coches_no_1_15	3	6	para	para	sps00	preposition	***
+coches_no_1_15	3	7	un	uno	di0ms0	indefinite	***
+coches_no_1_15	3	8	coche	coche	ncms000	common	***
+coches_no_1_15	3	9	de	de	sps00	preposition	***
+coches_no_1_15	3	10	4.000.000_millones	4000000000000	zd	-	***
+coches_no_1_15	3	11	de	de	sps00	preposition	***
+coches_no_1_15	3	12	pesetas	peseta	ncfp000	common	***
+coches_no_1_15	3	13	.	.	fp	-	***
+
+coches_no_1_15	4	1	Voluntarioso	voluntarioso	aq0ms0	qualificative	***
+coches_no_1_15	4	2	motor	motor	ncms000	common	***
+coches_no_1_15	4	3	2.5	2.5	z	-	***
+coches_no_1_15	4	4	TD	td	np00000	proper	***
+coches_no_1_15	4	5	,	,	fc	-	***
+coches_no_1_15	4	6	pero	pero	cc	coordinating	***
+coches_no_1_15	4	7	a	a	sps00	preposition	***
+coches_no_1_15	4	8	el	el	da0ms0	article	***
+coches_no_1_15	4	9	igual	igual	aq0cs0	qualificative	***
+coches_no_1_15	4	10	de	de	sps00	preposition	***
+coches_no_1_15	4	11	antiguo	antiguo	aq0ms0	qualificative	***
+coches_no_1_15	4	12	que	que	pr0cn000	relative	***
+coches_no_1_15	4	13	gaston	gaston	vmis3p0	main	***
+coches_no_1_15	4	14	.	.	fp	-	***
+
+coches_no_1_15	5	1	Fiabilidad	fiabilidad	ncfs000	common	***
+coches_no_1_15	5	2	sospechosa	sospechoso	aq0fs0	qualificative	***
+coches_no_1_15	5	3	a_partir_de	a_partir_de	sps00	preposition	***
+coches_no_1_15	5	4	100.000	100000	z	-	***
+coches_no_1_15	5	5	km	kilómetro	ncmn000	common	***
+coches_no_1_15	5	6	,	,	fc	-	***
+coches_no_1_15	5	7	ya_que	ya_que	cs	subordinating	***
+coches_no_1_15	5	8	la	el	da0fs0	article	***
+coches_no_1_15	5	9	mia	mia	ncfs000	common	***
+coches_no_1_15	5	10	a	a	sps00	preposition	***
+coches_no_1_15	5	11	el	el	da0ms0	article	***
+coches_no_1_15	5	12	menos	menos	rg	-	***
+coches_no_1_15	5	13	ya	ya	rg	-	***
+coches_no_1_15	5	14	rezumaba	rezumar	vmii3s0	main	***
+coches_no_1_15	5	15	aceitillo	aceitillo	ncms000	common	***
+coches_no_1_15	5	16	.	.	fp	-	***
+
+coches_no_1_15	6	1	Eso	ese	pd0ns000	demonstrative	-	-	-
+coches_no_1_15	6	2	si	si	cs	subordinating	-	-	-
+coches_no_1_15	6	3	,	,	fc	-	-	-	-
+coches_no_1_15	6	4	el	el	da0ms0	article	-	-	-
+coches_no_1_15	6	5	motor	motor	ncms000	common	-	-	-
+coches_no_1_15	6	6	tiraba	tirar	vmii3s0	main	-	-	-
+coches_no_1_15	6	7	muy	muy	rg	-	-	-	-
+coches_no_1_15	6	8	bien	bien	rg	-	-	-	-
+coches_no_1_15	6	9	,	,	fc	-	-	-	-
+coches_no_1_15	6	10	pero	pero	cc	coordinating	-	-	-
+coches_no_1_15	6	11	se	se	p00cn000	-	-	-	-
+coches_no_1_15	6	12	estropearon	estropear	vmis3p0	main	-	-	-
+coches_no_1_15	6	13	elevalunas	elevalunas	ncmn000	common	-	-	-
+coches_no_1_15	6	14	varias	varios	di0fp0	indefinite	-	-	-
+coches_no_1_15	6	15	veces	vez	ncfp000	common	-	-	-
+coches_no_1_15	6	16	,	,	fc	-	-	-	-
+coches_no_1_15	6	17	cierre	cierre	ncms000	common	-	-	-
+coches_no_1_15	6	18	centralizado	centralizar	vmp00sm	main	-	-	-
+coches_no_1_15	6	19	,	,	fc	-	-	-	-
+coches_no_1_15	6	20	hasta	hasta	sps00	preposition	-	-	-
+coches_no_1_15	6	21	el	el	da0ms0	article	-	-	-
+coches_no_1_15	6	22	punto	punto	ncms000	common	-	-	-
+coches_no_1_15	6	23	de	de	sps00	preposition	-	-	-
+coches_no_1_15	6	24	que	que	pr0cn000	relative	-	-	-
+coches_no_1_15	6	25	dicha	dicha	ncfs000	common	-	-	-
+coches_no_1_15	6	26	maquina	maquinar	vmip3s0	main	-	-	-
+coches_no_1_15	6	27	se	se	p00cn000	-	-	-	-
+coches_no_1_15	6	28	paro	parar	vmip1s0	main	-	-	-
+coches_no_1_15	6	29	con	con	sps00	preposition	-	-	-
+coches_no_1_15	6	30	100	100	z	-	-	-	-
+coches_no_1_15	6	31	Km	km	np00000	proper	-	-	-
+coches_no_1_15	6	32	y	y	cc	coordinating	-	-	-
+coches_no_1_15	6	33	dijo	decir	vmis3s0	main	-	-	-
+coches_no_1_15	6	34	,	,	fc	-	-	-	-
+coches_no_1_15	6	35	de	de	sps00	preposition	-	-	-
+coches_no_1_15	6	36	aqui	aquí	rg	-	-	-	-
+coches_no_1_15	6	37	no	no	rn	negative	no	-	-
+coches_no_1_15	6	38	paso	pasar	vmip1s0	main	-	-	-
+coches_no_1_15	6	39	...	...	fs	-	-	-	-
+
+coches_no_1_15	7	1	un	uno	di0ms0	indefinite	***
+coches_no_1_15	7	2	exceso	exceso	ncms000	common	***
+coches_no_1_15	7	3	de	de	sps00	preposition	***
+coches_no_1_15	7	4	grasa	grasa	ncfs000	common	***
+coches_no_1_15	7	5	en	en	sps00	preposition	***
+coches_no_1_15	7	6	un	uno	di0ms0	indefinite	***
+coches_no_1_15	7	7	contacto	contacto	ncms000	common	***
+coches_no_1_15	7	8	dijo	decir	vmis3s0	main	***
+coches_no_1_15	7	9	el	el	da0ms0	article	***
+coches_no_1_15	7	10	mecanico	mecano	ncms00d	common	***
+coches_no_1_15	7	11	,	,	fc	-	***
+coches_no_1_15	7	12	,	,	fc	-	***
+coches_no_1_15	7	13	que	que	pr0cn000	relative	***
+coches_no_1_15	7	14	ademas	adema	ncfp000	common	***
+coches_no_1_15	7	15	se	se	p00cn000	-	***
+coches_no_1_15	7	16	dejo	dejar	vmip1s0	main	***
+coches_no_1_15	7	17	una	uno	di0fs0	indefinite	***
+coches_no_1_15	7	18	llave	llave	ncfs000	common	***
+coches_no_1_15	7	19	inglesa	inglés	aq0fs0	qualificative	***
+coches_no_1_15	7	20	dentro_de	dentro_de	sps00	preposition	***
+coches_no_1_15	7	21	el	el	da0ms0	article	***
+coches_no_1_15	7	22	vano	vano	aq0ms0	qualificative	***
+coches_no_1_15	7	23	motor	motor	ncms000	common	***
+coches_no_1_15	7	24	.	.	fp	-	***
+
+coches_no_1_15	8	1	Respecto_a	respecto_a	sps00	preposition	***
+coches_no_1_15	8	2	la	el	da0fs0	article	***
+coches_no_1_15	8	3	amortiguacion	amortiguacion	ncms000	common	***
+coches_no_1_15	8	4	,	,	fc	-	***
+coches_no_1_15	8	5	blanda	blando	aq0fs0	qualificative	***
+coches_no_1_15	8	6	,	,	fc	-	***
+coches_no_1_15	8	7	muy	muy	rg	-	***
+coches_no_1_15	8	8	blanda	blando	aq0fs0	qualificative	***
+coches_no_1_15	8	9	.	.	fp	-	***
+coches_no_1_15	8	10	.	.	fp	-	***
+coches_no_1_15	8	11	cuidando	cuidar	vmg0000	main	***
+coches_no_1_15	8	12	tanto	tanto	rg	-	***
+coches_no_1_15	8	13	a	a	sps00	preposition	***
+coches_no_1_15	8	14	los	el	da0mp0	article	***
+coches_no_1_15	8	15	pasajeros	pasajero	ncmp000	common	***
+coches_no_1_15	8	16	que	que	pr0cn000	relative	***
+coches_no_1_15	8	17	si	si	cs	subordinating	***
+coches_no_1_15	8	18	te	te	pp2cs000	personal	***
+coches_no_1_15	8	19	descuidas	descuidar	vmip2s0	main	***
+coches_no_1_15	8	20	terminan	terminar	vmip3p0	main	***
+coches_no_1_15	8	21	en	en	sps00	preposition	***
+coches_no_1_15	8	22	la	el	da0fs0	article	***
+coches_no_1_15	8	23	cuneta	cuneta	ncfs000	common	***
+coches_no_1_15	8	24	,	,	fc	-	***
+coches_no_1_15	8	25	los	el	da0mp0	article	***
+coches_no_1_15	8	26	frenos	freno	ncmp000	common	***
+coches_no_1_15	8	27	mejor	mejor	aq0cs0	qualificative	***
+coches_no_1_15	8	28	dejar	dejar	vmn0000	main	***
+coches_no_1_15	8	29	lo	lo	pp3cna00	personal	***
+coches_no_1_15	8	30	...	...	fs	-	***
+coches_no_1_15	8	31	muy	muy	rg	-	***
+coches_no_1_15	8	32	blandos	blando	aq0mp0	qualificative	***
+coches_no_1_15	8	33	,	,	fc	-	***
+coches_no_1_15	8	34	demasiado	demasiado	rg	-	***
+coches_no_1_15	8	35	esponjosos	esponjoso	aq0mp0	qualificative	***
+coches_no_1_15	8	36	,	,	fc	-	***
+coches_no_1_15	8	37	recorridos	recorrer	vmp00pm	main	***
+coches_no_1_15	8	38	excesivamente	excesivamente	rg	-	***
+coches_no_1_15	8	39	largos	largo	aq0mp0	qualificative	***
+coches_no_1_15	8	40	.	.	fp	-	***
+
+coches_no_1_15	9	1	El	el	da0ms0	article	***
+coches_no_1_15	9	2	acabado	acabado	ncms000	common	***
+coches_no_1_15	9	3	es	ser	vsip3s0	semiauxiliary	***
+coches_no_1_15	9	4	bueno	bueno	aq0ms0	qualificative	***
+coches_no_1_15	9	5	.	.	fp	-	***
+coches_no_1_15	9	6	.	.	fp	-	***
+
+coches_no_1_15	10	1	si	si	cs	subordinating	-	-	-
+coches_no_1_15	10	2	no	no	rn	negative	no	-	-
+coches_no_1_15	10	3	compras	comprar	vmip2s0	main	-	-	-
+coches_no_1_15	10	4	la	el	da0fs0	article	-	-	-
+coches_no_1_15	10	5	version	version	ncms000	common	-	-	-
+coches_no_1_15	10	6	larga	largo	aq0fs0	qualificative	-	-	-
+coches_no_1_15	10	7	.	.	fp	-	-	-	-
+coches_no_1_15	10	8	.	.	fp	-	-	-	-
+coches_no_1_15	10	9	o	o	cc	coordinating	-	-	-
+coches_no_1_15	10	10	te	te	pp2cs000	personal	-	-	-
+coches_no_1_15	10	11	olvidas	olvidar	vmip2s0	main	-	-	-
+coches_no_1_15	10	12	de	de	sps00	preposition	-	-	-
+coches_no_1_15	10	13	las	el	da0fp0	article	-	-	-
+coches_no_1_15	10	14	7	7	z	-	-	-	-
+coches_no_1_15	10	15	plazas	plaza	ncfp000	common	-	-	-
+coches_no_1_15	10	16	o	o	cc	coordinating	-	-	-
+coches_no_1_15	10	17	mejor	mejor	aq0cs0	qualificative	-	-	-
+coches_no_1_15	10	18	que	que	cs	subordinating	-	-	-
+coches_no_1_15	10	19	los	el	da0mp0	article	-	-	-
+coches_no_1_15	10	20	acompañantes	acompañante	nccp000	common	-	-	-
+coches_no_1_15	10	21	se	se	p00cn000	-	-	-	-
+coches_no_1_15	10	22	lleven	llevar	vmsp3p0	main	-	-	-
+coches_no_1_15	10	23	una	uno	di0fs0	indefinite	-	-	-
+coches_no_1_15	10	24	camisa	camisa	ncfs000	common	-	-	-
+coches_no_1_15	10	25	y	y	cc	coordinating	-	-	-
+coches_no_1_15	10	26	unos	uno	di0mp0	indefinite	-	-	-
+coches_no_1_15	10	27	calconcillos	calconcillos	ncmp000	common	-	-	-
+coches_no_1_15	10	28	.	.	fp	-	-	-	-
+
+coches_no_1_15	11	1	La	el	da0fs0	article	***
+coches_no_1_15	11	2	grantaria	grantaria	ncfs000	common	***
+coches_no_1_15	11	3	de	de	sps00	preposition	***
+coches_no_1_15	11	4	risa	risa	ncfs000	common	***
+coches_no_1_15	11	5	,	,	fc	-	***
+coches_no_1_15	11	6	si	si	cs	subordinating	***
+coches_no_1_15	11	7	3	3	z	-	***
+coches_no_1_15	11	8	AÑOS	años	np00000	proper	***
+coches_no_1_15	11	9	,	,	fc	-	***
+coches_no_1_15	11	10	pero	pero	cc	coordinating	***
+coches_no_1_15	11	11	60.000	60000	z	-	***
+coches_no_1_15	11	12	KM	km	np00000	proper	***
+coches_no_1_15	11	13	solo	solo	aq0ms0	qualificative	***
+coches_no_1_15	11	14	,	,	fc	-	***
+coches_no_1_15	11	15	jajaja	jajaja	aq0fs0	qualificative	***
+coches_no_1_15	11	16	.	.	fp	-	***
+coches_no_1_15	11	17	.	.	fp	-	***
+
+coches_no_1_15	12	1	que	que	cs	subordinating	***
+coches_no_1_15	12	2	risa	risa	ncfs000	common	***
+coches_no_1_15	12	3	M	m	np00000	proper	***
+coches_no_1_15	12	4	!	!	fat	-	***
+coches_no_1_15	12	5	Luisa	luisa	np00000	proper	***
+coches_no_1_15	12	6	,	,	fc	-	***
+coches_no_1_15	12	7	si	si	cs	subordinating	***
+coches_no_1_15	12	8	ese	ese	dd0ms0	demonstrative	***
+coches_no_1_15	12	9	kilometraje	kilometraje	ncms000	common	***
+coches_no_1_15	12	10	esta	este	dd0fs0	demonstrative	***
+coches_no_1_15	12	11	hecho	hecho	ncms000	common	***
+coches_no_1_15	12	12	en	en	sps00	preposition	***
+coches_no_1_15	12	13	un	uno	di0ms0	indefinite	***
+coches_no_1_15	12	14	par	par	ncms000	common	***
+coches_no_1_15	12	15	de	de	sps00	preposition	***
+coches_no_1_15	12	16	años	año	ncmp000	common	***
+coches_no_1_15	12	17	para	para	sps00	preposition	***
+coches_no_1_15	12	18	conductores	conductor	ncmp000	common	***
+coches_no_1_15	12	19	que	que	pr0cn000	relative	***
+coches_no_1_15	12	20	apenas	apenas	rg	-	***
+coches_no_1_15	12	21	tocan	tocar	vmip3p0	main	***
+coches_no_1_15	12	22	el	el	da0ms0	article	***
+coches_no_1_15	12	23	coche	coche	ncms000	common	***
+coches_no_1_15	12	24	,	,	fc	-	***
+coches_no_1_15	12	25	y	y	cc	coordinating	***
+coches_no_1_15	12	26	si	si	cs	subordinating	***
+coches_no_1_15	12	27	desde_luego	desde_luego	rg	-	***
+coches_no_1_15	12	28	vais	ir	vmip2p0	main	***
+coches_no_1_15	12	29	a	a	sps00	preposition	***
+coches_no_1_15	12	30	comprar	comprar	vmn0000	main	***
+coches_no_1_15	12	31	os	os	pp2cp000	personal	***
+coches_no_1_15	12	32	un	uno	di0ms0	indefinite	***
+coches_no_1_15	12	33	coche	coche	ncms000	common	***
+coches_no_1_15	12	34	de	de	sps00	preposition	***
+coches_no_1_15	12	35	4.000.000	4000000	z	-	***
+coches_no_1_15	12	36	ideado	idear	vmp00sm	main	***
+coches_no_1_15	12	37	para	para	sps00	preposition	***
+coches_no_1_15	12	38	viajar	viajar	vmn0000	main	***
+coches_no_1_15	12	39	con	con	sps00	preposition	***
+coches_no_1_15	12	40	mucha	mucho	di0fs0	indefinite	***
+coches_no_1_15	12	41	tranquilidad	tranquilidad	ncfs000	common	***
+coches_no_1_15	12	42	para	para	sps00	preposition	***
+coches_no_1_15	12	43	hacer	hacer	vmn0000	main	***
+coches_no_1_15	12	44	10.000	10000	z	-	***
+coches_no_1_15	12	45	km	kilómetro	ncmn000	common	***
+coches_no_1_15	12	46	a	a	sps00	preposition	***
+coches_no_1_15	12	47	el	el	da0ms0	article	***
+coches_no_1_15	12	48	año	año	ncms000	common	***
+coches_no_1_15	12	49	,	,	fc	-	***
+coches_no_1_15	12	50	mas	mas	cc	coordinating	***
+coches_no_1_15	12	51	vale	valer	vmip3s0	main	***
+coches_no_1_15	12	52	que	que	cs	subordinating	***
+coches_no_1_15	12	53	invertais	invertais	ncfn000	common	***
+coches_no_1_15	12	54	en	en	sps00	preposition	***
+coches_no_1_15	12	55	otra	otro	di0fs0	indefinite	***
+coches_no_1_15	12	56	cosa	cosa	ncfs000	common	***
+coches_no_1_15	12	57	.	.	fp	-	***
+
+coches_no_1_15	13	1	En	en	sps00	preposition	-	-	-
+coches_no_1_15	13	2	fin	fin	ncms000	common	-	-	-
+coches_no_1_15	13	3	,	,	fc	-	-	-	-
+coches_no_1_15	13	4	patetica	patetica	aq0fs0	qualificative	-	-	-
+coches_no_1_15	13	5	experiencia	experiencia	ncfs000	common	-	-	-
+coches_no_1_15	13	6	con	con	sps00	preposition	-	-	-
+coches_no_1_15	13	7	Cryslher	cryslher	np00000	proper	-	-	-
+coches_no_1_15	13	8	que	que	pr0cn000	relative	-	-	-
+coches_no_1_15	13	9	no	no	rn	negative	no	-	-
+coches_no_1_15	13	10	pienso	pensar	vmip1s0	main	-	-	-
+coches_no_1_15	13	11	repetir	repetir	vmn0000	main	-	-	-
+coches_no_1_15	13	12	y	y	cc	coordinating	-	-	-
+coches_no_1_15	13	13	que	que	cs	subordinating	-	-	-
+coches_no_1_15	13	14	ademas	adema	ncfp000	common	-	-	-
+coches_no_1_15	13	15	de	de	sps00	preposition	-	-	-
+coches_no_1_15	13	16	buena	bueno	aq0fs0	qualificative	-	-	-
+coches_no_1_15	13	17	tinta	tinta	ncfs000	common	-	-	-
+coches_no_1_15	13	18	se	se	p00cn000	-	-	-	-
+coches_no_1_15	13	19	que	que	pr0cn000	relative	-	-	-
+coches_no_1_15	13	20	hay	haber	vmip3s0	main	-	-	-
+coches_no_1_15	13	21	mas	mas	cc	coordinating	-	-	-
+coches_no_1_15	13	22	problemas	problema	ncmp000	common	-	-	-
+coches_no_1_15	13	23	como	como	cs	subordinating	-	-	-
+coches_no_1_15	13	24	el	el	da0ms0	article	-	-	-
+coches_no_1_15	13	25	mio	mio	ncms000	common	-	-	-
+coches_no_1_15	13	26	,	,	fc	-	-	-	-
+coches_no_1_15	13	27	incluso	incluso	rg	-	-	-	-
+coches_no_1_15	13	28	hay	haber	vmip3s0	main	-	-	-
+coches_no_1_15	13	29	en	en	sps00	preposition	-	-	-
+coches_no_1_15	13	30	Cataluña	cataluña	np00000	proper	-	-	-
+coches_no_1_15	13	31	un	uno	di0ms0	indefinite	-	-	-
+coches_no_1_15	13	32	club	club	ncms000	common	-	-	-
+coches_no_1_15	13	33	de	de	sps00	preposition	-	-	-
+coches_no_1_15	13	34	damnificados	damnificado	ncmp000	common	-	-	-
+coches_no_1_15	13	35	contra	contra	sps00	preposition	-	-	-
+coches_no_1_15	13	36	Crysler	crysler	np00000	proper	-	-	-
+coches_no_1_15	13	37	.	.	fp	-	-	-	-
+
+coches_yes_4_13	1	1	Tengo	tener	vmip1s0	main	***
+coches_yes_4_13	1	2	una	uno	di0fs0	indefinite	***
+coches_yes_4_13	1	3	auténtica	auténtico	aq0fs0	qualificative	***
+coches_yes_4_13	1	4	obsesión	obsesión	ncfs000	common	***
+coches_yes_4_13	1	5	por	por	sps00	preposition	***
+coches_yes_4_13	1	6	este	este	dd0ms0	demonstrative	***
+coches_yes_4_13	1	7	coche	coche	ncms000	common	***
+coches_yes_4_13	1	8	.	.	fp	-	***
+
+coches_yes_4_13	2	1	Me	me	pp1cs000	personal	***
+coches_yes_4_13	2	2	encanta	encantar	vmip3s0	main	***
+coches_yes_4_13	2	3	su	su	dp3cs0	possessive	***
+coches_yes_4_13	2	4	línea	línea	ncfs000	common	***
+coches_yes_4_13	2	5	,	,	fc	-	***
+coches_yes_4_13	2	6	con	con	sps00	preposition	***
+coches_yes_4_13	2	7	curvas	curvo	aq0fp0	qualificative	***
+coches_yes_4_13	2	8	atrevidas	atrevido	ncfp000	common	***
+coches_yes_4_13	2	9	y	y	cc	coordinating	***
+coches_yes_4_13	2	10	forma	forma	ncfs000	common	***
+coches_yes_4_13	2	11	elegante	elegante	aq0cs0	qualificative	***
+coches_yes_4_13	2	12	.	.	fp	-	***
+
+coches_yes_4_13	3	1	La	el	da0fs0	article	***
+coches_yes_4_13	3	2	parte	parte	ncfs000	common	***
+coches_yes_4_13	3	3	trasera	trasero	aq0fs0	qualificative	***
+coches_yes_4_13	3	4	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_13	3	5	de	de	sps00	preposition	***
+coches_yes_4_13	3	6	las	el	da0fp0	article	***
+coches_yes_4_13	3	7	mejores	mejor	aq0cp0	qualificative	***
+coches_yes_4_13	3	8	que	que	pr0cn000	relative	***
+coches_yes_4_13	3	9	he	haber	vaip1s0	auxiliary	***
+coches_yes_4_13	3	10	visto	ver	vmp00sm	main	***
+coches_yes_4_13	3	11	,	,	fc	-	***
+coches_yes_4_13	3	12	y	y	cc	coordinating	***
+coches_yes_4_13	3	13	ya	ya	rg	-	***
+coches_yes_4_13	3	14	han	haber	vaip3p0	auxiliary	***
+coches_yes_4_13	3	15	salido	salir	vmp00sm	main	***
+coches_yes_4_13	3	16	otros	otro	di0mp0	indefinite	***
+coches_yes_4_13	3	17	coches	coche	ncmp000	common	***
+coches_yes_4_13	3	18	imitándola	imitándola	aq0fs0	qualificative	***
+coches_yes_4_13	3	19	.	.	fp	-	***
+
+coches_yes_4_13	4	1	Ver	ver	vmn0000	main	***
+coches_yes_4_13	4	2	este	este	dd0ms0	demonstrative	***
+coches_yes_4_13	4	3	coche	coche	ncms000	common	***
+coches_yes_4_13	4	4	por	por	sps00	preposition	***
+coches_yes_4_13	4	5	la	el	da0fs0	article	***
+coches_yes_4_13	4	6	calle	calle	ncfs000	common	***
+coches_yes_4_13	4	7	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_13	4	8	una	uno	di0fs0	indefinite	***
+coches_yes_4_13	4	9	gran	gran	aq0cs0	qualificative	***
+coches_yes_4_13	4	10	satisfacción	satisfacción	ncfs000	common	***
+coches_yes_4_13	4	11	,	,	fc	-	***
+coches_yes_4_13	4	12	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_13	4	13	en	en	sps00	preposition	***
+coches_yes_4_13	4	14	una	uno	di0fs0	indefinite	***
+coches_yes_4_13	4	15	palabra	palabra	ncfs000	common	***
+coches_yes_4_13	4	16	precioso	precioso	aq0ms0	qualificative	***
+coches_yes_4_13	4	17	.	.	fp	-	***
+
+coches_yes_4_13	5	1	La	el	da0fs0	article	-	-	-
+coches_yes_4_13	5	2	pena	pena	ncfs000	common	-	-	-
+coches_yes_4_13	5	3	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_4_13	5	4	que	que	cs	subordinating	-	-	-
+coches_yes_4_13	5	5	a	a	sps00	preposition	-	-	-
+coches_yes_4_13	5	6	el	el	da0ms0	article	-	-	-
+coches_yes_4_13	5	7	ser	ser	vsn0000	semiauxiliary	-	-	-
+coches_yes_4_13	5	8	nuevo	nuevo	aq0ms0	qualificative	-	-	-
+coches_yes_4_13	5	9	de	de	sps00	preposition	-	-	-
+coches_yes_4_13	5	10	precio	precio	ncms000	common	-	-	-
+coches_yes_4_13	5	11	no	no	rn	negative	no	-	-
+coches_yes_4_13	5	12	está	estar	vaip3s0	auxiliary	-	-	-
+coches_yes_4_13	5	13	todavía	todavía	rg	-	-	-	-
+coches_yes_4_13	5	14	muy	muy	rg	-	-	-	-
+coches_yes_4_13	5	15	bien	bien	rg	-	-	-	-
+coches_yes_4_13	5	16	,	,	fc	-	-	-	-
+coches_yes_4_13	5	17	viene	venir	vmip3s0	main	-	-	-
+coches_yes_4_13	5	18	a	a	sps00	preposition	-	-	-
+coches_yes_4_13	5	19	costar	costar	vmn0000	main	-	-	-
+coches_yes_4_13	5	20	desde	desde	sps00	preposition	-	-	-
+coches_yes_4_13	5	21	2.500.000	2500000	z	-	-	-	-
+coches_yes_4_13	5	22	de	de	sps00	preposition	-	-	-
+coches_yes_4_13	5	23	pesetas	peseta	ncfp000	common	-	-	-
+coches_yes_4_13	5	24	,	,	fc	-	-	-	-
+coches_yes_4_13	5	25	y	y	cc	coordinating	-	-	-
+coches_yes_4_13	5	26	a	a	sps00	preposition	-	-	-
+coches_yes_4_13	5	27	mi	mi	dp1css	possessive	-	-	-
+coches_yes_4_13	5	28	juicio	juicio	ncms000	common	-	-	-
+coches_yes_4_13	5	29	está	estar	vaip3s0	auxiliary	-	-	-
+coches_yes_4_13	5	30	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_4_13	5	31	poco	poco	rg	-	-	-	-
+coches_yes_4_13	5	32	caro	caro	aq0ms0	qualificative	-	-	-
+coches_yes_4_13	5	33	.	.	fp	-	-	-	-
+
+coches_yes_4_13	6	1	El	el	da0ms0	article	***
+coches_yes_4_13	6	2	motor	motor	ncms000	common	***
+coches_yes_4_13	6	3	tiene	tener	vmip3s0	main	***
+coches_yes_4_13	6	4	muy	muy	rg	-	***
+coches_yes_4_13	6	5	buena	bueno	aq0fs0	qualificative	***
+coches_yes_4_13	6	6	pinta	pinta	ncfs000	common	***
+coches_yes_4_13	6	7	,	,	fc	-	***
+coches_yes_4_13	6	8	con	con	sps00	preposition	***
+coches_yes_4_13	6	9	buenos	bueno	aq0mp0	qualificative	***
+coches_yes_4_13	6	10	tiempos	tiempo	ncmp000	common	***
+coches_yes_4_13	6	11	de	de	sps00	preposition	***
+coches_yes_4_13	6	12	acción	acción	ncfs000	common	***
+coches_yes_4_13	6	13	y	y	cc	coordinating	***
+coches_yes_4_13	6	14	gran	gran	aq0cs0	qualificative	***
+coches_yes_4_13	6	15	potencia	potencia	ncfs000	common	***
+coches_yes_4_13	6	16	,	,	fc	-	***
+coches_yes_4_13	6	17	alcanzando	alcanzar	vmg0000	main	***
+coches_yes_4_13	6	18	buena	bueno	aq0fs0	qualificative	***
+coches_yes_4_13	6	19	velocidad	velocidad	ncfs000	common	***
+coches_yes_4_13	6	20	y	y	cc	coordinating	***
+coches_yes_4_13	6	21	excelente	excelente	aq0cs0	qualificative	***
+coches_yes_4_13	6	22	rendimiento	rendimiento	ncms000	common	***
+coches_yes_4_13	6	23	,	,	fc	-	***
+coches_yes_4_13	6	24	aunque	aunque	cc	coordinating	***
+coches_yes_4_13	6	25	el	el	da0ms0	article	***
+coches_yes_4_13	6	26	consumo	consumo	ncms000	common	***
+coches_yes_4_13	6	27	debería	deber	vmic3s0	main	***
+coches_yes_4_13	6	28	de	de	sps00	preposition	***
+coches_yes_4_13	6	29	ser	ser	vsn0000	semiauxiliary	***
+coches_yes_4_13	6	30	algo	algo	rg	-	***
+coches_yes_4_13	6	31	menor	menor	aq0cs0	qualificative	***
+coches_yes_4_13	6	32	.	.	fp	-	***
+
+coches_yes_4_13	7	1	Otro	otro	di0ms0	indefinite	-	-	-
+coches_yes_4_13	7	2	problema	problema	ncms000	common	-	-	-
+coches_yes_4_13	7	3	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_4_13	7	4	el	el	da0ms0	article	-	-	-
+coches_yes_4_13	7	5	recambio	recambio	ncms000	common	-	-	-
+coches_yes_4_13	7	6	de	de	sps00	preposition	-	-	-
+coches_yes_4_13	7	7	Alfa_Romeo	alfa_romeo	np00000	proper	-	-	-
+coches_yes_4_13	7	8	en	en	sps00	preposition	-	-	-
+coches_yes_4_13	7	9	España	españa	np00000	proper	-	-	-
+coches_yes_4_13	7	10	,	,	fc	-	-	-	-
+coches_yes_4_13	7	11	que	que	pr0cn000	relative	-	-	-
+coches_yes_4_13	7	12	aún	aun	rg	-	aún	-	-
+coches_yes_4_13	7	13	no	no	rn	negative	no	-	-
+coches_yes_4_13	7	14	tiene	tener	vmip3s0	main	-	-	-
+coches_yes_4_13	7	15	una	uno	di0fs0	indefinite	-	-	-
+coches_yes_4_13	7	16	empresa	empresa	ncfs000	common	-	-	-
+coches_yes_4_13	7	17	tan	tan	rg	-	-	-	-
+coches_yes_4_13	7	18	evolucionada	evolucionar	vmp00sf	main	-	-	-
+coches_yes_4_13	7	19	como	como	cs	subordinating	-	-	-
+coches_yes_4_13	7	20	otras	otro	di0fp0	indefinite	-	-	-
+coches_yes_4_13	7	21	compañías	compañía	ncfp000	common	-	-	-
+coches_yes_4_13	7	22	españolas	español	aq0fp0	qualificative	-	-	-
+coches_yes_4_13	7	23	,	,	fc	-	-	-	-
+coches_yes_4_13	7	24	y	y	cc	coordinating	-	-	-
+coches_yes_4_13	7	25	pueden	poder	vmip3p0	main	-	-	-
+coches_yes_4_13	7	26	surgir	surgir	vmn0000	main	-	-	-
+coches_yes_4_13	7	27	algunos	alguno	di0mp0	indefinite	-	-	-
+coches_yes_4_13	7	28	problemas	problema	ncmp000	common	-	-	-
+coches_yes_4_13	7	29	en	en	sps00	preposition	-	-	-
+coches_yes_4_13	7	30	el	el	da0ms0	article	-	-	-
+coches_yes_4_13	7	31	recambio	recambio	ncms000	common	-	-	-
+coches_yes_4_13	7	32	de	de	sps00	preposition	-	-	-
+coches_yes_4_13	7	33	piezas	pieza	ncfp000	common	-	-	-
+coches_yes_4_13	7	34	y	y	cc	coordinating	-	-	-
+coches_yes_4_13	7	35	servicios	servicio	ncmp000	common	-	-	-
+coches_yes_4_13	7	36	,	,	fc	-	-	-	-
+coches_yes_4_13	7	37	pero	pero	cc	coordinating	-	-	-
+coches_yes_4_13	7	38	poco_a_poco	poco_a_poco	rg	-	-	-	-
+coches_yes_4_13	7	39	a	a	sps00	preposition	-	-	-
+coches_yes_4_13	7	40	ido	ir	vmp00sm	main	-	-	-
+coches_yes_4_13	7	41	mejorando	mejorar	vmg0000	main	-	-	-
+coches_yes_4_13	7	42	en	en	sps00	preposition	-	-	-
+coches_yes_4_13	7	43	los	el	da0mp0	article	-	-	-
+coches_yes_4_13	7	44	últimos	último	ao0mp0	ordinal	-	-	-
+coches_yes_4_13	7	45	tiempos	tiempo	ncmp000	common	-	-	-
+coches_yes_4_13	7	46	.	.	fp	-	-	-	-
+
+coches_yes_4_13	8	1	En	en	sps00	preposition	***
+coches_yes_4_13	8	2	definitiva	definitivo	aq0fs0	qualificative	***
+coches_yes_4_13	8	3	,	,	fc	-	***
+coches_yes_4_13	8	4	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_4_13	8	5	un	uno	di0ms0	indefinite	***
+coches_yes_4_13	8	6	buen	bueno	aq0ms0	qualificative	***
+coches_yes_4_13	8	7	coche	coche	ncms000	common	***
+coches_yes_4_13	8	8	,	,	fc	-	***
+coches_yes_4_13	8	9	potente	potente	aq0cs0	qualificative	***
+coches_yes_4_13	8	10	y	y	cc	coordinating	***
+coches_yes_4_13	8	11	bonito	bonito	aq0ms0	qualificative	***
+coches_yes_4_13	8	12	a_la_vez	a_la_vez	rg	-	***
+coches_yes_4_13	8	13	,	,	fc	-	***
+coches_yes_4_13	8	14	moderno	moderno	aq0ms0	qualificative	***
+coches_yes_4_13	8	15	y	y	cc	coordinating	***
+coches_yes_4_13	8	16	muy	muy	rg	-	***
+coches_yes_4_13	8	17	detallista	detallista	aq0cs0	qualificative	***
+coches_yes_4_13	8	18	en	en	sps00	preposition	***
+coches_yes_4_13	8	19	el	el	da0ms0	article	***
+coches_yes_4_13	8	20	interior	interior	ncms000	common	***
+coches_yes_4_13	8	21	,	,	fc	-	***
+coches_yes_4_13	8	22	espero	esperar	vmip1s0	main	***
+coches_yes_4_13	8	23	que	que	cs	subordinating	***
+coches_yes_4_13	8	24	lo	lo	pp3cna00	personal	***
+coches_yes_4_13	8	25	disfruteis	disfruteis	vmsi2p0	main	***
+coches_yes_4_13	8	26	,	,	fc	-	***
+coches_yes_4_13	8	27	o	o	cc	coordinating	***
+coches_yes_4_13	8	28	que	que	pr0cn000	relative	***
+coches_yes_4_13	8	29	simplemente	simplemente	rg	-	***
+coches_yes_4_13	8	30	lo	lo	pp3cna00	personal	***
+coches_yes_4_13	8	31	contempleis	contempleis	vmsi2p0	main	***
+coches_yes_4_13	8	32	,	,	fc	-	***
+coches_yes_4_13	8	33	merece	merecer	vmip3s0	main	***
+coches_yes_4_13	8	34	la	el	da0fs0	article	***
+coches_yes_4_13	8	35	pena	pena	ncfs000	common	***
+coches_yes_4_13	8	36	.	.	fp	-	***
+
+coches_yes_4_13	9	1	Muchas	mucho	di0fp0	indefinite	***
+coches_yes_4_13	9	2	gracias	gracia	ncfp000	common	***
+coches_yes_4_13	9	3	por	por	sps00	preposition	***
+coches_yes_4_13	9	4	todo	todo	pi0ms000	indefinite	***
+coches_yes_4_13	9	5	,	,	fc	-	***
+coches_yes_4_13	9	6	espero	esperar	vmip1s0	main	***
+coches_yes_4_13	9	7	que	que	cs	subordinating	***
+coches_yes_4_13	9	8	les	le	pp3cpd00	personal	***
+coches_yes_4_13	9	9	resulte	resultar	vmsp3s0	main	***
+coches_yes_4_13	9	10	útil	útil	aq0cs0	qualificative	***
+coches_yes_4_13	9	11	mi	mi	dp1css	possessive	***
+coches_yes_4_13	9	12	opinión	opinión	ncfs000	common	***
+coches_yes_4_13	9	13	.	.	fp	-	***
+
+coches_yes_5_2	1	1	Aún	aun	rg	-	***
+coches_yes_5_2	1	2	me	me	pp1cs000	personal	***
+coches_yes_5_2	1	3	acuerdo	acuerdo	ncms000	common	***
+coches_yes_5_2	1	4	,	,	fc	-	***
+coches_yes_5_2	1	5	cuando	cuando	cs	subordinating	***
+coches_yes_5_2	1	6	salió	salir	vmis3s0	main	***
+coches_yes_5_2	1	7	el	el	da0ms0	article	***
+coches_yes_5_2	1	8	primer	1	ao0ms0	ordinal	***
+coches_yes_5_2	1	9	anuncio	anuncio	ncms000	common	***
+coches_yes_5_2	1	10	,	,	fc	-	***
+coches_yes_5_2	1	11	basado	basar	vmp00sm	main	***
+coches_yes_5_2	1	12	en	en	sps00	preposition	***
+coches_yes_5_2	1	13	la	el	da0fs0	article	***
+coches_yes_5_2	1	14	película	película	ncfs000	common	***
+coches_yes_5_2	1	15	Abierto	abierto	np00000	proper	***
+coches_yes_5_2	1	16	hasta	hasta	sps00	preposition	***
+coches_yes_5_2	1	17	el	el	da0ms0	article	***
+coches_yes_5_2	1	18	amanecer	amanecer	ncms000	common	***
+coches_yes_5_2	1	19	.	.	fp	-	***
+
+coches_yes_5_2	2	1	Quedé	quedar	vmis1s0	main	***
+coches_yes_5_2	2	2	prendado	prendar	vmp00sm	main	***
+coches_yes_5_2	2	3	de	de	sps00	preposition	***
+coches_yes_5_2	2	4	ese	ese	dd0ms0	demonstrative	***
+coches_yes_5_2	2	5	coche	coche	ncms000	common	***
+coches_yes_5_2	2	6	.	.	fp	-	***
+
+coches_yes_5_2	3	1	Yo	yo	pp1csn00	personal	***
+coches_yes_5_2	3	2	era	ser	vsii1s0	semiauxiliary	***
+coches_yes_5_2	3	3	estudiante	estudiante	aq0cs0	qualificative	***
+coches_yes_5_2	3	4	,	,	fc	-	***
+coches_yes_5_2	3	5	como	como	cs	subordinating	***
+coches_yes_5_2	3	6	lo	lo	pp3cna00	personal	***
+coches_yes_5_2	3	7	iba	ir	vmii3s0	main	***
+coches_yes_5_2	3	8	comprar	comprar	vmn0000	main	***
+coches_yes_5_2	3	9	.	.	fp	-	***
+
+coches_yes_5_2	4	1	Nunca	nunca	rg	-	Nunca	-	-
+coches_yes_5_2	4	2	lo	lo	pp3cna00	personal	-	-	-
+coches_yes_5_2	4	3	imaginé	imaginar	vmis1s0	main	-	-	-
+coches_yes_5_2	4	4	,	,	fc	-	-	-	-
+coches_yes_5_2	4	5	hasta	hasta	sps00	preposition	-	-	-
+coches_yes_5_2	4	6	que	que	pr0cn000	relative	-	-	-
+coches_yes_5_2	4	7	acabé	acabar	vmis1s0	main	-	-	-
+coches_yes_5_2	4	8	de	de	sps00	preposition	-	-	-
+coches_yes_5_2	4	9	estudiar	estudiar	vmn0000	main	-	-	-
+coches_yes_5_2	4	10	y	y	cc	coordinating	-	-	-
+coches_yes_5_2	4	11	pude	poder	vmis1s0	main	-	-	-
+coches_yes_5_2	4	12	comprar	comprar	vmn0000	main	-	-	-
+coches_yes_5_2	4	13	lo	lo	pp3cna00	personal	-	-	-
+coches_yes_5_2	4	14	.	.	fp	-	-	-	-
+
+coches_yes_5_2	5	1	Me	me	pp1cs000	personal	-	-	-
+coches_yes_5_2	5	2	enamoró	enamorar	vmis3s0	main	-	-	-
+coches_yes_5_2	5	3	,	,	fc	-	-	-	-
+coches_yes_5_2	5	4	bonito	bonito	aq0ms0	qualificative	-	-	-
+coches_yes_5_2	5	5	,	,	fc	-	-	-	-
+coches_yes_5_2	5	6	potente	potente	aq0cs0	qualificative	-	-	-
+coches_yes_5_2	5	7	,	,	fc	-	-	-	-
+coches_yes_5_2	5	8	estaba	estar	vaii1s0	auxiliary	-	-	-
+coches_yes_5_2	5	9	bastante	bastante	rg	-	-	-	-
+coches_yes_5_2	5	10	bien	bien	rg	-	-	-	-
+coches_yes_5_2	5	11	equipado	equipar	vmp00sm	main	-	-	-
+coches_yes_5_2	5	12	,	,	fc	-	-	-	-
+coches_yes_5_2	5	13	y	y	cc	coordinating	-	-	-
+coches_yes_5_2	5	14	hasta	hasta	sps00	preposition	-	-	-
+coches_yes_5_2	5	15	el	el	da0ms0	article	-	-	-
+coches_yes_5_2	5	16	día	día	ncms000	common	-	-	-
+coches_yes_5_2	5	17	de	de	sps00	preposition	-	-	-
+coches_yes_5_2	5	18	hoy	hoy	rg	-	-	-	-
+coches_yes_5_2	5	19	no	no	rn	negative	no	-	-
+coches_yes_5_2	5	20	tengo	tener	vmip1s0	main	-	-	-
+coches_yes_5_2	5	21	ninguna	ninguno	di0fs0	indefinite	ninguna	-	-
+coches_yes_5_2	5	22	queja	queja	ncfs000	common	-	-	-
+coches_yes_5_2	5	23	.	.	fp	-	-	-	-
+
+coches_yes_5_2	6	1	Sí	sí	np00000	proper	***
+coches_yes_5_2	6	2	,	,	fc	-	***
+coches_yes_5_2	6	3	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_5_2	6	4	un	uno	di0ms0	indefinite	***
+coches_yes_5_2	6	5	coche	coche	ncms000	common	***
+coches_yes_5_2	6	6	pequeño	pequeño	aq0ms0	qualificative	***
+coches_yes_5_2	6	7	,	,	fc	-	***
+coches_yes_5_2	6	8	pero	pero	cc	coordinating	***
+coches_yes_5_2	6	9	yo	yo	pp1csn00	personal	***
+coches_yes_5_2	6	10	buscaba	buscar	vmii3s0	main	***
+coches_yes_5_2	6	11	eso	ese	pd0ns000	demonstrative	***
+coches_yes_5_2	6	12	,	,	fc	-	***
+coches_yes_5_2	6	13	que	que	cs	subordinating	***
+coches_yes_5_2	6	14	tuviera	tener	vmsi3s0	main	***
+coches_yes_5_2	6	15	algo	algo	pi0cs000	indefinite	***
+coches_yes_5_2	6	16	de	de	sps00	preposition	***
+coches_yes_5_2	6	17	potencia	potencia	ncfs000	common	***
+coches_yes_5_2	6	18	y	y	cc	coordinating	***
+coches_yes_5_2	6	19	de	de	sps00	preposition	***
+coches_yes_5_2	6	20	eso	ese	pd0ns000	demonstrative	***
+coches_yes_5_2	6	21	tiene	tener	vmip3s0	main	***
+coches_yes_5_2	6	22	bastante	bastante	rg	-	***
+coches_yes_5_2	6	23	.	.	fp	-	***
+
+coches_yes_5_2	7	1	El	el	da0ms0	article	-	-	-	-	-	-
+coches_yes_5_2	7	2	consumo	consumo	ncms000	common	-	-	-	-	-	-
+coches_yes_5_2	7	3	no	no	rn	negative	no	-	-	-	-	-
+coches_yes_5_2	7	4	es	ser	vsip3s0	semiauxiliary	-	-	-	-	-	-
+coches_yes_5_2	7	5	alto	alto	aq0ms0	qualificative	-	-	-	-	-	-
+coches_yes_5_2	7	6	,	,	fc	-	-	-	-	-	-	-
+coches_yes_5_2	7	7	depende	depender	vmip3s0	main	-	-	-	-	-	-
+coches_yes_5_2	7	8	de	de	sps00	preposition	-	-	-	-	-	-
+coches_yes_5_2	7	9	lo	el	da0ns0	article	-	-	-	-	-	-
+coches_yes_5_2	7	10	que	que	pr0cn000	relative	-	-	-	-	-	-
+coches_yes_5_2	7	11	le	le	pp3csd00	personal	-	-	-	-	-	-
+coches_yes_5_2	7	12	pises	pis	ncmp000	common	-	-	-	-	-	-
+coches_yes_5_2	7	13	,	,	fc	-	-	-	-	-	-	-
+coches_yes_5_2	7	14	pero	pero	cc	coordinating	-	-	-	-	-	-
+coches_yes_5_2	7	15	si	si	cs	subordinating	-	-	-	-	-	-
+coches_yes_5_2	7	16	vas	ir	vmip2s0	main	-	-	-	-	-	-
+coches_yes_5_2	7	17	a	a	sps00	preposition	-	-	-	-	-	-
+coches_yes_5_2	7	18	una	uno	di0fs0	indefinite	-	-	-	-	-	-
+coches_yes_5_2	7	19	marcha	marcha	ncfs000	common	-	-	-	-	-	-
+coches_yes_5_2	7	20	normal	normal	aq0cs0	qualificative	-	-	-	-	-	-
+coches_yes_5_2	7	21	no	no	rn	negative	-	-	-	no	-	-
+coches_yes_5_2	7	22	hay	haber	vmip3s0	main	-	-	-	-	-	-
+coches_yes_5_2	7	23	ningún	ninguno	di0ms0	indefinite	-	-	-	ningún	-	-
+coches_yes_5_2	7	24	problema	problema	ncms000	common	-	-	-	-	-	-
+coches_yes_5_2	7	25	.	.	fp	-	-	-	-	-	-	-
+
+coches_yes_5_2	8	1	Es	es	np00000	proper	-	-	-
+coches_yes_5_2	8	2	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_2	8	3	coche	coche	ncms000	common	-	-	-
+coches_yes_5_2	8	4	hecho	hacer	vmp00sm	main	-	-	-
+coches_yes_5_2	8	5	para	para	sps00	preposition	-	-	-
+coches_yes_5_2	8	6	gente	gente	ncfs000	common	-	-	-
+coches_yes_5_2	8	7	joven	joven	aq0cs0	qualificative	-	-	-
+coches_yes_5_2	8	8	,	,	fc	-	-	-	-
+coches_yes_5_2	8	9	para	para	sps00	preposition	-	-	-
+coches_yes_5_2	8	10	una	uno	di0fs0	indefinite	-	-	-
+coches_yes_5_2	8	11	pareja	pareja	ncfs000	common	-	-	-
+coches_yes_5_2	8	12	sin	sin	sps00	preposition	sin	-	-
+coches_yes_5_2	8	13	hijos	hijo	ncmp000	common	-	-	-
+coches_yes_5_2	8	14	,	,	fc	-	-	-	-
+coches_yes_5_2	8	15	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_5_2	8	16	cómodo	cómodo	aq0ms0	qualificative	-	-	-
+coches_yes_5_2	8	17	para	para	sps00	preposition	-	-	-
+coches_yes_5_2	8	18	largos	largo	aq0mp0	qualificative	-	-	-
+coches_yes_5_2	8	19	viajes	viaje	ncmp000	common	-	-	-
+coches_yes_5_2	8	20	.	.	fp	-	-	-	-
+
+coches_yes_5_2	9	1	Para	para	sps00	preposition	-	-	-	-	-	-
+coches_yes_5_2	9	2	mí	mí	pp1cso00	personal	-	-	-	-	-	-
+coches_yes_5_2	9	3	no	no	rn	negative	no	-	-	-	-	-
+coches_yes_5_2	9	4	tiene	tener	vmip3s0	main	-	-	-	-	-	-
+coches_yes_5_2	9	5	ningún	ninguno	di0ms0	indefinite	-	-	-	ningún	-	-
+coches_yes_5_2	9	6	defecto	defecto	ncms000	common	-	-	-	-	-	-
+coches_yes_5_2	9	7	.	.	fp	-	-	-	-	-	-	-
+
+coches_yes_5_2	10	1	Se	se	np00000	proper	***
+coches_yes_5_2	10	2	lo	lo	pp3cna00	personal	***
+coches_yes_5_2	10	3	recomiendo	recomendar	vmip1s0	main	***
+coches_yes_5_2	10	4	.	.	fp	-	***
+
+coches_yes_5_15	1	1	Permitid	permitir	vmm02p0	main	***
+coches_yes_5_15	1	2	me	me	pp1cs000	personal	***
+coches_yes_5_15	1	3	que	que	cs	subordinating	***
+coches_yes_5_15	1	4	empiece	empezar	vmsp3s0	main	***
+coches_yes_5_15	1	5	por	por	sps00	preposition	***
+coches_yes_5_15	1	6	algo	algo	pi0cs000	indefinite	***
+coches_yes_5_15	1	7	obvio	obvio	aq0ms0	qualificative	***
+coches_yes_5_15	1	8	y	y	cc	coordinating	***
+coches_yes_5_15	1	9	evidente	evidente	aq0cs0	qualificative	***
+coches_yes_5_15	1	10	:	:	fd	-	***
+
+coches_yes_5_15	2	1	me	me	pp1cs000	personal	***
+coches_yes_5_15	2	2	compré	comprar	vmis1s0	main	***
+coches_yes_5_15	2	3	un	uno	di0ms0	indefinite	***
+coches_yes_5_15	2	4	monovolumen	monovolumen	ncms000	common	***
+coches_yes_5_15	2	5	por	por	sps00	preposition	***
+coches_yes_5_15	2	6	necesidad	necesidad	ncfs000	common	***
+coches_yes_5_15	2	7	de	de	sps00	preposition	***
+coches_yes_5_15	2	8	espacio	espacio	ncms000	common	***
+coches_yes_5_15	2	9	para	para	sps00	preposition	***
+coches_yes_5_15	2	10	ocupantes	ocupante	nccp000	common	***
+coches_yes_5_15	2	11	.	.	fp	-	***
+
+coches_yes_5_15	3	1	Realmente	realmente	rg	-	***
+coches_yes_5_15	3	2	esta	este	pd0fs000	demonstrative	***
+coches_yes_5_15	3	3	fue	ser	vsis3s0	semiauxiliary	***
+coches_yes_5_15	3	4	la	el	da0fs0	article	***
+coches_yes_5_15	3	5	causa	causa	ncfs000	common	***
+coches_yes_5_15	3	6	única	único	aq0fs0	qualificative	***
+coches_yes_5_15	3	7	y	y	cc	coordinating	***
+coches_yes_5_15	3	8	fundamental	fundamental	aq0cs0	qualificative	***
+coches_yes_5_15	3	9	para	para	sps00	preposition	***
+coches_yes_5_15	3	10	comprar	comprar	vmn0000	main	***
+coches_yes_5_15	3	11	me	me	pp1cs000	personal	***
+coches_yes_5_15	3	12	un	uno	di0ms0	indefinite	***
+coches_yes_5_15	3	13	monovolumen	monovolumen	ncms000	common	***
+coches_yes_5_15	3	14	.	.	fp	-	***
+
+coches_yes_5_15	4	1	Muevo	mover	vmip1s0	main	***
+coches_yes_5_15	4	2	5	5	z	-	***
+coches_yes_5_15	4	3	personas	persona	ncfp000	common	***
+coches_yes_5_15	4	4	y	y	cc	coordinating	***
+coches_yes_5_15	4	5	a	a	sps00	preposition	***
+coches_yes_5_15	4	6	el	el	da0ms0	article	***
+coches_yes_5_15	4	7	conductor	conductor	ncms000	common	***
+coches_yes_5_15	4	8	(	(	fpa	-	***
+coches_yes_5_15	4	9	que	que	pr0cn000	relative	***
+coches_yes_5_15	4	10	soy	ser	vsip1s0	semiauxiliary	***
+coches_yes_5_15	4	11	yo	yo	pp1csn00	personal	***
+coches_yes_5_15	4	12	)	)	fpt	-	***
+coches_yes_5_15	4	13	.	.	fp	-	***
+
+coches_yes_5_15	5	1	Tal_y_como	tal_y_como	cs	subordinating	-	-	-
+coches_yes_5_15	5	2	estan	estan	vmip3p0	main	-	-	-
+coches_yes_5_15	5	3	las	el	da0fp0	article	-	-	-
+coches_yes_5_15	5	4	cosas	cosa	ncfp000	common	-	-	-
+coches_yes_5_15	5	5	,	,	fc	-	-	-	-
+coches_yes_5_15	5	6	ya	ya	rg	-	-	-	-
+coches_yes_5_15	5	7	hace	hacer	vmip3s0	main	-	-	-
+coches_yes_5_15	5	8	años	año	ncmp000	common	-	-	-
+coches_yes_5_15	5	9	,	,	fc	-	-	-	-
+coches_yes_5_15	5	10	siendo	ser	vsg0000	semiauxiliary	-	-	-
+coches_yes_5_15	5	11	6	6	z	-	-	-	-
+coches_yes_5_15	5	12	,	,	fc	-	-	-	-
+coches_yes_5_15	5	13	no	no	rn	negative	no	-	-
+coches_yes_5_15	5	14	tienes	tener	vmip2s0	main	-	-	-
+coches_yes_5_15	5	15	alternativas	alternativa	ncfp000	common	-	-	-
+coches_yes_5_15	5	16	.	.	fp	-	-	-	-
+
+coches_yes_5_15	6	1	Recuerdo	recuerdo	np00000	proper	***
+coches_yes_5_15	6	2	que	que	cs	subordinating	***
+coches_yes_5_15	6	3	mi	mi	dp1css	possessive	***
+coches_yes_5_15	6	4	padre	padre	ncms000	common	***
+coches_yes_5_15	6	5	llevaba	llevar	vmii3s0	main	***
+coches_yes_5_15	6	6	a	a	sps00	preposition	***
+coches_yes_5_15	6	7	7	7	z	-	***
+coches_yes_5_15	6	8	en	en	sps00	preposition	***
+coches_yes_5_15	6	9	un	uno	di0ms0	indefinite	***
+coches_yes_5_15	6	10	seat	seat	ncms000	common	***
+coches_yes_5_15	6	11	1500	1500	z	-	***
+coches_yes_5_15	6	12	,	,	fc	-	***
+coches_yes_5_15	6	13	pero	pero	cc	coordinating	***
+coches_yes_5_15	6	14	...	...	fs	-	***
+coches_yes_5_15	6	15	eran	ser	vsii3p0	semiauxiliary	***
+coches_yes_5_15	6	16	otros	otro	di0mp0	indefinite	***
+coches_yes_5_15	6	17	tiempos	tiempo	ncmp000	common	***
+coches_yes_5_15	6	18	.	.	fp	-	***
+
+coches_yes_5_15	7	1	Me	me	pp1cs000	personal	***
+coches_yes_5_15	7	2	gusta	gustar	vmip3s0	main	***
+coches_yes_5_15	7	3	conducir	conducir	vmn0000	main	***
+coches_yes_5_15	7	4	,	,	fc	-	***
+coches_yes_5_15	7	5	y	y	cc	coordinating	***
+coches_yes_5_15	7	6	me	me	pp1cs000	personal	***
+coches_yes_5_15	7	7	gustan	gustar	vmip3p0	main	***
+coches_yes_5_15	7	8	los	el	da0mp0	article	***
+coches_yes_5_15	7	9	coches	coche	ncmp000	common	***
+coches_yes_5_15	7	10	,	,	fc	-	***
+coches_yes_5_15	7	11	y	y	cc	coordinating	***
+coches_yes_5_15	7	12	lo	el	da0ns0	article	***
+coches_yes_5_15	7	13	normal	normal	aq0cs0	qualificative	***
+coches_yes_5_15	7	14	,	,	fc	-	***
+coches_yes_5_15	7	15	con	con	sps00	preposition	***
+coches_yes_5_15	7	16	estas	este	dd0fp0	demonstrative	***
+coches_yes_5_15	7	17	características	característica	ncfp000	common	***
+coches_yes_5_15	7	18	,	,	fc	-	***
+coches_yes_5_15	7	19	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_5_15	7	20	que	que	cs	subordinating	***
+coches_yes_5_15	7	21	te	te	pp2cs000	personal	***
+coches_yes_5_15	7	22	gusten	gustar	vmsp3p0	main	***
+coches_yes_5_15	7	23	más	más	rg	-	***
+coches_yes_5_15	7	24	los	el	da0mp0	article	***
+coches_yes_5_15	7	25	vehiculos	vehiculos	ncmp000	common	***
+coches_yes_5_15	7	26	berlinas	berlina	ncfp000	common	***
+coches_yes_5_15	7	27	que	que	cs	subordinating	***
+coches_yes_5_15	7	28	los	el	da0mp0	article	***
+coches_yes_5_15	7	29	monovolumenes	monovolumenes	ncmp000	common	***
+coches_yes_5_15	7	30	.	.	fp	-	***
+
+coches_yes_5_15	8	1	Pero	pero	cc	coordinating	***
+coches_yes_5_15	8	2	cuando	cuando	cs	subordinating	***
+coches_yes_5_15	8	3	las	el	da0fp0	article	***
+coches_yes_5_15	8	4	circustancias	circustancias	ncfp000	common	***
+coches_yes_5_15	8	5	cambian	cambiar	vmip3p0	main	***
+coches_yes_5_15	8	6	(	(	fpa	-	***
+coches_yes_5_15	8	7	familia	familia	ncfs000	common	***
+coches_yes_5_15	8	8	numerosa	numeroso	aq0fs0	qualificative	***
+coches_yes_5_15	8	9	)	)	fpt	-	***
+coches_yes_5_15	8	10	,	,	fc	-	***
+coches_yes_5_15	8	11	las	el	da0fp0	article	***
+coches_yes_5_15	8	12	alternativas	alternativa	ncfp000	common	***
+coches_yes_5_15	8	13	se	se	p00cn000	-	***
+coches_yes_5_15	8	14	reducen	reducir	vmip3p0	main	***
+coches_yes_5_15	8	15	,	,	fc	-	***
+coches_yes_5_15	8	16	y	y	cc	coordinating	***
+coches_yes_5_15	8	17	lo	el	da0ns0	article	***
+coches_yes_5_15	8	18	que	que	pr0cn000	relative	***
+coches_yes_5_15	8	19	antes	antes	rg	-	***
+coches_yes_5_15	8	20	eran	ser	vsii3p0	semiauxiliary	***
+coches_yes_5_15	8	21	opciones	opción	ncfp000	common	***
+coches_yes_5_15	8	22	,	,	fc	-	***
+coches_yes_5_15	8	23	se	se	p00cn000	-	***
+coches_yes_5_15	8	24	convierten	convertir	vmip3p0	main	***
+coches_yes_5_15	8	25	en	en	sps00	preposition	***
+coches_yes_5_15	8	26	necesidades	necesidad	ncfp000	common	***
+coches_yes_5_15	8	27	.	.	fp	-	***
+
+coches_yes_5_15	9	1	De	de	sps00	preposition	-	-	-
+coches_yes_5_15	9	2	ahi	ahi	ncms000	common	-	-	-
+coches_yes_5_15	9	3	mi	mi	dp1css	possessive	-	-	-
+coches_yes_5_15	9	4	necesidad	necesidad	ncfs000	common	-	-	-
+coches_yes_5_15	9	5	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	9	6	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_15	9	7	monovolumen	monovolumen	ncms000	common	-	-	-
+coches_yes_5_15	9	8	,	,	fc	-	-	-	-
+coches_yes_5_15	9	9	aunque	aunque	cc	coordinating	-	-	-
+coches_yes_5_15	9	10	no	no	rn	negative	no	-	-
+coches_yes_5_15	9	11	me	me	pp1cs000	personal	-	-	-
+coches_yes_5_15	9	12	gustó	gustar	vmis3s0	main	-	-	-
+coches_yes_5_15	9	13	en_absoluto	en_absoluto	rn	negative	en_absoluto	-	-
+coches_yes_5_15	9	14	.	.	fp	-	-	-	-
+
+coches_yes_5_15	10	1	Dicho	dicho	np00000	proper	***
+coches_yes_5_15	10	2	ésto	ésto	vmp00sm	main	***
+coches_yes_5_15	10	3	,	,	fc	-	***
+coches_yes_5_15	10	4	el	el	da0ms0	article	***
+coches_yes_5_15	10	5	siguiente	siguiente	aq0cs0	qualificative	***
+coches_yes_5_15	10	6	paso	paso	ncms000	common	***
+coches_yes_5_15	10	7	fue	ser	vsis3s0	semiauxiliary	***
+coches_yes_5_15	10	8	elegir	elegir	vmn0000	main	***
+coches_yes_5_15	10	9	la	el	da0fs0	article	***
+coches_yes_5_15	10	10	marca	marca	ncfs000	common	***
+coches_yes_5_15	10	11	.	.	fp	-	***
+
+coches_yes_5_15	11	1	Mi	mi	dp1css	possessive	-	-	-
+coches_yes_5_15	11	2	tendencia	tendencia	ncfs000	common	-	-	-
+coches_yes_5_15	11	3	a	a	sps00	preposition	-	-	-
+coches_yes_5_15	11	4	los	el	da0mp0	article	-	-	-
+coches_yes_5_15	11	5	coches	coche	ncmp000	common	-	-	-
+coches_yes_5_15	11	6	mas	mas	cc	coordinating	-	-	-
+coches_yes_5_15	11	7	bien	bien	rg	-	-	-	-
+coches_yes_5_15	11	8	grandes	grande	aq0cp0	qualificative	-	-	-
+coches_yes_5_15	11	9	,	,	fc	-	-	-	-
+coches_yes_5_15	11	10	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	11	11	,	,	fc	-	-	-	-
+coches_yes_5_15	11	12	sobre	sobre	sps00	preposition	-	-	-
+coches_yes_5_15	11	13	todo	todo	di0ms0	indefinite	-	-	-
+coches_yes_5_15	11	14	anchos	ancho	ncmp000	common	-	-	-
+coches_yes_5_15	11	15	;	;	fx	-	-	-	-
+coches_yes_5_15	11	16	a	a	sps00	preposition	-	-	-
+coches_yes_5_15	11	17	no	no	rn	negative	no	-	-
+coches_yes_5_15	11	18	tener	tener	vmn0000	main	-	-	-
+coches_yes_5_15	11	19	que	que	cs	subordinating	-	-	-
+coches_yes_5_15	11	20	pensar	pensar	vmn0000	main	-	-	-
+coches_yes_5_15	11	21	en	en	sps00	preposition	-	-	-
+coches_yes_5_15	11	22	problemas	problema	ncmp000	common	-	-	-
+coches_yes_5_15	11	23	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	11	24	fiabilidad	fiabilidad	ncfs000	common	-	-	-
+coches_yes_5_15	11	25	;	;	fx	-	-	-	-
+coches_yes_5_15	11	26	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	11	27	,	,	fc	-	-	-	-
+coches_yes_5_15	11	28	sobre	sobre	sps00	preposition	-	-	-
+coches_yes_5_15	11	29	todo	todo	pi0ms000	indefinite	-	-	-
+coches_yes_5_15	11	30	,	,	fc	-	-	-	-
+coches_yes_5_15	11	31	mi	mi	dp1css	possessive	-	-	-
+coches_yes_5_15	11	32	preocupación	preocupación	ncfs000	common	-	-	-
+coches_yes_5_15	11	33	por	por	sps00	preposition	-	-	-
+coches_yes_5_15	11	34	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	11	35	propio	propio	aq0ms0	qualificative	-	-	-
+coches_yes_5_15	11	36	diseño	diseño	ncms000	common	-	-	-
+coches_yes_5_15	11	37	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	11	38	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	11	39	coche	coche	ncms000	common	-	-	-
+coches_yes_5_15	11	40	(	(	fpa	-	-	-	-
+coches_yes_5_15	11	41	lo	el	da0ns0	article	-	-	-
+coches_yes_5_15	11	42	menos	menos	rg	-	-	-	-
+coches_yes_5_15	11	43	parecido	parecer	vmp00sm	main	-	-	-
+coches_yes_5_15	11	44	a	a	sps00	preposition	-	-	-
+coches_yes_5_15	11	45	una	uno	di0fs0	indefinite	-	-	-
+coches_yes_5_15	11	46	furgoneta	furgoneta	ncfs000	common	-	-	-
+coches_yes_5_15	11	47	)	)	fpt	-	-	-	-
+coches_yes_5_15	11	48	;	;	fx	-	-	-	-
+coches_yes_5_15	11	49	me	me	p01cs000	-	-	-	-
+coches_yes_5_15	11	50	llevó	llevar	vmis3s0	main	-	-	-
+coches_yes_5_15	11	51	a	a	sps00	preposition	-	-	-
+coches_yes_5_15	11	52	elegir	elegir	vmn0000	main	-	-	-
+coches_yes_5_15	11	53	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	11	54	Chrysler_Voyager	chrysler_voyager	np00000	proper	-	-	-
+coches_yes_5_15	11	55	.	.	fp	-	-	-	-
+
+coches_yes_5_15	12	1	Pienso	pensar	vmip1s0	main	***
+coches_yes_5_15	12	2	sinceramente	sinceramente	rg	-	***
+coches_yes_5_15	12	3	(	(	fpa	-	***
+coches_yes_5_15	12	4	y	y	cc	coordinating	***
+coches_yes_5_15	12	5	de	de	sps00	preposition	***
+coches_yes_5_15	12	6	ahi	ahi	ncms000	common	***
+coches_yes_5_15	12	7	mi	mi	dp1css	possessive	***
+coches_yes_5_15	12	8	decisión	decisión	ncfs000	common	***
+coches_yes_5_15	12	9	)	)	fpt	-	***
+coches_yes_5_15	12	10	que	que	pr0cn000	relative	***
+coches_yes_5_15	12	11	el	el	da0ms0	article	***
+coches_yes_5_15	12	12	Voyager	voyager	np00000	proper	***
+coches_yes_5_15	12	13	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_5_15	12	14	el	el	da0ms0	article	***
+coches_yes_5_15	12	15	monovolumen	monovolumen	ncms000	common	***
+coches_yes_5_15	12	16	más	más	rg	-	***
+coches_yes_5_15	12	17	bonito	bonito	aq0ms0	qualificative	***
+coches_yes_5_15	12	18	,	,	fc	-	***
+coches_yes_5_15	12	19	con	con	sps00	preposition	***
+coches_yes_5_15	12	20	el	el	da0ms0	article	***
+coches_yes_5_15	12	21	diseño	diseño	ncms000	common	***
+coches_yes_5_15	12	22	más	más	rg	-	***
+coches_yes_5_15	12	23	elegante	elegante	aq0cs0	qualificative	***
+coches_yes_5_15	12	24	,	,	fc	-	***
+coches_yes_5_15	12	25	de	de	sps00	preposition	***
+coches_yes_5_15	12	26	el	el	da0ms0	article	***
+coches_yes_5_15	12	27	mercado	mercado	ncms000	common	***
+coches_yes_5_15	12	28	.	.	fp	-	***
+
+coches_yes_5_15	13	1	Le	le	pp3csd00	personal	***
+coches_yes_5_15	13	2	di	dar	vmis1s0	main	***
+coches_yes_5_15	13	3	vueltas	volver	vmp00pf	main	***
+coches_yes_5_15	13	4	a	a	sps00	preposition	***
+coches_yes_5_15	13	5	el	el	da0ms0	article	***
+coches_yes_5_15	13	6	asunto	asunto	ncms000	common	***
+coches_yes_5_15	13	7	;	;	fx	-	***
+
+coches_yes_5_15	14	1	miré	mirar	vmis1s0	main	-	-	-
+coches_yes_5_15	14	2	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	14	3	citroen	citroen	ncms000	common	-	-	-
+coches_yes_5_15	14	4	,	,	fc	-	-	-	-
+coches_yes_5_15	14	5	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	14	6	renault	renault	ncms000	common	-	-	-
+coches_yes_5_15	14	7	,	,	fc	-	-	-	-
+coches_yes_5_15	14	8	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	14	9	VW	vw	np00000	proper	-	-	-
+coches_yes_5_15	14	10	,	,	fc	-	-	-	-
+coches_yes_5_15	14	11	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	14	12	Toyota	toyota	np00000	proper	-	-	-
+coches_yes_5_15	14	13	,	,	fc	-	-	-	-
+coches_yes_5_15	14	14	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	14	15	ninguno	ninguno	pi0ms000	indefinite	ninguno	-	-
+coches_yes_5_15	14	16	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	14	17	ellos	ellos	pp3mp000	personal	-	-	-
+coches_yes_5_15	14	18	se	se	p00cn000	-	-	-	-
+coches_yes_5_15	14	19	acercaba	acercar	vmii3s0	main	-	-	-
+coches_yes_5_15	14	20	a	a	sps00	preposition	-	-	-
+coches_yes_5_15	14	21	lo	el	da0ns0	article	-	-	-
+coches_yes_5_15	14	22	que	que	pr0cn000	relative	-	-	-
+coches_yes_5_15	14	23	considero	considerar	vmip1s0	main	-	-	-
+coches_yes_5_15	14	24	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_15	14	25	diseño	diseño	ncms000	common	-	-	-
+coches_yes_5_15	14	26	,	,	fc	-	-	-	-
+coches_yes_5_15	14	27	para	para	sps00	preposition	-	-	-
+coches_yes_5_15	14	28	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_15	14	29	monovolumen	monovolumen	ncms000	common	-	-	-
+coches_yes_5_15	14	30	,	,	fc	-	-	-	-
+coches_yes_5_15	14	31	que	que	pr0cn000	relative	-	-	-
+coches_yes_5_15	14	32	está	estar	vaip3s0	auxiliary	-	-	-
+coches_yes_5_15	14	33	muy	muy	rg	-	-	-	-
+coches_yes_5_15	14	34	bien	bien	rg	-	-	-	-
+coches_yes_5_15	14	35	.	.	fp	-	-	-	-
+
+coches_yes_5_15	15	1	Realmente	realmente	np00000	proper	***
+coches_yes_5_15	15	2	,	,	fc	-	***
+coches_yes_5_15	15	3	el	el	da0ms0	article	***
+coches_yes_5_15	15	4	diseño	diseño	ncms000	common	***
+coches_yes_5_15	15	5	,	,	fc	-	***
+coches_yes_5_15	15	6	fue	ser	vsis3s0	semiauxiliary	***
+coches_yes_5_15	15	7	lo	el	da0ns0	article	***
+coches_yes_5_15	15	8	que	que	pr0cn000	relative	***
+coches_yes_5_15	15	9	marcó	marcar	vmis3s0	main	***
+coches_yes_5_15	15	10	mi	mi	dp1css	possessive	***
+coches_yes_5_15	15	11	decisión	decisión	ncfs000	common	***
+coches_yes_5_15	15	12	de	de	sps00	preposition	***
+coches_yes_5_15	15	13	compra	compra	ncfs000	common	***
+coches_yes_5_15	15	14	.	.	fp	-	***
+
+coches_yes_5_15	16	1	Con	con	sps00	preposition	***
+coches_yes_5_15	16	2	el	el	da0ms0	article	***
+coches_yes_5_15	16	3	uso	uso	ncms000	common	***
+coches_yes_5_15	16	4	,	,	fc	-	***
+coches_yes_5_15	16	5	y	y	cc	coordinating	***
+coches_yes_5_15	16	6	llevo	llevar	vmip1s0	main	***
+coches_yes_5_15	16	7	2	2	z	-	***
+coches_yes_5_15	16	8	años	año	ncmp000	common	***
+coches_yes_5_15	16	9	,	,	fc	-	***
+coches_yes_5_15	16	10	he	haber	vmip1s0	main	***
+coches_yes_5_15	16	11	de	de	sps00	preposition	***
+coches_yes_5_15	16	12	decir	decir	vmn0000	main	***
+coches_yes_5_15	16	13	que	que	cs	subordinating	***
+coches_yes_5_15	16	14	no_solo	no_solo	rn	-	***
+coches_yes_5_15	16	15	me	me	pp1cs000	personal	***
+coches_yes_5_15	16	16	he	haber	vaip1s0	auxiliary	***
+coches_yes_5_15	16	17	acabado	acabar	vmp00sm	main	***
+coches_yes_5_15	16	18	acostumbrando	acostumbrar	vmg0000	main	***
+coches_yes_5_15	16	19	,	,	fc	-	***
+coches_yes_5_15	16	20	sino_que	sino_que	cc	coordinating	***
+coches_yes_5_15	16	21	también	también	rg	-	***
+coches_yes_5_15	16	22	gustando	gustar	vmg0000	main	***
+coches_yes_5_15	16	23	.	.	fp	-	***
+
+coches_yes_5_15	17	1	La	la	np00000	proper	-	-	-
+coches_yes_5_15	17	2	comodidad	comodidad	ncfs000	common	-	-	-
+coches_yes_5_15	17	3	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	17	4	el	el	da0ms0	article	-	-	-
+coches_yes_5_15	17	5	vehículo	vehículo	ncms000	common	-	-	-
+coches_yes_5_15	17	6	para	para	sps00	preposition	-	-	-
+coches_yes_5_15	17	7	los	el	da0mp0	article	-	-	-
+coches_yes_5_15	17	8	ocupantes	ocupante	nccp000	common	-	-	-
+coches_yes_5_15	17	9	;	;	fx	-	-	-	-
+coches_yes_5_15	17	10	la	el	da0fs0	article	-	-	-
+coches_yes_5_15	17	11	comodidad	comodidad	ncfs000	common	-	-	-
+coches_yes_5_15	17	12	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	17	13	la	el	da0fs0	article	-	-	-
+coches_yes_5_15	17	14	conducción	conducción	ncfs000	common	-	-	-
+coches_yes_5_15	17	15	,	,	fc	-	-	-	-
+coches_yes_5_15	17	16	la	el	da0fs0	article	-	-	-
+coches_yes_5_15	17	17	cual	cual	pr0cs000	relative	-	-	-
+coches_yes_5_15	17	18	no	no	rn	negative	no	-	-
+coches_yes_5_15	17	19	es	ser	vsip3s0	semiauxiliary	-	-	-
+coches_yes_5_15	17	20	tan	tan	rg	-	-	-	-
+coches_yes_5_15	17	21	diferente	diferente	aq0cs0	qualificative	-	-	-
+coches_yes_5_15	17	22	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	17	23	la	el	da0fs0	article	-	-	-
+coches_yes_5_15	17	24	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	17	25	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_15	17	26	turismo	turismo	ncms000	common	-	-	-
+coches_yes_5_15	17	27	;	;	fx	-	-	-	-
+coches_yes_5_15	17	28	la	el	da0fs0	article	-	-	-
+coches_yes_5_15	17	29	robustez	robustez	ncfs000	common	-	-	-
+coches_yes_5_15	17	30	,	,	fc	-	-	-	-
+coches_yes_5_15	17	31	fiabilidad	fiabilidad	ncfs000	common	-	-	-
+coches_yes_5_15	17	32	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	17	33	potencia	potencia	ncfs000	common	-	-	-
+coches_yes_5_15	17	34	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	17	35	su	su	dp3cs0	possessive	-	-	-
+coches_yes_5_15	17	36	motor	motor	ncms000	common	-	-	-
+coches_yes_5_15	17	37	;	;	fx	-	-	-	-
+coches_yes_5_15	17	38	su	su	dp3cs0	possessive	-	-	-
+coches_yes_5_15	17	39	sorprendente	sorprendente	aq0cs0	qualificative	-	-	-
+coches_yes_5_15	17	40	bajo	bajo	sps00	preposition	-	-	-
+coches_yes_5_15	17	41	consumo	consumo	ncms000	common	-	-	-
+coches_yes_5_15	17	42	,	,	fc	-	-	-	-
+coches_yes_5_15	17	43	para	para	sps00	preposition	-	-	-
+coches_yes_5_15	17	44	ser	ser	vsn0000	semiauxiliary	-	-	-
+coches_yes_5_15	17	45	un	uno	di0ms0	indefinite	-	-	-
+coches_yes_5_15	17	46	vehículo	vehículo	ncms000	common	-	-	-
+coches_yes_5_15	17	47	tan	tan	rg	-	-	-	-
+coches_yes_5_15	17	48	pesado	pesar	vmp00sm	main	-	-	-
+coches_yes_5_15	17	49	.	.	fp	-	-	-	-
+
+coches_yes_5_15	18	1	La	el	da0fs0	article	***
+coches_yes_5_15	18	2	capacidad	capacidad	ncfs000	common	***
+coches_yes_5_15	18	3	de	de	sps00	preposition	***
+coches_yes_5_15	18	4	mover	mover	vmn0000	main	***
+coches_yes_5_15	18	5	cosas	cosa	ncfp000	common	***
+coches_yes_5_15	18	6	y	y	cc	coordinating	***
+coches_yes_5_15	18	7	personas	persona	ncfp000	common	***
+coches_yes_5_15	18	8	.	.	fp	-	***
+
+coches_yes_5_15	19	1	Incluso	incluso	rg	-	-	-	-
+coches_yes_5_15	19	2	ahora	ahora	rg	-	-	-	-
+coches_yes_5_15	19	3	pienso	pensar	vmip1s0	main	-	-	-
+coches_yes_5_15	19	4	que	que	cs	subordinating	-	-	-
+coches_yes_5_15	19	5	,	,	fc	-	-	-	-
+coches_yes_5_15	19	6	si	si	cs	subordinating	-	-	-
+coches_yes_5_15	19	7	no	no	rn	negative	no	-	-
+coches_yes_5_15	19	8	necesitara	necesitar	vmsi3s0	main	-	-	-
+coches_yes_5_15	19	9	mover	mover	vmn0000	main	-	-	-
+coches_yes_5_15	19	10	5	5	z	-	-	-	-
+coches_yes_5_15	19	11	personas	persona	ncfp000	common	-	-	-
+coches_yes_5_15	19	12	,	,	fc	-	-	-	-
+coches_yes_5_15	19	13	por	por	sps00	preposition	-	-	-
+coches_yes_5_15	19	14	su	su	dp3cs0	possessive	-	-	-
+coches_yes_5_15	19	15	espacio	espacio	ncms000	common	-	-	-
+coches_yes_5_15	19	16	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	19	17	comodidad	comodidad	ncfs000	common	-	-	-
+coches_yes_5_15	19	18	,	,	fc	-	-	-	-
+coches_yes_5_15	19	19	confortabilidad	confortabilidad	ncfs000	common	-	-	-
+coches_yes_5_15	19	20	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	19	21	conducción	conducción	ncfs000	common	-	-	-
+coches_yes_5_15	19	22	,	,	fc	-	-	-	-
+coches_yes_5_15	19	23	y	y	cc	coordinating	-	-	-
+coches_yes_5_15	19	24	bajo	bajo	sps00	preposition	-	-	-
+coches_yes_5_15	19	25	consumo	consumo	ncms000	common	-	-	-
+coches_yes_5_15	19	26	,	,	fc	-	-	-	-
+coches_yes_5_15	19	27	estaría	estar	vaic1s0	auxiliary	-	-	-
+coches_yes_5_15	19	28	en	en	sps00	preposition	-	-	-
+coches_yes_5_15	19	29	disposición	disposición	ncfs000	common	-	-	-
+coches_yes_5_15	19	30	tambien	tambien	rg	-	-	-	-
+coches_yes_5_15	19	31	de	de	sps00	preposition	-	-	-
+coches_yes_5_15	19	32	adquirir	adquirir	vmn0000	main	-	-	-
+coches_yes_5_15	19	33	lo	lo	pp3cna00	personal	-	-	-
+coches_yes_5_15	19	34	.	.	fp	-	-	-	-
+
+coches_yes_5_15	20	1	La	la	np00000	proper	***
+coches_yes_5_15	20	2	unica	unica	vmip3s0	main	***
+coches_yes_5_15	20	3	pega	pega	ncfs000	common	***
+coches_yes_5_15	20	4	que	que	pr0cn000	relative	***
+coches_yes_5_15	20	5	veo	ver	vmip1s0	main	***
+coches_yes_5_15	20	6	,	,	fc	-	***
+coches_yes_5_15	20	7	en	en	sps00	preposition	***
+coches_yes_5_15	20	8	esta	este	dd0fs0	demonstrative	***
+coches_yes_5_15	20	9	versión	versión	ncfs000	common	***
+coches_yes_5_15	20	10	,	,	fc	-	***
+coches_yes_5_15	20	11	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_5_15	20	12	la	el	da0fs0	article	***
+coches_yes_5_15	20	13	versatilidad	versatilidad	ncfs000	common	***
+coches_yes_5_15	20	14	de	de	sps00	preposition	***
+coches_yes_5_15	20	15	los	el	da0mp0	article	***
+coches_yes_5_15	20	16	asientos	asiento	ncmp000	common	***
+coches_yes_5_15	20	17	,	,	fc	-	***
+coches_yes_5_15	20	18	la	el	da0fs0	article	***
+coches_yes_5_15	20	19	cual	cual	pr0cs000	relative	***
+coches_yes_5_15	20	20	se	se	p00cn000	-	***
+coches_yes_5_15	20	21	resuelve	resolver	vmip3s0	main	***
+coches_yes_5_15	20	22	muy	muy	rg	-	***
+coches_yes_5_15	20	23	bien	bien	rg	-	***
+coches_yes_5_15	20	24	en	en	sps00	preposition	***
+coches_yes_5_15	20	25	la	el	da0fs0	article	***
+coches_yes_5_15	20	26	versión	versión	ncfs000	common	***
+coches_yes_5_15	20	27	superior	superior	aq0cs0	qualificative	***
+coches_yes_5_15	20	28	(	(	fpa	-	***
+coches_yes_5_15	20	29	Grand_Voyager	grand_voyager	np00000	proper	***
+coches_yes_5_15	20	30	)	)	fpt	-	***
+
+coches_yes_5_15	21	1	Creo	creo	np00000	proper	***
+coches_yes_5_15	21	2	que	que	cs	subordinating	***
+coches_yes_5_15	21	3	para	para	sps00	preposition	***
+coches_yes_5_15	21	4	aquellos	aquel	dd0mp0	demonstrative	***
+coches_yes_5_15	21	5	que	que	pr0cn000	relative	***
+coches_yes_5_15	21	6	requieren	requerir	vmip3p0	main	***
+coches_yes_5_15	21	7	espacio	espacio	ncms000	common	***
+coches_yes_5_15	21	8	en	en	sps00	preposition	***
+coches_yes_5_15	21	9	sus	su	dp3cp0	possessive	***
+coches_yes_5_15	21	10	movimientos	movimiento	ncmp000	common	***
+coches_yes_5_15	21	11	,	,	fc	-	***
+coches_yes_5_15	21	12	el	el	da0ms0	article	***
+coches_yes_5_15	21	13	Voyager	voyager	np00000	proper	***
+coches_yes_5_15	21	14	es	ser	vsip3s0	semiauxiliary	***
+coches_yes_5_15	21	15	una	uno	di0fs0	indefinite	***
+coches_yes_5_15	21	16	gran	gran	aq0cs0	qualificative	***
+coches_yes_5_15	21	17	opcion	opcion	ncms000	common	***
+coches_yes_5_15	21	18	,	,	fc	-	***
+coches_yes_5_15	21	19	sinceramente	sinceramente	rg	-	***
+coches_yes_5_15	21	20	.	.	fp	-	***
+
+coches_no_1_25	1	1	Mas	mas	cc	coordinating	***
+coches_no_1_25	1	2	o	o	cc	coordinating	***
+coches_no_1_25	1	3	menos	menos	rg	-	***
+coches_no_1_25	1	4	en	en	sps00	preposition	***
+coches_no_1_25	1	5	2000	2000	z	-	***
+coches_no_1_25	1	6	.	.	fp	-	***
+
+coches_no_1_25	2	1	Lo	lo	pp3cna00	personal	***
+coches_no_1_25	2	2	compré	comprar	vmis1s0	main	***
+coches_no_1_25	2	3	de_segunda_mano	de_segunda_mano	rg	-	***
+coches_no_1_25	2	4	en	en	sps00	preposition	***
+coches_no_1_25	2	5	un	uno	di0ms0	indefinite	***
+coches_no_1_25	2	6	fiable	fiable	aq0cs0	qualificative	***
+coches_no_1_25	2	7	concesionario	concesionario	ncms000	common	***
+coches_no_1_25	2	8	audi	audi	vmis1s0	main	***
+coches_no_1_25	2	9	.	.	fp	-	***
+
+coches_no_1_25	3	1	A	a	sps00	preposition	***
+coches_no_1_25	3	2	mi	mi	dp1css	possessive	***
+coches_no_1_25	3	3	me	me	pp1cs000	personal	***
+coches_no_1_25	3	4	lo	lo	pp3cna00	personal	***
+coches_no_1_25	3	5	vendieron	vender	vmis3p0	main	***
+coches_no_1_25	3	6	como	como	cs	subordinating	***
+coches_no_1_25	3	7	coche	coche	ncms000	common	***
+coches_no_1_25	3	8	de	de	sps00	preposition	***
+coches_no_1_25	3	9	un	uno	di0ms0	indefinite	***
+coches_no_1_25	3	10	viajante	viajante	nccs000	common	***
+coches_no_1_25	3	11	,	,	fc	-	***
+coches_no_1_25	3	12	por	por	sps00	preposition	***
+coches_no_1_25	3	13	que	que	pr0cn000	relative	***
+coches_no_1_25	3	14	tenia	tenia	ncfs000	common	***
+coches_no_1_25	3	15	100.000	100000	z	-	***
+coches_no_1_25	3	16	km	kilómetro	ncmn000	common	***
+coches_no_1_25	3	17	ya	ya	rg	-	***
+coches_no_1_25	3	18	,	,	fc	-	***
+coches_no_1_25	3	19	pero	pero	cc	coordinating	***
+coches_no_1_25	3	20	estaba	estar	vaii1s0	auxiliary	***
+coches_no_1_25	3	21	nuevecito	nuevo	aqdms0	qualificative	***
+coches_no_1_25	3	22	por	por	sps00	preposition	***
+coches_no_1_25	3	23	dentro	dentro	rg	-	***
+coches_no_1_25	3	24	y	y	cc	coordinating	***
+coches_no_1_25	3	25	por	por	sps00	preposition	***
+coches_no_1_25	3	26	fuera	fuera	rg	-	***
+coches_no_1_25	3	27	.	.	fp	-	***
+
+coches_no_1_25	4	1	Los	el	da0mp0	article	-	-	-
+coches_no_1_25	4	2	faros	faro	ncmp000	common	-	-	-
+coches_no_1_25	4	3	por	por	sps00	preposition	-	-	-
+coches_no_1_25	4	4	dentro	dentro	rg	-	-	-	-
+coches_no_1_25	4	5	un	uno	di0ms0	indefinite	-	-	-
+coches_no_1_25	4	6	poco	poco	rg	-	-	-	-
+coches_no_1_25	4	7	ahumados	ahumar	vmp00pm	main	-	-	-
+coches_no_1_25	4	8	de	de	sps00	preposition	-	-	-
+coches_no_1_25	4	9	viajar	viajar	vmn0000	main	-	-	-
+coches_no_1_25	4	10	de	de	sps00	preposition	-	-	-
+coches_no_1_25	4	11	noche	noche	ncfs000	common	-	-	-
+coches_no_1_25	4	12	pero	pero	cc	coordinating	-	-	-
+coches_no_1_25	4	13	nada	nada	pi0cs000	indefinite	nada	-	-
+coches_no_1_25	4	14	mas	más	rg	-	mas	-	-
+coches_no_1_25	4	15	.	.	fp	-	-	-	-
+
+coches_no_1_25	5	1	Pues	pues	cs	subordinating	***
+coches_no_1_25	5	2	a	a	sps00	preposition	***
+coches_no_1_25	5	3	los	el	da0mp0	article	***
+coches_no_1_25	5	4	quince	15	z	-	***
+coches_no_1_25	5	5	dias	dias	ncms000	common	***
+coches_no_1_25	5	6	ya	ya	rg	-	***
+coches_no_1_25	5	7	me	me	pp1cs000	personal	***
+coches_no_1_25	5	8	tuvieron	tener	vmis3p0	main	***
+coches_no_1_25	5	9	que	que	cs	subordinating	***
+coches_no_1_25	5	10	recodificar	recodificar	vmn0000	main	***
+coches_no_1_25	5	11	la	el	da0fs0	article	***
+coches_no_1_25	5	12	llave	llave	ncfs000	common	***
+coches_no_1_25	5	13	.	.	fp	-	***
+
+coches_no_1_25	6	1	2	2	z	-	***
+coches_no_1_25	6	2	veces	vez	ncfp000	common	***
+coches_no_1_25	6	3	.	.	fp	-	***
+
+coches_no_1_25	7	1	A	a	sps00	preposition	***
+coches_no_1_25	7	2	el	el	da0ms0	article	***
+coches_no_1_25	7	3	mes	mes	ncms000	common	***
+coches_no_1_25	7	4	y	y	cc	coordinating	***
+coches_no_1_25	7	5	medio	medio	rg	-	***
+coches_no_1_25	7	6	la	el	da0fs0	article	***
+coches_no_1_25	7	7	polea	polea	ncfs000	common	***
+coches_no_1_25	7	8	de	de	sps00	preposition	***
+coches_no_1_25	7	9	el	el	da0ms0	article	***
+coches_no_1_25	7	10	cigüeñal	cigüeñal	ncms000	common	***
+coches_no_1_25	7	11	,	,	fc	-	***
+coches_no_1_25	7	12	tras	tras	sps00	preposition	***
+coches_no_1_25	7	13	oir	oir	vmn0000	main	***
+coches_no_1_25	7	14	como	como	cs	subordinating	***
+coches_no_1_25	7	15	sonaba	sonar	vmii3s0	main	***
+coches_no_1_25	7	16	"	"	fe	-	***
+coches_no_1_25	7	17	clocloclo	clocloclo	ncms000	common	***
+coches_no_1_25	7	18	"	"	fe	-	***
+coches_no_1_25	7	19	.	.	fp	-	***
+
+coches_no_1_25	8	1	Menos	menos	rg	-	***
+coches_no_1_25	8	2	mal	mal	rg	-	***
+coches_no_1_25	8	3	que	que	cs	subordinating	***
+coches_no_1_25	8	4	mi	mi	dp1css	possessive	***
+coches_no_1_25	8	5	padre	padre	ncms000	common	***
+coches_no_1_25	8	6	me	me	pp1cs000	personal	***
+coches_no_1_25	8	7	convencio	convencio	ncms000	common	***
+coches_no_1_25	8	8	para	para	sps00	preposition	***
+coches_no_1_25	8	9	que	que	pr0cn000	relative	***
+coches_no_1_25	8	10	le	le	pp3csd00	personal	***
+coches_no_1_25	8	11	sacara	sacar	vmsi3s0	main	***
+coches_no_1_25	8	12	a	a	sps00	preposition	***
+coches_no_1_25	8	13	el	el	da0ms0	article	***
+coches_no_1_25	8	14	tipo	tipo	ncms000	common	***
+coches_no_1_25	8	15	de	de	sps00	preposition	***
+coches_no_1_25	8	16	el	el	da0ms0	article	***
+coches_no_1_25	8	17	concesionario	concesionario	ncms000	common	***
+coches_no_1_25	8	18	un	uno	di0ms0	indefinite	***
+coches_no_1_25	8	19	año	año	ncms000	common	***
+coches_no_1_25	8	20	de	de	sps00	preposition	***
+coches_no_1_25	8	21	garantia	garantia	ncfs000	common	***
+coches_no_1_25	8	22	en_vez_de	en_vez_de	sps00	preposition	***
+coches_no_1_25	8	23	6	6	z	-	***
+coches_no_1_25	8	24	meses	mes	ncmp000	common	***
+coches_no_1_25	8	25	,	,	fc	-	***
+coches_no_1_25	8	26	por	por	sps00	preposition	***
+coches_no_1_25	8	27	que	que	pr0cn000	relative	***
+coches_no_1_25	8	28	yo	yo	pp1csn00	personal	***
+coches_no_1_25	8	29	,	,	fc	-	***
+coches_no_1_25	8	30	novato	novato	ncms000	common	***
+coches_no_1_25	8	31	infeliz	infeliz	aq0cs0	qualificative	***
+coches_no_1_25	8	32	,	,	fc	-	***
+coches_no_1_25	8	33	les	le	pp3cpd00	personal	***
+coches_no_1_25	8	34	queria	queria	ncfs000	common	***
+coches_no_1_25	8	35	pedir	pedir	vmn0000	main	***
+coches_no_1_25	8	36	unas	uno	di0fp0	indefinite	***
+coches_no_1_25	8	37	alfombrillas	alfombrilla	ncfp000	common	***
+coches_no_1_25	8	38	de	de	sps00	preposition	***
+coches_no_1_25	8	39	goma	goma	ncfs000	common	***
+coches_no_1_25	8	40	nuevas	nuevo	aq0fp0	qualificative	***
+coches_no_1_25	8	41	,	,	fc	-	***
+coches_no_1_25	8	42	jejeje	jejeje	ncms000	common	***
+coches_no_1_25	8	43	!	!	fat	-	***
+
+coches_no_1_25	9	1	A	a	sps00	preposition	***
+coches_no_1_25	9	2	los	el	da0mp0	article	***
+coches_no_1_25	9	3	6	6	z	-	***
+coches_no_1_25	9	4	meses	mes	ncmp000	common	***
+coches_no_1_25	9	5	ya	ya	rg	-	***
+coches_no_1_25	9	6	habian	habian	vmip3p0	main	***
+coches_no_1_25	9	7	caido	caido	vmp00sm	main	***
+coches_no_1_25	9	8	unos	uno	di0mp0	indefinite	***
+coches_no_1_25	9	9	latiguillos	latiguillo	ncmp000	common	***
+coches_no_1_25	9	10	de	de	sps00	preposition	***
+coches_no_1_25	9	11	el	el	da0ms0	article	***
+coches_no_1_25	9	12	electroventilador	electroventilador	aq0ms0	qualificative	***
+coches_no_1_25	9	13	y	y	cc	coordinating	***
+coches_no_1_25	9	14	a	a	sps00	preposition	***
+coches_no_1_25	9	15	el	el	da0ms0	article	***
+coches_no_1_25	9	16	mes	mes	ncms000	common	***
+coches_no_1_25	9	17	siguiente	siguiente	aq0cs0	qualificative	***
+coches_no_1_25	9	18	la	el	da0fs0	article	***
+coches_no_1_25	9	19	bomba	bomba	ncfs000	common	***
+coches_no_1_25	9	20	de	de	sps00	preposition	***
+coches_no_1_25	9	21	el	el	da0ms0	article	***
+coches_no_1_25	9	22	agua	agua	nccs000	common	***
+coches_no_1_25	9	23	,	,	fc	-	***
+coches_no_1_25	9	24	que	que	pr0cn000	relative	***
+coches_no_1_25	9	25	se	se	p00cn000	-	***
+coches_no_1_25	9	26	derritio	derritio	ncms000	common	***
+coches_no_1_25	9	27	literalmente	literalmente	rg	-	***
+coches_no_1_25	9	28	.	.	fp	-	***
+
+coches_no_1_25	10	1	Lo	el	da0ns0	article	***
+coches_no_1_25	10	2	mas	mas	ncms000	common	***
+coches_no_1_25	10	3	gracioso	gracioso	aq0ms0	qualificative	***
+coches_no_1_25	10	4	fue	ser	vsis3s0	semiauxiliary	***
+coches_no_1_25	10	5	estando	estar	vag0000	auxiliary	***
+coches_no_1_25	10	6	a_punto_de	a_punto_de	sps00	preposition	***
+coches_no_1_25	10	7	vencer	vencer	vmn0000	main	***
+coches_no_1_25	10	8	mi	mi	dp1css	possessive	***
+coches_no_1_25	10	9	garantia	garantia	ncfs000	common	***
+coches_no_1_25	10	10	,	,	fc	-	***
+coches_no_1_25	10	11	que	que	pr0cn000	relative	***
+coches_no_1_25	10	12	se	se	p00cn000	-	***
+coches_no_1_25	10	13	quemó	quemar	vmis3s0	main	***
+coches_no_1_25	10	14	la	el	da0fs0	article	***
+coches_no_1_25	10	15	junta	junta	ncfs000	common	***
+coches_no_1_25	10	16	de	de	sps00	preposition	***
+coches_no_1_25	10	17	la	el	da0fs0	article	***
+coches_no_1_25	10	18	culata	culata	ncfs000	common	***
+coches_no_1_25	10	19	.	.	fp	-	***
+
+coches_no_1_25	11	1	Hubo	haber	vmis3s0	main	***
+coches_no_1_25	11	2	que	que	cs	subordinating	***
+coches_no_1_25	11	3	cambiar	cambiar	vmn0000	main	***
+coches_no_1_25	11	4	el	el	da0ms0	article	***
+coches_no_1_25	11	5	60_%	60/100	zp	percentage	***
+coches_no_1_25	11	6	de	de	sps00	preposition	***
+coches_no_1_25	11	7	el	el	da0ms0	article	***
+coches_no_1_25	11	8	motor	motor	ncms000	common	***
+coches_no_1_25	11	9	...	...	fs	-	***
+
+coches_no_1_25	12	1	Ya	ya	rg	-	***
+coches_no_1_25	12	2	estaba	estar	vaii1s0	auxiliary	***
+coches_no_1_25	12	3	casi	casi	rg	-	***
+coches_no_1_25	12	4	todo	todo	pi0ms000	indefinite	***
+coches_no_1_25	12	5	,	,	fc	-	***
+coches_no_1_25	12	6	no	no	rn	negative	***
+coches_no_1_25	12	7	?	?	fit	-	***
+
+coches_no_1_25	13	1	Pues	pues	cs	subordinating	-	-	-
+coches_no_1_25	13	2	no	no	rn	negative	no	-	-
+coches_no_1_25	13	3	pasaron	pasar	vmis3p0	main	-	-	-
+coches_no_1_25	13	4	3	3	z	-	-	-	-
+coches_no_1_25	13	5	meses	mes	ncmp000	common	-	-	-
+coches_no_1_25	13	6	mas	mas	cc	coordinating	-	-	-
+coches_no_1_25	13	7	y	y	cc	coordinating	-	-	-
+coches_no_1_25	13	8	ya	ya	rg	-	-	-	-
+coches_no_1_25	13	9	lo	lo	pp3cna00	personal	-	-	-
+coches_no_1_25	13	10	ultimo	ultimar	vmip1s0	main	-	-	-
+coches_no_1_25	13	11	fue	ser	vsis3s0	semiauxiliary	-	-	-
+coches_no_1_25	13	12	el	el	da0ms0	article	-	-	-
+coches_no_1_25	13	13	TURBO	turbo	np00000	proper	-	-	-
+coches_no_1_25	13	14	!	!	fat	-	-	-	-
+coches_no_1_25	13	15	!	!	fat	-	-	-	-
+coches_no_1_25	13	16	!	!	fat	-	-	-	-
+
+coches_no_1_25	14	1	Ahi	ahi	np00000	proper	***
+coches_no_1_25	14	2	,	,	fc	-	***
+coches_no_1_25	14	3	rendido	rendir	vmp00sm	main	***
+coches_no_1_25	14	4	,	,	fc	-	***
+coches_no_1_25	14	5	con	con	sps00	preposition	***
+coches_no_1_25	14	6	180.000	180000	z	-	***
+coches_no_1_25	14	7	km	kilómetro	ncmn000	common	***
+coches_no_1_25	14	8	.	.	fp	-	***
+coches_no_1_25	14	9	y	y	cc	coordinating	***
+coches_no_1_25	14	10	700.000	700000	z	-	***
+coches_no_1_25	14	11	pesetas	peseta	ncfp000	common	***
+coches_no_1_25	14	12	en	en	sps00	preposition	***
+coches_no_1_25	14	13	averias	averias	ncfp000	common	***
+coches_no_1_25	14	14	mas	mas	cc	coordinating	***
+coches_no_1_25	14	15	el	el	da0ms0	article	***
+coches_no_1_25	14	16	millon	millon	ncmn000	common	***
+coches_no_1_25	14	17	y	y	cc	coordinating	***
+coches_no_1_25	14	18	medio	medio	pi0ms000	indefinite	***
+coches_no_1_25	14	19	de	de	sps00	preposition	***
+coches_no_1_25	14	20	la	el	da0fs0	article	***
+coches_no_1_25	14	21	compra	compra	ncfs000	common	***
+coches_no_1_25	14	22	decidi	decidi	vmis1s0	main	***
+coches_no_1_25	14	23	vender	vender	vmn0000	main	***
+coches_no_1_25	14	24	lo	lo	pp3cna00	personal	***
+coches_no_1_25	14	25	.	.	fp	-	***
+
+coches_no_1_25	15	1	Asi	asi	np00000	proper	***
+coches_no_1_25	15	2	que	que	cs	subordinating	***
+coches_no_1_25	15	3	lo	lo	pp3cna00	personal	***
+coches_no_1_25	15	4	lleve	llevar	vmsp3s0	main	***
+coches_no_1_25	15	5	a	a	sps00	preposition	***
+coches_no_1_25	15	6	un	uno	di0ms0	indefinite	***
+coches_no_1_25	15	7	taller	taller	ncms000	common	***
+coches_no_1_25	15	8	donde	donde	pr000000	relative	***
+coches_no_1_25	15	9	hicieron	hacer	vmis3p0	main	***
+coches_no_1_25	15	10	magia	magia	ncfs000	common	***
+coches_no_1_25	15	11	y	y	cc	coordinating	***
+coches_no_1_25	15	12	dejaron	dejar	vmis3p0	main	***
+coches_no_1_25	15	13	el	el	da0ms0	article	***
+coches_no_1_25	15	14	cuentakm	cuentakm	ncms000	common	***
+coches_no_1_25	15	15	a	a	sps00	preposition	***
+coches_no_1_25	15	16	83.000	83000	z	-	***
+coches_no_1_25	15	17	,	,	fc	-	***
+coches_no_1_25	15	18	con	con	sps00	preposition	***
+coches_no_1_25	15	19	lo	el	da0ns0	article	***
+coches_no_1_25	15	20	que	que	pr0cn000	relative	***
+coches_no_1_25	15	21	pude	poder	vmis1s0	main	***
+coches_no_1_25	15	22	sacar	sacar	vmn0000	main	***
+coches_no_1_25	15	23	algo	algo	pi0cs000	indefinite	***
+coches_no_1_25	15	24	mas	mas	cc	coordinating	***
+coches_no_1_25	15	25	de	de	sps00	preposition	***
+coches_no_1_25	15	26	pasta	pasta	ncfs000	common	***
+coches_no_1_25	15	27	de	de	sps00	preposition	***
+coches_no_1_25	15	28	su	su	dp3cs0	possessive	***
+coches_no_1_25	15	29	venta	venta	ncfs000	common	***
+coches_no_1_25	15	30	.	.	fp	-	***
+
+coches_no_1_25	16	1	Ea	ea	i	-	-	-	-
+coches_no_1_25	16	2	,	,	fc	-	-	-	-
+coches_no_1_25	16	3	que	que	cs	subordinating	-	-	-
+coches_no_1_25	16	4	ya	ya	rg	-	-	-	-
+coches_no_1_25	16	5	no	no	rn	negative	no	-	-
+coches_no_1_25	16	6	cuento	contar	vmip1s0	main	-	-	-
+coches_no_1_25	16	7	con	con	sps00	preposition	-	-	-
+coches_no_1_25	16	8	fiat	fiat	ncms000	common	-	-	-
+coches_no_1_25	16	9	como	como	cs	subordinating	-	-	-
+coches_no_1_25	16	10	marca	marca	ncfs000	common	-	-	-
+coches_no_1_25	16	11	de	de	sps00	preposition	-	-	-
+coches_no_1_25	16	12	coches	coche	ncmp000	common	-	-	-
+coches_no_1_25	16	13	.	.	fp	-	-	-	-
+
+coches_no_1_25	17	1	;	;	fx	-	***
+coches_no_1_25	17	2	)	)	fpt	-	***
+

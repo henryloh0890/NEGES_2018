@@ -1,0 +1,1124 @@
+Resulta|O sosa|O y|O fria|O con|O un|O argumento|O que|O promete|O y|O que|O a_pesar_de|O estar|O bien|O tramado|O no|B-C acaba|O de|O convencer|O me|O y|O es|O que|O la|O protagonista|O resulta|O fria|O y|O a_medida_que|O vas|O leyendo|O el|O libro|O se|O te|O va|O haciendo|O pesado|O y|O descubres|O que|O esta|O falto|O de|O sentimientos|O y|O donde|O la|O mayor|O preocupacion|O de|O el|O autor|O es|O la|O trama|O y|O no|B-C profundiza|O en|O los|O personajes|O y|O sus|O relaciones|O .|O .|O
+number of cues= 2.0
+number of tokens= 67
+====================================================
+Trata|O de|O la|O busqueda|O de|O la|O respuesta|O en|O Salem|O la|O misma|O ciudad|O en|O la|O que|O varias|O mujeres|O fueron|O quemadas|O acusadas|O de|O brujeria|O en|O 1692|O y|O donde|O se|O va|O a|O vivir|O la|O protagonista|O y|O descubre|O algo|O inquietante|O ...|O que|O no|B-C pienso|O desvelar|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Sobre|O gustos|O no|B-C hay|O nada|I-C escrito|O
+number of cues= 1.0
+number of tokens= 6
+====================================================
+Mónica|O empieza|O a|O llevar|O una|O vida|O de|O sexo|O y|O drogas|O ,|O y|O que|O Beatriz|O le|O seguirá|O por|O querer|O estar|O a|O su|O lado|O ,|O aunque|O no|B-C del_mismo_modo|O ,|O tan|O a|O el|O límite|O como|O lo|O hace|O ella|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Mónica|O cada|O vez|O necesita|O más|O de|O su|O vicio|O ,|O la|O droga|O ,|O y|O para|O ello|O tiene|O que|O estar|O liada|O con|O gente|O que|O no|B-C quiere|O ,|O pero|O es|O la|O única|O manera|O que|O tiene|O de|O pagar|O se|O la|O droga|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+Tras|O terminar|O su|O relación|O con|O Ralph|O ,|O con|O Cat|O y|O sus|O estudios|O ,|O nuevamente|O se|O va|O a|O Madrid|O y|O una|O vez|O allí|O trata|O de|O dar|O con|O Mónica|O ,|O pero|O desde|O la|O última|O vez|O que|O se|O vieron|O ,|O han|O pasado|O mas|O de|O tres|O años|O y|O no|B-C sabrá|O si|O podrá|O localizar|O la|O .|O
+number of cues= 1.0
+number of tokens= 51
+====================================================
+Me|O esperaba|O bastante|O mas|O de|O el|O libro|O ,|O tanto|O me|O habían|O hablado|O de|O él|O ,|O que|O no|B-C se|O ...|O pensé|O que|O sería|O una|O bomba|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+No|B-C se|O se|O recomendaría|O el|O libro|O ,|O a|O mi|O por_lo_menos|O no|B-C me|O ha|O gustado|O ,|O ahora|O ,|O se|O lee|O rápido|O y|O sobre|O todo|O si|O el|O tema|O te|O gusta|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================
+Otro|O más|O de|O García_Márquez|O ha|O caído|O en|O mis|O manos|O y|O lo|O he|O devorado|O en|O un|O par|O de|O días|O ,|O sus|O escasas|O 100|O hojas|O no|B-C dan|O para|O más|O tiempo|O ,|O aunque|O luego|O el|O período|O de|O reflexión|O se|O prolongue|O durante|O más|O tiempo|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+A_medida_que|O se|O va|O leyendo|O no|B-C se|O asimila|O toda|O la|O informacion|O que|O se|O recibe|O a|O el|O menos|O eso|O fue|O lo|O que|O me|O pasó|O a|O mi|O ,|O y|O es|O en|O las|O páginas|O finales|O cuando|O uno|O se|O da_cuenta|O de|O todo|O y|O comienza|O a|O hilar|O lo|O que|O sucede|O .|O
+number of cues= 1.0
+number of tokens= 45
+====================================================
+Pero|O los|O años|O pasan|O y|O la|O carta|O no|B-C se|O recibe|O ,|O todos|O los|O viernes|O la|O espera|O con|O la|O ilusión|O de|O poder|O sacar|O de|O la|O pobreza|O en|O la|O que|O vive|O a|O su|O mujer|O ,|O pero|O la|O espera|O es|O vana|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+La|O espera|O de|O algo|O que|O no|B-C llega|O y|O que|O se|O tiene|O la|O certeza|O de|O que|O no|B-C llegará|O pero|O que|O no|B-C quiere|O reconocer|O ,|O porque|O reconocer|O lo|O sería|O tirar|O por|O la|O borda|O todos|O esos|O años|O de|O espera|O y|O tener|O una|O vida|O sin|B-C sentido|O para|O lo|O que|O les|O queda|O de|O existencia|O en|O ese|O lugar|O donde|O lo|O único|O inevitable|O es|O la|O muerte|O ,|O la|O soledad|O y|O el|O hambre|O .|O
+number of cues= 4.0
+number of tokens= 66
+====================================================
+Nunca|B-C es|O demasiado|O tarde|O para|O nada|B-C -|O dijo|O el|O coronel|O .|O "|O
+number of cues= 2.0
+number of tokens= 12
+====================================================
+Nunca|B-C es|O tarde|O para|O nada|B-C cuando|O nada|B-C se|O espera|O ...|O
+number of cues= 3.0
+number of tokens= 10
+====================================================
+Un|O libro|O como|O este|O sería|O capaz|O de|O quitar|O me|O la|O afición|O por|O la|O lectura|O ,|O si|O no|B-C fuera|O porque|O hay|O aficiones|O inherentes|O a|O la|O persona|O ,|O que|O no|B-C se|O pueden|O eliminar|O así_como_así|O .|O
+number of cues= 2.0
+number of tokens= 33
+====================================================
+Una|O época|O ,|O en|O definitiva|O ,|O que|O supondrá|O un|O punto|O de|O no|B-C retorno|O ,|O el|O paso|O a|O la|O vida|O real|O ,|O de|O la|O que|O ya|O nunca|B-C podrán|O escapar|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================
+No|B-C he|O encontrado|O por|O ninguna|B-C parte|O “|O La|O agudeza|O ,|O ironía|O y|O picaresca|O ”|O de|O las|O que|O se|O habla|O en|O la|O contraportada|O de|O el|O libro|O ;|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+ni|B-C me|O parece|O que|O sea|O “|O un|O magistral|O relato|O ”|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+A|O el|O contrario|O ,|O me|O parece|O una|O historia|O sin|B-C ritmo|O ,|O nada|B-C ágil|O ,|O espesa|O y|O complicada|O ,|O en|O la|O que|O cuesta|O avanzar|O ,|O y|O no|B-C sucede|O nada|I-C .|O
+number of cues= 3.0
+number of tokens= 29
+====================================================
+Nada|B-C de_nada|I-C .|O
+number of cues= 1.0
+number of tokens= 3
+====================================================
+No|B-C acaba|O de|O enganchar|O al|O lector|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Al_menos|O ,|O no|B-C a|O esta|O lectora|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Pero|O a|O mí|O ,|O que|O soy|O totalmente|O ajena|O a|O la|O historia|O ,|O a|O el|O mundo|O y|O a|O las|O circunstancias|O que|O describe|O ,|O no|B-C me|O dice|O nada|I-C ,|O no|B-C me|O atrapa|O ,|O no|B-C capta|O mi|O atención|O .|O
+number of cues= 3.0
+number of tokens= 36
+====================================================
+No|B-C ha|O sido|O el|O caso|O de|O “|O El_camino_de_los_ingleses|O ”|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+No|B-C mejora|O ,|O no|B-C .|O
+number of cues= 2.0
+number of tokens= 5
+====================================================
+Ni_a_la_de_tres|B-C .|O
+number of cues= 1.0
+number of tokens= 2
+====================================================
+Aunque|O este|O fiasco|O no|B-C debería|O pillar|O me|O de|O sorpresa|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Simplemente|O con|O leer|O el|O argumento|O ,|O intuí|O que|O no|B-C me|O gustaría|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+Me|O ha|O recordado|O mucho|O a|O “|O Si_te_dicen_que_caí|O ”|O ,|O de|O Joan_Marsé|O ,|O que|O tampoco|B-C me|O gustó|O mucho|I-C .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Y|O no|B-C me|O gusta|O ,|O qué|O le|O voy|O a|O hacer|O yo|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+No|B-C os|O lo|O recomendaría|O (|O “|O El_camino_de_los_ingleses|O ”|O ,|O no|B-C el|O truquito|O de|O el|O yogur|O ,|O claro|O )|O ,|O pero|O lo|O cierto|O es|O que|O si|O yo|O me|O topara|O con|O una|O opinión|O como|O esta|O ,|O iría|O corriendo|O a|O buscar|O el|O libro|O ,|O a|O ver|O si|O realmente|O es|O tan|O malo|O .|O
+number of cues= 2.0
+number of tokens= 49
+====================================================
+Claro|O ,|O y|O si|O no|B-C la|O protagoniza|O Banderas|O …|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+No|B-C ,|O definitivamente|O ,|O creo|O que|O ni_siguiera|B-C en|O película|O .|O
+number of cues= 2.0
+number of tokens= 10
+====================================================
+Una|O y|O no|B-C más|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+La|O verdad|O es|O que|O no|B-C sé|O muy|I-C bien|O como|O afrontar|O esta|O opinión|O porque|O ,|O creo|O ,|O que|O es|O de|O las|O pocas|O veces|O que|O voy|O a|O hablar|O "|O mal|O "|O de|O un|O producto|O y|O tratándose|O de|O un|O libro|O no|B-C es|O fácil|O de|O hacer|O ,|O a|O el|O menos|O para|O mí|O .|O
+number of cues= 2.0
+number of tokens= 49
+====================================================
+Debo|O de|O llevar|O como|O un|O año|O más|O o|O menos|O sin|B-C hablar|O de|O ningún|B-C libro|O ,|O pero|O no|O ha|O sido|O porque|O durante|O todo|O este|O tiempo|O no|O haya|O leído|O ,|O sino|O porque|O he|O estado|O intentando|O leer|O este|O de|O el|O que|O os|O voy|O a|O hablar|O :|O El_cuaderno_gris|O .|O
+number of cues= 2.0
+number of tokens= 45
+====================================================
+De|O hecho|O lo|O acabé|O la|O semana|O pasada|O y|O desde|O entonces|O ya|O he|O leído|O otro|O y|O hoy|O mismo|O he|O empezado|O otro|O ,|O así|O por|O ganas|O de|O leer|O os|O aseguro|O que|O no|B-C fue|O por|O lo|O que|O tardé|O tantísimo|O en|O leer|O en|O este|O libro|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+En|O más|O de|O una|O ocasión|O repite|O que|O lo|O que|O se|O recoge|O en|O el|O libro|O sólo|O son|O anotaciones|O que|O hace|O a_modo_de|O ejercicio|O para|O forzar|O se|O a|O sí|O mismo|O a|O coger|O el|O hábito|O de|O escribir|O y|O que|O no|B-C pretende|O nada|I-C más|O con|O ello|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Nos|O encontramos|O en|O la|O Cataluña|O de|O esos|O años|O ,|O concretamente|O en|O el|O Empordà|O ,|O ante|O un|O estudiante|O de|O Derecho|O ,|O al|O que|O no|B-C le|O gusta|O su|O carrera|O ,|O pero|O que|O siente|O la|O obligación|O de|O sacar|O la|O adelante|O sólo|O para|O no|B-C desilusionar|O a|O su|O familia|O ,|O familia|O que|O con|O los|O años|O ha|O ido|O a|O menos|O y|O que|O pasan|O muchos|O apuros|O para|O que|O sus|O hijos|O vayan|O a|O la|O universidad|O y|O tengan|O una|O carrera|O .|O
+number of cues= 2.0
+number of tokens= 72
+====================================================
+Sin_embargo|O ,|O no|B-C cuenta|O ninguna|I-C historia|O ,|O no|O se|O trata|O de|O la|O historia|O de|O su|O vida|O durante|O esos|O dos|O años|O ,|O sino_que|O son|O ,|O como|O muy|O bien|O se|O encarga|O de|O apuntar|O muy|O a|O menudo|O ,|O anotaciones|O de|O cosas|O que|O le|O suceden|O ,|O que|O ve|O ,|O que|O le|O inquietan|O ,|O recuerdos|O ,|O etc.|O ,|O pero|O que|O nada|B-C tienen|O que|O ver|O entre|O sí|O .|O
+number of cues= 2.0
+number of tokens= 62
+====================================================
+El|O protagonista|O indiscutible|O de|O el|O libro|O es|O Joseph_Pla|O ,|O puesto|O que|O es|O él|O mismo|O quien|O escribe|O y|O sobre|O quien|O aunque|O a|O lo|O largo|O de|O todo|O el|O libro|O aparecen|O infinidad|O de|O personajes|O ninguno|B-C tiene|O relevancia|O .|O
+number of cues= 1.0
+number of tokens= 35
+====================================================
+Como|O ya|O he|O dicho|O ,|O es|O un|O estudiante|O de|O Derecho|O ,|O pero|O no|B-C le|O gustan|O nada|I-C sus|O estudios|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Sin_embargo|O ,|O sigue|O adelante|O por|O no|B-C defraudar|O a|O su|O familia|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Siempre|O vive|O por|O encima_de|O sus|O posibilidades|O ,|O nunca|B-C tiene|O dinero|O ,|O pero|O siempre|O pretende|O aparentar|O lo|O contrario|O ,|O sin_embargo|O ,|O él|O mismo|O reconoce|O que|O eso|O no_hace_más_que|O denotar|O su|O estado|O de|O pobreza|O absoluta|O ;|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+pero|O ,|O aunque|O a|O veces|O admite|O que|O hacer|O eso|O es|O poner|O se|O a|O sí|O mismo|O en|O ridículo|O ,|O no|B-C llega|O nunca|I-C a|O cambiar|O ese|O estilo|O de|O vida|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+En_cuanto_a|O las|O anotaciones|O muchas|O veces|O son|O correlativas|O ,|O pero|O otras|O se|O salta|O días|O de_por_medio|O y|O luego|O a|O el|O empezar|O pide|O disculpas|O por|O no|B-C haber|O escrito|O durante|O esos|O días|O ...|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+Y|O ,|O como|O ya|O he|O dicho|O ,|O no|B-C tienen|O nada|I-C que|O ver|O entre|O sí|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Muchas|O veces|O plasma|O sus|O inquietudes|O ,|O que|O personalmente|O me|O resultan|O bastante|O insulsas|O ,|O no|B-C sé|O si|O porque|O no|B-C las|O entiendo|O o|O porque|O realmente|O lo|O son|O .|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+En_cuanto_a|O el|O lenguaje|O es|O bastante|O claro|O ,|O tiene|O alguna|O palabra|O por|O ahí|O que|O no|B-C entendí|O muy|I-C bien|O y|O también|O alguna|O que|O otra|O en|O catalán|O sin|B-C traducir|O que|O para|O los|O que|O no|B-C sabemos|O catalán|O o|O buscamos|O en|O un|O diccionario|O o|O nos|O quedamos|O sin|B-C saber|O que|O significa|O ,|O pero|O ,|O en|O general|O ,|O el|O lenguaje|O es|O bastante|O claro|O .|O
+number of cues= 4.0
+number of tokens= 57
+====================================================
+No|B-C lo|O conocía|O hasta|O que|O reparé|O en|O este|O libro|O que|O ,|O a|O simple|O vista|O ,|O no|B-C me|O llamaba|O mucho|I-C la|O atención|O ,|O pero|O según|O el|O prólogo|O es|O la|O mejor|O obra|O de|O el|O autor|O así|O que|O me|O decidí|O a|O leer|O lo|O más|O por|O eso|O que|O por|O el|O autor|O en|O sí|O .|O
+number of cues= 2.0
+number of tokens= 50
+====================================================
+Si|O por_lo_menos|O hubiera|O un|O hilo|O argumental|O que|O pudieras|O seguir|O ...|O pero|O es|O que|O ni|B-C eso|O ,|O salta|O continuamente|O de|O una|O cosa|O a|O otra|O sin|B-C que|O tengan|O que|O ver|O entre|O sí|O ,|O no_hace_más_que|O hablar|O de|O gente|O que|O ni|B-C "|O presenta|O "|O y|O que|O no|B-C sabes|O quienes|O son|O ,|O que|O igual|O que|O aparecen|O desaparecen|O y|O luego|O ,|O unas|O páginas|O más|O adelante|O ,|O las|O vuelve|O a|O nombrar|O igual|O que|O si|O las|O conocieras|O de|O toda|O la|O vida|O ...|O
+number of cues= 4.0
+number of tokens= 74
+====================================================
+Todo|O ello|O hace|O que|O te|O pierdas|O continuamente|O y|O cuando|O llevas|O unas|O pocas|O páginas|O ,|O piensas|O que|O quizás|O eso|O que|O nada|B-C tiene|O que|O ver|O ahora|O entre|O sí|O más|O adelante|O pintará|O algo|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Luego|O ,|O cuando|O ya|O vas|O por|O la|O página|O 100|O o|O por|O ahí|O ,|O te|O das_cuenta|O de|O que|O no|B-C ,|O que|O en_realidad|O no|B-C te|O cuenta|O nada|I-C ,|O que|O sólo|O llena|O las|O páginas|O con|O cosas|O que|O a|O ti|O ni_te_van_ni_te_vienen|B-C .|O
+number of cues= 3.0
+number of tokens= 38
+====================================================
+Reconozco|O que|O tiene|O "|O pasajes|O "|O muy|O guapos|O ,|O pero|O también|O hay|O otros|O (|O la|O mayoría|O )|O muy|O pesados|O y|O otros|O que|O ni_siquiera|B-C resultan|O creíbles|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+No|O lo|O hace|O en|O una|O sola|O anotación|O sino_que|O emplea|O varias|O y|O ,|O la|O verdad|O ,|O personalmente|O es|O un|O "|O pasaje|O "|O de|O el|O libro|O que|O me|O gustó|O ,|O sin_embargo|O luego|O pasa|O a|O contar|O te|O la|O supuesta|O historia|O de|O amor|O entre|O dos|O jóvenes|O burgueses|O ,|O pero|O te|O la|O cuenta|O no|O como|O historia|O ,|O sino|O como|O yo|O lo|O ví|O y|O sucedió|O esto|O ,|O esto|O y|O lo|O otro|O ,|O casi|O parece|O como|O si|O los|O espiara|O ,|O hasta|O tal|O punto|O que|O transcribe|O sus|O diálogos|O a|O el|O dedillo|O ,|O pero|O es|O precisamente|O eso|O lo|O que|O no|B-C la|O hace|O creíble|O porque|O no|B-C sabe|O o|O no|B-C quiere|O transcribir|O los|O diálogos|O como|O dios|O manda|O y|O muchas|O veces|O da|O detalles|O que|O o|O él|O era|O el|O chico|O o|O de|O verdad|O espiaba|O a|O la|O pareja|O ...|O no|B-C es|O que|O a|O mí|O me|O importe|O si|O era|O su|O novia|O o|O si|O los|O espiaba|O ,|O pero|O todo|O el|O conjunto|O hace|O que|O esa|O parte|O en|O la|O que|O se|O para|O a|O hablar|O de|O el|O amor|O poniendo|O como|O ejemplo|O a|O esa|O pareja|O no|B-C sea|O creíble|O en_ningún_sentido|I-C .|O
+number of cues= 5.0
+number of tokens= 170
+====================================================
+Me|O resultó|O mucho|O más|O fácil|O de|O leer|O la|O segunda|O parte|O de|O el|O libro|O ,|O la|O correspondiente|O a|O el|O año|O 1919|O ,|O no|B-C sé|O si|O porque|O me|O acabé|O acostumbrando|O a|O su|O forma|O de|O escribir|O o|O porque|O es|O menos|O complicada|O ya_que|O apenas|B-C tiene|O descripciones|O y|O las|O anotaciones|O son|O más|O bien|O cortas|O y|O de|O cosas|O bastante|O concretas|O que|O rara_vez|O se|O prestan|O a|O divagaciones|O de|O el|O autor|O .|O
+number of cues= 2.0
+number of tokens= 64
+====================================================
+Pero|O aún_así|O cuando|O acabé|O el|O libro|O me|O quedé|O con|O una|O sensación|O de|O no|B-C haber|O aprendido|O nada|I-C ,|O de|O que|O no|B-C me|O había|O aportado|O nada|I-C .|O
+number of cues= 2.0
+number of tokens= 25
+====================================================
+No|B-C acostumbro|O a|O leer|O sólo|O por|O aprender|O algo|O ,|O pero|O me|O gusta|O que|O el|O libro|O que|O leo|O me|O aporte|O algo|O ,|O aunque|O sólo|O sea|O entretenimiento|O ;|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+y|O éste|O ,|O desde_luego|O ,|O no|B-C lo|O ha|O conseguido|O ni_de_lejos|I-C ,|O cuando|O lo|O acabé|O estaba|O casi|O igual|O que|O antes_de|O empezar|O lo|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Supongo|O que|O después_de|O todo|O lo|O que|O he|O dicho|O sobra|O añadir|O que|O no|B-C lo|O recomiendo|O bajo_ningún_concepto|I-C .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Quizás|O haya|O sido|O yo|O que|O no|B-C he|O entendido|O lo|O que|O autor|O quería|O escribir|O o|O que|O no|B-C he|O sido|O capaz|O de|O captar|O sus|O divagaciones|O para|O bien|O o|O para|O mal|O ,|O o|O que|O directamente|O no|B-C he|O pillado|O de|O que|O va|O el|O libro|O ,|O pero|O desde_luego|O para|O mí|O ha|O sido|O una|O pesada|O pérdida|O de|O tiempo|O ,|O así|O que|O no|B-C os|O lo|O recomiendo|O ,|O pues|O creo|O que|O hay|O libros|O muchísimo|O mejores|O que|O este|O en|O el|O mercado|O literario|O .|O
+number of cues= 4.0
+number of tokens= 74
+====================================================
+Me|O encanta|O Lucia_Etxebarria|O ,|O sera|O que|O me|O identifico|O con|O ella|O por|O ser|O de|O la|O misma|O epoca|O y|O casi|O de|O el|O mismo|O sitio|O ,|O o|O por|O que|O tenemos|O una|O vision|O parecida|O de|O las|O cosas|O ,|O o|O por_que|O no|B-C se|O calla|O y|O dice|O lo|O que|O piensa|O de|O las|O cosas|O independientemente|O de|O lo|O que|O piense|O el|O resto|O (|O cosa|O que|O le|O ha|O costado|O mas|O de|O un|O trabajo|O )|O o|O que|O realmente|O tiene|O un|O estilo|O de|O escribir|O que|O es|O realmente|O increible|O .|O
+number of cues= 1.0
+number of tokens= 78
+====================================================
+No|B-C lo|O se|O ,|O el|O caso|O es|O que|O me|O tiene|O enganchada|O y|O no|B-C debo|O de|O ser|O la|O unica|O ya_que|O el|O premio|O nadal|O que|O recibio|O en|O el|O 98|O asi|O lo|O ratifica|O .|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+No|B-C hay|O mucho|I-C que|O decir|O a|O favor|O ,|O las|O expectativas|O que|O tenía|O antes_de|O comprar|O lo|O ,|O (|O mi|O mejor|O amiga|O me|O lo|O recomendó|O )|O eran|O altas|O ,|O el|O tema|O que|O aborda|O el|O libro|O suena|O sorprendente|O :|O una|O ciudad|O ,|O un|O país|O ,|O un|O mundo|O en|O el|O que|O los|O libros|O escapan|O ,|O las|O palabras|O van|O desapareciendo|O y|O con|O ellas|O el|O sentido|O de|O las|O cosas|O son|O un|O comienzo|O que|O promete|O ,|O pero|O que|O a|O la|O hora|O de|O dar|O continuidad|O o|O armar|O más|O bien|O decepciona|O .|O
+number of cues= 1.0
+number of tokens= 83
+====================================================
+Insisto|O en|O las|O pocas|O virtudes|O de|O la|O obra|O ,|O ni_siquiera|B-C se|O salva|O el|O estilo|O ,|O ya_que|O en|O muchas|O ocasiones|O cae|O en|O la|O repetición|O de|O detalles|O que|O solo|O redundan|O en|O lo|O obvio|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Sin|B-C querer|O ser|O sanguinario|O con|O el|O autor|O ,|O yo|O desaconsejo|O su|O lectura|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+Estaba|O en|O la|O playa|O ,|O no|B-C me|O había|O llevado|O ningún|I-C libro|O y|O me|O dejaron|O éste|O para|O leer|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Es|O decir|O ,|O que|O no|B-C había|O oido|O hablar|O de|O él|O ni|I-C nada|B-C ,|O fue|O pura|O casualidad|O .|O
+number of cues= 2.0
+number of tokens= 17
+====================================================
+Pero|O a|O mí|O no|B-C me|O ha|O gustado|O mucho|I-C .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+Pero|O yo|O no|B-C soy|O ninguna|I-C enamorada|O de|O Gaudí|O y|O en|O Barcelona|O he|O estado|O solo|O un|O par|O de|O veces|O ,|O si|O a|O esto|O le|O sumamos|O un|O argumento|O algo|O "|O repetido|O "|O ,|O pues|O el|O libro|O se|O me|O hacía|O en|O ocasiones|O un|O poco|O pesado|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+No|B-C .|O
+number of cues= 1.0
+number of tokens= 2
+====================================================
+El|O libro|O se|O puede|O leer|O y|O es|O medianamente|O entretenido|O ,|O es|O decir|O ,|O para|O pasar|O el|O rato|O no|B-C está|O mal|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Podríamos|O excusar|O la|O diciendo|O que|O se|O trata|O de|O un|O libro|O destinado|O para|O un|O público|O infantil|O o|O juvenil|O (|O cosa|O que|O creo|O que|O no|B-C es|O del_todo|I-C cierta|O )|O o|O simplemente|O que|O no|B-C es|O su|O mejor|O obra|O y|O punto|O .|O
+number of cues= 2.0
+number of tokens= 38
+====================================================
+no|B-C consigue|O hacer|O la|O tarta|O de|O fresa|O perfecta|O .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+vive|O libremente|O ,|O sin|B-C complejos|O ,|O despreocupada|O y|O con|O un|O amplio|O concepto|O de|O la|O vida|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+La|O madre|O de|O la|O niña|O (|O la|O hija|O de|O la|O abuelita|O )|O es|O una|O señora|O reseca|O ,|O metódica|O ,|O hiperpreocupada|O por|O todo|O ,|O que|O no|B-C deja|O en|O paz|O ni|I-C a|O su|O madre|O ,|O ni|I-C a|O su|O hija|O ,|O ni|I-C a|O su|O marido|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Pero|O el|O lobo|O no|B-C se|O comerá|O a|O la|O abuela|O ,|O el|O lobo|O no|B-C es|O tan|I-C malo|O ,|O simplemente|O está|O solo|O .|O
+number of cues= 2.0
+number of tokens= 21
+====================================================
+Caperucita|O (|O Sara|O )|O a|O el|O principio|O parece|O buscar|O la|O manera|O de|O ser|O feliz|O ,|O de|O no|B-C encasillar|O se|O en|O el|O mundo|O rígido|O de|O su|O madre|O ,|O pero|O acaba|O ,|O para|O mi|O gusto|O dejándose|O llevar|O por|O las|O tonterías|O que|O le|O cuenta|O una|O tía|O loca|O que|O dice|O ser|O la|O Estatua|O de|O la|O libertad|O en|O persona|O y|O pone|O en|O verdadero|O peligro|O a|O su|O abuela|O a|O el|O mandar|O le|O a|O su|O casa|O un|O desconocido|O .|O
+number of cues= 1.0
+number of tokens= 72
+====================================================
+Por|O fin|O un|O libro|O infantil|O pensado|O para|O niños|O (|O es|O decir|O personas|O pequeñas|O )|O y|O no|B-C para|O idiotas|O bajitos|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Consigue|O que|O un|O padre|O que|O se|O lo|O lea|O a|O sus|O hijos|O se|O lo|O pase|O tan|O bien|O como|O ellos|O (|O incluso|O sin|B-C leer|O se|O lo|O a|O nadie|B-C a|O mi|O me|O encantó|O )|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+Por|O si|O alguien|O no|B-C ha|O oido|O aun|I-C hablar|O de|O el|O (|O unas|O vacaciones|O en|O el|O polo|O norte|O quizas|O )|O Harry|O es|O un|O niño|O huerfano|O que|O vive|O con|O sus|O tíos|O ,|O que|O por_supuesto|O son|O odiosos|O hasta|O que|O un|O dia|O descubre|O que|O es|O un|O mago|O y|O que|O va|O a|O ir|O a|O estudiar|O a|O la|O mejor|O escuela|O de|O magia|O de|O el|O mundo|O .|O
+number of cues= 1.0
+number of tokens= 60
+====================================================
+contado|O de|O esta|O forma|O tal_vez|O no|B-C parezca|O demasiado|I-C atractivo|O ,|O un|O libro|O de|O aventurillas|O con|O malos|O malísimos|O y|O buenos|O buenísimos|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Incluso|O inventa|O un|O deporte|O ,|O el|O quidich|O ,|O que|O es|O algo|O así_como|O el|O futbol|O para|O nosotros|O ,|O al|O que|O si|O no|B-C fuera|O porque|O aún|B-C no|I-C he|O encontrado|O escobas|O voladoras|O jugaría|O encantada|O .|O
+number of cues= 2.0
+number of tokens= 32
+====================================================
+Parece|O escrito|O con|O poco|O tiempo|O y|O por|O compromiso|O ,|O pues|O aunque|O la|O idea|O incial|O parece|O buena|O ,|O se|O malogra|O a|O las|O pocas|O paginas|O ,|O y|O empieza|O el|O baile|O de|O personajes|O ,|O los|O reales|O ,|O los|O de|O el|O corrillo|O de|O cotillas|O ,|O y|O los|O extranjeros|O ,|O que|O es|O como|O si|O no|B-C fuera|O la|O cosa|O con|O ellos|O .|O
+number of cues= 1.0
+number of tokens= 56
+====================================================
+Yo|O no|B-C soy|O escritor|O ,|O pero|O sé|O cuando|O un|O libro|O está|O hecho|O con|O desgana|O ,|O y|O este|O lo|O está|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+No|B-C llega|O al|O corazon|O ,|O ni_siquiera|B-C a|O lo|O mas|O superficial|O de|O el|O cerebro|O .|O
+number of cues= 2.0
+number of tokens= 14
+====================================================
+Si|O quieres|O pasar|O un|O rato|O ,|O lee|O lo|O ,|O pero|O no|B-C esperes|O grandes|O cosas|O ,|O y|O claro|O ,|O siempre|O se|O saca|O algo|O cuendo|O se|O lee|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Haruki_Murakami|O tiene|O un|O estilo|O que|O no|B-C te|O deja|O indiferente|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Y|O no|B-C es|O raro|O hablar|O de|O metáforas|O :|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+es|O literatura|O nipona|O ,|O como|O el|O chino|O el|O japonés|O es|O un|O idioma|O cargado|O de|O metáforas|O y|O simbolismos|O así|O que|O este|O pájaro|O tiene|O mucho|O significado|O y|O no|B-C se|O va|O muy|I-C lejos|O de|O la|O Filosofía_Zen|O tan|O impregnada|O en|O este|O país|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+No|B-C espereís|O en|O ella|O Gheishas|O y|O Samurais|O sino|O japoneses|O actuales|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+No|B-C va|O a|O defraudar|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Hay|O que|O tener_en_cuenta|O que|O es|O anterior|O a|O "|O Tokio_Blues|O "|O pero|O no|B-C por|O ello|O menos|O madura|O sino|O todo_lo_contrario|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Tal_vez|O por|O eso|O y|O porque|O la|O temática|O que|O suele|O tratar|O no|B-C es|O muy|I-C de|O mi|O gusto|O ,|O nunca|B-C he|O leído|O ninguna|I-C novela|O suya|O .|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+Sí|O ,|O soy|O rara|O ,|O nunca|B-C había|O comprado|O un|O libro|O en|O un|O hipermercado|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Ambas|O llegamos|O a|O la|O conclusión|O de|O que|O el|O amor|O ,|O tal_y_como|O se|O nos|O "|O vende|O "|O a|O las|O mujeres|O ,|O es|O un|O engaño|O que|O sólo|O sirve|O para|O que|O ,|O a|O el|O haber|O nos|O hecho|O una|O idea|O distorsionada|O de|O un|O sentimiento|O ,|O sintamos|O que|O la|O realidad|O que|O vivimos|O nunca|B-C está|O a|O la|O altura|O .|O
+number of cues= 1.0
+number of tokens= 53
+====================================================
+Etxebarría|O nos|O ofrece|O muchos|O ejemplos|O (|O demasiados|O ,|O para|O mi|O gusto|O )|O sobre|O esa|O idea|O estúpida|O de|O morir|O por|O amor|O ,|O o|O de|O o|O mía|O o|O de|O nadie|B-C ,|O en|O fín|O de|O muchas|O de|O esas|O ideas|O que|O se|O van|O sugiriendo|O hasta|O que|O la|O gente|O pasa|O de|O comer|O ,|O de|O rehacer|O su|O vida|O ,|O de|O mirar|O para|O delante|O cuando|O las|O cosas|O amorosas|O se|O tuercen|O .|O
+number of cues= 1.0
+number of tokens= 64
+====================================================
+Es|O ese|O amor|O posesivo|O ,|O destructivo|O ,|O en|O el|O que|O uno|O vive|O para|O el|O otro|O ,|O en|O el|O que|O uno|O abandona|O a|O sus|O propias|O amistades|O e|O intenta|O modificar|O sus|O hábitos|O para|O complacer|O a|O el|O otro|O ,|O para|O no|B-C perder|O le|O ,|O el|O que|O no|O es|O amor|O ,|O sino|O dependencia|O .|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+Yo|O siempre|O digo|O que|O el|O amor|O tiene|O mil|O caras|O y|O que|O a|O las|O mujeres|O nos|O educan|O a_base_de|O literatura|O para|O esperar|O el|O amor|O pretendidamente|O romántico|O ,|O como|O si|O nuestro|O hombre|O se|O fuera|O a|O pasar|O la|O vida|O trayendo|O ramos|O de|O rosas|O (|O esas|O son|O las|O románticas|O ,|O las|O demás|O parece|O que|O no|B-C lo|O son|O )|O y|O diciéndonos|O "|O te|O quiero|O "|O a_destajo|O .|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+No|B-C solemos|O dudar|O del|O amor|O que|O nuestra|O madre|O nos|O profesa|O ni|B-C del|O que|O tenemos|O a|O nuestros|O hijos|O o|O amigos|O ,|O y|O sin_embargo|O ,|O no|B-C necesitamos|O reafirmar|O lo|O con|O expresiones|O verbales|O .|O
+number of cues= 3.0
+number of tokens= 31
+====================================================
+Es|O tan|O evidente|O ese|O amor|O que|O no|B-C necesita|O dejar|O prueba|O escrita|O ,|O menos|O aún|O ante|O testigos|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Ella|O va|O explicando|O demasiados|O ejemplos|O de|O relaciones|O que|O no|B-C funcionan|O ,|O se|O pone|O a|O sí|O misma|O como|O ejemplo|O ,|O habla|O de|O los|O distintos|O modelos|O de|O personalidades|O referidas|O a|O la|O pareja|O y|O de|O las|O causas|O de|O la|O evolución|O hacia|O un|O adulto|O dependiente|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Ella|O dice|O que|O quienes|O se|O vieron|O carentes|O de|O afecto|O en|O la|O infancia|O (|O no|B-C siempre|I-C se|O trata|O de|O que|O los|O padres|O no|B-C quisieran|O a|O los|O hijos|O ,|O puede|O bastar|O con|O no|B-C haber|O podido|O contar|O con|O ellos|O en|O algo|O concreto|O pero|O importante|O )|O tienden|O a|O plantear|O se|O inconscientemente|O el|O reto|O de|O lograr|O el|O afecto|O de|O personas|O poco|O proclives|O a|O ofrecer|O lo|O .|O
+number of cues= 3.0
+number of tokens= 61
+====================================================
+Así|O ,|O quienes|O no|B-C se|O ven|O "|O dignos|O "|O de|O ser|O amados|O por|O sí|O mismos|O ,|O se|O vuelcan|O en|O exceso|O en|O otros|O ,|O que|O suelen|O ser|O personas|O poco|O generosas|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Añade|O puntos|O importantes|O ,|O como|O que|O a|O una|O mujer|O siempre|O se|O le|O pide|O en|O el|O trabajo|O que|O destaque|O en|O algo|O ,|O mientras_que|O un|O hombre|O puede|O ser|O mediocre|O sin|B-C que|O por|O ello|O se|O nos|O antoje|O incapaz|O para|O el|O puesto|O que|O ocupa|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+Insultante|O me|O parece|O que|O se|O hable|O de|O el|O físico|O de|O mujeres|O que|O se|O dedican|O a|O la|O política|O ,|O o|O esa|O imposibilidad|O de|O encontrar|O mujeres|O poco|O atractivas|O en|O el|O cine|O actual|O ,|O a_no_ser_que|B-C hagan|O el|O papel|O de|O fracasadas|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+El|O libro|O de|O Etxebarría|O me|O parece|O muy|O útil|O para|O chicas|O jovenes|O que|O a|O lo|O mejor|O no|B-C han|O llegado|O a|O esas|O conclusiones|O por|O sí|O mismas|O ,|O que|O aún|O creen|O que|O su|O valía|O depende|O de|O su|O físico|O y|O que|O no|B-C son|O nadie|I-C si|O no|B-C tienen|O pareja|O .|O
+number of cues= 3.0
+number of tokens= 45
+====================================================
+La|O segunda|O parte|O de|O el|O libro|O ...|O ahí|O ya|O se|O nos|O pierde|O un|O poco|O la|O autora|O ,|O en|O una|O especie|O de|O intento|O de|O demostración|O de|O cuánto|O ha|O leído|O y|O en|O una|O serie|O de|O capítulos|O que|O como|O reflexión|O sobre|O diversos|O temas|O están|O bien|O ,|O pero|O que|O no|B-C terminan|O de|O convencer|O me|O dentro_de|O este|O libro|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+No|B-C creo|O que|O sea|O de|O obligada|O lectura|O ,|O pero|O sí|O de|O obligada|O reflexión|O para|O muchas|O ...|O y|O para|O algunos|O ,|O porque|O si|O bien|O somos|O las|O mujeres|O las|O que|O con|O más|O frecuencia|O nos|O aferramos|O a|O hombres|O que|O no|B-C son|O buenos|O para|O nosotras|O ,|O o|O nos|O deprimimos|O por|O aferrar|O nos|O a|O lo|O que|O creemos|O que|O es|O amor|O ,|O ellos|O ,|O en|O menos|O casos|O ,|O también|O pueden|O llegar|O a|O ser|O dependientes|O emocionales|O ,|O que|O no|O son|O otros|O que|O quienes|O se|O aferran|O a|O el|O dolor|O tras|O acabar|O se|O una|O relación|O ,|O los|O que|O no|O saben|O hablar|O más_que|O de|O la|O persona|O amada|O ,|O los|O que|O se|O olvidan|O de|O cualquier|O otra|O faceta|O que|O no|B-C sea|O la|O de|O "|O pareja|O de|O "|O ...|O
+number of cues= 3.0
+number of tokens= 116
+====================================================
+Decía|O Rosa_Montero|O en|O su|O libro|O "|O La_loca_de_la_casa|O "|O que|O el|O paso|O definitivo|O de|O las|O mujeres|O se|O dará|O el|O día|O que|O los|O referentes|O literarios|O femeninos|O sean|O escritos|O por|O mujeres|O ,|O y|O es|O que|O los|O perfiles|O de|O mujer|O que|O hoy|O se|O representan|O ,|O a|O el|O haber|O salido|O de|O la|O mente|O masculina|O ,|O no|B-C son|O reales|O .|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+El|O libro|O tiene|O 334|O páginas|O que|O fácilmente|O podrían|O quedar|O se|O en|O 200|O ,|O si|O quitara|O la|O parte|O final|O ,|O que|O a|O mí|O me|O sobre|O ,|O pero|O en|O cualquier|O caso|O no|B-C se|O hace|O pesado|O para|O quienes|O tengan|O costumbre|O de|O leer|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+Eso|O sí|O ,|O la|O edición|O incluye|O unos|O dibujos|O que|O ni|B-C aportan|O nada|I-C ,|O ni|B-C están|O muy|I-C logrados|O ,|O ni|B-C nada|B-C de_nada|I-C .|O
+number of cues= 4.0
+number of tokens= 22
+====================================================
+El|O libro|O en|O sí|O es|O una|O patraña|O ,|O aburrido|O ,|O tedioso|O ,|O y|O absurdo|O ,|O la|O protagonista|O es|O patética|O ,|O la|O historia|O no|B-C menos|O ,|O y|O los|O demás|O personajes|O puf|O !|O indescriptibles|O ,|O no|B-C encuentro|O palabras|O tan|O sinceras|O ,|O o|O quizá|O sí|O ,|O pero|O mejor|O no|B-C ser|O soez|O .|O
+number of cues= 3.0
+number of tokens= 49
+====================================================
+El|O hecho|O más|O gracioso|O es|O que|O a|O mí|O personalmente|O me|O gusta|O poder|O identificar|O me|O con|O los|O personajes|O ,|O y|O en|O este|O caso|O no|B-C encontré|O ninguno|B-C con|O el|O que|O hacer|O lo|O ,|O una|O abogada|O super|O rica|O ,|O fashion|O ,|O y|O genial|O ?|O ,|O un|O caballero|O templario|O ?|O ,|O o|O tres|O homosexuales|O ?|O ,|O sinceramente|O ,|O me|O parece|O patético|O ,|O si|O no|B-C hablamos|O de|O tendencias|O suicidas|O .|O
+number of cues= 3.0
+number of tokens= 65
+====================================================
+El|O tema|O está|O demasiado|O trillado|O ya|O ,|O no|B-C se|O que|O tipo|O de|O obsesión|O se|O ha|O cernido|O alrededor_del|O temple|O ,|O pero|O de|O verdad|O ya|O empieza|O a|O exasperar|O me|O ,|O no|B-C sé|O si|O es|O que|O nos|O escritores|O desconocen|O el|O hecho|O de|O que|O existieron|O más|O órdenes|O de|O caballería|O ,|O tanto|O o|O mejores|O que|O los|O templarios|O ,|O o|O es|O que|O ésto|O es|O como|O lo|O de|O ¿|O dónde|O va|O Vicente|O ?|O ,|O con|O el|O ruido|O de|O la|O gente|O ,|O pero|O es|O deprimente|O .|O
+number of cues= 2.0
+number of tokens= 78
+====================================================
+Ah|O !|O y|O yo|O también|O quiero|O un|O anillo|O con|O pedrusco|O ,|O p|O q|O estas|O cosas|O no|B-C suceden|O en|O la|O vida|O real|O ?|O ,|O mmmmm|O ,|O quizá|O pq|O son|O demasiado|O subrealistas|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+bueno|O ,|O lo|O empece|O a|O leer|O porque|O me|O obliogaron|O ,|O juro|O que|O lo|O intente|O ,|O lei|O como|O 3|O o|O 4|O capitulos|O ,|O lo|O intente|O ,|O peor|O no|B-C podia|O soportar|O lo|O ,|O me|O parecio|O aburrido|O desde|O la|O primera|O palabra|O ,|O se|O supone|O que|O son|O una|O serie|O de|O libro|O de|O fantasia|O para|O adultos|O y|O niños|O ,|O pero|O sinceramente|O ,|O no|B-C me|O parecio|O nada|I-C ameno|O ,|O por|O decir|O lo|O por|O alguna|O forma|O ,|O el|O principio|O de|O hace|O muy|O pesado|O ,|O se|O enrollan|O muchisimo|O (|O supongo|O que|O por|O la|O mitad|O se|O animara|O ,|O pero|O a|O mi|O los|O libros|O que|O no|B-C me|O enganchan|O desde|O el|O principio|O ...|O nada|I-C )|O ,|O ademas|O luego|O ves|O las|O peliculas|O y|O en|O fin|O ,|O no|B-C tiene|O nada|I-C que|O ver|O ,|O la|O pelicula|O tampoco|B-C me|O gusto|O (|O aunque|O fue|O para|O pasar|O un|O poco|O el|O rato|O y|O tal|O ...|O )|O .|O
+number of cues= 6.0
+number of tokens= 139
+====================================================
+En|O fin|O ,|O a|O la|O gente|O que|O le|O guste|O pues|O guay|O y|O a|O la|O que|O no|B-C ,|O pues|O nada|I-C .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+Y|O es|O que|O .|O .|O nada|B-C más|O lejos_de|O la|O realidad|O ,|O por|O que|O este|O libro|O es|O más|O bien|O lo|O contrario|O ,|O pero|O eso|O lo|O explicaré|O más|O adelante|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Hace|O un|O tiempo|O ,|O me|O llamaron|O la|O atención|O unos|O libros|O ,|O que|O ,|O ciertamente|O ,|O no|B-C es|O que|O tengan|O una|O presentación|O que|O entre|O por|O los|O ojos|O ,|O pero|O fué|O precisamente|O eso|O lo|O que|O me|O hizo|O fijar|O me|O en|O ellos|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+Esta|O serie|O ,|O promete|O "|O las|O mejores|O y|O más|O estimulantes|O novelas|O afrodisíacas|O que|O recogen|O las|O fantasías|O prohibidas|O de|O hombres|O y|O mujeres|O ,|O los|O deseos|O que|O nadie|B-C se|O atreve|O a|O confesar|O ,|O para|O leer|O a_solas|O ,|O o|O en|O compañia|O "|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+El|O personaje|O de|O las|O femmes|O fatales|O siempre|O me|O ha|O interesado|O ,|O asi_que|O no|B-C dudé|O en|O llevar|O me|O el|O libro|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Así_que|O ,|O nadie|B-C se|O lleve|O a|O engaño|O :|O de|O erotico|O nada|B-C ,|O esto|O es|O más|O pornografia|O pura|O .|O
+number of cues= 2.0
+number of tokens= 18
+====================================================
+Y|O que|O conste|O que|O no|B-C soy|O una|O de|O esas|O mujeres|O que|O la|O condenan|O ,|O quiero|O decir|O ,|O que|O incluso|O la|O pornografia|O ,|O puede|O tener|O un|O punto|O de|O atractivo|O ,|O más|O si|O es|O leida|O ,|O pero|O las|O situaciones|O de|O este|O libro|O ,|O el|O modo|O de|O narrar|O las|O ,|O es|O ciertamente|O .|O .|O anti-erotico|O ,|O a|O el|O menos|O ,|O desde|O mi|O punto|O de|O vista|O femenino|O .|O
+number of cues= 1.0
+number of tokens= 64
+====================================================
+Y|O repito|O que|O no|B-C es|O por|O lo|O explicito|O ,|O por|O que|O una|O película|O X|O tb|O lo|O es|O ,|O y|O ,|O sin_embargo|O ,|O puede|O ser|O excitante|O ,|O pero|O el|O contenido|O de|O este|O libro|O no|B-C ,|O por|O que|O esta|O narrado|O de|O una|O forma|O realmente|O vulgar|O ,|O abusando|O de|O palabras|O zafias|O y|O contado|O todo|O de|O una|O forma|O realmente|O vulgar|O .|O
+number of cues= 2.0
+number of tokens= 57
+====================================================
+Las|O escenas|O sexuales|O son|O ciertamente|O inverosimiles|O ,|O sin|B-C ninguna|I-C base|O que|O la|O sustenten|O ,|O vamos|O ,|O que|O parece|O tan|O poco|O creibles|O ,|O que|O resultan|O hasta|O riduculas|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+La|O verdad|O es|O que|O no|B-C sé|O a|O quien|O se|O le|O ha|O ocurrido|O la|O idea|O de|O que|O un|O incesto|O puede|O ser|O afrodisiaco|O ,|O pero|O esto|O es|O una|O muestra|O de|O lo|O zafio|O de|O el|O contenido|O ,|O que|O relata|O este|O tipo|O de|O cosas|O ,|O incestos|O ,|O violaciones|O ,|O en|O las|O que|O la|O protagonista|O no_sólo|O participa|O activamente|O ,|O sino_que|O las|O disfruta|O .|O
+number of cues= 1.0
+number of tokens= 58
+====================================================
+La|O verdad|O es|O que|O la|O protagonista|O es|O el|O cliché|O de|O mujer|O sin|B-C escrupulos|O ,|O ambiciosa|O ,|O y|O que|O se|O se|O vende|O a|O cualquiera|O que|O la|O pueda|O comprar|O .|O .|O y|O se|O toma|O el|O sexo|O de|O una|O manera|O ,|O que|O incluso|O creo|O ,|O a|O un|O hombre|O no|B-C le|O pareceria|O atractivo|O .|O
+number of cues= 2.0
+number of tokens= 50
+====================================================
+Asi|O que|O incluso|O el|O titulo|O ,|O es|O un|O fraude|O ,|O por_que|O de|O angel|O la|O protagonista|O no|B-C tiene|O nada|I-C .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+La|O vulgaridad|O con|O que|O narra|O los|O encuentros|O sexuales|O ,|O utilizando|O palabras|O que|O más|O bien|O son|O anti-eroticas|O ,|O es|O un|O constante|O en|O todo|O el|O libro|O ,|O quiero|O decir|O ,|O que|O la|O trama|O esta|O minimamente|O sostenida|O ,|O y|O trabajada|O ,|O es|O solo|O una|O excusa|O para|O narrar|O los|O encuentros|O sexuales|O ,|O y|O bueno|O ,|O el|O que|O ha|O escrito|O el|O libro|O .|O .|O elegancia|O literaria|O ninguna|B-C ,|O vamos|O ,|O parece|O una|O redacción|O que|O cualquiera|O podría|O escribir|O ,|O vamos|O que|O tiene|O el|O tono|O de|O un|O aficionado|O .|O
+number of cues= 1.0
+number of tokens= 82
+====================================================
+Vale|O .|O .|O a|O lo|O mejor|O se|O han|O pensado|O que|O ,|O para|O literatura|O erotica|O ,|O no|B-C se|O van|O a|O esforzar|O más|O ,|O pero|O sí|O ,|O desde_luego|O si|O tendrían|O que|O haber|O lo|O yo|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+Yo|O esperaba|O encontrar|O una|O historia|O interesante|O y|O con|O sus|O guiños|O eroticos|O ,|O y|O ,|O aunque|O la|O historia|O hubiese|O sido|O pornografica|O ,|O si|O hubiese|O estado|O bien|O narrada|O y|O tal|O pues|O la|O hubiese|O dado|O por|O válida|O ,|O por|O que|O el|O resultado|O de|O esta|O novela|O ,|O no|B-C lo|O es|O ni|B-C para|O ,|O hablando|O en|O plata|O ,|O calentar|O se|O .|O
+number of cues= 2.0
+number of tokens= 56
+====================================================
+En|O fín|O ,|O que|O a|O mi|O me|O parece|O un|O fraude|O pagar|O incluso|O los|O 5|O €|O que|O vale|O ,|O desde_luego|O ,|O me|O ha|O quitado|O las|O ganas|O de|O volver|O a|O leer|O nada|B-C de|O esta|O serie|O ,|O y|O por_supuesto|O no|B-C la|O recomiendo|O .|O
+number of cues= 2.0
+number of tokens= 40
+====================================================
+Aún|O siendo|O reacio|O a|O volver|O a|O caer|O en|O este|O tipo|O de|O temáticas|O tan|O recurridas|O últimamente|O ,|O decidí|O dar|O les|O otra|O oportunidad|O ,|O y|O es|O que|O la|O gran|O mayoría|O de|O novedades|O giran|O alrededor_de|O este|O éxito|O que|O nos|O envuelve|O ,|O y|O es|O difícil|O pasar|O de|O largo|O sin|B-C leer|O algo|O que|O tenga|O cierta|O relación|O .|O
+number of cues= 1.0
+number of tokens= 52
+====================================================
+En|O esta|O ocasión|O ,|O todo|O hay|O que|O decir|O lo|O ,|O no|B-C he|O quedado|O desilusionado|O con|O la|O lectura|O ,|O ya_que|O la|O novela|O me|O ha|O causado|O una|O sensación|O de|O lo|O más|O agradable|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+La|O novela|O gira|O en_torno_a|O Cristina|O ,|O una|O catalana|O afincada|O en|O Nueva_York|O que|O ,|O por|O ciertos|O motivos|O familiares|O algo|O turbios|O ,|O nunca|B-C ha|O regresado|O a|O España|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Este|O regalo|O le|O hace|O recordar|O su|O niñez|O en|O la|O costa|O brava|O y|O en|O la|O ciudad|O condal|O ,|O donde|O le|O asaltan|O dudas|O sobre|O su|O viaje|O sin|B-C retorno|O con|O destino|O en|O Nueva_York|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+Ante|O este|O viaje|O surge|O una|O oposición|O maternal|O férrea|O ,|O que|O insiste|O hasta|O la|O saciedad|O para_que|O su|O hija|O no|B-C llegue|O a|O realizar|O tal|O viaje|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+La|O novela|O sucede|O en|O su|O gran|O parte|O en|O Barcelona|O ,|O en|O concreto|O tiene|O un|O punto|O crucial|O :|O la|O iglesia|O de|O Santa_Ana|O (|O junto_a|O la|O plaza|O Cataluña|O )|O ;|O una|O iglesia|O semi|O escondida|O en|O el|O centro|O de|O una|O manzana|O de|O edificios|O (|O por|O cierto|O ,|O descubrí|O esta|O iglesia|O gracias_a|O esta|O novela|O ,|O ya_que|O no|B-C es|O muy|I-C visible|O ,|O está|O justo|O a|O el|O inicio|O de|O el|O portal|O de|O l|O ’|O àngel|O )|O .|O
+number of cues= 1.0
+number of tokens= 71
+====================================================
+Una|O trama|O muy|O bien|O llevada|O ,|O un|O entorno|O conocido|O y|O unos|O personajes|O de|O bastante|O complejidad|O hacen|O que|O esta|O novela|O no|B-C sea|O una|O más|O ,|O es|O una|O de|O las|O mejores|O que|O he|O podido|O leer|O relacionada|O con|O este|O tipo|O de|O argumento|O templario|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+Amor|O y|O desamor|O encontrados|O ,|O recuerdos|O de|O lo|O que|O fue|O y|O no|B-C pudo|O llegar|O a|O ser|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Si|O os|O interesan|O las|O novelas|O históricas|O con|O caballeros|O templarios|O de_por_medio|O no|B-C os|O podéis|O olvidad|O de|O El_anillo|O ,|O una|O novela|O con|O todo|O los|O ingredientes|O que|O confieren|O una|O muy|O buena|O lectura|O con|O la|O cruz|O templaria|O en|O un|O primer|O término|O ,|O como|O eje|O central|O ,|O dando|O emoción|O a|O el|O tema|O estrella|O por|O excelencia|O en|O estos|O días|O ,|O La_Orden_de_el_Temple|O .|O
+number of cues= 1.0
+number of tokens= 56
+====================================================
+La|O decrepitud|O de|O ender|O parece|O coincidir|O con|O la|O decrepitud|O de|O su|O saga|O ,|O de|O hecho|O el|O pesonaje|O de|O ender|O sobra|O ,|O sobre|O por|O todas|O partes|O y|O parece|O metido|O en|O la|O historia|O con|O calzador|O junto_con|O algunos|O personajes|O de|O el|O primer|O libro|O pretendiendo|O ser|O como|O el|O primer|O libro|O pero|O que|O parecen|O calcomanias|O planas|O sin|B-C niguna|I-C gracia|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+Cogi|O este|O libro|O de|O la|O biblioteca|O con|O bastantes|O dudas|O ,|O por|O un|O lado|O me|O interesaba|O porque|O tenía|O curiosidad|O por|O el|O tema|O ,|O por|O otro|O no|B-C me|O atraía|O mucho|I-C la|O autora|O (|O me|O parecía|O frívola|O y|O comercial|O ,|O y|O el|O que|O tenga|O un|O Planeta|O no|B-C me|O dice|O nada|I-C )|O .|O
+number of cues= 2.0
+number of tokens= 49
+====================================================
+En|O Edimburgo|O deja|O atrás|O a|O Caitlin|O (|O Cat|O )|O ,|O la|O chica|O con|O la|O que|O mantuvo|O una|O relación|O y|O a|O la|O que|O no|B-C le|O ha|O dicho|O claramente|O si|O volverá|O o|O no|B-C después_de|O el|O verano|O ,|O y|O en|O Madrid|O después_de|O su|O ausencia|O se|O encuentra|O sola|O ,|O ya|O no|B-C le|O quedan|O amigos|O y|O con|O sus|O padres|O se|O lleva|O bastante|O mal|O .|O
+number of cues= 3.0
+number of tokens= 59
+====================================================
+Que|O nadie|B-C piense|O que|O es|O una|O especie|O de|O relato|O erótico|O novelado|O ,|O todo_lo_contrario|O ,|O apenas|B-C hay|O sexo|O ,|O la|O historia|O se|O centra|O en|O la|O forma|O en|O que|O unas|O personas|O orbitan|O en_torno_a|O otras|O como|O los|O satélites|O (|O de|O ahí|O en|O parte|O el|O título|O )|O ,|O relaciones|O que|O no|O son|O necesariamente|O de|O amor|O tanto|O como|O de|O dependencia|O .|O
+number of cues= 2.0
+number of tokens= 56
+====================================================
+(|O Bea|O en_realidad|O no|B-C ama|O a|O Cat|O y|O no_deja_de|O comparar|O la|O con|O Mónica|O ,|O por_ejemplo|O )|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Los|O saltos|O son|O continuos|O ,|O salpicados|O con|O breves|O reflexiones|O ,|O pero|O la|O lectura|O es|O bastante|O ágil|O y|O no|B-C hay|O mayores|O problemas|O de|O comprensión|O de|O una|O historia|O que|O se|O nos|O va|O contando|O hacia|O atrás|O y|O siempre|O a|O pequeñas|O dosis|O .|O
+number of cues= 1.0
+number of tokens= 39
+====================================================
+A|O veces|O son|O reflexiones|O sobre|O el|O amar|O a|O otra|O mujer|O ,|O pero|O muchas|O veces|O ,|O otras|O divagaciones|O un|O poco|O más|O difusas|O y|O que|O no|B-C aportan|O demasiado|I-C .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Mientras_que|O la|O acción|O en|O Madrid|O es|O ágil|O y|O bastante|O interesante|O ,|O la|O historia|O de|O Edimburgo|O es|O lenta|O ,|O un|O tanto|O gris|O y|O vacía|O ,|O sin|B-C nada|B-C especial|O que|O contar|O .|O
+number of cues= 2.0
+number of tokens= 30
+====================================================
+De|O todas|O formas|O ,|O en|O conjunto|O me|O ha|O gustado|O bastante|O ,|O nunca|B-C había|O leído|O una|O historia|O como|O ésta|O de|O amores|O ¿|O imposibles|O ?|O entre|O mujeres|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Eso|O si|O ,|O aunque|O la|O (|O s|O )|O relacion|O (|O es|O )|O entre|O mujeres|O son|O importantes|O en|O la|O novela|O ,|O no|B-C es|O una|O novela|O que|O gire|O exclusivamente|O en_torno_a|O eso|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Tomé|O prestado|O este|O libro|O de|O la|O biblioteca|O ,|O un|O día|O de|O esos|O que|O no|B-C tenía|O pensado|O coger|O nada|B-C .|O
+number of cues= 2.0
+number of tokens= 19
+====================================================
+Me|O paseé|O por|O allí|O y|O cuando|O estaba|O a_punto_de|O ir|O me|O miré|O por|O casualidad|O el|O estante|O de|O las|O '|O novedades|O '|O (|O que|O de|O novedad|O no|B-C suelen|O tener|O nada|I-C y|O son|O en|O su|O mayoría|O pésimas|O elecciones|O )|O ,|O y|O allí|O estaba|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+Menos_mal_que|O no|B-C la|O he|O comprado|O ,|O porque|O estuve|O más|O de|O una|O vez|O tentada|O a|O hacer|O lo|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Entretiene|O ,|O que|O no|B-C es|O poco|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Sé|O que|O las|O comparaciones|O son|O odiosas|O ,|O y|O que|O tampoco|B-C es|O que|O haya|O leído|O mucho|I-C como|O para|O hacer|O las|O así|O ,|O a_el_libre_albedrío|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+No|B-C soy|O ninguna|I-C erudita|O en|O literatura|O -|O más|O quisiera|O yo|O -|O ,|O pero|O no|B-C pude|O evitar|O fijar|O me|O ,|O a_medida_que|O iba|O leyendo|O ,|O en|O cuánto|O me|O recordaba|O la|O escritura|O de|O este|O autor|O a|O la|O de|O García_Márquez|O .|O
+number of cues= 2.0
+number of tokens= 37
+====================================================
+Repito|O ,|O no|B-C sé|O si|O era|O yo|O ,|O el|O calor|O ,|O la|O historia|O que|O contiene|O seres|O con|O características|O especiales|O y|O fuera_de|O lo|O común|O ,|O el|O lugar|O donde|O se|O desarrolla|O -|O América|O latina|O -|O ,|O los|O personajes|O ,|O el|O lenguaje|O ...|O o|O quizá|O ese|O realismo|O mágico|O que|O en|O nada|B-C puede|O comparar|O se|O con|O el|O de|O Gabo|O .|O
+number of cues= 2.0
+number of tokens= 56
+====================================================
+No|B-C sé|O si|O será|O casualidad|O ,|O pero|O gran|O parte|O de|O la|O literatura|O latinoamericana|O que|O he|O leído|O contiene|O este|O elemento|O en|O sus|O novelas|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+No|B-C se|O puede|O abusar|O de|O ello|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Tampoco|B-C se|O debería|O manejar|O de|O forma|O absurda|O :|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+Si|O no|B-C ,|O un|O '|O intento|O de|O '|O contamina|O el|O resto|O de|O las|O páginas|O ,|O por|O muy|O bien|O escritas|O que|O estén|O .|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+Es|O un|O recurso|O que|O el|O autor|O no|B-C debe|O tratar|O de|O pulir|O o|O ensalzar|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Si|O no|B-C ,|O mejor|O será|O que|O lo|O saborees|O como|O lector|O y|O no|B-C como|O escritor|O .|O
+number of cues= 2.0
+number of tokens= 15
+====================================================
+En|O el|O caso|O de|O '|O Chiquita|O '|O ,|O Antonio_Orlando_Rodríguez|O no|B-C lo|O hace|O mal|O ,|O pero|O quizá|O abusa|O de|O este|O recurso|O -|O sí|O ,|O son|O sólo|O unas|O pinceladas|O ,|O pero|O a_medida_que|O avanza|O el|O libro|O se|O hace|O muy|O cuesta|O arriba|O seguir|O le|O el|O juego|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Y|O no_sólo|B-C eso|O :|O
+number of cues= 1.0
+number of tokens= 4
+====================================================
+Esto|O no|B-C queda|O bien|O ,|O se|O carga|O la|O magia|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Los|O lectores|O (|O o|O supongo|O que|O la|O mayoría|O de|O ellos|O ,|O si|O no|B-C no|B-C leeríamos|O novelas|O )|O ,|O no|B-C queremos|O una|O historia|O basada|O en|O la|O verdad|O ,|O no|B-C queremos|O pies|O de|O página|O gigantes|O que|O esclarezcan|O los|O hechos|O contados|O un|O poco|O más|O arriba|O .|O
+number of cues= 4.0
+number of tokens= 43
+====================================================
+A_partir_de|O la|O página|O ciento_veinte|O más|O o|O menos|O ,|O el|O ritmo|O decae|O estrepitosamente|O ,|O y|O no|B-C se|O vuelve|O a|O recuperar|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Se|O va|O mucho|O por|O las|O ramas|O ,|O metiéndose|O de|O lleno|O en|O asuntos|O que|O poco|O o|O nada|B-C tienen|O que|O ver|O con|O Chiquita|O y|O sí|O con|O personajes|O secundarios|O que|O ,|O ciertamente|O ,|O pasan|O sin_pena_ni_gloria|O tras|O sus|O veinte|O páginas|O de|O protagonismo|O absoluto|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+La|O historia|O no|B-C engancha|O PARA_NADA|I-C (|O ya|O digo|O ,|O a_partir_de|O la|O página|O 120|O )|O y|O me|O da|O mucha|O rabia|O porque|O parte|O de|O una|O base|O muy|O buena|O ,|O de|O una|O historia|O genial|O y|O original|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Otra|O razón|O radica|O en|O que|O intenta|O explicar|O a|O el|O lector|O todo|O lo|O que|O ocurre|O por|O más|O que|O diré|O que|O esto|O no|B-C hacía|O falta|O alguna|I-C .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Otro|O ejemplo|O más|O de|O que|O no_sólo|B-C basta|O con|O una|O buena|O historia|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+'|O Chiquita|O '|O no|B-C merecía|O esta|O novela|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+No|B-C merecía|O que|O convirtieran|O su|O historia|O en|O algo|O convencional|O ,|O porque|O no|B-C lo|O es|O en_absoluto|I-C .|O
+number of cues= 2.0
+number of tokens= 16
+====================================================
+Como|O colofón|O ,|O señalar|O que|O no|B-C califico|O esta|O novela|O como|O '|O mala|O '|O por|O su|O lenguaje|O -|O correcto|O en|O todo|O momento|O -|O ,|O ni|B-C porque|O la|O historia|O sea|O aburrida|O .|O
+number of cues= 2.0
+number of tokens= 30
+====================================================
+No|B-C .|O
+number of cues= 1.0
+number of tokens= 2
+====================================================
+Esta|O novela|O es|O mala|O porque|O no|B-C está|O bien|O contada|O ,|O y|O por_supuesto|O que|O no|B-C la|O recomiendo|O a|O nadie|I-C .|O
+number of cues= 2.0
+number of tokens= 19
+====================================================
+Llevo|O leyendo|O el|O semanario|O satirico|O y|O de|O humor|O "|O El|O jueves|O "|O ,|O por_lo_menos|O desde|O hace|O 12|O años|O o|O mas|O ,|O y|O jamas|B-C ha|O pasado|O semana|O sin|B-C que|O yo|O comprara|O esta|O mas|O que|O recomendable|O publicacion|O .|O
+number of cues= 2.0
+number of tokens= 36
+====================================================
+Un|O ejercito|O de|O hombres|O babosos|O y|O estupidos|O ,|O que|O viven|O por|O y|O para|O realizar|O sus|O fantasias|O sexuales|O con|O Clara|O (|O la|O mayoria|O inventando|O cualquier|O sistema|O para|O no|B-C pagar|O )|O ,|O los|O sufrimientos|O de|O Pablito|O (|O que|O no|B-C son|O pocos|O )|O ,|O el|O rechazo|O social|O que|O sufren|O las|O mujeres|O que|O se|O encuentran|O en|O esta|O desgraciada|O situacion|O ,|O ver|O a|O la|O protagonista|O humillada|O o|O forzada|O ,|O etc.|O
+number of cues= 2.0
+number of tokens= 65
+====================================================
+Hay|O que|O reconocer|O que|O los|O dibujos|O de|O el|O comic|O son|O bastante|O decentes|O ,|O y|O los|O protagonistas|O relatan|O claramente|O como|O son|O solo|O con|O ver|O los|O y|O son|O muy|O expresivos|O ...|O pero|O los|O guiones|O son|O de|O peli|O porno|O cutre|O y|O barata|O ,|O dan|O verguenza|O ajena|O ,|O este|O personaje|O (|O y|O por_lo_tanto|O el|O comic|O book|O recopilatorio|O )|O no|B-C hace|O gracia|O ni|B-C risa|O ni|O seduce|O al|O lector|O ,|O mas_bien|O todo_lo_contrario|O .|O
+number of cues= 2.0
+number of tokens= 67
+====================================================
+A|O todos|O los|O demas|O ,|O ni|B-C abrir|O lo|O vamos|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Quizás|O porque|O es|O tan|O largo|O :|O casi|O 800|O páginas|O con|O lo|O cual|O ,|O frente_a|O otros|O que|O no|B-C me|O duran|O ni|I-C dos|O días|O ,|O éste|O me|O ha|O entretenido|O durante|O casi|O dos|O semanas|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+"|O La_biblia_de_barro|O "|O menos|O ,|O no|B-C está|O mal|O ,|O pero|O me|O decepcionó|O un|O tanto|O ,|O quizás|O porque|O me|O había|O hecho|O muchas|O ilusiones|O y|O estaba|O deseando|O leer|O lo|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Las|O primeras|O ,|O extrañamente|O ,|O fueron|O negativas|O y|O eso|O me|O mosquó|O un|O poco|O así|O que|O no|B-C me|O lo|O compré|O ,|O guardando|O los|O más|O de|O 20|O euros|O que|O cuestan|O para|O otro|O libro|O y|O esperando|O que|O éste|O lo|O sacasen|O en|O edición|O de|O bolsillo|O o|O lo|O adquiriesen|O en|O la|O biblioteca|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Así|O que|O ,|O ya|O sin|B-C dudar|O lo|O ,|O lo|O cogí|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Por|O si|O no|B-C lo|O sabéis|O ,|O los|O cátaros|O o|O albigenses|O fueron|O unos|O "|O herejes|O "|O que|O vivieron|O en|O la|O Edad_Media|O en|O el|O sur|O de|O Francia|O hasta|O que|O fueron|O exterminados|O por|O decisión|O de|O el|O Papa|O y|O de|O el|O rey|O Francés|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+Sin_embargo|O ,|O no|B-C reconocían|O la|O autoridad|O de|O la|O Iglesia|O y|O fue|O por|O eso|O que|O fueron|O perseguidos|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Para|O explicar|O os|O lo|O de|O forma|O resumida|O y|O sin|B-C dar|O demasiados|I-C detalles|O que|O pudieran|O desvelar|O algún|O dato|O importante|O ,|O os|O diré|O que|O hay|O una|O organización|O misteriosa|O que|O pretende|O desestabilizar|O el|O orden|O mundial|O y|O atentar|O contra|O las|O reliquias|O más|O sagradas|O ,|O buscando|O la|O confrontación|O entre|O Occidente|O y|O los|O países|O musulmanes|O .|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+No|B-C digo|O más|O ,|O es|O mejor|O mantener|O la|O intriga|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Todo|O se|O puede|O resumir|O en|O que|O ,|O si|O la|O empezáis|O ,|O no|B-C podréis|O parar|O :|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+se|O lee|O sin|B-C esfuerzo|O ,|O sin|B-C que|O se|O haga|O larga|O en|O ningún|B-C momento|O porque|O te|O atrapa|O desde|O el|O principio|O y|O sin|B-C remedio|O .|O
+number of cues= 4.0
+number of tokens= 23
+====================================================
+Pero|O a|O mi|O eso|O no|B-C me|O parece|O malo|O ,|O en_absoluto|I-C .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Yo|O es|O un|O género|O de|O el|O que|O disfruto|O porque|O me|O entretiene|O y|O ,|O aunque|O mucha|O gente|O no|B-C lo|O vea|O así|O ,|O me|O instruye|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Supongo|O que|O habrá|O mucha|O gente|O que|O no|B-C sepa|O quiénes|O eran|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Yo|O no|B-C lo|O sabía|O hasta|O hace|O dos|O o|O tres|O años|O en|O que|O leí|O una|O novela|O muy|O fantasiosa|O de|O Jorge_Molist|O que|O hablaba|O sobre|O ellos|O (|O perdonad|O ,|O pero|O no|B-C recuerdo|O su|O título|O ,|O era|O la|O segunda|O ,|O la|O que|O se|O publicó|O después_de|O "|O El_anillo|O "|O )|O .|O
+number of cues= 2.0
+number of tokens= 46
+====================================================
+.|O -|O "|O La|O comunidad|O musulmana|O se|O extendía|O por|O todos|O los|O rincones|O ante|O los|O ojos|O de|O los|O españoles|O que|O ,|O llevados|O por|O su|O afán|O de|O tolerancia|O y|O para_que|O nadie|B-C pudiera|O acusar|O los|O de|O perseguir|O a|O otras|O razas|O o|O religiones|O ,|O se|O dejaban|O conquistar|O sin|B-C oponer|O resistencia|O "|O .|O
+number of cues= 2.0
+number of tokens= 48
+====================================================
+.|O -|O "|O El|O mundo|O cambia|O cada|O segundo|O y|O no|B-C hay|O vuelta|O atrás|O :|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+.|O -|O Ya_que|O la|O novela|O va|O de|O terrorismo|O ,|O no|B-C podía|O faltar|O el|O terrorismo|O de|O ETA|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Quieren|O mediar|O entre|O ellos|O para|O no|B-C perder|O su|O confianza|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Lo|O siento|O ,|O pero|O eso|O no|B-C me|O lo|O trago|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Los|O kale-borrokas|O no|B-C tienen|O nada|I-C que|O ver|O con|O la|O iglesia|O ,|O ni|I-C jesuitas|O ,|O ni|I-C ninguna|I-C otra|I-C orden|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+.|O -|O "|O Era|O fácil|O derrotar|O a|O una|O sociedad|O que|O no|B-C creía|O en|O nada|I-C "|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+ahora|O no|B-C creemos|O en|O nada|I-C ,|O la|O religión|O parece|O que|O nos|O da|O grima|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+.|O -|O Espero|O que|O Julia_Navarro|O no|B-C haya|O dado|O ideas|O a|O nadie|B-C con|O esta|O novela|O .|O
+number of cues= 2.0
+number of tokens= 15
+====================================================
+Porque|O si|O lo|O que|O plantea|O en|O la|O ficción|O ocurriese|O en|O la|O realidad|O ,|O buf|O ,|O prefiero|O no|B-C pensar|O en|O las|O consecuencias|O …|O
+number of cues= 1.0
+number of tokens= 22
+====================================================
+El|O hecho|O de|O que|O transcurra|O en|O diferentes|O épocas|O y|O lugares|O y|O ,|O por_lo_tanto|O ,|O que|O se|O entremezclen|O diversas|O historias|O no|B-C le|O quita|O fluidez|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Allí|O no|B-C hacia|O nada|B-C que|O hacer|O ,|O me|O levantaba|O muy|O temprano|O e|O iba|O a|O desayunar|O ,|O el|O hotel|O era|O como|O un|O palacio|O y|O yo|O como|O una|O princesa|O .|O
+number of cues= 2.0
+number of tokens= 28
+====================================================
+El|O suelo|O estaba|O enmoquetado|O y|O nunca|B-C había|O nadie|I-C .|O
+number of cues= 1.0
+number of tokens= 9
+====================================================
+Me|O daba|O mucho|O corte|O subir|O solo|O para|O fumar|O ,|O así|O que|O cogí|O un|O libro|O que|O me|O había|O echado|O y|O que|O no|B-C sabia|O ni_siquiera|O cual|O era|O ,|O lo|O cogí|O solo|O para|O disimular|O ,|O pero|O cuando|O leí|O el|O titulo|O recorde|O lo|O mucho|O que|O me|O habian|O gustado|O los|O primeros|O capítulos|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Todos|O los|O días|O subía|O a|O leer|O ,|O daba|O igual|O si|O tenia|O tabaco|O o|O no|B-C solo|O subía|O para|O leer|O me|O sentía|O tan|O agusto|O ...|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Sin|B-C duda|O alguna|I-C es|O un|O libro|O recomendable|O a|O el|O 100_%|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+300|O años|O atrás|O la|O antepasada|O de|O Kim|O fue|O acusada|O de|O brujería|O y|O juzgada|O de|O muerte|O por|O ello|O ,|O pero|O a|O la|O familia|O de|O Kim|O nunca|B-C le|O ha|O hecho|O gracia|O este|O tema|O y|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+por|O respeto|O nunca|B-C ha|O querido|O investigar|O en|O el|O tema|O .|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Leéroslo|O ,|O no|B-C esta|O nada|I-C mal|O incluso|O llore|O a|O el|O final|O ,|O lo|O cierto|O es|O que|O es|O un|O gran|O librazo|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Tras|O este|O fracaso|O los|O dos|O deciden|O componer|O una|O obra|O literaria|O ,|O tras|O este|O intento|O se|O ve|O la|O intencion|O de|O el|O autor|O de|O no|B-C meter|O se|O mucho|I-C con|O sus|O compañeros|O de|O labores|O escritas|O ,|O y|O de|O nuevo|O llena|O de|O tecnicismo|O la|O accion|O de|O los|O dos|O jubilados|O .|O
+number of cues= 1.0
+number of tokens= 46
+====================================================
+en|O estas|O artes|O los|O dos|O personajes|O se|O intercambian|O ideas|O sobre|O teologia|O y|O problemas|O de|O fe|O ,|O teatro|O ,|O y|O demas|O estilos|O literarios|O ,|O confundidos|O con|O un|O lenguaje|O que|O hace|O que|O te|O vuelvas|O loco|O y|O asi|O sucesivamente|O los|O dos|O hombres|O nos|O cuecen|O la|O cabeza|O con|O unas|O ideas|O que|O no|B-C hay|O quien|O las|O ponga|O en|O orden|O
+number of cues= 1.0
+number of tokens= 54
+====================================================
+Solo|O una|O admiracion|O total|O por|O el|O autor|O hace|O que|O se|O llegue|O a_duras_penas|O y|O sin|B-C apenas|I-C compresion|O a|O el|O final|O de|O este|O intermidado|O libro|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+No|B-C recomendable|O para|O impacientes|O
+number of cues= 1.0
+number of tokens= 4
+====================================================
+Es|O el|O primer|O libro|O que|O leo|O de|O Fernando_Schwartz|O pero|O no|B-C creo|O que|O sea|O el|O último|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+No|B-C es|O que|O lo|O vaya|O a|O calificar|O de|O un|O libro|O increíble|O ,|O pero|O aquí|O van|O mis|O apreciaciones|O sobre|O él|O :|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Resulta|O un|O poco|O como|O una|O película|O de|O las|O que|O emiten|O alguna|O tarde|O en|O tele|O ,|O sobre|O hechos|O reales|O pero|O que|O no|B-C tienen|O un|O fondo|O ni|I-C demasiado|O escabroso|O ni|I-C demasiado|O complicado|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+No|B-C tiene|O vuelcos|O extraordinarios|O donde|O poder|O perder|O se|O y|O se|O hace|O bastante|O ameno|O de|O leer|O a_pesar_de|O que|O en|O alguna|O ocasión|O te|O quedas|O con|O las|O ganas|O de|O una|O descripción|O más|O amplia|O de|O los|O lugares|O o|O personajes|O ,|O pero|O vamos|O ,|O que|O la|O imaginación|O lo|O puede|O todo|O !|O !|O
+number of cues= 1.0
+number of tokens= 47
+====================================================
+Lo|O que|O más|O chocante|O me|O resultó|O fue|O que|O según|O leía|O ,|O tenía|O la|O sensación|O de|O estar|O en|O un|O pueblecito|O ,|O tomando|O el|O fresco|O ,|O y|O con|O el|O corro|O de|O cotillas|O contando|O cuál|O era|O el|O engaño|O y|O cuál|O no|B-C ,|O poniendo|O cada|O uno|O su|O granito|O de|O arena|O para|O seguir|O engañando|O o|O contar|O lo|O como|O recordaban|O o|O como|O les|O traicionaba|O la|O memoria|O ...|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+No|B-C voy|O a|O desvelar|O ningún|I-C dato|O sobre|O Beth|O o|O su|O hija|O porque|O sería|O quitar|O os|O curiosidad|O para|O leer|O lo|O ,|O pero|O sí|O os|O diré|O ,|O que|O a|O el|O final|O me|O quedé|O pensando|O "|O Pero|O bueno|O ,|O ¿|O esto|O sería|O posible|O que|O sucediera|O ?|O Y|O yo|O ,|O ¿|O sería|O capaz|O de|O entrar|O en|O el|O juego|O o|O incluso|O de|O inventar|O me|O las|O reglas|O para|O conseguir|O mi|O deseo|O ?|O "|O .|O
+number of cues= 1.0
+number of tokens= 68
+====================================================
+No|B-C es|O una|O gran|O obra|O ni|I-C nada|B-C por|O el|O estilo|O ,|O pero|O trata|O temas|O tan|O de|O el|O día|O a|O día|O que|O no|B-C se|O hace|O pesado|O salvo|O ,|O quizás|O ,|O en|O las|O partes|O que|O empiezan|O a|O hablar|O de|O duques|O ,|O zares|O ,|O reyes|O y|O demás|O ,|O que|O puede|O ser|O más|O pedante|O .|O
+number of cues= 3.0
+number of tokens= 51
+====================================================
+Pero|O para|O quienes|O les|O gusten|O los|O libros|O de|O intriga|O o|O incluso|O de|O novela|O rosa|O ,|O pues|O no|B-C creo|O que|O les|O entusiasme|O ni|B-C que|O lleguen|O a|O terminar|O de|O leer|O lo|O .|O
+number of cues= 2.0
+number of tokens= 30
+====================================================
+De|O detrás_de|O una|O mesa|O emergió|O la|O jorobada|O asistenta|O de|O la|O Doctora_Navarren|O ,|O resignada|O a|O que|O su|O ama|O jamás|B-C pronunciara|O correctamente|O su|O nombre|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+La|O chepuda|O mujer|O no|B-C disimuló|O su|O cara|O de|O hastío|O ,|O consciente|O de|O que|O su|O ama|O experimentaba|O un|O rapto|O extático|O que|O la|O transportaba|O lejos|O ,|O muy|O lejos|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+De_todos_modos|O ,|O no|B-C puedo|O evitar|O un|O ligero|O tic|O en|O el|O ojo|O cuando|O advirtió|O que|O su|O ama|O ,|O en|O su|O pose|O de|O triunfo|O máximo|O ,|O estaba|O pisoteando|O un|O ejemplar|O de|O '|O Gramática|O española|O '|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Porque|O con|O la|O tontería|O ya|O son|O demasiados|O los|O días|O que|O '|O La|O sangre|O de|O los|O inocentes|O '|O lleva|O en|O una|O lista|O que|O no|B-C le|O corresponde|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Nunca|B-C he|O entendido|O el|O éxito|O de|O esta|O señora|O que|O escribe|O (|O paso|O de|O llamar|O la|O escritora|O )|O tras|O perpetrar|O un|O libro|O tan|O sumamente|O cutre|O como|O fue|O '|O La|O hermandad|O de|O la|O Sábana_Santa|O '|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Ahí|O no_sólo|O demostró|O que|O no|B-C tiene|O historias|O interesantes|O que|O contar|O sino_que|O ,|O además|O ,|O lo|O hace|O de|O la|O forma|O más|O anodina|O ,|O simple|O y|O torpe|O que|O puede|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+No|B-C me|O extiendo|O más|O ,|O que|O ya|O escribí|O una|O opi|O sobre|O ese|O libro|O y|O no|B-C es|O plan|O .|O
+number of cues= 2.0
+number of tokens= 18
+====================================================
+Pero|O quedé|O tan|O decepcionado|O y|O harto|O de|O la|O autora|O que|O a|O su|O siguiente|O novela|O '|O La|O Biblia|O de|O barro|O '|O es|O que|O ni|B-C me|O acerqué|O de_casualidad|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Que|O uno|O puede|O tener|O curiosidad|O y|O tal|O ,|O pero|O tampoco|B-C busca|O activamente|O lo|O de|O tragar|O basura|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Regalo|O de|O Círculo_de_Lectores|O ,|O que|O se|O toman|O la|O molestia|O de|O mandártela|O a|O casa|O sin|B-C ni_siquiera|B-C haber|O pedido|O nada|I-C .|O
+number of cues= 2.0
+number of tokens= 19
+====================================================
+Hecho|O que|O ,|O la|O verdad|O ,|O no|B-C da|O muy|I-C buena|O espina|O porque|O suena|O un|O poco|O a|O desesperación|O y|O a|O colar|O te|O el|O libro|O lo|O quieras|O o|O no|B-C para|O luego|O poder|O ir|O diciendo|O que|O si|O es|O un|O best|O seller|O que|O si|O tal_y_cual|O .|O
+number of cues= 2.0
+number of tokens= 42
+====================================================
+Y|O ahora|O cualquiera|O puede|O venir|O y|O decir|O me|O que|O si|O lo|O cogí|O ya|O con|O prejuicios|O ,|O que|O si|O entre|O que|O no|B-C me|O gustó|O el|O anterior|O libro|O que|O leí|O y|O que|O encima|O le|O saqué|O pegas|O a|O la|O promoción|O barata|O es|O normal|O que|O me|O pareciera|O un|O horror|O .|O
+number of cues= 1.0
+number of tokens= 46
+====================================================
+Pues|O mira|O ,|O no|B-C .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+No|B-C es|O el|O caso|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Y|O si|O no|B-C lo|O hace|O ,|O a|O lo|O mejor|O es|O en|O la|O próxima|O página|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+No|B-C hombre|O ,|O por_supuesto|O que|O tiene|O que|O salir|O algo|O así|O en|O esta|O novela|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Julia|O ,|O tía|O ,|O la|O verdad|O es|O que|O no|B-C te|O conozco|O y|O no|B-C sé|O si|O eres|O una|O mujer|O con|O sentido|O de|O el|O humor|O pero|O …|O esto|O es|O una|O especie|O de|O divertida|O muestra|O de|O autoconciencia|O ,|O ¿|O verdad|O ?|O
+number of cues= 2.0
+number of tokens= 38
+====================================================
+En|O poco|O menos|O de|O 10|O páginas|O la|O Navarro|O ha|O conseguido|O demostrar|O me|O ,|O no|B-C sé|O si|O conscientemente|O ,|O que|O sigue|O igual|O que|O siempre|O :|O con|O inverosímiles|O tretas|O argumentales|O para|O contar|O historias|O absurdas|O ,|O sin|B-C dominio|O real|O del|O diálogo|O y|O con|O una|O preocupante|O falta|B-C de|I-C corrección|O gramatical|O .|O
+number of cues= 3.0
+number of tokens= 47
+====================================================
+Para_que|O no|B-C se|O diga|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Nada|B-C es|O para|O siempre|O .|O
+number of cues= 1.0
+number of tokens= 5
+====================================================
+Y|O realmente|O no|B-C me|O arrepiento|O de|O haber|O me|O tragado|O el|O libro|O entero|O porque|O es|O que|O es|O de|O traca|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+El|O todo|O es|O una|O suma|O caótica|O de|O partes|O ,|O puestas|O una|O detrás_de|O otra|O de|O un|O modo|O ridículo|O y|O forzado|O ,|O sobre|O todo|O teniendo_en_cuenta|O que|O ninguno|B-C de|O los|O supuestos|O nexos|O entre|O ellas|O tiene|O suficiente|O gacho|O ,|O carisma|O o|O entidad|O para|O que|O la|O cosa|O quede|O bien|O .|O
+number of cues= 1.0
+number of tokens= 45
+====================================================
+Si|O por_lo_menos|O la|O competencia|O de|O el|O autor|O estuviera|O demostrada|O no|B-C te|O digo|O yo|O que|O no|B-C ,|O pero|O alguien|O que|O apenas|O ha|O publicado|O tres|O novelas|O como|O Julia_Navarro|O …|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+No|B-C sé|O ,|O yo|O creo|O que|O ahora|O estoy|O siendo|O bastante|O objetivo|O si|O digo|O que|O se|O necesita|O un|O poco|O más|O modestia|O y|O no|B-C emprender|O proyectos|O demasiado|O ambiciosos|O cuando|O aún|O se|O está|O empezando|O y|O queda|O mucho|O que|O aprender|O .|O
+number of cues= 2.0
+number of tokens= 37
+====================================================
+El|O resto|O tiene|O cierta|O coherencia|O histórica|O y|O ciertamente|O no|B-C es|O descabellado|O plantear|O un|O escenario|O en|O Israel|O tras|O la|O Segunda_Guerra_Mundial|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Nadie|B-C te|O dice|O que|O no|B-C .|O
+number of cues= 2.0
+number of tokens= 6
+====================================================
+El|O resultado|O final|O son|O cuatro|O novelas|O separadas|O e|O independientes|O ,|O que|O de_vez_en_cuando|O remiten|O a|O lo|O ya|O leido|O ,|O pero|O sin|B-C que|O eso|O aporte|O nada|B-C al|O lector|O .|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+Hay|O tantos|O que|O no|B-C puedo|O .|O
+number of cues= 1.0
+number of tokens= 6
+====================================================
+El|O asunto|O es|O que|O de|O ahí|O tiene|O que|O salir|O un|O personaje|O topo|O ,|O que|O no|B-C te|O dicen|O cuál|O es|O para|O que|O tú|O sufras|O taco|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Pero|O simplemente|O porque|O tú|O ya|O estás|O hasta|O el|O gorro|O de|O tanto|O personaje|O ,|O como|O para|O encima|O tener|O que|O estar|O pendiente|O de|O cuatro|O más|O que|O no|B-C tienen|O ni|I-C un|O gramo|O de|O entidad|O propia|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+'|O La_sangre_de_los_inocentes|O '|O es|O un|O absoluto|O desastre|O que|O no|B-C recomiendo|O leer|O a|O nadie|B-C .|O
+number of cues= 2.0
+number of tokens= 14
+====================================================
+Pero|O siendo|O justos|O ,|O siento|O que|O no|B-C debo|O responsabilizar|O del_todo|O a|O la|O autora|O de|O el|O libro|O de|O la|O mierda|O de|O libro|O que|O podemos|O encontrar|O en|O las|O librerías|O .|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Porque|O detrás_de|O una|O edición|O tan|O desastrosa|O y|O una|O novela|O tan|O poco|O madurada|O se|O encuentra|O una|O editorial|O que|O demanda|O superventas|O en|O un|O mercado|O que|O no|B-C está|O precisamente|O para|O tirar|O cohetes|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+El|O viaje|O es|O tranquilo|O e|O inquietante|O a_la_vez|O ,|O pero|O sin|B-C ningún|I-C problema|O ,|O hasta|O que|O de_repente|O ,|O explorando|O el|O volcán|O ,|O empiezan|O a|O hundir|O se|O sin|B-C motivo|O aparente|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================
+Comentar|O os|O que|O no|B-C había|O leído|O nada|B-C de|O Robin_Cook|O .|O
+number of cues= 2.0
+number of tokens= 10
+====================================================
+Si|O es|O así|O ,|O no|B-C esperéis|O encontrar|O epidemias|O ni|I-C virus|O ,|O aunque|O no|B-C creo|O que|O decepcione|O a|O sus|O seguidores|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+El|O final|O ,|O no|B-C es|O para_nada|I-C previsible|O y|O te|O deja|O un|O poco|O bastante|O asombrado|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Juventud|O ,|O homosexualidad|O ,|O drogas|O ,|O con|O un|O lenguaje|O demasiaso|O fresco|O ,|O del|O que|O no|B-C estoy|O en|O contra|O ,|O pero|O sí|O de|O las|O incorrecciones|O sintácticas|O en|O la|O construcción|O de|O las|O frases|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Lo|O bueno|O que|O tiene|O es|O que|O es|O un|O libro|O de|O fácil|O lectura|O ,|O entretenido|O ,|O pero|O su|O autora|O aún|B-C no|I-C ha|O salido|O de|O la|O adolescencia|O literaria|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Cada|O vez|O que|O paso|O por|O delante_de|O mi|O mueble-librería|O siento|O deseos|O de|O coger|O este|O libro|O y|O besar|O lo|O ,|O sin|B-C duda|O es|O la|O mejor|O de|O las|O mejores|O obras|O de|O Marian|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+No|B-C recomiendo|O leer|O la|O sin|B-C maquillaje|O waterproof|O .|O
+number of cues= 2.0
+number of tokens= 8
+====================================================
+Acabo|O de|O terminar|O lo|O ,|O nada_más|O hacer|O lo|O he|O dado|O un|O pequeño|O paseo|O por|O la|O habitación|O ,|O un|O poco|O como|O animal|O enjaulado|O ,|O sin|B-C poder|O quitar|O me|O de|O la|O cabeza|O ese|O sentimiento|O de|O acidez|O que|O me|O ha|O producido|O la|O novela|O ,|O ávida|O de|O lectura|O he|O cogido|O mi|O nueva|O lectura|O y|O he|O apurado|O unas|O 5|O o|O 6|O hojas|O con|O una|O facilidad|O tremenda|O ,|O que|O fácil|O la|O lectura|O de|O la|O novela|O que|O tengo|O ahora|O entre|O manos|O .|O
+number of cues= 1.0
+number of tokens= 75
+====================================================
+Aún|B-C ni|I-C lo|O sabes|O ,|O es|O más|O ,|O no|B-C lo|O quieres|O ni|I-C saber|O ,|O para|O muchos|O lo|O que|O no|B-C quieres|O es|O lo|O que|O tienes|O cercano|O ,|O lo|O que|O a|O el|O final|O si|O no|B-C pones|O de|O tu|O parte|O serás|O .|O
+number of cues= 4.0
+number of tokens= 39
+====================================================
+18|O ,|O 19|O como_mucho|O 20|O años|O tienen|O los|O protagonistas|O de|O esta|O novela|O ,|O relatada|O por|O otro|O joven|O que|O puede|O ver|O el|O transcurso|O de|O ese|O verano|O pero|O desde|O cierta|O lejanía|O ,|O que|O más|O que|O protagonista|O de|O las|O situaciones|O las|O intuye|O ,|O por|O eso|O no|B-C hay|O mucho|I-C diálogo|O en|O la|O obra|O ,|O es|O como|O un|O monólogo|O de|O sus|O protagonistas|O con|O ellos|O mismos|O ,|O no|O es|O lo|O que|O dicen|O ,|O es|O lo|O que|O sienten|O ,|O y|O describiéndote|O lo|O que|O sienten|O ,|O los|O convierte|O en|O especiales|O .|O
+number of cues= 1.0
+number of tokens= 83
+====================================================
+Es|O una|O novela|O que|O me|O ha|O costado|O leer|O ,|O hasta|O casi|O la|O mitad|O de|O el|O libro|O no|B-C he|O conseguido|O enganchar|O me|O ,|O ese|O ir|O y|O venir|O ,|O esa|O cantidad|O de|O nombres|O ,|O esa|O cantidad|O de|O comas|O en|O párrafos|O interminables|O ,|O que|O empieza|O y|O cuando|O terminas|O te|O das_cuenta|O de|O que|O no|B-C termina|O ,|O que|O lo|O que|O empezó|O no|B-C lo|O ha|O dicho|O ,|O te|O desconcierta|O .|O
+number of cues= 3.0
+number of tokens= 64
+====================================================
+A_partir_de|O la|O mitad|O no|B-C he|O parado|O ,|O he|O comido|O y|O he|O dormido|O ,|O pero|O no|B-C he|O parado|O ,|O los|O he|O tenido|O en|O el|O pensamiento|O sin|B-C remedio|O .|O
+number of cues= 3.0
+number of tokens= 27
+====================================================
+Para|O una|O mayor|O documentación|O sobre|O el|O autor|O y|O su|O obra|O ,|O además_de|O premios|O y|O diferentes|O escritos|O en|O periódicos|O bien|O conocidos|O por|O todos|O ,|O os|O remito|O a|O la|O wiquipedia|O o|O a|O google|O o|O cualquier|O otro|O buscador|O ,|O yo|O no|B-C pienso|O aburrir|O me|O en|O copypegar|O nada|B-C de|O eso|O .|O
+number of cues= 2.0
+number of tokens= 47
+====================================================
+Es|O en|O estas|O visitas|O donde|O Sara|O empieza|O a|O sentir|O ese|O ansia|O de|O libertad|O que|O la|O llevará|O a|O aventurar|O se|O por|O Manhattan|O en|O solitario|O yendo|O de|O camino|O a|O casa|O de|O su|O abuelita|O y|O donde|O irá|O descubriendo|O por_medio_de|O personajes|O como|O Miss_Lunatic|O y|O madamme|O Bartholdi|O (|O yo|O la|O asocio|O a|O el|O gato|O de|O Cheshire|O de|O el|O cuento|O de|O Alicia|O )|O y|O otros|O tantos|O como|O el|O Sr_Woolf|O (|O con|O rasgos|O de|O el|O Lobo_de_Caperucita|O pero|O sin|B-C la|O maldad|O de|O este|O )|O sentimientos|O en|O su|O interior|O que|O yo|O clasificaria|O como|O propios|O de|O un|O adulto|O mas|O que|O de|O una|O niña|O de|O su|O edad|O .|O
+number of cues= 1.0
+number of tokens= 97
+====================================================
+Una|O excelente|O narradora|O sin|B-C duda|O ,|O tal_y_como|O lo|O ha|O demostrado|O en|O otras|O de|O sus|O obras|O tales|O como|O Fragmentos_de_interior|O ,|O Ritmo_lento|O ,|O Nubosidad_variable|O o|O Entre_visillos|O ,|O que|O obtuvo|O el|O Premio_Nadal|O en|O 1957|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+El|O detonante|O de|O esto|O lo|O aporta|O sin|B-C duda|O Madamme_Bartholdi|O que|O es|O quien|O le|O proporcionara|O a|O Sara|O un|O amuleto|O que|O le|O llevara|O de|O camino|O a|O la|O libertad|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+este|O proceso|O lo|O inicia|O sin|B-C duda|O su|O abuela|O y|O culmina|O a|O el|O conocer|O a|O miss|O Lunatic|O ,|O entre|O ambas|O despiertan|O en|O Sara|O la|O necesidad|O de|O sentir|O se|O libre|O y|O la|O animan|O a|O la|O consecución|O de|O su|O mayor|O sueño|O ,|O alcanzar|O la|O estauta|O de|O la|O Libertad|O ,|O cosa|O algo|O difícil|O para|O una|O niña|O con|O padres|O tradicionales|O que|O casi|B-C no|I-C la|O permiten|O salir|O sola|O de|O casa|O ,|O un|O símbolo|O de|O la|O autora|O ya_que|O el|O cruzar|O Manhattan|O para|O una|O niña|O de|O Brooklin|O y|O llegar|O a|O la|O isla|O donde|O se|O encuentra|O este|O coloso|O de|O 93|O metros|O se|O asemeja|O bastante|O con|O la|O manera|O de|O alcanzar|O la|O libertad|O que|O concebimos|O la|O gente|O "|O mayor|O "|O .|O
+number of cues= 2.0
+number of tokens= 110
+====================================================
+Y|O bueno|O creo|O que|O con|O esto|O dejo|O algo|O mas|O claro|O que|O tal|O es|O el|O libro|O y|O cuanto|O puede|O hacer|O nos|O reflexionar|O ,|O sin|B-C duda|O debemos|O conocer|O a|O todos|O sus|O personajes|O para|O llegar|O a|O entender|O el|O corazón|O de|O Sara|O y|O conocer|O la|O idea|O de|O libertad|O que|O nos|O presenta|O la|O autora|O .|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+Son|O 227|O páginas|O de|O una|O aventura|O que|O comienza|O pero|O nunca|B-C acabará|O ,|O recomendaría|O que|O despues|O de|O leer|O lo|O hiciesemos|O un|O autoanálisis|O en|O el|O que|O expongamos|O las|O prioridades|O que|O rigen|O nuestros|O actos|O y|O que|O hacen|O que|O veamos|O el|O mundo|O de|O manera|O distinta|O de|O los|O demás|O .|O
+number of cues= 1.0
+number of tokens= 45
+====================================================

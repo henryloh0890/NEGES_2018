@@ -1,0 +1,285 @@
+List of cues in the training + frequency
+
+ni	160
+a_excepción_de	1
+ni_me_va_ni_me_viene	1
+excesivamente	1
+ni tan	1
+muy bien	1
+prácticamente no	2
+para nada	1
+mucha	2
+casi ni	1
+apenas	10
+practicamente nada	1
+tanto	3
+sin ninguna	5
+en absoluto	1
+no tantísimas	1
+ninguna	24
+aun no	9
+sin apenas	1
+nada_más_que	1
+muchas	2
+ni_idea	1
+nooooo	1
+nada de_nada	4
+tampoco	45
+demasiadas	2
+nula	1
+sin nada de_nada	1
+muchos	1
+no demasiado	2
+no totalmente	1
+sólo	1
+ni idea	1
+precisamente	2
+nunca ni	1
+antes	1
+no tan	2
+ni_te_van_ni_te_vienen	1
+especialmente	4
+en_ningún_sentido	1
+mas de	1
+alguna	8
+tanto no	1
+nada_,_pero_que_nada	1
+un_pelo	1
+ni_tan_siquiera	2
+siempre	1
+jamás	4
+nunca mais	1
+no tanto	2
+preciosamente	1
+alguno	1
+no lo suficiente	1
+casi nada	5
+de los más	1
+no muy	3
+ya n	1
+nunca más	1
+de nada	1
+aun	2
+nada de	1
+tampco	1
+nos	1
+mucho	28
+ningun	8
+más	2
+mucho mas	1
+no nada	1
+demasiado	14
+nada	172
+ya	1
+de_el_todo	1
+casi sin	1
+ni ninguna otra	1
+no fue	1
+falto de	1
+nada mas	1
+sin niguna	1
+ni_si_quiera	2
+sin nada de	1
+ninguno	7
+no sin	1
+ningún	21
+mas	2
+ni_mucho_menos	2
+no precisamente	1
+no no	4
+muy	26
+ni_un_segundo	1
+ni_siquiera	12
+ni tan solo	1
+bajo_ningún_concepto	1
+absolutamente nada	3
+sin ni_siquiera	1
+nadie	45
+nada_de	2
+totalmente	1
+no siempre	2
+casi no	7
+tanta	1
+todavía	1
+una cantidad excesiva de	1
+no	1801
+falta de	1
+falta	1
+ni nada	8
+nuca	1
+tan	11
+nunca antes	1
+0	1
+gran_cosa	2
+sin	189
+demasiados	1
+ni_a_la_de_tres	1
+a_no_ser_que	1
+para_absolutamente_nada	1
+en_absoluto	8
+la menos	1
+nunca	61
+cuanto menos	1
+no del_todo	1
+sin nada	2
+no mucha	1
+brilló_por_su_ausencia	1
+nada_de_nada	1
+aún ni	1
+todavia no	1
+sin siquiera	1
+ya no	7
+ninguno/a	1
+sin ningún	4
+sino	1
+ni_de_lejos	3
+todavía no	2
+jamas	1
+completamente	1
+en_ningún_momento	2
+no_sólo	2
+el_más_mínimo	1
+de el todo	1
+en_toda_su_vida	1
+ni nada de_nada	1
+para_nada	14
+del_todo	3
+aún no	12
+faltos de	1
+del todo	1
+ni_medio	1
+cero	1
+un_pingo	1
+aún	2
+ni_de_coña	2
+pasaba_de	1
+un poco más	1
+ni tan_siquiera	2
+ni_siguiera	1
+================================================================================
+List of cue tokens in the training + #in cues + #outside cues
+
+ni	178	3
+a_excepción_de	1	2
+suficiente	1	20
+tan_siquiera	2	0
+ni_me_va_ni_me_viene	1	0
+excesivamente	1	6
+faltos	1	0
+practicamente	1	3
+otra	1	104
+mucha	3	45
+apenas	11	7
+tanto	6	100
+ninguna	30	1
+nada_más_que	1	0
+muchas	2	63
+excesiva	1	3
+ni_idea	1	0
+nooooo	1	0
+tampoco	45	5
+demasiadas	2	3
+nula	1	0
+muchos	1	62
+los	1	1234
+sólo	1	87
+niguna	1	0
+precisamente	3	12
+antes	2	47
+ni_te_van_ni_te_vienen	1	0
+especialmente	4	15
+en_ningún_sentido	1	0
+alguna	8	48
+nada_,_pero_que_nada	1	0
+un_pelo	1	0
+ni_tan_siquiera	2	0
+siempre	3	118
+jamás	4	2
+preciosamente	1	0
+alguno	1	10
+falto	1	1
+bien	1	252
+el	1	4249
+menos	2	132
+absolutamente	3	2
+aun	11	23
+tampco	1	0
+nos	1	298
+mucho	29	158
+n	1	0
+ningun	8	0
+más	5	585
+de	10	6402
+demasiado	16	38
+ya	9	288
+nada	203	10
+lo	1	1517
+una	1	1298
+de_el_todo	1	0
+siquiera	1	0
+del	1	22
+todo	2	324
+de_nada	6	1
+poco	1	231
+ni_si_quiera	2	0
+solo	1	140
+ninguno	7	0
+la	1	3965
+ningún	25	2
+mas	5	190
+prácticamente	2	12
+ni_mucho_menos	2	1
+muy	30	568
+ni_un_segundo	1	0
+cantidad	1	27
+ni_siquiera	13	1
+bajo_ningún_concepto	1	0
+nadie	45	2
+nada_de	2	1
+para	1	908
+totalmente	2	22
+todavia	1	5
+tantísimas	1	0
+tanta	1	10
+idea	1	16
+todavía	3	4
+no	1870	118
+absoluto	1	5
+falta	2	30
+nuca	1	0
+tan	15	116
+0	1	1
+gran_cosa	2	0
+sin	208	3
+demasiados	1	3
+ni_a_la_de_tres	1	0
+a_no_ser_que	1	5
+para_absolutamente_nada	1	0
+en_absoluto	8	0
+mais	1	0
+nunca	65	6
+brilló_por_su_ausencia	1	0
+nada_de_nada	1	0
+ninguno/a	1	0
+sino	1	43
+ni_de_lejos	3	0
+jamas	1	1
+completamente	1	20
+en	1	2649
+en_ningún_momento	2	0
+no_sólo	2	13
+el_más_mínimo	1	0
+en_toda_su_vida	1	0
+casi	14	82
+para_nada	14	0
+del_todo	4	1
+ni_medio	1	0
+cero	1	3
+un_pingo	1	0
+un	1	1819
+aún	15	36
+fue	1	113
+ni_de_coña	2	0
+pasaba_de	1	0
+cuanto	1	15
+ni_siguiera	1	0

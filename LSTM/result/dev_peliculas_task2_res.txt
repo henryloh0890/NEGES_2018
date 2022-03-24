@@ -1,0 +1,215 @@
+Hola|O a|O todos|O .|O
+Por|O fin|O llegó|O el|O gran|O día|O .|O
+La|O gente|O esperaba|O expectante|O en|O sus|O butacas|O (|O yo|O incluido|O )|O .|O
+La|O segunda|O parte|O no|B-C podía|O haber|O finalizado|O más|O emocionante|O (|O a_pesar_de|O la|O sensación|O de|O que|O la|O película|O estaba|O coja|O )|O .|O
+Las|O luces|O se|O apagaron|O y|O empezó|O la|O ...|O ¿|O diversión|O ?|O
+Bueno|O ...|O eso|O esperaba|O ,|O pero|O mi|O sensación|O final|O no|B-C fue|O la|O que|O deseaba|O ...|O
+En|O un|O breve|O y|O posiblemente|O innecesario|O resumen|O ,|O la|O película|O continúa|O en|O el|O punto|O donde|O la|O dejó|O la|O anterior|O .|O
+Jack_Sparrow|O está|O desaparecido|O en|O el|O mundo|O tenebroso|O de|O Davy_Jones|O ,|O y|O Barbosa|O ,|O Will|O y|O Elizabeth|O emprenden|O una|O aventura|O para|O rescatar|O lo|O .|O
+Una|O vez|O rescatado|O (|O no|B-C me|O digáis|O que|O os|O sorprende|O ...|O )|O ,|O se|O preparan|O para|O afrontar|O una|O última|O batalla|O que|O decidirá|O el|O destino|O de|O la|O piratería|O .|O
+La|O película|O se|O desarrolla|O de|O acuerdo|O a|O lo|O que|O nos|O esperamos|O después_de|O haber|O visto|O las|O anteriores|O :|O mucho|O humor|O (|O sobre|O todo|O con|O los|O golpes|O de|O el|O querido|O Jacky|O )|O y|O dosis|O de|O aventuras|O mezcladas|O con|O un|O poquito|O de|O amor|O .|O
+Sin|B-C duda|O ,|O bajo|O mi|O punto|O de|O vista|O ,|O la|O película|O gana|O mucho|O gracias_a|O la|O reincorporación|O de|O Geoffrey_Rush|O ,|O el|O cual|O nos|O ofrece|O una|O actuación|O impecable|O (|O como|O en|O la|O primera|O parte|O )|O .|O
+Sinceramente|O ,|O parece|O que|O el|O papel|O de|O Barbosa|O hubiera|O estado|O reservado|O para|O él|O desde|O que|O nació|O ...|O
+Por_supuesto|O ,|O la|O actuación|O de|O Johnny_Deep|O es|O extraordinaria|O ,|O aunque|O también|O es|O lógico|O que|O no|B-C cause|O el|O efecto|O explosivo|O sobre|O el|O espectador|O que|O se|O levantó|O en|O la|O primera|O entrega|O .|O
+Otro|O actor|O muy|O bueno|O ,|O sin|B-C duda|O ,|O es|O el|O mono|O de|O Barbosa|O ,|O que|O da|O toques|O de|O humor|O muy|O beneficiosos|O para|O que|O no|B-C decaiga|O mucho|O el|O ritmo|O de|O la|O película|O .|O
+La|O banda|O sonora|O es|O excelente|O ,|O aunque|O se|O repite|O y|O no|B-C nos|O ofrece|O ninguna|I-C nueva|O melodía|O rompedora|O (|O definitivamente|O no|B-C es|O Howard_Shore|O ,|O el|O cual|O nos|O ofreció|O tres|O melodías|O independientes|O extraordinarias|O para|O cada|O una|O de|O las|O partes|O de|O el|O Señor_de_los_Anillos|O ...|O )|O .|O
+Los|O efectos|O especiales|O también|O pintan|O muy|O bien|O en|O pantalla|O ,|O y|O hay|O juegos|O de|O cámara|O muy|O bien|O conseguidos|O .|O
+A_pesar_de|O estas|O cualidades|O ,|O la|O película|O carece|O de|O muchas|O otras|O que|O ,|O para|O mí|O a|O el|O menos|O ,|O la|O hacen|O caer|O muy|O por|O debajo_de|O el|O nivel|O que|O exigía|O esta|O tercera|O entrega|O .|O
+Si|O realmente|O querían|O cerrar|O el|O argumento|O (|O como|O dijeron|O que|O harían|O )|O y|O dejar|O lo|O todo|O bien|O atado|O ,|O han|O fracasado|O estrepitosamente|O (|O aunque|O también|O es|O cierto|O que|O se|O oyen|O rumores|O de|O una|O cuarta|O entrega|O )|O .|O
+Me|O dispongo|O ahora|O a|O enumerar|O los|O defectos|O que|O he|O observado|O :|O
+*|O La|O historia|O de|O Will|O y|O Elizabeth|O se|O hace|O muy|O repetitiva|O .|O
+Uno|O acaba|O harto|O de|O tantas|O dudas|O y|O tantas|O tonterías|O ,|O y|O los|O guionistas|O no|B-C le|O han|O dado|O ningún|I-C vuelco|O interesante|O .|O
+*|O Los|O chistes|O de|O Jack|O están|O muy|O bien|O ,|O pero|O salvo|O un|O par|O de|O novedades|O ,|O no|B-C presentan|O nada|B-C novedoso|O .|O
+Ya|O sé|O que|O hacer|O humor|O no|B-C es|O fácil|O (|O de|O hecho|O ,|O hacer|O una|O buena|O comedia|O sólo|O ha|O estado|O a|O el|O alcance|O de|O muy|O pocos|O directores|O en|O la|O historia|O de|O el|O cine|O ,|O como|O Billy_Wilder|O ...|O )|O ,|O pero|O por|O ser|O una_tercera_parte|O ,|O podrían|O haber|O exprimido|O de|O una|O forma|O más|O óptima|O esta|O faceta|O .|O
+*|O Hay|O TAAAAAAAAAAAAAANTOS|O cambios|O de|O bando|O que|O a|O el|O final|O acabas|O perdiéndote|O .|O
+Ya|O se|O sabe|O que|O los|O piratas|O no|B-C son|O fiables|O ...|O y|O esta|O vez|O han|O querido|O mostrárnoslo|O con|O todo|O lujo|O de|O detalles|O ...|O
+Esto|O hace|O caer|O el|O ritmo|O y|O puede|O desconcentrar|O a|O el|O espectador|O de|O el|O argumento|O en|O algunos|O momentos|O .|O
+*|O Se|O introduce|O (|O o|O se|O intenta|O introducir|O )|O una|O historia|O de|O amor|O que|O ya|O se|O rozó|O en|O la|O segunda|O parte|O entre|O Davy_Jones|O y|O una|O mujer|O (|O que|O no|B-C desvelaré|O quién|O es|O )|O .|O
+Sin_embargo|O ,|O no|B-C hay|O tiempo|O para|O desarrollar|O la|O y|O hacer|O que|O realmente|O cautive|O a|O el|O espectador|O .|O
+Si|O se|O hubiera|O planteado|O bien|O ,|O podría|O haber|O sido|O un|O acierto|O por|O parte|O de|O los|O guionistas|O ,|O pero|O lamentablemente|O ,|O no|B-C ha|O sido|O así|O .|O
+En|O fin|O ,|O estas|O son|O por|O encima|O las|O razones|O que|O han|O terminado|O por|O conseguir|O que|O saliese|O decepcionado|O de|O el|O cine|O .|O
+Ahora|O ,|O como|O en|O las|O dos|O opiniones|O anteriores|O ,|O intentaré|O dar|O una|O visión|O particular|O de|O cada|O tipo|O de|O espectador|O de|O la|O película|O .|O
+Gracias_a|O una|O compi|O de|O ciao|O ,|O voy|O a|O añadir|O una|O nueva|O categoría|O de|O espectador|O .|O
+-|O Espectador|O entretenido|O :|O es|O aquel|O que|O va|O a|O el|O cine|O a|O pasar|O un|O rato|O ameno|O con|O los|O amigos|O o|O la|O pareja|O .|O
+****|O PODRÍA|O :|O
+la|O película|O tiene|O efectos|O especiales|O ,|O ritmo|O y|O ,|O además|O ,|O concluye|O una|O saga|O que|O todos|O estábamos|O deseando|O ver|O cómo|O acababa|O .|O
+No_obstante|O ,|O he|O encontrado|O a|O gente|O que|O ,|O incluso|O yendo|O con|O esa|O actitud|O ,|O la|O película|O no|B-C le|O ha|O convencido|O .|O
+Por|O ello|O pongo|O el|O PODRíA|O ,|O aunque|O podéis|O tomar|O lo|O como|O un|O PODRÍA|O tirando|O a|O SÍ|O ...|O
+-|O Espectador|O exigente|O :|O aquella|O persona|O que|O no|B-C se|O gasta|O dinero|O para|O ver|O cualquier|O cosa|O ,|O y|O espera|O ver|O una|O película|O técnicamente|O aceptable|O en|O todos|O los|O sentidos|O .|O
+****|O NO|O :|O
+la|O película|O está|O muy|O bien|O a|O nivel|O de|O efectos|O especiales|O y|O música|O .|O
+Pero|O ni|I-C el|O argumento|O está|O muy|O trabajado|O ,|O ni|B-C se|O ofrecen|O alicientes|O nuevos|O respecto_a|O las|O dos|O entregas|O anteriores|O .|O
+-|O Espectador|O crítico|O :|O persona|O que|O admira|O los|O clásicos|O de|O Chaplin|O ,|O los|O hermanos|O Marx|O ,|O Billy_Wilder|O ...|O y|O generalmente|O no|B-C ansía|O ver|O películas|O muy|O comerciales|O ...|O
+****|O NO|O :|O
+la|O película|O ofrece|O un|O entretenimiento|O muy|O basado|O en|O los|O grandes|O efectos|O técnicos|O y|O en|O ser|O la|O secuela|O de|O una|O saga|O muy|O querida|O .|O
+No|B-C aporta|O nada|B-C nuevo|O ni|B-C rompedor|O ...|O y|O no|B-C quedará|O en|O las|O memorias|O de|O los|O grandes|O éxitos|O imprescindibles|O .|O
+-|O Espectador|O con|O niños|O :|O aquella|O persona|O que|O va|O acompañada|O por|O niños|O pequeños|O .|O
+****|O PODRÍA|O :|O
+todo|O depende|O de|O la|O edad|O de|O los|O niños|O .|O
+Desde_luego|O ,|O muy|O pequeñitos|O ,|O más|O que|O gustar|O les|O ,|O podría|O asustar|O les|O .|O
+Si|O son|O más|O mayorcitos|O ,|O entre|O ocho|O y|O once|O años|O ,|O sí|O le|O gustará|O casi|O seguro|O .|O
+En|O resumen|O ,|O si|O yo|O hubiera|O leído|O mi|O opinión|O antes_de|O ir|O a|O ver|O la|O ,|O hubiera|O hecho|O caso|O omiso|O ,|O pues|O es|O una|O saga|O que|O estás|O deseando|O ver|O concluir|O para|O comprobar|O cómo|O termina|O todo|O .|O
+Por|O tanto|O ,|O no|B-C quiero|O quitar|O la|O ilusión|O a|O todo|O aquel|O que|O esté|O deseando|O ver|O la|O .|O
+Sin_embargo|O ,|O nada_más|O un|O sea|O poquito|O exigente|O ,|O el|O espectador|O va|O a|O percibir|O una|O carencia|O de|O profundidad|O y|O originalidad|O que|O lo|O va|O a|O decepcionar|O irremisiblemente|O ...|O
+Pero|O bueno|O ,|O siempre|O nos|O quedará|O la|O memoria|O de|O Jack_Sparrow|O ...|O
+Saludos|O a|O todos|O :|O -|O )|O
+Lo|O primero|O que|O puede|O pensar|O el|O espectador|O curioso|O a|O el|O encontrar|O se|O con|O esta|O película|O ,|O que|O tiene|O como|O personajes|O a|O jóvenes|O inteligentísimos|O y|O que|O aprovecha|O el|O talento|O de|O Kevin_Spacey|O y|O Laurence_Fishburne|O (|O ahí_es_nada|O )|O ,|O es|O que|O '|O 21_:_Blackjack|O '|O ,|O es|O una|O obra|O cuanto|O menos|O decente|O .|O
+Sin_embargo|O ,|O comprobar|O que|O el|O director|O es|O el|O joven|O Robert_Luketic|O ,|O responsable|O de|O las|O horribles|O '|O Una_rubia_muy_legal|O '|O y|O '|O La_madre_de_el_novio|O '|O aporta|O lo|O suyo|O para|O explicar|O el|O despropósito|O que|O supone|O .|O
+En|O definitiva|O ,|O una|O mala|O película|O ,|O que|O sin|B-C el|O sustento|O de|O Kevin_Spacey|O y|O Laurence_Fishburne|O ,|O ni|B-C siquiera|O los|O menos|O exigentes|O podrían|O haber|O se|O quedado|O satisfechos|O con|O esta|O absurda|O historia|O ,|O con|O un|O ritmo|O dotado|O de|O una|O irregularidad|O preocupante|O .|O
+Y|O para_colmo|O ,|O en|O ningún|B-C momento|O conseguí|O enterar|O me|O claramente|O de|O en|O qué|O consiste|O el|O juego|O de|O cartas|O que|O da|O nombre|O a|O la|O película|O .|O
+Según|O el|O dicho|O popular|O "|O nunca|B-C segundas|O partes|O fueron|O buenas|O "|O .|O
+Pues|O en|O este|O caso|O ,|O imaginad|O os|O una_tercera|O .|O
+Auténticamente|O infumable|O .|O
+Más|O de|O lo|O mismo|O ,|O pero|O con|O otra|O vuelta|O de|O tuerca|O .|O
+Si|O pretende|O ser|O una|O película|O de|O terror|O no|B-C lo|O consigue|O ,|O da|O más|O miedo|O Bush|O cada|O vez|O que|O habla|O .|O
+Si|O pretende|O ser|O gore|O ,|O en|O algunos|O momentos|O lo|O consigue|O pero|O sin|B-C brillantez|O y|O se|O queda|O corta|O .|O
+Como|O thriller|O psicológico|O ,|O da|O pena|O .|O
+Nada|B-C ni|I-C nadie|B-C en|O la|O película|O pasa|O de|O ser|O plano|O como|O el|O encefalograma|O de|O un|O muerto|O .|O
+Absolutamente|O previsible|O .|O
+La|O primera|O película|O de|O la|O saga|O ,|O era|O mala|O ,|O la|O segunda|O peor|O y|O esta|O ,|O pésima|O .|O
+Por|O suerte|O ,|O sobre|O gustos|O no|B-C hay|O nada|I-C escrito|O y|O cada|O uno|O es|O muy|O libre|O de|O ver|O lo|O que|O quiera|O .|O
+Pero|O si|O te|O gusta|O el|O cine|O de|O terror|O ,|O esto|O no|B-C lo|O es|O .|O
+Si|O te|O gusta|O el|O thriller|O tampoco|B-C .|O
+Si|O te|O va|O la|O Comedia|O ,|O tampoco|B-C .|O
+Es|O una|O película|O completamente|O absurda|O ,|O esperpéntica|O .|O
+Por|O fortuna|O puedo|O hablar|O de|O ella|O sin_necesidad_de|O haber|O pagado|O para|O ver|O la|O (|O que|O buena|O es|O a|O veces|O la|O tecnología|O .|O Vaya|O cantidad|O de|O pasta|O que|O nos|O ahorramos|O en|O cine|O ,|O solo|O con|O descargar|O las|O películas|O de|O internet|O )|O .|O
+Porque|O eso|O sí|O ,|O a|O el|O menos|O hay|O que|O ver|O la|O para|O poder|O decir|O que|O -|O para|O mi|O gusto|O (|O que|O nadie|B-C se|O moleste|O pues|O hablo|O a|O título|O personal|O )|O -|O es|O un|O auténtico|O bodrio|O como|O la|O primera|O y|O la|O segunda|O ,|O un|O auténtico|O timo|O ,|O una|O auténtica|O m|O ...|O
+En|O fin|O ,|O que|O sois|O muy|O libres|O de|O ver|O la|O y|O ojalá|O la|O disfruteis|O ,|O pero|O personalmente|O os|O aconsejo|O que|O no|B-C malgasteis|O la|O pasta|O en|O algo|O así|O .|O
+Buffffffffffff|O ,|O por|O donde|O empiezo|O ?|O
+El|O gran|O Will_Smith|O debe|O cambiar|O de|O amistades|O ,|O lo|O digo|O por|O el|O infumable|O Tom_Cruise|O y|O su|O secta|O ,|O porque|O camina|O irremediablemente|O hacia|O el|O divismo|O mal|O concebido|O de|O el|O enano|O anteriormente|O citado|O .|O
+Vale|O ,|O hasta|O ahora|O sus|O papeles|O de|O defensor|O de|O el|O mundo|O y|O superheroe|O estaban|O marcados|O de|O cierta|O ironia|O ,|O algo|O que|O se|O le|O da|O muy|O bien|O .|O
+Pero|O ultimamente|O ,|O les|O da|O un|O toque|O de|O dramatismo|O y|O de|O creer|O se|O ciertamente|O que|O es|O especial|O ,|O que|O lo|O esta|O matando|O .|O
+Hablemos|O de|O la|O peli|O .|O
+SINOPSIS|O :|O
+Un|O buen|O dia|O ,|O enciendes|O la|O tele|O ,|O y|O una|O medico|O cuenta|O con|O gran|O satisfacción|O que|O el|O cancer|O esta|O curado|O ,|O es|O bien|O simple|O ,|O no|B-C te|O das_cuenta|O ?|O
+manipulo|O esto|O y|O añado|O aquello|O y|O que|O se|O joda|O la|O teoria|O de|O la|O creación|O ,|O ale|O ,|O la|O viruela|O pasa|O a|O ser|O el|O elixir|O de|O la|O vida|O .|O
+Pero|O la|O cosa|O se|O tuerce|O (|O me|O vienen|O flashes|O de|O cuando|O la|O naturaleza|O se|O revela|O en|O Jurassic_Park|O ,|O paranoias|O mias|O )|O ,|O el|O virus|O muta|O y|O nos|O convierte|O en|O medio|O simios|O calvos|O ,|O con|O latidos|O como|O perros|O y|O con|O un|O instinto|O de|O buscar|O tortas|O de|O narices|O .|O
+Y|O para|O dar|O le|O mas|O dramatismo|O ....|O la|O luz|O de|O el|O sol|O nos|O mata|O ,|O que|O digo|O el|O sol|O ,|O un|O mechero|O mismo|O !|O !|O !|O !|O
+Somos|O semi|O vampiros|O !|O !|O !|O !|O
+El|O virus|O se|O transmite|O via|O aire|O y|O contacto|O ,|O asi|O que|O pringamos|O todos|O ....|O bueno|O ,|O menos|O uno|O que|O es|O inmune|O .|O
+Manda|O cojones|O ,|O con|O perdon|O ,|O que|O encima|O el|O tio|O es|O un|O master|O en|O investigacion|O genetica|O y|O ademas|O ,|O super|O teniente|O coronel|O viva|O la|O patria|O y|O la|O madre|O que|O nos|O pario|O .|O
+Ya|O esta|O ,|O ya|O tenemos|O a|O el|O heroe|O nacional|O .|O
+No|B-C problem|O ,|O el|O lo|O solucionara|O todo|O ,|O que|O va|O a|O saber|O un|O biologo|O español|O (|O por|O nombrar|O alguno|O eh|O )|O ,|O el|O yankee|O es|O el|O unico|O y|O verdadero|O salvador|O de|O el|O mundo|O .|O
+No|B-C esta|O solo|O ,|O tiene|O un|O perro|O que|O no|B-C se|O contagia|O via|O aire|O ,|O solo|O por|O contacto|O ,|O el|O lo|O cuida|O y|O le|O habla|O ,|O con|O quien|O si|O no|B-C .|O
+Pasa|O los|O dias|O enviando|O mensajes|O por|O si|O no|B-C esta|O solo|O y|O por|O las|O noches|O ,|O se|O cierra|O a_cal_y_canto|O ,|O que|O salen|O los|O pirad|O os|O de|O fiesta|O .|O
+Pero|O claro|O ,|O toda|O la|O peli|O asi|O es|O un|O coñazo|O ,|O asi|O que|O un|O dia|O ,|O la|O cosa|O se|O tuerce|O y|O debera|O tomar|O cartas|O en|O el|O asunto|O ,|O porque|O hay|O un|O malo|O ,|O malisimo|O ,|O que|O la|O toma|O consigo|O .|O
+Y|O no|B-C cuento|O mas|O ,|O que|O ya|O es|O sosa|O de|O por|O si|O ,|O como|O para|O que|O le|O quite|O la|O poca|O emocion|O que|O tiene|O .|O
+MI|O OPINION|O :|O
+Me|O cuentan|O que|O es|O carisima|O ,|O que|O la|O destruccion|O de|O el|O puente|O de|O Brooklyn|O es|O la|O escena|O mas|O cara|O de|O la|O historia|O ....|O pues|O no|B-C se|O ,|O no|B-C me|O lo|O parece|O .|O
+Y|O de|O tan|O cara|O que|O fue|O ,|O se|O les|O acabo|O el|O presupuesto|O para|O hacer|O unos|O malos|O mas|O creibles|O .|O
+Por|O dios|O ,|O que|O mala|O es|O la|O escena|O que|O se|O aporrea|O el|O malo|O ,|O malisimo|O ,|O contra|O el|O cristal|O ,|O jajajaja|O ,|O Yo|O con|O mi|O camara|O super|O 8|O y|O un|O muñeco|O de|O plastilina|O ,|O lo|O hubiera|O hecho|O mejor|O .|O
+Decepcionante|O cien_por_cien|O ,|O solo|O una|O escena|O te|O mantiene|O en_vilo|O ,|O ya|O me|O contareis|O ,|O a|O mi|O no|B-C me|O gusto|O ,|O casi|O duermo|O en|O fases|O de|O la|O peli|O .|O
+Cuentan|O que|O el|O libro|O es|O mejor|O ,|O estoy|O segurisimo|O ,|O el|O universo|O que|O creas|O tu|O ,|O seguro|O supera|O a|O el|O de|O el|O director|O .|O
+PERSONAJES|O :|O
+Los|O personajes|O son|O mas|O bien|O pocos|O .|O
+Emma_Thompson|O es|O la|O cientifica|O parda|O que|O cree|O haber|O burlado|O a|O el|O mismisimo|O Dios|O (|O maqueo|O realmente|O corto|O )|O .|O
+Will_Smith|O en|O el|O papel|O de|O ....|O estoy|O mas|O solo|O que|O la|O una|O .|O
+El|O malo|O malisimo|O es|O generado|O por|O ordenador|O ,|O y|O por|O ultimo|O ,|O la|O hija|O de|O la|O genial|O Sonia_Braga|O ,|O aparece|O como|O la|O enviada|O de|O el|O todopoderoso|O ,|O que|O nos|O perdona|O aunque|O la|O liasemos|O tanto|O .|O
+PUNTOS|O A|O FAVOR|O :|O
+Will_Smith|O actua|O bien|O ,|O como|O decia|O ,|O se|O impregna|O demasiado|O de|O ese|O aura|O de|O salvador|O a|O el|O que|O nos|O esta|O acostumbrando|O ultimamente|O ,|O pero|O francamente|O es|O creible|O en|O su|O papel|O .|O
+Los|O decorados|O de|O la|O desolada|O NY|O son|O realmente|O espectaculares|O ,|O un|O 10|O para|O los|O tecnicos|O de|O FX|O .|O
+Y.|O .|O .|O creo|O no|B-C recordar|O nada|I-C mas|O que|O me|O mereciese|O un|O elogio|O ,|O lastima|O ,|O prometia|O un|O monton|O .|O
+Ya|O esta|O ,|O no|B-C la|O recomiendo|O ,|O no|B-C esta|O a|O la|O altura|O de|O lo|O que|O esperas|O ,|O hay|O mejores|O peliculas|O en|O cartel|O .|O
+Por|O suerte|O ,|O para|O la|O primavera|O ,|O se|O espera|O la|O llegada|O de|O la|O última|O super|O peli|O de|O Will_Smith|O en|O la|O que|O encarna|O aun|O superheroe|O (|O sisisi|O ,|O otra|O vez|O ,|O jajajajaja|O )|O ,|O que|O es|O un|O desastre|O y|O la|O lia|O gorda|O .|O
+Esta|O con|O ese|O toque|O magico|O de|O sarcasmo|O que|O el|O tiene|O ,|O asi|O que|O atentos|O .|O
+Saludos|O a|O todos|O .|O
+Esta|O noche|O he|O ido|O a|O ver|O el|O último|O Batman|O ,|O el|O Caballero_Oscuro|O ,|O escamado|O por|O las|O malas|O críticas|O de|O algunos|O y|O por|O las|O buenas|O de|O otros|O ,|O y|O lo|O cierto|O es|O que|O me|O ha|O decepcionado|O ,|O esperaba|O bastante|O más|O de|O el|O director|O Christopher_Notan|O después_de|O la|O estupenda|O Batman_Begins|O ,|O en|O mi|O opinión|O ,|O la|O mejor|O película|O de|O superhéroes|O desde|O aquel|O mágico|O y|O entrañable|O Superman|O que|O marcó|O una|O época|O .|O
+Sin_embargo|O me|O he|O encontrado|O un|O Batman|O desaparecido|O ,|O hay|O hasta|O tres|O personajes|O que|O les|O hacen|O sombra|O durante|O la|O película|O ,|O ¡|O Tres|O !|O -|O Jóker|O ,|O el|O Fiscal|O Dent|O y|O el|O teniente|O Gordon|O -|O .|O
+Y|O no|B-C puede|O ser|O bueno|O que|O el|O héroe|O sea|O tan|O sosaina|O y|O pase|O tan|O desapercibido|O .|O
+Además|O me|O llegué|O a|O aburrir|O durante|O las|O dos_horas_y_media|O de|O su|O desmedido|O metraje|O ,|O señal|O nada|B-C positiva|O .|O
+Podría|O decir|O se|O que|O sólo|O la|O magistral|O interpretación|O de|O el|O mejor|O Jóker|O de|O la|O historia|O ,|O encarnado|O por|O el|O personaje|O que|O interpreta|O Heath_Ledger|O hace|O que|O la|O película|O se|O salve|O ,|O que|O sea|O magnética|O mientras|O Ledger|O está|O en|O pantalla|O ,|O que|O fascine|O cuando|O el|O habla|O entrecortada|O de|O el|O payaso|O se|O dirige|O teatralmente|O a|O los|O matones|O y|O a|O sus|O víctimas|O .|O
+Sin|B-C Ledger|O esta|O película|O sería|O un|O fiasco|O ,|O y|O con|O él|O se|O va|O a|O convertir|O en|O una|O de|O las|O más|O taquilleras|O de|O la|O historia|O .|O
+¿|O POR|O QUÉ|O NO|O ACABA|O DE|O FUNCIONAR|O LA|O PELI|O ?|O
+Batman|O siempre|O me|O ha|O resultado|O simpático|O por|O sus|O características|O de|O superhéroe|O sin|B-C poderes|O ,|O que|O basa|O su|O fuerza|O en|O el|O entrenamiento|O y|O en|O toda|O una|O serie|O de|O artilugios|O modernos|O .|O
+Como|O ya|O conocemos|O los|O orígenes|O de|O el|O héroe|O después_de|O ver|O la|O primera|O parte|O ,|O Batman_BEGINS|O ,|O el|O director|O decide|O lanzar|O se|O directamente|O a|O la|O acción|O ,|O desde|O el|O minuto|O uno|O ,|O para|O luego|O ofrecer|O nos|O lo|O mismo|O una|O y|O otra|O vez|O ,|O con|O algunas|O salvedades|O .|O
+-|O GOTHAM_CITY|O es|O claramente|O Chicago|O ,|O ya|O lo|O había|O dicho|O Bedizu|O en|O su|O genial|O opinión|O ,|O la|O primer|O sobre|O esta|O película|O ,|O como|O casi|O siempre|O .|O
+Toda|O la|O oscuridad|O de|O el|O cómic|O y|O de|O las|O pelis|O de|O Burton|O ,|O todo|O ese|O ambiente|O gótico|O ,|O decadente|O y|O oscuro|O ,|O se|O pierde|O a|O el|O hacer|O de|O Gotham|O una|O ciudad|O americana|O más|O ,|O reconocible|O enseguida|O .|O
+Las|O persecuciones|O ,|O el|O tráfico|O ,|O las|O calles|O ,|O son|O todas|O en|O la|O ciudad|O de|O los|O rascacielos|O -|O la|O primera|O ciudad|O de|O el|O mundo|O en|O tener|O los|O -|O .|O
+La|O ambientación|O es|O pobre|O ,|O tanto|O en|O trajes|O como|O en|O localizaciones|O ,|O sólo|O las|O oficinas|O de|O Wayne|O ofrecen|O algo|O de|O luz|O ,|O pero|O para|O ser|O desaprovechadas|O .|O
+-|O BATMAN|O ES|O UN|O SOSO|O .|O
+Sí|O ,|O Christian_Bale|O ,|O que|O tan|O bien|O lo|O hizo|O en|O la|O primera|O ,|O es|O aquí|O un|O secundón|O más|O ,|O un|O sosaina|O que|O no|B-C engancha|O ni|I-C transmite|O .|O
+¿|O Dónde|O está|O la|O lucha|O interna|O de|O el|O personaje|O ,|O sus|O dudas|O y|O remordimientos|O ?|O
+Su|O interacción|O con|O el|O resto|O de|O personajes|O es|O totalmente|O plana|O ,|O de|O peli|O de|O Antena|O 3|O a|O el|O mediodía|O .|O
+Su|O voz|O de|O Batman|O da|O grima|O ,|O a|O el|O menos|O en|O la|O versión|O doblada|O .|O
+-|O La|O chica|O no|B-C convence|O a|O nadie|B-C .|O
+Maggie_Gyllenhaal|O es|O la|O protagonista|O femenina|O ,|O se|O supone|O que|O tiene|O que|O ser|O el|O amor|O de|O juventud|O de|O Batman|O ,|O la|O Rachel|O por|O la|O que|O se|O pelean|O el|O fiscal|O Dent|O y|O Bruce_Wayne|O ,|O pero|O parece|O que|O han|O escogido|O una|O segunda|O Lois_Lane|O ,|O por|O lo|O de|O fea|O ,|O sin|B-C su|O rareza|O .|O
+Durante|O la|O película|O resulta|O anodina|O y|O poco|O creíble|O ,|O no|B-C se|O llega|O a|O entender|O la|O admiración|O de|O todos|O por|O ella|O ,|O supongo|O que|O debió|O pensar|O se|O en|O otra|O para|O ocupar|O ese|O papel|O y|O luego|O se|O quedaron|O con|O ella|O .|O
+Un|O desastre|O de|O cásting|O .|O
+-|O LA|O ACCIÓN|O ES|O RAMPLONA|O Y|O PREVISIBLE|O .|O
+Creo|O que|O los|O efectos|O especiales|O están|O lo|O suficientemente|O avanzados|O para|O que|O no|B-C tengamos|O que|O ver|O unas|O peleas|O y|O persecuciones|O que|O parecen|O sacadas|O de|O la|O serie|O de|O televisión|O de|O Batman|O ,|O sí|O ,|O aquella|O en|O la|O que|O se|O veían|O cartelitos|O con|O los|O porrazos|O .|O
+Aquí|O no|B-C se|O han|O gastado|O un|O duro|O en|O elementos|O novedosos|O y|O si|O lo|O han|O hecho|O no|B-C se|O nota|O .|O
+El_Batman|O está|O acartonado|O ,|O su|O truco|O de|O salir|O de|O las|O sombras|O es|O de|O cachondeo|O y|O las|O escenas|O de|O acción|O provocan|O más|O sueño|O que|O los|O diálogos|O .|O
+¿|O QUÉ|O ES|O LO|O BUENO|O DE|O ESTA|O PELÍCULA|O ?|O
+-|O Básicamente|O Heath_Ledger|O ,|O el|O JÓKER|O es|O el|O centro|O de|O todo|O ,|O de|O hecho|O la|O podrían|O haber|O llamado|O Jóker|O en_vez_de|O Batman|O ,|O pues|O es|O una|O película|O construida|O en_torno_a|O Ledger|O ,|O a|O su|O interpretación|O prodigiosa|O ,|O sus|O gestos|O ,|O sus|O ojos|O llenos|O de|O locura|O e|O inteligencia|O ,|O su|O habla|O desastrada|O y|O juguetona|O .|O
+Hay|O que|O señalar|O el|O excepcional|O doblaje|O ,|O he|O oído|O la|O versión|O original|O y|O es|O de|O la|O misma|O categoría|O que|O el|O fantástico|O doblaje|O a|O el|O castellano|O de|O el|O Jóker|O .|O
+La|O muerte|O de|O el|O actor|O ha|O servido|O para|O hacer|O caja|O ,|O aunque|O parezca|O duro|O ,|O en|O una|O sociedad|O que|O idolatra|O a|O los|O que|O mueren|O jóvenes|O ,|O el|O legado|O de|O Ledger|O quedará|O para|O siempre|O asociado|O a|O una|O cara|O marcada|O con|O una|O falsa|O sonrisa|O ,|O con|O ese|O maquillaje|O imperfecto|O y|O esos|O pelos|O desordenados|O ,|O mucho|O más|O inquietante|O que|O el|O personaje|O que|O encarnó|O Jack_Nicholson|O en|O su|O día|O .|O
+-|O El|O FISCAL|O DENT|O .|O
+Es|O el|O caballero|O blanco|O de|O la|O película|O ,|O el|O personaje|O que|O lucha|O contra|O la|O corrupción|O .|O
+La|O interpretación|O de|O Aaron_Eckhart|O es|O muy|O sólida|O ,|O todo|O lo|O sólida|O que|O puede|O ser|O una|O actuación|O en|O la|O que|O nadie|B-C ,|O salvo|O Ledger|O y|O Gary_Oldman|O están|O a|O su|O altura|O .|O
+La|O improbable|O pareja|O con|O Rachel|O chirría|O por|O todos|O lados|O y|O pide|O a|O gritos|O una|O Jennifer_Connelly|O que|O pueda|O inspirar|O lástima|O e|O instinto|O de|O protección|O .|O
+OTROS|O DETALLES|O
+Los|O secundarios|O están|O bien|O pero|O desaprovechados|O ,|O Morgan_Freeman|O y|O Michael_Caine|O podían|O hacer|O sus|O papeles|O sin|B-C haber|O se|O leído|O el|O guión|O ,|O pues|O hacen|O de|O ellos|O mismos|O .|O
+Gary_Oldman|O está|O muy|O creíble|O en|O su|O papel|O de|O teniente|O Gordon|O ,|O un|O papel|O que|O le|O hace|O más|O protagonista|O que|O el|O mismo|O Batman|O .|O
+El|O resto|O ,|O mafiosos|O y|O policías|O ,|O están|O correctos|O ,|O sin|B-C brillar|O demasiado|O .|O
+La|O música|O es|O casi|O imperceptible|O ,|O lo|O cual|O es|O un|O error|O en|O una|O película|O de|O acción|O como|O esta|O ,|O es|O difícil|O crear|O una|O melodía|O mítica|O como|O la|O de|O Superman|O o|O Star_Wars|O ,|O pero|O a|O el|O menos|O hay|O que|O intentar|O lo|O ,|O y|O no|B-C lo|O han|O hecho|O .|O
+Por_supuesto|O el|O final|O es|O abierto|O ,|O quedando|O la|O posibilidad|O de|O nuevos|O capítulos|O a|O la|O saga|O ,|O pero|O me|O temo|O que|O sin|B-C Ledger|O la|O continuación|O será|O tan|O penosa|O como|O aquel|O Batman|O de|O Schwarzenegger|O ,|O Jim_Carrey|O y|O Uma_Thurman|O ,|O tedioso|O y|O horroroso|O .|O
+CONCLUSIÓN|O
+En|O mi|O opinión|O la|O película|O sólo|O merece|O la|O pena|O por|O ver|O a|O Ledger|O y|O su|O Jóker|O ,|O por|O disfrutar|O de|O un|O actorazo|O en|O estado|O de|O gracia|O antes_de|O su|O muerte|O .|O
+Lo|O demás|O es|O artificio|O ,|O pobres|O ideas|O e|O interpretaciones|O planas|O ,|O muy|O lejanas|O de|O el|O espíritu|O de|O el|O personaje|O ,|O aquel|O hombre|O murciélago|O atormentado|O con|O el|O crimen|O y|O su|O poder|O .|O
+En_vez_de|O el|O Caballero_Oscuro|O ,|O que|O da|O el|O título|O a|O este|O capítulo|O ,|O Batman|O aparece|O como|O el|O Caballero_Gris|O ,|O soso|O y|O aburrido|O .|O
+Ahora|O id|O a|O leer|O la|O opinión|O de|O Bedizu|O ,|O que|O es|O mucho|O mejor|O que|O ver|O la|O película|O .|O
+1ª|O opi|O de|O el|O 2008|O !|O vengo|O a|O rajar|O de|O esta|O película|O que|O tanto|O me|O defraudó|O y|O os|O voy|O a|O dar|O razones|O para|O advertir|O os|O a|O los|O amantes|O de|O el|O cine|O de|O terror|O de|O lo|O que|O vais|O a|O ver|O antes_de|O hacer|O os|O perder|O el|O tiempo|O aunque|O para|O hacer|O comparaciones|O no|B-C hay|O nada|I-C mejor|O que|O ver|O una|O película|O ,|O así|O que|O vosotros|O sabreis|O ...|O
+¿|O Cómo|O hacer|O que|O triunfe|O la|O primera|O película|O de|O un|O "|O director|O "|O de|O cine|O ?|O Probablemente|O introducir|O una|O cara|O conocida|O ayudará|O a|O que|O la|O película|O sea|O más|O taquillera|O .|O
+Tomemos|O por_ejemplo|O a|O Elsa_Pataky|O :|O más|O bien|O famosa|O por|O su|O belleza|O ya_que|O como|O actriz|O es|O pésima|O !|O
+Lo|O mismo|O sucede|O con|O Belén_Rueda|O :|O actriz|O de|O teleseries|O mediocres|O (|O desde|O mi|O punto|O de|O vista|O )|O se|O dio_a_conocer|O a|O parte|O de|O por|O colaborar|O en|O Tele|O 5|O durante|O muchos|O años|O con|O Emilio_Aragón|O por|O su|O aparición|O en|O series|O como|O "|O Periodistas|O "|O o|O "|O Los|O Serrano|O "|O .|O
+En|O 2004|O llegó|O su|O oportunidad|O en|O el|O cine|O de_la_mano_de|O Amenábar|O por|O el|O que|O recibió|O un|O Goya|O a|O la|O mejor|O actriz|O revelación|O por|O la|O película|O "|O Mar|O adentro|O "|O ,|O no|B-C quiero|O imaginar|O como|O sería|O la|O peor|O actriz|O …|O .|O
+Siempre|O me|O ha|O parecido|O que|O Belén_Rueda|O no|B-C asimila|O bien|O el|O papel|O de|O madre|O por|O lo|O que|O me|O sorprende|O que|O un|O director|O que|O se|O estrena|O en|O el|O cine|O la|O escoja|O como|O protagonista|O !|O
+Llega|O el|O día|O de|O mi|O gran|O chasco|O ,|O hace|O tiempo|O que|O espero|O ansiosa|O poder|O ver|O esta|O película|O española|O y|O de|O terror|O de|O la|O que|O tanto|O se|O habla|O .|O
+Me|O han|O dicho|O que|O da|O mucho|I-C miedo|O y|O yo|O estoy|O sola|O en|O casa|O …|O
+No|B-C voy|O a|O resumir|O el|O argumento|O sino_que|O voy|O a|O hacer|O mi|O crítica|O sobre|O la|O película|O .|O
+La|O ambientación|O es|O genial|O :|O un|O caserío|O antiguo|O y|O grande|O de|O madera|O pero|O como|O siempre|O es|O más|O de|O lo|O mismo|O .|O
+Como|O en|O toda|O película|O de|O este|O género|O más|O de|O la|O mitad|O transcurre|O en|O penumbra|O pero|O la|O calidad|O de|O la|O iluminación|O me|O hacía|O tener|O que|O levantar|O de|O el|O sofá|O porque|O no|B-C veía|O nada|I-C .|O
+Lo|O que|O no|B-C he|O comprendido|O porque|O solo|O se|O ve|O luz|O en|O una|O parte|O de|O la|O casa|O ,|O curiosamente|O el|O baño|O …|O
+La|O banda|O sonora|O tampoco|B-C acompaña|O mucho|O para|O una|O película|O que|O pretende|O ser|O de|O "|O miedo|O "|O .|O
+El|O papel|O de|O Belén_Rueda|O :|O en|O mis|O dos|O intentos|O de|O ver|O "|O Mar|O adentro|O "|O me|O quedé|O dormida|O y|O esta|O vez|O he|O descubierto|O a|O una|O Belén_Rueda|O muy|O pequeña|O para|O la|O gran|O pantalla|O .|O
+Es|O decir|O ,|O ella|O hace|O de|O madre|O supuestamente|O y|O yo|O veo|O que|O no|B-C encaja|O en|O ese|O papel|O ,|O le|O queda|O grande|O ,|O no|B-C me|O resulta|O convincente|O esta|O recien|O estrenada|O madre|O que|O acaba|O de|O adoptar|O a|O un|O niño|O enfermo|O de|O sida|O y|O se|O muestre|O tan|O distante|O ,|O tan|O fría|O y|O tan|O ajena|O a|O la|O realidad|O como|O si|O la|O historia|O no|B-C fuera|O con|O ella|O y|O estuviera|O más|O preocupada|O de|O la|O lista|O de|O la|O compra|O que|O de|O su|O hijo|O .|O
+Para|O mí|O esta|O mujer|O ya|O tenia|O poca|O credibilidad|O como|O madre|O en|O la|O serie|O "|O Los|O Serrano|O "|O pero|O en|O su|O papel|O en|O "|O El|O orfanato|O "|O tiene|O todavía|O mucha|O menos|O .|O
+Aunque|O no|B-C tiene|O más|O credibilidad|O el|O que|O hace|O de|O padre|O de|O el|O niño|O …|O ese|O hombre|O vive|O ajeno|O a|O que|O en|O esa|O casa|O son|O tres|O ,|O no|B-C asimilan|O la|O realidad|O .|O
+La|O actriz|O que|O no|B-C me|O cuaja|O en|O esta|O película|O es|O Geraldine_Chaplin|O en|O su|O papel|O de|O médium|O .|O
+Demasiada|O actriz|O para|O tan|O poca|O película|O .|O
+¿|O Qué|O falla|O en|O sí|O en|O la|O película|O ?|O
+Pues|O la|O historia|O no|B-C es|O que|O sea|O muy|O original|O ya_que|O todo|O es|O muy|O similar|O a|O la|O película|O "|O Darkness_,_en_la_oscuridad|O "|O ,|O otra|O vez|O la|O típica|O casa|O encantada|O y|O poseída|O pero|O esta|O vez|O la|O trama|O es|O tan|O sosa|O que|O permanezco|O impasiva|O toda|O la|O película|O pero|O con|O el|O denominador|O común|O de|O prácticamente|O todas|O las|O películas|O de|O terror|O :|O la|O oscuridad|O ,|O aunque|O en|O esta|O oscuridad|O no|B-C sucede|O nada|I-C .|O
+"|O Darkness|O me|O impactó|O en|O su|O momento|O porque|O conseguía|O intrigar|O a|O el|O espectador|O incluso|O llegando|O a|O provocar|O angustia|O .|O
+Una|O película|O de|O el|O director|O español|O Jaime_Balaqueró|O ,|O muy|O lograda|O .|O
+Pero|O "|O El|O orfanato|O "|O no|B-C te|O engancha|O ,|O ni|B-C consigue|O intrigar|O y|O mucho_menos|O dar|O miedo|O .|O
+A|O parte|O de|O la|O mala|O caracterización|O de|O los|O personajes|O hay|O que|O sumar|O le|O chorraditas|O varias|O como|O una|O tonta|O caída|O en|O el|O agua|O con|O la|O que|O Belén_Rueda|O se|O romperá|O una|O pierna|O y|O tendrá|O que|O ir|O en|O silla|O de|O ruedas|O …|O cosas|O incomprensibles|O .|O
+Otra|O cosa|O que|O me|O chocó|O son|O las|O ojeras|O de|O la|O moza|O porque|O empieza|O la|O película|O y|O parece|O que|O Belén_Rueda|O no|B-C haya|O dormido|O en|O años|O y|O sin_embargo|O cuando|O tendría|O que|O tener|O más|O mala|O cara|O ,|O oh|O ,|O milagro|O !|O Sus|O ojeras|O son|O casi|O imperceptibles|O !|O
+Cuando|O la|O mujer|O tendría|O que|O estar|O más|O hecha|O polvo|O resulta|O que|O está|O más|O serena|O !|O
+Es|O por|O eso|O que|O me|O parece|O tan|O absurda|O la|O interpretación|O de|O Belén_Rueda|O .|O
+Tan|O absurdo|O todo|O como|O el|O final|O ...|O dejémoslo|O ahí|O para|O los|O que|O ya|O la|O hayais|O visto|O y|O compartais|O esta|O opinión|O conmigo|O .|O
+Transcurre|O 1|O hora|O sin|B-C que|O suceda|O nada|B-C especial|O y|O cuando|O termina|O yo|O me|O he|O quedado|O igual|O ...|O
+Prefiero|O seguir|O la|O serie|O de|O "|O El|O internado|O "|O que|O es|O más|O emocionante|O y|O en|O la|O que|O he|O descubierto|O a|O Marta_Torné|O como|O actriz|O y|O ella|O sí|O que|O transmite|O a|O el|O espectador|O las|O emociones|O :|O si|O tiene|O que|O llorar|O llora|O ,|O si|O tiene|O que|O sufrir|O lo|O vive|O ...|O
+Y|O es|O por|O esto|O que|O pienso|O que|O no|B-C porque|O la|O protagonista|O se|O llame|O Belén_Rueda|O le|O va|O a|O poner|O más|O ganas|O a|O el|O asunto|O ,|O pienso|O que|O cualquier|O persona|O menos|O conocida|O podría|O haber|O lo|O hecho|O mejor|O :|O más|O creíble|O ,|O más|O emotivo|O ,|O más|O dramático|O ,|O en|O fin|O algo|O que|O me|O hubiera|O hecho|O saltar|O de|O el|O sillón|O .|O
+Por_favor|O directores|O españoles|O hagan|O cine|O español|O y|O no|B-C intenten|O hacer|O réplicas|O a|O los|O americanos|O que|O por|O historias|O de|O fantasmas|O no|B-C nos|O darán|O ningún|B-C oscar|O .|O
+Para|O ser|O merecedor|O de|O un|O oscar|O hay|O que|O tener|O un|O estilo|O propio|O y|O definido|O como|O por_ejemplo|O el|O de|O mi|O querido|O y|O admirado|O Almodóvar|O !|O Esto|O es|O una|O opinión|O personal|O .|O
+Bueno|O ,|O llevo|O un|O tiempo|O lanzando|O me|O a|O escribir|O opiniones|O sobre|O productos|O cósmeticos|O ,|O que|O ,|O como|O sabeís|O quienes|O me|O leeís|O son|O los|O que|O más|O me|O gustan|O ,|O pero|O a|O veces|O tb|O me|O gusta|O alternar|O ,|O así|O que|O he|O decidido|O escribir|O hoy|O sobre|O una|O opi|O ,|O y|O he|O eleguido|O esta|O .|O
+Esta|O película|O ,|O Juno|O ,|O tuvo|O bastante|O repercusión|O ,|O estupendas|O críticas|O ,|O y|O hasta|O el|O reseñable|O honor|O de|O ser|O galarnonada|O con|O un|O Oscar|O .|O
+No|B-C fueron|O estos|O los|O motivos|O que|O me|O llevaron|O a|O ver|O la|O ,|O de|O hecho|O ,|O no|B-C tuve|O ninguna|I-C motivación|O especial|O ,|O simplemente|O la|O ví|O por|O casa|O ,|O en|O un|O momento|O de|O esos|O en|O que|O trasgredo|O de|O ver|O pelis|O de|O mis|O géneros|O preferidos|O ,|O y|O decidí|O poner|O me|O la|O .|O
+No|B-C sabía|O nada|I-C sobre|O esta|O película|O ,|O pero|O mi|O idea|O sobre|O ella|O era|O la|O de|O una|O comedia|O divertida|O .|O
+Juno|O (|O que|O ,|O a|O todo|O esto|O y|O como|O curiosidad|O es|O el|O nombre|O de|O la|O diosa|O de|O la|O maternidad|O en|O mitología|O romana|O )|O tiene|O como|O punto|O de|O partida|O y|O base|O de|O la|O pelicula|O a|O una|O adolescente|O que|O se|O queda|O embarazada|O .|O
+A_través_de|O este|O hecho|O ,|O vemos|O las|O reacciones|O de|O ella|O misma|O ante|O tal|O noticia|O ,|O y|O como|O le|O afecta|O en|O su|O vida|O personal|O y|O con|O laspersonas|O más|O cercanas|O :|O su|O familia|O ,|O el|O padre|O de|O criatura|O ,|O y|O su|O mejor|O amiga|O .|O
+A|O el|O decidir|O lo|O dar|O en|O adopción|O a|O el|O nacer|O ,|O ella|O misma|O decide|O poner|O un|O anuncio|O y|O entrevistar|O a|O los|O posibles|O padres|O .|O
+La|O elección|O de|O sus|O candidados|O ideales|O ,|O nos|O hacen|O conocer|O a|O los|O mismos|O .|O
+Y|O ya|O está|O ,|O no|B-C tiene|O más|O misterio|O .|O .|O
+Bueno|O ,|O el|O tema|O no|B-C está|O tratado|O como|O drama|O ,|O ni|B-C tampoco|B-C con|O la|O hilaridad|O que|O yo|O pensaba|O .|O .|O
+El|O principal|O ingrediente|O supuestamente|O sorpresivo|O en|O esta|O película|O ,|O es|O el|O personaje|O princioal|O Juno|O ,|O que|O se|O nos|O presenta|O como|O una|O chica|O descarada|O ,|O atípica|O ,|O con|O un|O humor|O ácido|O y|O una|O (|O a|O el|O menos|O eso|O quieren|O dar|O a|O entender|O en|O la|O película|O )|O madurez|O impropia|O .|O
+Es|O ella|O misma|O la|O que|O maneja|O la|O situación|O ,|O haciendonos_ver|O que|O su|O sentido|O común|O está|O por|O encima_de|O la|O mayoría|O de|O personas|O de|O su|O entorno|O ,|O incluyendo|O sus|O padres|O ,|O y|O hasta|O los|O futuros|O padres|O adoptantes|O .|O
+Digamos|O que|O la|O pelicula|O más_que_nada|O es|O sobre|O relaciones|O personales|O .|O
+Se|O supone|O que|O los|O dialogos|O tienen|O mucha|O chispa|O y|O son|O refrescantemente|O divertidos|O ,|O pero|O de|O echo|O y|O a|O mi|O no|B-C me|O lo|O parecieron|O ,|O vamos|O que|O dista|O mucho|O de|O una|O pelicula|O divertida|O d|O eesa|O que|O te|O ties|O ,|O más|O bien|O me|O pareció|O un|O intento|O no|B-C logrado|O .|O
+Así|O que|O no|B-C le|O veo|O mucho|O sentido|O ,|O no|B-C sé|O ,|O el|O personaje|O principal|O no|B-C lo|O veo|O tan|O carismatico|O como|O para|O ser|O reseñable|O ,|O la|O pelicula|O no|B-C la|O veo|O divertida|O ,|O y|O .|O .|O bueno|O es|O que|O .|O .|O la|O veo|O muy|O .|O .|O vacia|O .|O
+No|B-C sé|O que|O sentido|O o|O lectura|O se|O le|O saca|O ,|O quizás|O la|O ironia|O de|O que|O Juno|O ,|O quien|O ,|O supuestamente|O deberia|O ser|O la|O adolescente|O irresponsable|O ,|O sea|O finalmente|O una|O tia|O supermadura|O ,|O incluso|O más|O que|O el|O futuro|O aspirante|O a|O padre|O ?|O
+A|O mí|O ,|O no|B-C me|O parece|O motivo|O suficiente|O como|O para|O salvar|O la|O pelicula|O .|O
+Asi|O que|O me|O parece|O ,|O no|B-C mala|O ,|O sino|O una|O pelicula|O vacia|O ,|O aunque|O claro|O ,|O a|O lo|O mejor|O estoy|O equivocada|O ,|O mira|O ,|O que|O le|O dieron|O el|O premio|O a|O el|O mejor|O guión|O original|O .|O .|O aunque|O para|O mí|O ,|O siniquiera|O esto|O es|O un|O aval|O ,|O habida|O cuenta|O de|O la|O calidad|O de|O la|O industria|O cinematografica|O de|O Hollywood|O en|O los|O últimos|O tiempos|O .|O .|O
+En_todo_caso|O ,|O esta|O es|O mi|O impresión|O de|O la|O película|O y|O así|O lo|O cuento|O .|O
+Lo|O más|O reseñable|O ,|O quizás|O mencionar|O la|O vuelta|O a|O el|O ruedo|O de|O las|O camaras|O ,|O de|O Jason_Bateman|O ,|O en|O otro|O tiempo|O idolo|O juvenil|O ochentero|O ,|O y|O la|O interpretación|O de|O Ellen_Page|O ,|O actualmente|O ,|O una|O de|O las|O actrices|O jovenes|O más|O prometedoras|O ,|O a|O quien|O este|O papel|O se|O le|O queda|O corto|O .|O
+Vean|O la|O ustedes|O en|O Hard_Candy|O o|O An_American_Crimen|O para|O disfrutar|O la|O más|O y|O mejor|O .|O

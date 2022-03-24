@@ -1,0 +1,716 @@
+La|O formacion|O de|O este|O disco|O es|O original|O ,|O pero|O no|B-C la|O original|O ,|O ni|B-C la|O clasica|O ,|O ni|B-C la|O actual|O de|O Aerosmith|O .|O
+number of cues= 3.0
+number of tokens= 23
+====================================================
+La|O de|O escuchas|O que|O he|O tenido|O yo|O de|O este|O disco|O con|O unos|O cascos|O de|O esos|O enormes|O ,|O que|O no|B-C te|O dejan|O oir|O nada|O mas|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+Bith_´_s_brew|O :|O Con|O un|O arranque|O baladistico|O y|O continuacion|O medio|O tiempo|O "|O ma_non_troppo|O "|O ,|O casi|O un|O rock|O ?|O ...|O no|B-C !|O !|O Es|O un|O rock|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Menudo|O riff|O ...|O aunque|O me|O recuerde|O a|O otro|O anterior|O (|O de|O el|O que|O no|B-C voy|O a|O decir|O su|O nombre|O ,|O toda|O vez|O que|O me|O parece|O una|O ordiniarez|O hacer|O lo|O y|O ,|O ademas|O ,|O no|B-C recuerdo|O la|O cancion|O ...|O jejeje|O )|O .|O
+number of cues= 2.0
+number of tokens= 41
+====================================================
+En|O media|O Europa|O es|O ya|O número|O uno|O ,|O y|O no|B-C es|O de|O extrañar|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+No|B-C me|O canso|O de|O escuchar|O lo|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Sin|B-C duda|O lo|O recomiendo|O ,|O os|O gustará|O y|O merece|O la|O pena|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+05|O .|O Sin|B-C canciones|O
+number of cues= 1.0
+number of tokens= 4
+====================================================
+13|O .|O Sin|B-C canciones|O [|O demo|O 2|O ]|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+La|O verdad|O es|O que|O a|O mi|O el|O rollo|O de|O este|O grupo|O no|B-C me|O va|O demasiado|I-C ,|O el|O rollo|O en|O plan|O somos|O de|O el|O pais|O de|O la|O piruleta|O que|O felices|O somos|O la|O la|O la|O no|B-C me|O gusta|O
+number of cues= 2.0
+number of tokens= 36
+====================================================
+Y|O a_el_igual_que|O no|B-C me|O gusta|O su|O apuesta|O para|O eurovision|O este|O año|O tampoco|B-C me|O gusta|O mucho|I-C su|O estilo|O general|O y|O este|O su|O disco|O en|O particular|O
+number of cues= 2.0
+number of tokens= 24
+====================================================
+Las|O canciones|O tienen|O letras|O cursis|O y|O ñoñas|O ,|O las|O canciones|O mas|O ñoñas|O todavia|O vamos|O que|O no|B-C recomiendo|O yo|O especialmente|O este|O disco|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Pero|O tras|O siete|O años|O de|O impaciencia|O silenciosa|O ...|O me|O encuentro|O con|O esto|O ,|O si|O ,|O esto|O ,|O porque|O a|O el|O último|O disco|O de|O el|O grupo|O no|B-C se|O le|O puede|O llamar|O álbum|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Tras|O disolver|O Smashing_Pumpkins|O e|O intentar|O volar|O por|O si|O sólo|O Billy|O ha|O tenido|O que|O volver|O a|O el|O grupo|O que|O le|O dió|O el|O éxito|O en|O el|O pasado|O (|O eso|O sí|O ,|O sólo|O se|O mantienen|O 2|O miembros|O originales|O )|O pero|O ha|O vuelto|O sin|B-C ideas|O geniales|O y|O se|O ha|O dedicado|O a|O recrear|O un|O Revival|O (|O bastante|O mediocre|O )|O de|O lo|O que|O el|O grupo|O fue|O y|O representó|O en|O el|O pasado|O .|O
+number of cues= 1.0
+number of tokens= 66
+====================================================
+Respecto_a|O este|O album|O ,|O creo|O que|O no|B-C merece|O la|O pena|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Pero|O cuando|O me|O apetece|O escuchar|O a|O Bon_Jovi|O ,|O que|O es|O muy|O a|O menudo|O ,|O no|B-C eligo|O este|O CD|O .|O
+number of cues= 1.0
+number of tokens= 19
+====================================================
+Aunque|O creo|O que|O lo|O que|O han|O hecho|O es|O una|O idea|O muy|O original|O ,|O a|O mi|O no|B-C me|O ha|O gustado|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+Antes|O Jennifer_Lopez|O era|O una|O actriz|O ,|O que|O quieras_que_no|O ,|O no|B-C lo|O hacia|O nada|I-C mal|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Por|O eso|O no|B-C me|O gusta|O .|O
+number of cues= 1.0
+number of tokens= 6
+====================================================
+Para|O acabar|O de|O demostrar|O lo|O ,|O es|O otra|O de|O las|O que|O se|O apuntan|O a|O la|O moda|O de|O cantar|O en|O español|O ,|O para|O luego|O en|O las|O entrevistas|O no|B-C saber|O decir|O ni|I-C buenos|O dias|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+De|O todas|O formas|O tiene|O una|O buena|O voz|O ,|O y|O no|B-C digo|O que|O no|B-C me|O guste|O bailar|O sus|O canciones|O en|O la|O discoteca|O ...|O
+number of cues= 2.0
+number of tokens= 22
+====================================================
+Ello|O suscitó|O un|O polémico|O debate|O acerca_de|O las|O inclinaciones|O racistas|O de|O Holopainen|O y|O compañía|O ,|O si|O bien|O aún|B-C no|I-C ha|O quedado|O demasiado|I-C claro|O a|O qué|O se|O refería|O Tuomas|O con|O semejantes|O palabras|O .|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+No_obstante|O no|B-C deja|O de|O mover|O se|O en|O una|O línea|O entre|O la|O mediocridad|O y|O la|O escucha|O fácil|O ,|O aun|O cuando|O hay|O ciertos|O toques|O de|O un|O hortera|O que|O no|B-C se|O pueden|O aguantar|O ,|O y|O aun|O cuando|O el|O finlandés|O digamos|O que|O no|B-C es|O un|O idioma|O de|O dominio|O público|O ,|O y|O cuánto|O menos|O una|O elección|O acertada|O para|O comenzar|O una|O carrera|O en|O solitario|O .|O
+number of cues= 3.0
+number of tokens= 59
+====================================================
+La|O decepción|O no|B-C pudo|O ser|O mayor|O .|O
+number of cues= 1.0
+number of tokens= 7
+====================================================
+Es|O ,|O como|O siempre|O ,|O en|O las|O baladas|O donde|O Tarja|O exprime|O a|O el|O máximo|O sus|O recursos|O dramáticos|O para|O intentar|O dar|O un|O aire|O de|O calidad|O a|O el|O disco|O ,|O pero|O desgraciadamente|O cuando|O las|O composiciones|O son|O malas|O y|O nunca|B-C despegan|O ,|O no|B-C hay|O mucho|O que|O hacer|O .|O
+number of cues= 2.0
+number of tokens= 45
+====================================================
+"|O My_Winter_Storm|O "|O nunca|B-C llega|O a|O emocionar|O ,|O no|B-C consigue|O transmitir|O nada|B-C ,|O salvo|O oleadas|O de|O voz|O y|O casi|O inexistentes|O guitarras|O ,|O y|O aún|O menos|O temas|O "|O estrella|O "|O .|O
+number of cues= 3.0
+number of tokens= 30
+====================================================
+De|O momento|O ,|O Turunen|O no|B-C parece|O haber|O la|O encontrado|O ,|O y|O es|O que|O ,|O en|O esta|O vida|O ,|O no|B-C todo|O es|O vender|O discos|O ,|O es|O dejar|O satisfecho|O a|O el|O público|O fiel|O ,|O el|O que|O la|O ha|O seguido|O desde|O sus|O inicios|O en|O el|O Metal|O .|O
+number of cues= 2.0
+number of tokens= 44
+====================================================
+comenzo|O con|O su|O disco|O infinity|O aunque|O realmente|O comenzo|O a|O ser|O mundialmente|O conocido|O con|O su|O 2º|O cd|O `|O Infinity|O ´|O y|O su|O my_name_is_..._slim_shady|O ,|O donde|O por_aquel_entonces|O ya|O en|O sus|O letras|O metia|O algun|O que|O otro|O insulto|O contra|O las|O spice|O girls|O y|O como|O no|B-C con|O un|O contexto|O en_contra_de|O los|O homosexuales|O por|O el|O que|O mas|O tarde|O seria|O conocido|O en|O su|O 3|O cd|O ,|O ´|O Marshall_matters|O `|O .|O
+number of cues= 1.0
+number of tokens= 63
+====================================================
+primero|O todos|O le|O oimos|O cantar|O el|O famoso|O Slim_Shady|O ,|O donde|O su|O manera|O de|O insultar|O ,|O que|O por|O un|O lado|O puede|O parecer|O graciosa|O ,|O parece|O ser|O que|O a|O otros|O no|B-C les|O han|O hecho|O tanta|I-C gracia|O ,|O especialmente|O a|O Britney_Spears|O y|O Christina_Aguilera|O ,|O las|O cuales|O en|O el|O video|O clip|O aparecen|O como|O niñas|O tontas|O y|O creidas|O (|O ¿|O realmente|O se|O equivoca|O tanto|O eminem|O ?|O !|O )|O :|O ]|O
+number of cues= 1.0
+number of tokens= 65
+====================================================
+Ademas|O ,|O los|O españoles|O ganamos|O mas|O a|O el|O no|B-C entender|O del_todo|I-C las|O letras|O y|O fijar|O nos|O mas|O en|O sus|O ritmos|O ,|O donde|O tiene|O colaboraciones|O de|O los|O mas|O famosos|O raperos|O de|O el|O momento|O (|O como|O Dr._Dre|O y|O Snoop_dog|O )|O y|O con|O cantantes|O famosas|O en|O otros|O paises|O como|O Dido|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Si|O buscas|O algo|O de|O rap|O ,|O este|O es|O tu|O cd|O sin|B-C duda|O ,|O no|B-C tiene|O desperdicio|O y|O es|O el|O mejor|O que|O ha|O hecho|O hasta|O el|O momento|O .|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+No|B-C voy|O a|O hacer|O un|O simple|O comentario|O sobre|O un|O mero|O e|O inocente|O grupo|O de|O música|O con|O sus|O correspondientes|O críticas|O ...|O para_nada|B-C señores|O habitantes|O de|O esta|O comunidad|O ...|O que|O sepais|O de_antemano|O que|O voy|O a|O redactar|O lo|O que|O siento|O por|O NIRVANA|O ,|O uno|O de|O los|O mejores|O grupos|O que|O ha|O existido|O en|O la|O historia|O de|O la|O música|O y|O que|O siempre|O permanecerá|O (|O a|O parte|O de|O nuestros|O oidos|O y|O ojos|O )|O en|O el|O corazón|O ...|O
+number of cues= 2.0
+number of tokens= 71
+====================================================
+No|B-C puedo|O decir|O que|O me|O gusta|O este|O grupo|O desde|O que|O era|O un|O pequeño|O niño|O salvaje|O ...|O y|O lástima|O que|O no|B-C hubiese|O oido|O hablar|O de|O este|O grupo|O ...|O porque|O quizás|O les|O hubiese|O visto|O vivos|O por|O TV|O ...|O ya_que|O ahora|O estan|O muertos|O :|O '|O (|O Pero|O bueno|O ,|O eso|O no|B-C es|O escusa|O para|O gozar|O de|O este|O grandioso|O grupo|O que|O ha|O marcado|O mi|O timpanao|O para|O el|O resto|O de|O mi|O vida|O ...|O
+number of cues= 3.0
+number of tokens= 68
+====================================================
+*|O También|O podeis|O encontrar|O canciones|O sueltas|O por|O internet|O y|O medios|O P2P|O que|O no|B-C salieron|O en|O ningun|B-C disco|O .|O
+number of cues= 2.0
+number of tokens= 18
+====================================================
+Este|O grupo|O me|O ha|O tocado|O muy|O fondo|O ya_que|O hacia|O la|O música|O para|O dar|O se|O fuerzas|O a|O si|O mismos|O para|O respirar|O y|O hacer|O gozar|O a|O los|O demás|O de|O sus|O temazos|O ...|O es|O más|O ...|O en|O los|O conciertos|O decian|O que|O no|B-C compraran|O sus|O discos|O ...|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+y|O de|O la|O droga|O ni|B-C hablar|O ...|O teneis|O que|O ver|O todos|O sus|O conciertos|O en|O video|O ...|O se|O meten|O de|O heroina|O hasta|O el|O cuello|O y|O ver|O lo|O que|O hacen|O en|O el|O escenario|O ...|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+La|O mayoria|O de|O canciones|O suenan|O como|O si|O no|B-C tuvieran|O nada|B-C que|O ver|O unas|O con|O otras|O ,|O como|O si|O no|B-C encajaran|O en|O el|O disco|O ;|O amén|O de|O decir|O que|O la|O calidad|O no|B-C es|O precisamente|O lo|O que|O más|O abunda|O .|O
+number of cues= 4.0
+number of tokens= 38
+====================================================
+Si|O no|B-C ,|O tienes|O mucho|O otros|O albumes|O de|O AC_/_DC|O para|O elegir|O antes|O que|O este|O invento|O fallido|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Pasaron|O 4|O años|O desde|O que|O los|O RHCP|O no|B-C sacaban|O un|O disco|O ,|O la|O salida|O de|O john|O frusciante|O de|O el|O grupo|O ,|O experimentaban|O con|O otros|O guitarristas|O ,|O etc.|O La|O presencia|O de|O Dave_Navarro|O en|O el|O grupo|O hizo|O cambiar|O radicalmente|O el|O estilo|O de|O ellos|O .|O
+number of cues= 1.0
+number of tokens= 42
+====================================================
+Cuando|O escuché|O por|O primera|O vez|O el|O disco|O ,|O lo|O primero|O que|O me|O llamó|O la|O atención|O fue|O su|O portada|O que|O no|B-C va|O con|O su|O estilo|O ,|O y|O la|O contracara|O .|O
+number of cues= 1.0
+number of tokens= 29
+====================================================
+creía|O que|O sería|O el|O disco|O mas|O suave|O de|O ellos|O pero|O más|O equivocado|O no|B-C pude|O estar|O .|O
+number of cues= 1.0
+number of tokens= 16
+====================================================
+Deep_Kick|O ,|O canción|O que|O empieza|O con|O la|O voz|O de|O Anthony|O hablando|O y|O no|B-C cantando|O ,|O empieza|O a|O narrar|O una|O historia|O y|O a_lo_lejos|O ya|O pasando|O el|O minuto|O se|O oye|O una|O guitarra|O que|O empieza|O a|O sonar|O y|O de_repente|O termina|O de|O decir|O "|O Is_the_same_so_we_keep_moving|O "|O empieza|O la|O guitarra|O a|O el|O estilo|O de|O Navarro|O ,|O la|O canción|O cierra|O con|O la|O voz|O de|O Flea|O (|O que|O no|B-C me|O gusta|O mucho|I-C )|O cantando|O en|O primera|O persona|O .|O
+number of cues= 2.0
+number of tokens= 71
+====================================================
+Pea|O ,|O jajaja|O ,|O la|O canción|O que|O parece|O para|O niños|O pero|O tiene|O una|O letra|O ....|O tendrías|O que|O escuchar|O la|O para|O que|O te|O dieras_cuenta|O "|O Fuck_you_Asshole|O "|O Creo|O que|O One_Big_Mob|O sería|O como|O "|O la|O caida|O de|O el|O álbum|O "|O es|O la|O que|O menos|O me|O agrada|O pero|O no|B-C quiere|O decir|O que|O sea|O mala|O ,|O en|O la|O mitad|O de|O la|O canción|O en|O la|O parte|O de|O el|O eco|O (|O que|O se|O usa|O mucho|O en|O este|O disco|O )|O Dave|O hace|O de|O la|O guitarra|O como|O un|O bebe|O (|O literalmente|O )|O Volviendo|O ya|O a|O su|O estilo|O de|O el|O Blood_Sugar|O ...|O tenemos|O a|O Walkabout|O ,|O con|O un|O bajo|O sonoramente|O muy|O bueno|O ,|O sobresale|O muuuuucho|O mas|O que|O la|O guitarra|O .|O
+number of cues= 1.0
+number of tokens= 111
+====================================================
+No|B-C soy|O fan|O de|O ellos|O asi|O que|O no|B-C crean|O porque|O escribo|O que|O el|O álbum|O es|O bueno|O soy|O fan|O .|O
+number of cues= 2.0
+number of tokens= 19
+====================================================
+las|O letras|O son|O horribles|O y|O les|O falta|O mucha|O originalidad|O ,|O el|O cantante|O no|B-C se|O que|O le|O pasará|O en|O la|O voz|O pero|O entre|O los|O gallos|O que|O le|O salen|O (|O aunque|O sean|O queriendo|O )|O y|O por|O los|O gritos|O que|O pega|O como|O si|O le|O estuvieran|O aplastando|O da|O una|O sensación|O de|O ruido|O y|O no|B-C de|O música|O .|O
+number of cues= 2.0
+number of tokens= 53
+====================================================
+La|O producción|O esta|O no|B-C muy|O bien|O hecha|O y|O se|O nota|O que|O es|O un|O grupo|O de|O el|O 3|O a|O el|O cuarto|O ;|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+dentro_de|O dos|O años|O no|B-C se|O volverá|O a|O oir|O nada|I-C de|O ellos|O a_menos_que|O cambien|O radicalmente|O de|O estilo|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+Recomiendo|O que|O se|O fijen|O en|O otros|O grupos|O pues|O este|O no|B-C merece|O la|O pena|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+Si|O os|O lo|O recomienda|O un|O amigo|O os|O diría|O que|O antes_de|O comprar|O lo|O lo|O oigais|O para|O no|B-C cometer|O la|O tontería|O que|O hice|O yo|O (|O suelo|O comprar|O casi|O toda|O la|O música|O heavy|O que|O hay|O )|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Creo|O que|O mucha|O gente|O critica|O a|O este|O CD|O por|O estar|O compuesto|O por|O canciones|O que|O no|B-C escribio|O la|O banda|O ,|O etc|O ,|O etc.|O pero|O yo|O realmente|O creo|O que|O vale|O la|O pena|O ,|O
+number of cues= 1.0
+number of tokens= 31
+====================================================
+este|O cd|O esta|O compuesto|O por|O 12|O canciones|O muy|O buenas|O que|O a_pesar_de|O no|B-C ser|O de|O los|O Guns|O ,|O ellos|O le|O ponen|O su|O propio|O estilo|O ,|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+Ademas|O tiene|O como|O agregado|O que|O en|O varias|O de|O las|O canciones|O el|O que|O canta|O es|O Duff|O (|O el|O bajista|O )|O y|O no|B-C Axl|O ,|O por|O ej|O en|O raw_power|O ,|O attitude|O ,|O new_rose|O ...|O y|O creo|O que|O en|O alguna|O mas|O tambien|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+En|O fin|O espero|O que|O les|O sirva|O esta|O opinion|O y|O siempre|O tengan|O su|O propia|O opinion|O de|O las|O cosas|O porq|O muchas|O veces|O la|O gente|O se|O equivoca|O (|O todos|O menos|O yo|O obvio|O ,|O jajajaja|O no|B-C mentira|O pero|O escuchen|O lo|O y|O van|O a|O ver|O que|O tengo|O razon|O o|O por_lo_menos|O que|O no|O es|O taaaaan|O malo|O como|O dicen|O )|O
+number of cues= 1.0
+number of tokens= 53
+====================================================
+parafraseando|O a|O un|O gran|O grupo|O de|O rap|O español|O (|O solo|O los|O solo|O )|O "|O No|O es|O por|O que|O sea|O blanco|O ES|O POR|O QUE|O ES|O MALO|O "|O ,|O no|B-C puedo|O decir|O otra|O cosa|O de|O el|O niñato|O este|O ,|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+no|B-C sabe|O rapear|O ,|O no|B-C sabe|O hacer|O buenos|O temas|O ,|O lo|O unico|O es|O que|O tiene|O un|O productor|O que|O le|O hace|O unas|O bases|O increibles|O ,|O pero|O nada|B-C mas|O .|O
+number of cues= 3.0
+number of tokens= 28
+====================================================
+piensa|O que|O por|O que|O lo|O haya|O pasado|O "|O mal|O "|O (|O es|O relativo|O lo|O de|O su|O dura|O vida|O )|O ya|O puede|O meter|O se|O a|O rapear|O y|O comer|O se|O el|O mundo|O entero|O ,|O no|B-C chico|O no|B-C ,|O
+number of cues= 2.0
+number of tokens= 36
+====================================================
+e|O puesto|O eso|O entre|O comillas|O porque|O t|O de|O nuevo|O no|B-C trae|O nada|I-C y|O de|O trabajo|O tiene|O poco|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+desde_luego|O ya|O sabia|O que|O lejos|O no|B-C hiba|O llegar|O pero|O ni|B-C llegara|O ,|O
+number of cues= 2.0
+number of tokens= 12
+====================================================
+Como|O consuelo|O ,|O y|O principal|O ventaja|O ,|O podemos|O escuchar|O a|O un|O prince|O más|O rockero|O y|O guitarrero|O de|O el|O que|O habitualmente|O se|O deja|O oir|O en|O los|O discos|O (|O aunque|O en|O lo|O que|O se|O refiere|O a|O los|O conciertos|O ,|O he|O de|O señalar|O a|O los|O que|O no|B-C hayan|O tenido|O el|O gustazo|O de|O asistir|O a|O ninguno|B-C o|O a|O ver|O alguno|O en|O video|O ,|O que|O la|O guitarra|O adquiere|O un|O gran|O protagonismo|O ,|O para|O el|O regocijo|O de|O sus|O seguidores|O y|O sorpresa|O de|O sus|O muchos|O detractores|O )|O .|O
+number of cues= 2.0
+number of tokens= 81
+====================================================
+Me|O veo|O obligado|O a|O escribir|O desde|O mi|O lado|O sensacionalista|O ,|O banal|O ,|O y|O cargado|O de|O cierto|O fanatismo|O ,|O porque|O no|B-C he|O encontrado|O otra|O manera|O de|O escribir|O más|O de|O diez|O líneas|O sobre|O el|O grupo|O de|O el|O momento|O ,|O sobre|O la|O sensación|O de|O el|O año|O ,|O sobre|O ...|O :|O ¡|O TOKIO_HOTEL|O !|O
+number of cues= 1.0
+number of tokens= 50
+====================================================
+Porque|O me|O habré|O asegurado|O ,|O en_menos_de|O un|O mes|O ,|O una|O ingente|O cantidad|O de|O lecturas|O ,|O venidas|O de|O cualquier|O zona|O geográfica|O ,|O ávidas|O de|O conocer|O cualquier|O detalle|O ,|O descubrir|O alguna|O sorpresa|O o|O ,|O simplemente|O ,|O saber|O algo|O más|O sobre|O el|O acontecimiento|O de|O el|O año|O ,|O sobre|O ese|O conjunto|O de|O artistas|O que|O ha|O conseguido|O multiplicar|O el|O número|O de|O estudiantes|O de|O idiomas|O en|O toda|O la|O Península|O y|O que|O no|B-C dejan|O de|O vender|O discos|O allá|O donde|O vayan|O .|O
+number of cues= 1.0
+number of tokens= 74
+====================================================
+Fue|O el|O día|O 14_de_junio|O cuando|O se|O estrenaron|O en|O directo|O en|O España|O ,|O en|O uno|O de|O esos|O conciertos|O multitudinarios|O tan|O de|O moda|O en|O cuanto|O llega|O el|O verano|O -|O MTV_Day|O '|O 07|O en|O esta|O ocasión|O -|O ,|O compartiendo|O cartel|O con|O otros|O artistas|O de|O la|O talla|O de|O El_sueño_de_Morfeo|O ,|O Melendi|O ,|O Nena_Daconte|O ,|O La_5ª_Estación|O ,|O Mikel_Erentxun|O o|O Natasha_Bedingfield|O y|O podría|O afirmar|O se|O ,|O con|O un|O escaso|O porcentaje|O de|O error|O ,|O que|O una|O cuarta|O parte|O de|O los|O asistentes|O que|O allí|O fueron|O ,|O lo|O hicieron|O ,|O en_gran_medida|O ,|O movidos|O por|O la|O idea|O de|O que|O estos|O chicos|O de|O no|B-C más|O de|O 20|O años|O de|O edad|O -|O 2|O de|O ellos|O ,|O menores|O de|O 18|O años|O -|O ,|O harían|O su|O aparición|O estelar|O a|O el|O comenzar|O el|O espectáculo|O .|O
+number of cues= 1.0
+number of tokens= 120
+====================================================
+Y|O no|B-C podemos|O poner_en_duda|O ,|O que|O el|O vocalista|O es|O todo|O un|O prototipo|O ,|O un|O icono|O salvaje|O de|O belleza|O y|O de|O personalidad|O destacada|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Así_pues|O ,|O el|O conjunto|O de|O todos|O estos|O detalles|O ,|O sumado|O a|O el|O "|O factor|O X|O "|O ,|O llámese|O "|O suerte|O "|O ,|O ha|O logrado|O que|O podamos|O escuchar|O y|O disfrutar|O de|O estos|O chicos|O en|O inglés|O y|O además|O ,|O sin|B-C salir|O de|O nuestro|O país|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+Les|O costará|O subir|O ,|O pues|O el|O mercado|O español|O es|O cerrado|O ,|O y|O solo|O un|O grupo|O muy|O reducido|O de|O artistas|O consigue|O hacer|O se|O un|O hueco|O entre|O los|O artistas|O ya|O consagrados|O ,|O pero|O ya|O cuentan|O con|O las|O bases|O ,|O y|O con|O una|O legión|O de|O fans|O dispuesta|O a|O no|B-C perder|O se|O ni|I-C un|O sólo|O concierto|O en|O territorio|O peninsular|O .|O
+number of cues= 1.0
+number of tokens= 56
+====================================================
+En|O definitiva|O ,|O y|O abandonando|O el|O tema|O de|O los|O idiomas|O ,|O nos|O encontramos|O ante|O un|O single|O con|O fuerza|O para|O reventar|O una|O plaza|O de|O toros|O ,|O con|O contundencia|O en|O cada|O "|O Scream|O "|O que|O se|O va|O haciendo|O real|O ,|O y|O con|O una|O batería|O ,|O que|O para|O ser|O tocada|O por|O un|O chavalín|O de|O unos|O 18|O ó|O 19|O años|O ,|O con|O un|O currículum|O en|O el|O que|O no|B-C aparece|O la|O experiencia|O ,|O suena|O de|O una|O forma|O espectacular|O .|O
+number of cues= 1.0
+number of tokens= 74
+====================================================
+Un|O temazo|O ,|O ya|O desde|O la|O primera|O canción|O ...|O ,|O que|O además|O da|O título|O a|O el|O álbum|O ...|O Y|O aún|B-C no|I-C hemos|O visto|O lo|O que|O viene|O detrás|O ...|O
+number of cues= 1.0
+number of tokens= 28
+====================================================
+Aunque|O la|O duración|O de|O las|O canciones|O es|O bastante|O normal|O y|O no|B-C hay|O grandes|O sorpresas|O a|O nivel|O de|O desarrollo|O esquemático|O de|O la|O canción|O ,|O cada|O una|O de|O ellas|O consigue|O ser|O distinta|O de|O la|O anterior|O y|O adquirir|O un|O ritmo|O y|O color|O especial|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+La|O voz|O de|O Bill|O ,|O el|O vocalista|O ,|O suena|O impecable|O ,|O y|O no_sólo|O por|O tratar|O se|O de|O un|O álbum|O de|O estudio|O ,|O donde|O ya|O sabemos|O que|O intervienen|O aparatos|O que|O hacen|O maravillas|O ,|O sino_que|O en|O directo|O ,|O incluso|O llega|O a|O mejorar|O :|O ni|B-C un|O gallo|O ,|O ni|B-C un|O grito|O fuera_de|O tono|O ,|O ni|B-C berridos|O camuflados|O .|O
+number of cues= 3.0
+number of tokens= 55
+====================================================
+Me|O encanta|O ,|O cómo|O la|O entona|O ,|O cómo|O la|O canta|O ,|O las|O palabras|O que|O utiliza|O (|O "|O monsoon|O "|O suena|O genial|O ,|O "|O me|O and|O you|O "|O no|B-C puede|O parecer|O más|I-C romántica|O ,|O "|O world|O "|O ,|O "|O end|O of|O time|O "|O ,|O "|O night|O and|O day|O "|O ...|O )|O y|O llueve|O ,|O llega|O el|O monzón|O ,|O y|O nos|O inunda|O de|O todas|O ellas|O ,|O de|O su|O ritmo|O chispeante|O ,|O de|O sus|O notas|O empapadas|O de|O buen|O saber|O hacer|O ...|O
+number of cues= 1.0
+number of tokens= 78
+====================================================
+Y|O no|O podemos|O decir|O nada|B-C más|O ,|O si_no_es|O adjuntando|O la|O canción|O ,|O directamente|O a|O este|O texto|O ,|O y|O a|O el|O no|B-C ser|O posible|O ,|O es|O mejor|O dejar|O lo|O aquí|O ,|O y|O no|B-C deformar|O la|O fantasía|O de|O esta|O canción|O con|O un|O puñado|O de|O palabras|O sueltas|O ...|O
+number of cues= 3.0
+number of tokens= 45
+====================================================
+No|B-C veía|O el|O momento|O de|O que|O llegara|O esta|O canción|O ,|O pues|O ,|O aunque|O aún|O queda|O mucho|O y|O muy|O bueno|O por|O venir|O ,|O lo|O peor|O ya|O ha|O pasado|O ,|O y|O acabo|O de|O analizar|O una|O de|O las|O canciones|O más|O estupendas|O que|O he|O escuchado|O últimamente|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+"|O Love_is_dead|O "|O no|B-C es|O mala|O ,|O en|I-C absoluto|I-C ,|O solo|O que|O ya|O no|O es|O "|O magnífica|O "|O ,|O sino_que|O se|O queda|O con|O la|O simple|O pero|O notable|O calificación|O de|O "|O excelente|O tema|O "|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+En|O estas|O circunstancias|O ,|O siguiendo|O el|O hilo|O sentimentaloide|O de|O "|O Monsoon|O "|O ,|O aparece|O otra|O no|B-C menos|O sensual|O ,|O con|O cierto|O aire|O oriental|O en|O algunas|O notas|O ,|O con|O sus|O manos|O heladas|O (|O "|O frozen|O hand|O "|O )|O ,|O sus|O ojitos|O cerrados|O (|O "|O I|O close|O my|O eyes|O "|O )|O y|O sus|O sueños|O perdidos|O (|O "|O We|O lost|O a|O dream|O "|O )|O .|O
+number of cues= 1.0
+number of tokens= 62
+====================================================
+¡|O ¿|O A|O quién|O no|B-C le|O gustaría|O saber|O decir|O esto|O en|O alemán|O ?|O !|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+-|O Tom|O ,|O el|O guitarrista|O ,|O hermano|O gemelo|O de|O Bill|O ,|O y|O por|O tanto|O ,|O nacido|O en|O la|O misma|O fecha|O ,|O aunque|O no|B-C lo|O parezca|O por|O su|O diferenciado|O corte|O de|O pelo|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+-|O Y|O por|O último|O ,|O pero|O no|B-C por|O ello|O menos|O importante|O ,|O Gustav|O ,|O de|O el|O 88|O ,|O el|O batería|O ,|O el|O alemán|O prototipo|O ,|O con|O su|O corte|O de|O pelo|O muy|O alemán|O ,|O y|O su|O imagen|O alemana|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+No|B-C preguntéis|O el|O porqué|O ,|O simplemente|O ved|O le|O ,|O y|O me|O daréis|O la|O razón|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Y|O así|O ,|O con|O sólo|O 4|O miembros|O ,|O parece|O mentira|O que|O pueda|O salir|O tal|O sonido|O ,|O pero|O no_hay_más_que|O acudir|O a|O su|O directo|O y|O comprobar|O que|O lo|O hacen|O sin|B-C efectos|O ,|O sin|B-C trampa|O ,|O con|O un|O esfuerzo|O impecable|O y|O unas|O ganas|O de|O dar|O lo|O todo|O increíbles|O .|O
+number of cues= 2.0
+number of tokens= 46
+====================================================
+Y|O ,|O como|O venía|O diciendo|O ,|O "|O Don't_jump|O "|O ,|O una|O canción|O muy|O buena|O ,|O tranquila|O ,|O pero|O sin|B-C pausas|O ,|O y|O de|O nuevo|O ,|O con|O una|O letra|O llena|O de|O emotividad|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Es|O uno|O de|O sus|O estribillos|O más|O pegadizos|O ,|O de|O corte|O muy|O pop|O -|O no|B-C nos|O engañemos|O ,|O nunca|B-C nos|O los|O han|O presentado|O como|O punk|O o|O rock|O duro|O ,|O por_mucho_que|O queramos|O sacar|O de|O donde|O no|B-C lo|O hay|O -|O ,|O que|O ,|O con|O una|O voz|O algo|O triste|O ,|O se|O nos|O va|O colando|O en|O la|O cabeza|O y|O es|O imposible|O hacer|O la|O salir|O :|O "|O and|O more|O ...|O ,|O and|O more|O ...|O "|O ,|O y|O eso|O es|O lo|O que|O queremos|O nosotros|O ,|O ¡|O más|O y|O más|O canciones|O como|O esta|O !|O
+number of cues= 3.0
+number of tokens= 86
+====================================================
+Momento|O de|O lucir|O se|O ,|O nuevamente|O de|O Bill|O ,|O que|O aprovecha|O para|O sacar|O a|O la|O luz|O otra|O faceta|O de|O su|O voz|O ,|O que|O suena|O algo|O más|O rasgada|O en|O sus|O "|O Rescue|O me|O "|O ,|O que|O se|O esmera|O por|O pronunciar|O a_la_perfección|O ,|O y|O consigue|O sin|B-C ningún|I-C problema|O .|O
+number of cues= 1.0
+number of tokens= 47
+====================================================
+Y|O ,|O cómo|O no|B-C ,|O esa|O misma|O frase|O será|O la|O que|O utilicen|O para|O cerrar|O a|O el|O tema|O ,|O como|O un|O grito|O desesperado|O de|O llamada|O a|O el|O que|O está|O escuchando|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+Pero|O no|B-C por|O ello|O ,|O fin|O de|O su|O trabajo|O musical|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+Con|O ésta|O ,|O la|O canción|O más|O corta|O de|O su|O proyecto|O ,|O les|O vuelve|O a|O salir|O un|O tema|O de|O estilo|O muy|O pop|O con|O alguna|O que|O otra|O nota|O de|O color|O más|O rockero|O ,|O en|O el|O que|O destacan|O los|O estribillos|O ,|O ya_que|O el|O resto|O de|O la|O canción|O suena|O bajito|O y|O sigue|O un|O ritmo|O tranquilo|O y|O sin|B-C prisa|O .|O
+number of cues= 1.0
+number of tokens= 55
+====================================================
+En|O un|O comienzo|O de|O guitarra|O y|O voz|O ,|O nos|O vamos|O introduciendo|O en|O esta|O canción|O ,|O de|O situación|O triste|O ,|O donde|O uno|O se|O siente|O perdido|O ,|O se|O siente|O sólo|O ,|O donde|O no|B-C se|O escuchan|O nombres|O y|O las|O personas|O son|O demasiado|O jóvenes|O como|O para|O romper|O sus|O cadenas|O ...|O Y|O en|O esta|O sensación|O de|O pesadumbre|O ,|O donde|O uno|O se|O siente|O observador|O impotente|O ,|O nos|O preparan|O para|O su|O último|O tema|O ,|O el|O que|O parece|O una|O prolongación|O de|O éste|O .|O
+number of cues= 1.0
+number of tokens= 75
+====================================================
+Yo|O pensé|O que|O Queen|O habría|O compuesto|O algo|O mejor|O para|O una|O película|O ,|O claro|O que|O por_aquel_entonces|O yo|O no|B-C había|O visto|O la|O peli|O ,|O porque|O si|O no|B-C no|B-C me|O hubiera|O comprado|O este|O disco|O .|O
+number of cues= 3.0
+number of tokens= 32
+====================================================
+Este|O disco|O ,|O aburre|O ,|O es|O muy|O poco|O serio|O ,|O ni_siquiera|B-C es|O agradable|O de|O escuchar|O ,|O se|O hace|O un|O poco|O pesado|O ,|O tanto|O "|O ¡|O Flashhhhh|O ,|O Flaaaaaaash|O !|O "|O ,|O a|O mi|O me|O suena|O un|O poco|O como|O el|O anuncio|O este|O de|O "|O ¡|O Vip_Expreees|O !|O "|O .|O
+number of cues= 1.0
+number of tokens= 48
+====================================================
+Menos|O mal|O que|O me|O parece|O que|O se|O ha|O muerto|O (|O eso|O creo|O )|O porque|O hace|O tiempo|O que|O no|B-C se|O le|O escucha|O las|O memeces|O que|O canta|O ni|B-C la|O musica|O que|O hace|O .|O
+number of cues= 2.0
+number of tokens= 31
+====================================================
+Es|O imposible|O ,|O no|B-C puedo|O aguantar|O le|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+Como|O gran|O aficionada|O a|O los|O antiguos|O Nightwish|O no|B-C dude|O ni_un_segundo|I-C en|O conseguir|O este|O disco|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Sabia|O que|O no|B-C iba|O a|O decepcionar|O me|O .|O
+number of cues= 1.0
+number of tokens= 8
+====================================================
+No|B-C hay|O ninguna|B-C cancion|O que|O no|B-C merezca|O la|O pena|O .|O
+number of cues= 3.0
+number of tokens= 10
+====================================================
+La|O voz|O de|O Tarja|O sigue|O siendo|O explendida|O y|O la|O musica|O tampoco|B-C esta|O nada|I-C mal|O .|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Aunque|O no|B-C dudaba|O de|O su|O calidad|O pense|O que|O iba|O a|O tener|O un|O sonido|O mas|O suave|O ,|O mas|O poppy|O ,|O pero|O no|B-C ,|O las|O guitarras|O siguen|O teniendo|O sitio|O a|O el|O lado|O de|O esta|O magnifica|O soprano|O .|O
+number of cues= 2.0
+number of tokens= 35
+====================================================
+A|O todos|O aquellos|O que|O les|O gustara|O el|O grupo|O de|O los|O 80|O ,|O va|O a|O encontrar|O se|O con|O un|O disco|O muy|O extraño|O ,|O con|O ritmos|O distintos|O a|O los|O que|O nos|O tienen|O acostumbrados|O en|O las|O canciones|O de|O siempre|O ,|O pero|O no|B-C por|O ello|O peores|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+No|B-C creo|O que|O con|O una_vez_que|O se|O escuche|O se|O pueda|O evaluar|O este|O disco|O ,|O hay|O que|O escuchar|O lo|O una|O y|O otra|O vez|O ,|O para|O darse_cuenta|O de|O que|O si|O ,|O es|O distinto|O ,|O pero|O vale|O tanto|O o|O más|O que|O cualquiera|O de|O sus|O otros|O discos|O .|O
+number of cues= 1.0
+number of tokens= 43
+====================================================
+En|O un|O principio|O iban|O a|O incluir|O dos|O temas|O nuevos|O :|O "|O Last_Man_Standing|O "|O y|O "|O Thief_of_Hearts|O "|O ,|O pero|O a|O el|O final|O no|B-C lo|O han|O hecho|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+La|O voz|O de|O Jon|O si|O no|B-C fuera|O porque|O es|O un|O disco|O editado|O y|O sabemos|O que|O es|O su|O intención|O podríamos|O decir|O que|O está|O muy|O mal|O ,|O canta|O prácticamente|O afónico|O y|O perdiendo|O la|O voz|O en|O ocasiones|O .|O
+number of cues= 1.0
+number of tokens= 35
+====================================================
+Vocalmente|O no|B-C ha|O cambiado|O excesivamente|O y|O musicalmente|O predomina|O una|O sintetizador|O en_lugar_de|O el|O típico|O piano|O de|O David_Bryan|O .|O
+number of cues= 1.0
+number of tokens= 17
+====================================================
+EVERYDAY|O :|O Como|O It_´_s_My_life|O se|O ha|O convertido|O en|O una|O balada|O con|O violín|O y|O con|O sintetizador|O ,|O muy|O íntima|O pero|O que|O no|B-C ha|O podido|O zafar|O se|O de|O la|O canción|O original|O .|O
+number of cues= 1.0
+number of tokens= 30
+====================================================
+No|B-C cabe|O duda|O que|O Born_to_Be_My_Baby|O en|O eléctrico|O o|O en|O acústico|O suenan|O maravillosamente|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+Y|O como|O no|B-C podía|O ser|O menos|O ,|O en|O This_Left|O vuelve|O a|O sonar|O como|O lo|O que|O es|O :|O un|O temazo|O .|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+La|O voz|O de|O Jon|O no|B-C llega|O a|O los|O extremos|O de|O la|O original|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+Segundas|O partes|O ,|O en|O este|O caso|O ,|O nunca|B-C fueran|O buena|O .|O
+number of cues= 1.0
+number of tokens= 11
+====================================================
+El|O Cd|O incluye|O un|O DVD|O ,|O de|O el|O que|O ya|O os|O hablaré|O mañana|O porque|O todavía|B-C no|I-C lo|O he|O podido|O ver|O .|O
+number of cues= 1.0
+number of tokens= 21
+====================================================
+Si|O eres|O un|O fan|O de|O el|O cuarteto|O de|O Liverpool|O ,|O no|B-C puedes|O dejar|O pasar|O la|O ocasión|O de|O tener|O el|O album|O de|O la|O pelicula|O que|O los|O convirtio|O todavia|O un|O poco|O mas|O en|O heroes|O de|O el|O mundo|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+Quien|O no|B-C recuerda|O la|O cancion|O de|O Yellow_Submarine|O ,|O es|O tan|O mitica|O que|O es|O mas|O famosa|O que|O la|O cancion|O de|O el|O cumpleaños|O feliz|O casi|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+No|B-C dejes|O pasar|O la|O oportunidad|O de|O escuchar|O esta|O super|O banda|O sonora|O con|O todos|O los|O temazos|O de|O el|O mejor|O grupo|O pop|O de|O la|O historia|O ,|O con|O un|O genial|O Paul_McCartney|O en|O esta|O ocasión|O destacando|O un|O poco|O mas|O que|O su|O lider|O natural|O John_Lennon|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+lo|O aprecio|O proque|O creo|O que|O tiene|O un|O gran|O sonido|O y|O una|O gran|O fuerza|O a_pesar_de|O los|O años|O que|O tiene|O el|O album|O pero|O sin|B-C duda|O es|O uno|O de|O los|O mejores|O que|O podria|O considerar|O se|O como|O un|O clasico|O ya|O si|O no|B-C fuese|O porque|O el|O clasico|O de|O el|O grupo|O es|O el|O back_in_black|O yo|O votaria|O por|O este|O
+number of cues= 2.0
+number of tokens= 52
+====================================================
+si|O teneis|O la|O ocasion|O de|O escuchar|O lo|O no|B-C os|O arrepentireis|O
+number of cues= 1.0
+number of tokens= 10
+====================================================
+Señoras|O y|O señores|O ,|O con|O todos|O ustedes|O ,|O Marilyn_Manson|O ,|O el|O gran|O provocador|O ...|O ¿|O o|O no|B-C ?|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Desde|O entonces|O Marilyn_Manson|O no|B-C consigue|O enganchar|O de|O el|O todo|O a|O sus|O fans|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+Marilyn_Manson|O ha|O vuelto|O con|O "|O The_golden_age_of_grotesque|O "|O ,|O un|O album|O disfrazado|O de|O conceptual|O que|O en|O realidad|O no|B-C tiene|O nada|B-C o|O casi|B-C nada|I-C de|O el|O tema|O que|O pretende|O ostentar|O .|O
+number of cues= 3.0
+number of tokens= 29
+====================================================
+Los|O vodeviles|O de|O primera|O mitad|O de|O el|O siglo_XX|O son|O la|O excusa|O de|O MM|O para|O sacar|O el|O album|O más|O estilisticamente|O parecido|O a|O "|O Antichrist_superstar|O "|O ¿|O Coincidencia|O ?|O me|O da|O que|O no|B-C .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+El|O reverendo|O lleva|O sacados|O desde|O "|O Antichrist|O ...|O "|O dos|O discos|O ,|O "|O Mechanical_animals|O "|O y|O "|O Holy_wood|O "|O ,|O pero|O ni|B-C la|O evocación|O de|O el|O glam|O y|O de|O Ziggy_Stardust|O de|O el|O primero|O ni|B-C el|O rock|O más|O tirando|O a|O basico|O de|O el|O segundo|O convencieron|O ni|B-C a|O la|O critica|O ni|B-C a|O el|O fan|O medio|O .|O
+number of cues= 4.0
+number of tokens= 54
+====================================================
+1|O -|O Intro|O :|O No|B-C hay|O mucho|O que|O decir|O aqui|O ,|O es|O solo|O una|O aburrida|O intro|O con|O un|O tecladito|O timido|O y|O un|O repetido|O ritmo|O electronico|O .|O
+number of cues= 1.0
+number of tokens= 26
+====================================================
+Cero|O absoluto|O ,|O ni|B-C da|O miedo|O ni|B-C ambienta|O .|O
+number of cues= 2.0
+number of tokens= 9
+====================================================
+Probablemente|O lo|O mejor|O de|O todo|O .|O 8_sobre_10|O ,|O y|O habría|O sido|O más|O si|O no|B-C fuera|O porque|O me|O recuerda|O a|O muchas|O cosas|O hechas|O con|O anterioridad|O .|O
+number of cues= 1.0
+number of tokens= 25
+====================================================
+4|O -|O Doll_dagga_buzz-buzz_ziggety-zag|O :|O Tras|O este|O titulo|O tan|O ...|O especial|O ,|O se|O esconde|O un|O tema|O rapido|O (|O muy|O rapido|O si|O tenemos_en_cuenta|O que|O sale|O de|O Marilyn_Manson|O )|O y|O basicamente|O guitarrero|O .|O 6|O '|O 5_sobre_10|O ,|O no|B-C me|O horroriza|O pero|O tampoco|B-C me|O apasiona|O .|O
+number of cues= 2.0
+number of tokens= 42
+====================================================
+7|O -|O (|O s|O )|O AINT|O :|O Otro|O de|O los|O temas|O electronicos|O ,|O en|O el|O que|O Manson|O parece|O volver|O a|O fijar|O se|O más|O que|O levemente|O en|O Gary_Numan|O ,|O aunque|O no|B-C es|O malo|O de|I-C el|I-C todo|I-C .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+8|O -|O Ka-Boom_Ka-Boom|O :|O Otro|O de|O los|O temas|O sin_pena_ni_gloria|O de|O el|O disco|O ,|O ni|B-C tiene|O un|O buen|O estribillo|O ni|B-C tiene|O nada|B-C especial|O salvo|O oir|O a|O Manson|O soltar|O un|O gritito|O en|O falsete|O en_mitad_de|O el|O tema|O .|O 5_Sobre_10|O .|O
+number of cues= 3.0
+number of tokens= 37
+====================================================
+Como|O podreis|O haber|O intuido|O ,|O este|O disco|O no|B-C me|O apasiona|O ¿|O razones|O ?|O bueno|O ,|O podríamos|O decir|O para|O empezar|O que|O este|O disco|O es|O muy|O repetitivo|O ,|O todos|O los|O temas|O suenan|O demasiado|O iguales|O entre|O si|O ,|O y|O casi|O todos|O tienden|O a|O ese|O sonido|O caotico|O marca|O Marilyn_Manson|O ,|O y|O hay|O que|O añadir|O que|O casi|O todo|O lo|O que|O contiene|O este|O disco|O ya|O ha|O sido|O escuchado|O en|O otros|O de|O el|O mismo|O artista|O .|O
+number of cues= 1.0
+number of tokens= 69
+====================================================
+En|O fin|O ,|O a|O los|O incondicionales|O de|O Manson|O no|B-C os|O decepcionará|O ,|O pero|O lo|O que|O es|O a|O mi|O me|O deja|O más|O frio|O que|O estar|O dentro_de|O un|O arcón|O refrigerador|O en|O el|O polo|O norte|O .|O
+number of cues= 1.0
+number of tokens= 33
+====================================================
+Fui|O a|O comprar|O este|O disco|O con|O una|O enorme|O ilusion|O (|O lo|O compre|O y|O no|B-C me|O lo|O baje|O ni|B-C cosas|O por|O el|O estilo|O )|O ,|O y|O cual|O vino|O a|O ser|O mi|O sorpresa|O ?|O ?|O ?|O era|O un|O disco|O que|O contenia|O canciones|O salidas|O de|O contexto|O ,|O o|O demasiado|O poco|O cañeras|O .|O
+number of cues= 2.0
+number of tokens= 49
+====================================================
+En|O definitiva|O ,|O no|B-C era|O el|O tipo|O de|O disco|O que|O me|O esperaba|O ,|O me|O esperaba|O unas|O canciones|O algo|O mas|O maduras|O ,|O mas|O elaboradas|O y|O a|O su|O vez|O respetando|O su|O estilo|O sencillo|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+Si|O sois|O muy|O fanaticos|O de|O BLink_182|O ,|O si|O no|B-C os|O recomiendo|O que|O os|O compreis|O cualquier|O otro|O ,|O o|O si|O aun|B-C no|I-C lo|O teneis|O alguno|O de|O los|O anteriores|O .|O
+number of cues= 2.0
+number of tokens= 28
+====================================================
+Otra|O sorpresa|O sin|B-C duda|O es|O la|O version|O de|O Everyday|O que|O te|O deja|O helado|O porque|O son|O dos|O canciones|O totalmente|O distintas|O ladel|O bounce|O y|O esta|O yambas|O totalmente|O increibles|O .|O
+number of cues= 1.0
+number of tokens= 27
+====================================================
+Disco|O doble|O que|O contiene|O la|O banda|O sonora|O de|O la|O película|O con|O el|O mismo|O título|O ,|O protagonizada|O por|O Prince|O (|O que|O algunos|O consideraron|O como|O continuación|O de|O Purple_Rain|O ;|O queda|O claro|O que|O quien|O lo|O dijo|O no|B-C había|O visto|O ambas|O películas|O )|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+Quién|O no|B-C se|O sabe|O de|O memoria|O quiera|O o|O no|B-C eso|O de|O ¿|O Quién|O es|O ?|O Soy|O yo|O ....|O Por|O eso|O vete|O ,|O olvida|O mi|O nombre|O ...|O
+number of cues= 2.0
+number of tokens= 26
+====================================================
+Además|O no|B-C tienen|O nada|B-C que|O me|O haga|O dar|O una|O opinión|O favorable|O sobre|O ellos|O ,|O pues|O son|O repetitivos|O ,|O sin|B-C buena|O voz|O y|O sin|B-C nada|B-C de_nada|I-C .|O
+number of cues= 5.0
+number of tokens= 26
+====================================================
+En|O cuanto|O salen|O cambio|O de|O canal|O ,|O no|B-C me|O apetece|O volver|O a|O escuchar|O eso|O de|O Por|O eso|O vete|O ,|O olvida|O mi|O nombre|O ...|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Nos|O encontramos|O ahora|O ante|O una|O banda|O ya|O madura|O ,|O que|O ha|O pasado|O por|O la|O etapa|O de|O la|O rebeldía|O (|O aunque|O el|O comercio|O le|O exija|O mostrar|O una|O imagen|O así|O )|O y|O que|O abre|O el|O camino|O para|O una|O nueva|O clase|O de|O música|O ,|O lo|O que|O podría|O llamar|O se|O como|O Punk_Progresivo|O ;|O muestra|O este|O disco|O una|O imagen|O punk|O pero|O un|O tanto|O triste|O (|O SIN|B-C SER|O GRUNGE|O )|O ,|O con|O armonías|O interesantes|O y|O creativas|O como|O simples|O ,|O bases|O de|O percusión|O muy|O elaboradas|O ,|O aunque|O no|B-C así|O el|O tiempo|O de|O los|O compases|O .|O
+number of cues= 2.0
+number of tokens= 88
+====================================================
+Otra|O ,|O también|O de_la_mano_de|O Travis|O ,|O es|O que|O su|O banda|O paralela|O ,|O de|O Hip-Hop|O según|O creo|O ,|O salió|O de|O gira|O lo|O que|O lo|O obligó|O ausentar|O se|O dejando|O grabadas|O buenas|O bases|O de|O batería|O para|O que|O las|O cuerdas|O improvisaran|O sobre|O ellas|O ,|O esto|O lo|O creo|O fundamental|O para|O la|O grabación|O de|O el|O disco|O ,|O porque|O pienso|O que|O Travis|O no|B-C se|O guardó|O nada|I-C ,|O metió|O mucho|O talento|O en|O las|O grabaciones|O ,|O y|O también|O un|O tanto|O de|O Hip-Hop|O .|O
+number of cues= 1.0
+number of tokens= 74
+====================================================
+·|O En|O este|O disco|O se|O encuentran|O timbres|O no|B-C convencionales|O ,|O a|O el|O menos|O en|O esta|O clase|O de|O música|O ,|O como|O el|O sintetizador|O y|O el|O teclado|O ,|O flangers|O y|O demás|O efectos|O de|O pedales|O ...|O etc.|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Habla|O este|O tema|O de|O escenas|O lujuriosas|O en|O las|O estrofas|O ,|O tornándose|O romántico|O y|O “|O sentimental|O ”|O en|O el|O estribillo|O ,|O aunque|O personalmente|O ,|O por|O ser|O de|O habla|O inglesa|O ,|O no|B-C entiendo|O demasiado|I-C las|O letras|O hasta|O luego_de|O comprar|O el|O disco|O .|O
+number of cues= 1.0
+number of tokens= 40
+====================================================
+OBVIOUS|O :|O De|O comienzo|O ya|O atípico|O ,|O medio|O triste|O o|O menor|O ,|O de|O compleja|O batería|O ,|O habla|O de|O un|O engaño|O que|O parece|O ser|O obvio|O ,|O y|O se|O torna|O más|O movido|O diciendo|O que|O nada|B-C se|O puede|O arreglar|O si|O no|B-C se|O tiene|O una|O visión|O .|O
+number of cues= 2.0
+number of tokens= 43
+====================================================
+I_MISS_YOU|O :|O Ya|O por|O el|O nombre|O de|O esta|O canción|O ,|O cantada|O por|O Mark|O ,|O nos|O damos_cuenta|O de|O el|O matiz|O que|O llevará|O la|O misma|O ;|O nada|B-C de|O felicidad|O lujuriosa|O ,|O más|O bien|O ,|O una|O tristeza|O que|O denota|O anhelo|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+No|B-C encontramos|O distorsión|O sucia|O ,|O sino_que|O se|O entiende|O un|O simple|O juego|O de|O cuerdas|O .|O
+number of cues= 1.0
+number of tokens= 14
+====================================================
+No|B-C necesito|O decir|O de|O qué|O habla|O la|O canción|O ,|O mas|O digo|O que|O no|B-C se|O extraña|O a|O alguien|O que|O se|O ha|O ido|O de|O viaje|O ,|O y|O tampoco|B-C se|O desea|O el|O regreso|O (|O aunque|O se|O extrañe|O sin|B-C desdén|O )|O porque|O se|O desea|O la|O felicidad|O ajena|O antes|O que|O la|O propia|O .|O
+number of cues= 4.0
+number of tokens= 48
+====================================================
+El|O tema|O habla|O ,|O según|O entiendo|O ,|O de|O el|O sentimiento|O de|O subir|O se|O a|O un|O escenario|O ,|O pero|O no|B-C me|O pregunten|O por|O qué|O dice|O “|O como|O violencia|O me|O tienes|O por|O siempre|O y|O por|O más|O ”|O .|O
+number of cues= 1.0
+number of tokens= 36
+====================================================
+STOCKHOLM_SÍNDROME|O :|O Esta|O es|O la|O canción|O que|O comienza|O con|O el|O discurso|O mencionado|O ,|O en|O su|O finalización|O (|O dentro_de|O el|O mismo|O track|O )|O nos|O encontramos|O con|O un|O tema|O bastante|O depresivo|O ,|O rápido|O ,|O y|O de|O coros|O similares|O a|O Feeling_This|O ,|O con|O un|O buen|O uso|O de|O la|O batería|O ,|O y|O una|O estructura|O impecable|O ,|O es|O punk|O pero|O nada|B-C parecido|O a|O discos|O anteriores|O .|O
+number of cues= 1.0
+number of tokens= 61
+====================================================
+DOWN|O :|O Sinceramente|O no|B-C les|O puedo|O hablar|O mucho|O de|O lo|O dice|O la|O letra|O ,|O ya_que|O la|O ortografía|O es|O poco|O legible|O ,|O pero|O sé|O que|O habla|O de|O la|O necesidad|O de|O presencia|O “|O mala|O ”|O (|O I_need_you_so_bad|O )|O .|O
+number of cues= 1.0
+number of tokens= 37
+====================================================
+Aunque|O no|B-C se|O note|O demasiado|I-C ,|O se|O deja|O un|O sonido|O bajo|O ,|O medio|O sintetizado|O ,|O solo|O con|O la|O batería|O como|O es|O lo|O típico|O .|O
+number of cues= 1.0
+number of tokens= 24
+====================================================
+THE_FALLEN_INTERLUDE|O :|O Que|O comienza|O con|O una|O tríada|O muy|O típica|O de|O el|O Hip-Hop|O ,|O es|O un|O tema|O instrumental|O casi|O en|O su|O totalidad|O ,|O salvo|O por|O decir|O en|O lo|O últimos|O segundos|O Down|O ,|O down|O ,|O down|O ,|O no|B-C sé|O qué|O my|O falling|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+GO|O :|O Es|O un|O tema|O rápido|O ,|O punk|O ,|O pero|O atípico|O ,|O con|O un|O buen|O juego|O de|O voces|O en|O los|O estribillos|O ,|O batería|O impecable|O ,|O que|O con|O dos|O perfectos|O tresillos|O forja|O un|O final|O inesperado|O ,|O en_cuanto_a|O las|O cuerdas|O ,|O son|O de|O armonía|O simple|O ,|O nada|B-C destacable|O salvo|O los|O interludios|O y|O acoples|O bien|O usados|O ,|O así_como|O silencios|O y|O demás|O .|O .|O
+number of cues= 1.0
+number of tokens= 60
+====================================================
+En_cuanto_a|O la|O letra|O ,|O no|B-C he|O entendido|O un_pingo|I-C ,|O pero|O parece|O hablar|O de|O una|O pelea|O familiar|O ,|O pero|O como|O ya|O he|O dicho|O ,|O lo|O primero|O que|O se|O escucha|O es|O la|O música|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+ASTHENIA|O :|O Otro|O tema|O triste|O que|O no|B-C sé|O qué|O dice|O ,|O pero|O de|O música|O no|B-C tan|I-C triste|O ,|O es|O más|O ,|O con|O un|O poco|O de|O esperanza|O .|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+En|O sí|O es|O un|O tema|O pegadizo|O ,|O pero|O nada|B-C fuera_de|O lo|O común|O .|O
+number of cues= 1.0
+number of tokens= 13
+====================================================
+ALWAYS|O :|O Es|O un|O tema|O rápido|O ,|O pero|O nada|B-C punk|O ,|O es|O más|O bien|O parecido|O a|O un|O buen|O pop|O (|O que|O noto|O bien|O influenciado|O por|O la|O presencia|O de|O Robert_Smith|O ,|O sobre|O todo|O en|O el|O final|O )|O ,|O comienza|O con|O un|O juego|O de|O palillos|O y|O luego|O la|O simple|O armonía|O de|O cuerdas|O ,|O luego|O todo|O se|O va|O desarrollando|O con|O la|O llegada|O de|O la|O voz|O .|O
+number of cues= 1.0
+number of tokens= 63
+====================================================
+Los|O coros|O son|O fundamentales|O por_más_que|O no|B-C sean|O muy|I-C notorios|O ,|O a_el_igual_que|O la|O batería|O que|O se|O luce|O habiendo|O y|O no|B-C habiendo|O voces|O .|O
+number of cues= 2.0
+number of tokens= 22
+====================================================
+En_cuanto_a|O la|O letra|O no|B-C la|O entiendo|O ,|O pero|O habla|O de|O las|O decisiones|O tomadas|O por|O una|O chica|O ,|O no|B-C sé|O porqué|O lo|O de|O “|O blanco|O fácil|O ”|O .|O
+number of cues= 2.0
+number of tokens= 27
+====================================================
+Es|O un|O tema|O lento|O ,|O medio|O triste|O ,|O no|B-C se|O le|O da|O mucha|I-C importancia|O a|O la|O armonía|O de|O la|O guitarra|O ,|O sólo|O por|O el|O hecho|O de|O marcar|O los|O tonos|O a|O la|O voz|O ,|O ya_que|O se|O usa|O un|O sintetizador|O ,|O se|O destaca|O la|O percusión|O no_sólo|O de|O batería|O ,|O sino|O de|O palmas|O y|O demás|O .|O
+number of cues= 1.0
+number of tokens= 53
+====================================================
+El|O tema|O habla|O de|O una|O relación|O que|O no|B-C satisface|O (|O por|O así|O decir|O )|O ,|O ya_que|O quien|O la|O canta|O dice|O esperar|O siempre|O por|O otra|O persona|O ,|O ese|O ee|O el|O por|O qué|O dela|O tristeza|O que|O denota|O el|O tema|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+La|O letra|O no|B-C la|O entiendo|O para_nada|I-C ,|O es|O de|O esas|O que|O tiene|O una|O ortografía|O muy|O grafitera|O y|O no|B-C ,|O no|B-C la|O entiendo|O ni_medio|I-C .|O
+number of cues= 3.0
+number of tokens= 24
+====================================================
+No|B-C se|O destaca|O mucho|I-C en|O el|O marco|O de|O todo|O el|O disco|O .|O
+number of cues= 1.0
+number of tokens= 12
+====================================================
+I_’_M_LOST_WITHOUT_YOU|O :|O Ya|O leyendo|O el|O título|O desciframos|O que|O es|O una|O canción|O triste|O y|O de|O letra|O triste|O ,|O talvez|O sea|O uno|O de|O los|O temas|O más|O digeribles|O musicalmente|O ,|O no|B-C tiene|O nada|B-C raro|O .|O
+number of cues= 2.0
+number of tokens= 32
+====================================================
+Sincera|O y|O personalmente|O ,|O pienso|O que|O es|O un|O tema|O para|O dejar|O te|O con|O las|O ganas|O y|O querer|O escuchar|O todo|O de|O nuevo|O ,|O es|O pegadizo|O ,|O rápido|O pero|O no|B-C tanto|I-C ,|O en|O fin|O es|O uno|O típico|O de|O Blink|O .|O
+number of cues= 1.0
+number of tokens= 38
+====================================================
+Este|O es|O el|O final|O de|O de|O el|O disco|O ,|O y|O me|O gusta|O mucho|O además|O ,|O porque|O no|B-C cansa|O ,|O tiene|O estilos|O variados|O ,|O y|O como|O mencioné|O en|O un|O principio|O ,|O es|O ,|O para|O mí|O ,|O un|O progreso|O en|O el|O punk|O .|O
+number of cues= 1.0
+number of tokens= 41
+====================================================
+Fue|O finalmente|O el|O pasado|O día|O 10_de_Julio|O ,|O si|O no|B-C me|O equivoco|O (|O inicialmente|O se|O habló|O de|O el|O 7|O y|O algunos|O pudimos|O disfrutar|O lo|O algún|O día|O antes|O )|O el|O elegido|O para|O que|O este|O Zeitgeist|O que|O acaricio|O con|O lujuria|O saliera|O a|O el|O mercado|O por|O fin|O ,|O después_de|O años|O de|O claroscuros|O tras|O la|O disolución|O ,|O en|O 2000|O ,|O de|O la|O banda|O que|O lidera|O Billy_Corgan|O .|O
+number of cues= 1.0
+number of tokens= 62
+====================================================
+Ha|O pasado|O tanto|O tiempo|O que|O probablemente|O muchos|O jovenzuelos|O no|B-C conozcan|O a|O los|O Smashing_Pumpkins|O (|O a_pesar_de|O que|O muchos|O moverán|O sus|O flequillos|O a|O el|O ritmo|O de|O grupos|O con|O grandes|O influencias|O suyas|O )|O y|O otra|O gente|O los|O haya|O olvidado|O (|O y|O muchos|O ni_siquiera|B-C los|O identifiquen|O por|O el|O nombre|O ,|O o|O ni_tan_siquiera|B-C los|O hayan|O escuchado|O jamás|I-C ...|O porque|O en|O este|O país|O somos|O así|O de|O ...|O así|O )|O ,|O pero|O los|O que|O sufrimos|O con|O aquél|O adiós|O hemos|O esperado|O tanto|O para|O que|O llegara|O este|O día|O que|O nos|O la|O pica|O (|O con|O perdón|O )|O detalles|O como|O estos|O o|O como|O la|O indiferencia|O de|O nuestros|O medios|O de|O comunicación|O estatales|O ante|O este|O acontecimiento|O ...|O Sí|O ,|O sí|O ,|O ya|O lo|O sé|O ,|O estas|O palabras|O pueden|O sonar|O a|O el|O discurso|O de|O un|O fan|O histérico|O ,|O y|O no|B-C tanto|I-C a|O el|O de|O el|O habitual|O notelies|O con|O sus|O ironías|O y|O sus|O críticas|O con|O un|O poco|O de|O mala|O leche|O ...|O así|O que|O intentaré|O serenar|O me|O y|O ser|O lo|O más|O objetivo|O posible|O (|O remarquemos|O "|O intentaré|O "|O y|O "|O lo|O más|O ...|O posible|O "|O para|O que|O el|O lector|O comprenda|O que|O me|O cuesta|O trabajo|O hacer|O lo|O )|O .|O
+number of cues= 4.0
+number of tokens= 182
+====================================================
+Reconozco|O que|O no|B-C sabía|O qué|O esperar|O de|O este|O Zeitgeist|O ,|O aunque|O me|O temía|O que|O fuera|O algo|O así_como|O un|O "|O zombie|O "|O musical|O ...|O pero|O no|B-C es|O así|O .|O
+number of cues= 2.0
+number of tokens= 28
+====================================================
+Pero|O nada|B-C era|O suficiente|O ,|O los|O seguidores|O de|O la|O banda|O suspirábamos|O por|O una|O reunificación|O ...|O
+number of cues= 1.0
+number of tokens= 15
+====================================================
+Chamberlin|O acudió|O una|O vez|O más|O a|O la|O llamada|O de|O el|O calvo|O con|O voz|O de|O pato|O ,|O pero|O D'_arcy|O y|O James|O (|O cofundador|O de|O el|O grupo|O )|O se|O quedaron|O aparte|O ...|O Pero|O eso|O no|B-C ha|O sido|O un|O impedimento|O para|O que|O por|O fin|O tengamos|O un|O nuevo|O disco|O y|O ,|O la|O verdad|O ,|O ha|O merecido|O la|O pena|O la|O espera|O .|O
+number of cues= 1.0
+number of tokens= 57
+====================================================
+Aunque|O lo|O adelantaba|O por|O ahí|O arriba|O ,|O Zeitgeist|O es|O un|O disco|O curioso|O en|O el|O sentido|O en|O que|O recoge|O tanto|O el|O sonido|O de|O los|O primeros|O discos|O de|O las|O calabazas|O ,|O como|O el|O de|O los|O últimos|O ,|O aunque|O quizás|O cabría|O matizar|O que|O no|B-C encontraremos|O ambientes|O tan|I-C densos|O como|O los|O de|O "|O Machina|O "|O (|O 2000|O )|O ni|B-C tan|I-C automáticos|O como|O los|O de|O Adore|O .|O
+number of cues= 2.0
+number of tokens= 62
+====================================================
+En|O ambos|O podemos|O apreciar|O algunos|O de|O los|O detalles|O que|O nos|O encontraremos|O a_lo_largo_y_ancho_de|O todo|O el|O CD|O :|O una|O producción|O excelente|O por|O parte|O de|O Corgan|O y|O Chamberlin|O (|O aunque|O también|O participó|O alguna|O otra|O gente|O de|O renombre|O como|O Terry_Date|O en|O algunos|O temas|O )|O ,|O un|O sonido|O potente|O pero|O no|B-C demasiado|I-C ruidoso|O (|O para|O quien|O escuche|O rock|O )|O ,|O unas|O buenas|O guitarras|O ,|O algún|O breve|O y|O agradecido|O solo|O ,|O buenos|O poemas|O de|O el|O calvito|O prodigioso|O ...|O y|O ,|O en|O definitiva|O ,|O buena|O música|O .|O
+number of cues= 1.0
+number of tokens= 80
+====================================================
+Una|O preciosa|O canción|O de|O amor|O ,|O con|O melodía|O popera|O pero|O sin|B-C renunciar|O a|O el|O ambiente|O rockero|O que|O envolvía|O a|O los|O temas|O precedentes|O .|O
+number of cues= 1.0
+number of tokens= 23
+====================================================
+Cuando|O hace|O tiempo|O leí|O en|O un|O foro|O que|O este|O tema|O de|O presentación|O no|B-C decía|O nada|I-C ...|O no|B-C lo|O entendí|O .|O
+number of cues= 2.0
+number of tokens= 20
+====================================================
+Una|O combinación|O genial|O en|O la|O que|O el|O protagonista|O principal|O es|O ,|O casi|O sin|B-C ninguna|I-C duda|O y|O sin|B-C hacer|O de|O menos|O a|O la|O voz|O de|O Corgan|O o|O a|O las|O guitarras|O ,|O la|O batería|O de|O Chamberlin|O ,|O simplemente|O sobresaliente|O .|O
+number of cues= 2.0
+number of tokens= 38
+====================================================
+Tiene|O todo|O lo|O que|O debería|O tener|O una|O buena|O canción|O de|O rock|O ,|O incluyendo|O una|O salida|O de|O dos|O minutos|O realmente|O increíble|O que|O le|O hace|O a|O un|O servidor|O arrepentir|O se|O de|O cortar|O se|O el|O pelo|O por|O no|B-C poder|O ahora|O mover|O la|O greñas|O arriba|O y|O abajo|O .|O
+number of cues= 1.0
+number of tokens= 44
+====================================================
+La|O canción|O no|B-C está|O mal|O ,|O aunque|O tampoco|B-C es|O nada|B-C del_otro_jueves|O y|O ,|O más_que_nada|O ,|O puede|O servir|O para|O relajar|O nos|O después_de|O la|O revolución|O emocional|O provocada|O por|O "|O United_States|O "|O .|O
+number of cues= 3.0
+number of tokens= 30
+====================================================
+El|O cambio|O que|O advertíamos|O en|O "|O Neverlost|O "|O parece|O confirmar|O se|O ahora|O con|O esta|O canción|O que|O ,|O en|O mi|O opinión|O ,|O sin|B-C ser|O un|O mal|O tema|O (|O ni_mucho_menos|I-C )|O ,|O no|B-C está|O a|O la|O altura|O de|O el|O resto|O de|O el|O disco|O .|O
+number of cues= 2.0
+number of tokens= 42
+====================================================
+A_pesar_de|O que|O contrasta|O excesivamente|O con|O el|O resto|O de|O el|O disco|O y|O de|O que|O se|O puede|O catalogar|O sin|B-C miedo|O a|O meter|O la|O gamba|O como|O "|O rareza|O "|O ,|O me|O parece|O un|O cierre|O de|O lujo|O .|O
+number of cues= 1.0
+number of tokens= 34
+====================================================
+Como|O habéis|O visto|O ,|O en|O esta|O ocasión|O no|B-C me|O he|O dedicado|O a|O dar|O notas|O a|O cada|O canción|O .|O
+number of cues= 1.0
+number of tokens= 18
+====================================================
+Llevo|O 3|O días|O escuchándolo|O sin|B-C parar|O y|O ,|O de|O verdad|O ,|O no|B-C me|O canso|O ,|O estoy|O completamente|O enganchado|O a|O él|O .|O
+number of cues= 2.0
+number of tokens= 21
+====================================================
+Creo|O ,|O de|O verdad|O ,|O que|O es|O un|O disco|O redondo|O ,|O de|O lo|O mejor|O que|O se|O ha|O lanzado|O este|O año|O sin|B-C ninguna|I-C duda|O y|O que|O contentará|O a|O los|O seguidores|O de|O The_Smashing_Pumpkins|O .|O
+number of cues= 1.0
+number of tokens= 32
+====================================================
+La|O única|O verdadera|O pega|O que|O veo|O a|O este|O Zeitgeist|O es|O que|O se|O han|O lanzado|O otras|O ediciones|O de|O el|O mismo|O disco|O a|O el|O mismo|O tiempo|O ,|O que|O incluían|O temas|O bonus|O y|O demás|O ,|O en|O exclusiva|O para|O ciertas|O cadenas|O de|O distribución|O ,|O dejando|O un|O poco|O de|O lado|O a|O la|O mayoría|O de|O minoristas|O ,|O lo|O que|O a|O algunos|O nos|O da|O ,|O lógicamente|O ,|O un|O poco|O de|O rabia|O ...|O aunque|O quizás|O tengas|O suerte|O y|O consigas|O alguna|O de|O estas|O ediciones|O con|O bonus|O en|O tu|O tienda|O habitual|O ...|O todo|O es|O tener|O suerte|O ...|O o|O paciencia|O ...|O (|O de|O hecho|O estoy|O seguro|O de|O que|O aún|O todas|O las|O tiendas|O de|O música|O no|B-C han|O puesto|O a|O la|O venta|O el|O disco|O ...|O )|O .|O
+number of cues= 1.0
+number of tokens= 114
+====================================================
+Conclusión|O :|O si|O te|O gustaban|O los|O Pumpkins|O ,|O creo|O que|O no|B-C me|O equivoco|O a|O el|O recomendar|O te|O este|O disco|O ...|O
+number of cues= 1.0
+number of tokens= 20
+====================================================
+si|O no|B-C los|O conocías|O o|O nunca|B-C les|O diste|O una|O oportunidad|O y|O te|O gusta|O el|O rock|O alternativo|O ,|O creo|O que|O este|O disco|O puede|O dar|O te|O más|O de|O una|O alegría|O .|O
+number of cues= 2.0
+number of tokens= 29
+====================================================

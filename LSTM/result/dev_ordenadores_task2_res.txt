@@ -1,0 +1,95 @@
+A|O continuación|O os|O voy|O a|O contar|O un|O truco|O para|O mejorar|O el|O hardware|O de|O el|O ordenador|O que|O me|O mandó|O un|O amigo|O mío|O que|O es|O informático|O por|O internet|O ,|O yo|O todavía|O no|B-C lo|O he|O hecho|O asi|O que|O allá|O con|O las|O consecuencias|O yo|O no|B-C se|O como|O puede|O salir|O ,|O mi|O amigo|O me|O ha|O prometido|O que|O va|O bien|O ....|O
+Refrigerar|O un|O microprocesador|O de|O una|O forma|O eficiente|O nos|O asegurará|O la|O longevidad|O de|O el|O mismo|O .|O
+Es|O recomendable|O adquirir|O un|O disipador|O de|O gran|O formato|O y|O un|O ventilador|O de|O alta|O calidad|O .|O
+Además|O ,|O no|B-C está|O de|O más|O untar|O una|O capa|O de|O silicona|O para|O semiconductores|O ,|O de|O color|O blanco|O y|O vendida|O por|O tubitos|O pequeños|O en|O cualquier|O tienda|O de|O ferretería|O ,|O y|O así|O mejorar|O la|O transmisión|O de|O el|O calor|O de|O el|O micro|O a_través_de|O el|O disipador|O .|O
+l|O orden|O de|O las|O tarjetas|O .|O
+Hay|O quien|O dice|O que|O sí|O y|O quien|O no|B-C ,|O pero|O nosotros|O por_si_acaso|O nos|O lo|O creemos|O .|O
+Todas|O las|O ranuras|O para|O poner|O tarjetas|O de|O la|O placa|O base|O suelen|O estar|O numeradas|O ,|O normalmente|O la|O primera|O PCI|O es|O la|O opuesta|O a|O los|O slots|O ISA|O y|O el|O último|O PCI|O está|O a|O el|O lado|O de|O los|O ISA|O (|O a|O el|O igual|O pasa|O con|O los|O ISA|O ,|O el|O primer|O ISA|O está|O a|O el|O lado|O de|O el|O PCI|O y|O el|O último|O lejos_de|O éste|O )|O .|O
+Pues_bien|O ,|O según|O dicen|O la|O primera|O ranura|O de|O cada|O tipo|O va|O mejor|O que|O la|O última|O ,|O algo|O no|B-C explicable|O porque|O están|O en_paralelo|O ,|O pero|O por_si_acaso|O sigamos|O el|O orden|O ,|O es|O decir|O ,|O si|O sólo|O tenemos|O una|O tarjeta|O PCI|O la|O pondremos|O en|O el|O slot|O 1|O .|O
+Además|O ,|O situar|O la|O aquí|O puede|O corregir|O algunas|O incompatibilidades|O .|O
+Conexión|O de|O disco|O duro|O IDE|O y|O de|O unidad|O CD|O /|O DVD-ROM|O .|O
+Para|O poder|O usar|O este|O truco|O se|O necesita|O una|O controladora|O ide|O con|O dos|O canales|O (|O primario|O y|O secundario|O )|O y|O un|O segundo|O cable|O de|O 50|O pins|O .|O
+Como|O bien|O se|O sabe|O ,|O las|O unidades|O IDE|O pueden|O configurar|O se|O como|O maestro|O o|O esclavo|O .|O
+Pues_bien|O ,|O lo|O más|O normal|O es|O que|O tengamos|O en|O el|O primer|O canal|O una|O disco|O duro|O como|O maestro|O y|O un|O CD|O /|O DVD-ROM|O como|O esclavo|O .|O
+El|O problema|O de|O esta|O configuración|O es|O que|O el|O disco|O duro|O entorpece|O el|O acceso|O a|O la|O unidad|O de|O CD|O /|O DVD-ROM|O .|O
+Para|O evitar|O lo|O ,|O pondremos|O la|O unidad|O CD|O /|O DVD-ROM|O en|O el|O segundo|O canal|O como|O maestra|O .|O
+El|O disco|O duro|O lo|O dejaremos|O como|O maestro|O ,|O o|O ,|O si|O es|O el|O caso|O ,|O habrá|O que|O poner|O lo|O en|O el|O llamado|O modo|O "|O Stand_Alone|O "|O ,|O o|O lo|O que|O es|O lo|O mismo|O "|O una|O sola|O unidad|O "|O .|O
+Con|O esto|O aumentaremos|O el|O flujo|O de|O datos|O a|O el|O CD|O /|O DVD-ROM|O
+Un|O pequeño|O consejo|O :|O poned|O ocho|O tornillos|O de|O las|O unidades|O lectoras|O de|O CD|O ,|O especialmente|O en|O altas|O velocidades|O .|O
+Vibrará|O menos|O y|O lo|O más|O probable|O es|O que|O funcione|O un|O poco|O mejor|O .|O
+(|O sí|O ,|O el|O aumento|O de|O rendimiento|O era|O gratis|O ,|O pero|O para|O cuatro|O mini-tornillos|O creo|O que|O no|B-C pasaremos|O muchos|O problemas|O económicos|O )|O .|O
+En_caso_de|O poseer|O varias|O unidades|O lectoras|O de|O CD-ROM|O y|O una|O caja|O tipo|O torre|O ,|O se|O recomienda|O dejar|O alguna|O bahía|O vacía|O entre|O ellas|O para|O favorecer|O la|O ventilación|O .|O
+el|O anuncio|O esta|O un|O poco|O enrevesado|O ,|O es|O un|O ordenador|O con|O gran|O capacidad|O tanto|O de|O ram|O como|O de|O HD|O ,|O pero|O con|O una|O falta|O de|O unidades|O grabadoras|O ,|O
+yo|O no|B-C compraria|O el|O equipo|O ya_que|O en|O mercado|O existen|O ordenadores|O completos|O a|O muy|O buen|O precio|O ,|O y|O de|O la|O misma|O marca|O ,|O el|O que|O compre|O tuvo|O problemas|O con|O el|O ventilador|O de|O la|O placa|O de|O video|O ,|O solventado|O con|O la|O dualidad|O de|O tarjeta|O ,|O
+el|O equipo|O de|O servicio|O tecnico|O ,|O fabuloso|O ,|O un|O gran|O equipo|O para|O el|O trabajo|O en|O oficina|O ,|O util|O de|O gran|O capacidad|O de|O trabajo|O ,|O pero|O un|O tanto|O delicado|O en|O sus|O carcasa|O exterior|O ,|O bastante|O plastico|O en_lugar_de|O solido|O metal|O
+Este|O ordenador|O en|O mi|O opinion|O ,|O no|B-C esta|O mal|O respecto_a|O el|O apartado|O tecnico|O ,|O un|O procesador|O normalillo|O (|O aunque|O ahora|O los|O hay|O mucho|O mas|O potentes|O )|O ,|O memoria|O RAM|O algo|O escasa|O ,|O y|O ademas|O tambien|O un|O disco|O duro|O de|O 40|O Gb|O que|O no|B-C es|O para_nada|I-C algo|O extraordinario|O .|O
+En|O general|O ,|O el|O ordenador|O ,|O a_no_ser_que|O lo|O uses|O para|O retoque|O fotografico|O ,|O o|O edición|O de|O video|O ...|O ,|O no|B-C es|O un|O mal|O ordenador|O ,|O el|O problema|O yo|O creo|O que|O esta|O en|O que|O alomejor|O en|O un|O poco|O caro|O ,|O por|O ese|O precio|O ,|O puedes|O encontrar|O ordenadores|O mucho|O mejores|O en|O cualquier|O tienda|O que|O encuentres|O por|O la|O calle|O .|O
+Hace|O ya|O casi|O tres|O años|O que|O tenemos|O este|O ordenador|O en|O casa|O y|O la|O verdad|O es|O que|O estamos|O todos|O encantados|O con|O el|O ,|O solo|O hemos|O tenido|O un|O pequeño|O problema|O con|O sus|O altavoces|O cuya|O conexion|O estaba|O mal|O desde|O un|O primer|O principio|O ,|O si|O bien|O el|O servicio|O tecnico|O de|O hp|O ,|O funciono|O bastante|O bien|O y|O en|O cuestion|O de|O cinco|O dias|O teniamos|O unos|O nuevos|O en|O casa|O y|O funcionado|O .|O
+Para|O mi|O este|O ordenador|O para|O tener|O casi|O tres|O añitos|O esta|O bastante|O bien|O y|O aun|B-C no|I-C se|O ha|O quedado|O anticuado|O aunque|O para|O mi|O peca|O de|O que|O no|B-C traia|O grabadora|O de|O dvd|O ,|O hoy|O por|O hoy|O seria|O de|O grandisima|O utilidad|O ,|O pero|O si|O que|O trae|O lector|O de|O dvd|O disquetera|O y|O por_otro_lado|O grabador|O de|O cd|O ,|O el|O cual|O ,|O he|O de|O decir|O que|O funciona|O perfectamente|O permitiendo|O te|O grabar|O hasta|O un|O maximo|O de|O 48x|O y|O sin|B-C tener|O nunca|B-C ningun|I-C fallo|O en|O la|O grabacion|O .|O
+Una|O de|O las|O cosas|O que|O mas|O me|O gusta|O de|O este|O pc|O es|O que|O te|O trae|O una|O tarjeta|O sintonizadora|O de|O tv|O con|O mando|O a|O distancia|O y|O con|O su|O propio|O programa|O y|O que|O te|O hace_ver|O la|O television|O de|O una|O manera|O muy|O sencilla|O y|O con|O una|O calidad|O buena|O .|O
+Su|O disco|O duro|O la|O verdad|O es|O que|O esta|O bastante|O bien|O ,|O trae|O 160gb|O aunque|O he|O de|O decir|O que|O una|O parte|O de|O este|O disco|O duro|O ,|O para|O ser|O exactos|O unos|O 4|O gigas|O y|O medio|O no|B-C los|O puedes|O usar|O ya_que|O estan|O destiandos|O para|O poder|O recuperar|O el|O disco|O duro|O por|O si|O pasara|O cualquier|O cosa|O y|O en|O el|O que|O se|O alojan|O los|O programas|O que|O trae|O el|O ordenador|O ,|O tales|O como|O el|O windows|O xp|O home|O edition|O ,|O un|O paquete|O de|O works|O ,|O adobe|O reader|O y|O microsoft|O word|O 2002|O entre|O otros|O ,|O asi|O como|O actualizaciones|O continuas|O gratuitas|O que|O son|O de|O bastante|O utilidad|O .|O
+De|O este|O equipo|O tambien|O me|O gusta|O el|O que|O lleva|O lector|O de|O tarjetas|O 7|O en|O uno|O ,|O que|O hoy|O por|O hoy|O son|O de|O grandisima|O utlidad|O sobre|O todo|O si|O se|O suele|O usar|O camaras|O digitales|O ,|O pdas|O o|O moviles|O con|O tarjetas|O .|O
+El|O lector|O de|O tarjetas|O ,|O junto_con|O tres|O entradas|O de|O usb|O y|O la|O disquetera|O estan|O protegidos|O por|O una|O tapa|O deslizante|O de|O mucha|O utilidad|O sobre|O todo|O para_que|O no|B-C entre|O polvo|O en|O los|O mismos|O .|O
+La|O tarjeta|O grafica|O es|O una|O ati|O radeon|O 9200|O con|O 128|O mb|O ,|O que|O sobre|O todo|O si|O usas|O el|O ordenador|O para|O jugar|O se|O queda|O un|O pelin|O corta|O ,|O pero|O para|O lo|O demas|O va|O bastante|O bien|O ,|O las|O pelis|O por_ejemplo|O se|O ven|O bien|O .|O
+La|O torre|O ,|O la|O verdad|O y|O para|O ser|O sinceros|O pesa|O un|O poquito|O ,|O aunque|O su|O diseño|O en|O gris|O y|O su|O boton|O en|O iluminacion|O azul|O esta|O bastante|O bien|O .|O
+No|B-C trae|O bluetooth|O ,|O si|O bien|O hoy|O en|O dia|O se|O puede|O poner|O por|O muy|O poquito|O precio|O ya_que|O dispone|O de|O 6|O entradas|O para|O usb|O y|O por|O tanto|O supone|O mayora|O problema|O .|O
+La|O memoria|O ram|O yo|O creo|O que|O es|O su|O peor|O virtud|O ,|O en|O su|O dia|O hace|O tres|O años|O 512mb|O estaba|O bastante|O bien|O ,|O pero|O hoy|O esa|O memoria|O ya|O se|O ha|O quedado|O un|O pelin|O desfasada|O ,|O esta|O seria|O su|O unica|O pega|O ,|O porque|O por|O lo|O demas|O el|O equipo|O es|O una|O pasada|O ,|O viene|O bastante|O completo|O y|O no|B-C me|O ha|O dado|O hasta|O el|O dia|O de|O hoy|O ningun|I-C fallo|O ,|O siendo|O una|O compra|O muy|O recomendable|O tanto|O por|O su|O calidad|O como|O por|O su|O precio|O .|O
+10/06/2002|O
+Y|O me|O ratifico|O .|O
+Hoy|O he|O empezado|O a|O mirar|O diferentes|O ordenadores|O por|O eso|O de|O que|O el|O mio|O va|O poco|O menos|O que|O a|O pedales|O ,|O y|O se|O me|O han|O quedado|O los|O pelos|O como|O escarpias|O .|O
+Por|O un|O Compaq|O con|O 128|O MB|O de|O RAM,30|O GB_de_HD|O ,|O sin|B-C grabadora|O de|O CD's|O y|O sin|B-C software|O ,|O me|O querían|O clavar|O más|O de|O 200.000|O pelas|O ;|O
+mientras_que|O por|O un|O clónico|O P4|O con|O 256|O de|O RAM|O ,|O 40|O de|O HD|O ,|O grabadora|O ,|O DVD|O ,|O el|O Windows_XP|O ,|O se|O quedaba|O en|O 180.000|O pesetas|O .|O
+Que|O les|O maten|O ya|O .|O
+------------------------------------------------------|O
+Esta|O opinión|O no|B-C debería|O ir|O encuadrada|O aquí|O ,|O pero|O no|B-C he|O encontrado|O el|O lugar|O o|O no|B-C existe|O .|O
+Aunque|O tampoco|B-C viene|O del_todo|O mal|O este|O apartado|O .|O
+Los|O PC|O ´|O s|O de|O marca|O (|O IBM|O ,|O Compaq|O ,|O HP|O ...|O )|O son|O como|O otros|O productos|O de|O renombre|O por|O la|O casa|O que|O los|O fabrica|O :|O
+generalmente|O sólo|O se|O paga|O la|O marca|O ,|O porque|O a|O la|O hora|O de|O delimitar|O las|O prestaciones|O ,|O con|O un|O clónico|O puedes|O igualar|O e|O incluso|O superar|O lo|O que|O los|O primeros|O ofrecen|O ,|O y|O encima|O por|O menos|O de|O la|O mitad|O de|O precio|O .|O
+Me|O explico|O :|O
+Un|O PC|O de|O primeras|O marcas|O tiene|O un|O cierto|O prestigio|O que|O se|O paga|O (|O salen|O por|O televisión|O ,|O ¿|O no|O ?|O .|O
+Eso|O se|O paga|O )|O .|O
+¿|O Alguien|O ha|O visto|O anunciantes|O televisivos|O que|O promulguen|O los|O beneficios|O de|O algún|O ordenador|O clónico|O ?|O .|O
+Pues|O mayormente|O no|B-C .|O
+Luego|O está|O el|O tema|O de|O las|O ampliaciones|O .|O
+En|O un|O PC|O de|O primeras|O marcas|O no|B-C vale|O cualquier|O clase|O de|O hardware|O ,|O sino_que|O tienen|O que|O ser|O específicos|O no_sólo|O de|O la|O marca|O ,|O sino|O de|O el|O modelo|O ,|O con|O lo|O cual|O el|O coste|O final|O se|O encarece|O de|O sobremanera|O .|O
+¿|O Por|O qué|O ?|O .|O
+Pues|O porque|O sigues|O pagando|O la|O marca|O ,|O pero|O eso|O sí|O ...|O a|O la|O hora|O de|O estropear|O se|O se|O estropea|O igual|O uno|O clónico|O que|O uno|O de|O marca|O ,|O solo|O que|O si|O encima|O no|B-C está|O en|O garantía|O te|O cobran|O un|O ojo|O de|O la|O caa|O porque|O claro|O ,|O lo|O arregla|O la|O casa|O HP|O ,|O o|O Compaq|O o|O quien|O sea|O ,|O y|O esa|O marca|O hay|O que|O mantener|O la|O claro|O está|O .|O
+El|O otro|O día|O un|O amigo|O mío|O quería|O ampliar|O se|O la|O memoria|O de|O su|O Compaq|O unos|O tristes|O 32|O Mb|O más|O ,|O y|O casi|O le|O salía|O a|O 6,01|O Euros|O (|O que|O hay|O que|O ir|O se|O acostumbrandooo|O )|O el|O Mb|O ,|O cuando|O 128|O Mb|O de|O una|O memoria|O standard|O te|O cuesta|O no|B-C más|O de|O 9000|O .|O
+Mirad|O la|O diferencia|O .|O
+Es|O que|O es|O para|O sabotear|O les|O a|O todos|O .|O
+Pues|O lo|O mismo|O pasa|O con|O los|O discos|O duros|O ,|O tarjetas|O gráficas|O ,|O controladores|O ...|O que|O asco|O .|O
+En|O cambio|O ,|O los|O PC|O ´|O s|O clónicos|O puedes|O hacer|O los|O a|O tu|O medida|O ,|O configurártelos|O tú|O mismo|O de|O manera|O muy|O sencilla|O y|O sin|B-C comer|O se|O la|O cabeza|O con|O problemas|O de|O incompatibilidades|O ,|O por|O un|O precio|O más|O o|O menos|O asequible|O (|O según|O lo|O que|O pidas|O ,|O claro|O está|O )|O .|O
+Por_ejemplo|O ,|O hoy|O me|O he|O comprado|O una|O aceleradora|O TNT2|O NVidia|O de|O 32|O Mb|O por|O 7000|O pesetas|O (|O paso|O de|O hacer|O la|O cuenta|O en|O euros|O .|O Retiro|O lo|O anteriormente|O dicho|O )|O ,|O mientras_que|O habría|O que|O imaginar|O se|O lo|O que|O podría|O costar|O una|O igual|O o|O parecida|O para|O un|O PC|O de|O marca|O .|O
+Y|O ya|O por|O último|O ,|O desear|O os|O un|O feliz|O 2002|O .|O
+La|O peseta|O ha|O muerto|O ,|O viva|O la|O peseta|O .|O
+Besos|O y|O abrazos|O .|O
+No|B-C compreis|O nada|I-C en|O Deima|O ,|O son|O unos|O estafadores|O .|O
+Puede|O que|O Deima|O sea|O una|O de|O las|O tiendas|O más|O baratas|O con_lo_que_respecta_a|O el|O mundo|O de|O la|O informatica|O ,|O pero|O el|O trato|O que|O te|O dan|O puede|O que|O sea|O lo|O mas|O malo|O que|O se|O pueda|O ver|O .|O
+Os|O cuento|O mi|O caso|O ,|O Yo|O compre|O hace|O unos|O años|O un|O Pentium|O 166|O en|O esta|O tienda|O .|O
+Cuando|O lo|O encarge|O les|O pedí|O un|O 150|O ,|O pero|O el|O día|O que|O fui|O a|O recoger|O lo|O me|O dijeron|O que|O no|B-C les|O había|O llegado|O ese|O micro|O pero|O que|O por|O unas|O pesetillas|O más|O me|O montaban|O un|O 166|O .|O
+La|O oferta|O era|O inrezachable|O y|O les|O dije|O que|O si|O ,|O por|O las|O pelas|O y|O porque|O hasta|O que|O me|O lo|O dieron|O pasaron|O 5|O semanas|O .|O
+Cuando|O me|O dieron|O el|O ordenador|O no|B-C tenía|O ni|I-C pajolera|O idea|O de|O nada|I-C ,|O pero|O poco_a_poco|O me|O fui|O haciendo|O con|O el|O .|O
+El|O Pc|O me|O dio|O prblemas|O con|O el|O cdrom|O ,|O fui|O hasta|O la|O tienda|O como|O unas|O 6|O veces|O para|O que|O me|O cambiaran|O el|O dichoso|O cd|O .|O
+No|B-C es|O muy|O normal|O que|O te|O cambien|O un|O cd|O 3|O veces|O .|O
+Pero|O la|O traca|O final|O venía|O cuando|O ya|O se|O había|O pasado|O la|O garantía|O .|O
+me|O di_cuenta|O que|O no|B-C era|O un|O micro|O 166|O sino|O un|O 486|O que|O le|O habían|O instalado|O un|O overdrive|O para|O aumentar|O le|O la|O velocidad|O .|O
+eso|O creo|O que|O se|O llama|O estafa|O .|O
+Bueno|O en|O resumen|O no|B-C compreis|O en|O
+En|O junio|O me|O compré|O un|O ordenador|O de|O sobremesa|O de|O esta|O marca|O por|O una|O oferta|O en|O Hipercor|O /|O El_Corte_Inglés|O (|O 799|O euros|O -|O luego|O vi|O que|O se|O vendía|O por|O menos|O que|O eso|O en|O otros|O sitios|O )|O .|O
+Venía|O con|O una|O pantalla|O de|O 19|O "|O apaisada|O muy|O buena|O .|O
+Quería|O sustituir|O mi|O Dell|O que|O tantos|O disgustos|O me|O había|O dado|O ,|O y|O parecía|O que|O había|O encontrado|O un|O buen|O ordenador|O ,|O pues|O la|O velocidad|O es|O alta|O y|O hace|O poco|O ruido|O por|O ahora|O .|O
+Pero|O la|O alegría|O no|B-C duró|O mucho|O tiempo|O ,|O pues|O tras|O instalar|O varios|O programas|O empezaron|O a|O aparecer|O los|O primeros|O fallos|O por|O la|O incompatibilidad|O de|O Windows_Vista|O con|O dichos|O programas|O ,|O y|O no_sólo|O eso|O :|O especialmente|O ¡|O no|B-C parecía|O ser|O compatible|O con|O Explorer|O ,|O que|O es|O parte|O de|O Windows|O !|O
+A|O las|O dos|O semanas|O los|O fallos|O aumentaron|O ,|O de|O nada|B-C servía|O desinstalar|O algún|O que|O otro|O programa|O o|O de|O reinstalar|O los|O ,|O pues|O contínuamente|O aparecieron|O pantallas|O azules|O de|O fallo|O de|O sistema|O ,|O reinicios|O automáticos|O ,|O avisos|O de|O que|O de_repente|O la|O copia|O de|O Windows|O no|B-C era|O original|O ,|O solicitando|O código|O de|O licencia|O ,|O al|O cual|O no|B-C reconocía|O ,|O pidiendo|O códigos|O de|O validación|O de|O Microsoft|O ,|O que|O tampoco|B-C reconocía|O ,|O y|O a|O el|O final|O y|O tras|O intentar|O lo|O con|O restauración|O de|O sistema|O y|O reinstalar|O el|O sistema|O ,|O se|O quedó|O colgado|O en|O el|O reinicio|O sin|B-C poder|O entrar|O ya|O en|O ningún|B-C programa|O .|O
+Hay|O que|O decir|O también|O que|O el|O ordenador|O no|B-C viene|O con|O el|O CD|O de|O el|O sistema|O operativo|O ,|O sino|O éste|O está|O preinstalado|O .|O
+Tras|O la|O reparación|O ,|O que|O tardó|O unas|O semanas|O ,|O indicaron|O que|O hubo|O que|O cambiar|O la|O placa|O base|O y|O el|O módulo|O de|O memoria|O .|O
+No|B-C me|O suministraron|O el|O CD|O de|O el|O sistema|O operativo|O .|O
+Ahora|O parece|O que|O funciona|O ,|O espero|O que|O siga|O así|O .|O
+Una|O desilusión|O grande|O ,|O porque|O confiaba|O en|O la|O marca|O Acer|O de|O la|O que|O no|B-C he|O oído|O nada|B-C malo|O hasta|O ahora|O .|O
+Evidentgemente|O no|B-C era|O sólo|O por|O culpa|O del|O Windows_Vista|O ,|O que|O pienso|O sustituir|O por|O XP|O ,|O ya_que|O gente|O más|O experta|O me|O ha|O dicho|O que|O Vista|O plantea|O muchísimos|O problemas|O de|O incompatibilidades|O ,|O y|O así|O no|B-C se|O puede|O trabajar|O con|O el|O ordenador|O .|O
+A|O el|O final|O ,|O las|O ofertas|O se|O pagan|O caras|O ,|O me|O parece|O ,|O más|O me|O valdría|O haber|O comprado|O un|O Hewlett-Packard|O por|O 1000|O euros|O ,|O seguramente|O no|B-C daría|O esos|O problemas|O .|O
+Cierto|O es|O también|O que|O este|O ordenador|O no|B-C viene|O con|O altavoces|O ,|O los|O tuve|O que|O comprar|O aparte|O .|O
+Windows_Vista|O no|B-C es|O compatible|O con|O mi|O router|O de|O Telefónica|O ,|O problema|O que|O solucioné|O con|O el|O Apple_Airport_Base_Station|O a_través_de|O el|O cual|O puedo|O conectar|O todos|O mis|O ordenadores|O Mac|O y|O PC|O sin|B-C que|O importe|O el|O sistema|O operativo|O .|O
+Lo|O que|O sí|O me|O consuela|O uin|O poco|O es|O la|O pantalla|O apaisada|O de|O Acer|O ,|O mucho|O mejor|O que|O la|O que|O tengo|O de|O Dell|O .|O
+Y|O por_si_acaso|O compré|O también|O un|O disco|O duro|O externo|O ,|O pues|O visto|O lo|O visto|O ,|O uno|O no|B-C se|O puede|O fiar|O y|O hay|O que|O salvar|O todo|O en|O una|O copia|O externa|O .|O
+Actualizaré|O mi|O opinión|O cuando|O sepa|O más|O sobre|O el|O comportamiento|O de|O este|O ordenador|O .|O
+Mientras|O tanto|O no|B-C lo|O recomendaré|O .|O
